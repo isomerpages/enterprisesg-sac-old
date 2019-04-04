@@ -1,0 +1,90 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Who We Are
+  url: /who-we-are/our-role/
+  sub-links:
+  - title: Our Role
+    url: /who-we-are/our-role/
+  - title: Our Vision Mission And Strategic Outcome
+    url: /who-we-are/our-vision-mission-and-strategic-outcome/
+  - title: Our History
+    url: /who-we-are/our-history/
+  - title: Our Organisation And Structure
+    url: /who-we-are/our-organisation-and-structure/
+  - title: Collaborations And Recognitions
+    url: /who-we-are/collaborations-and-recognitions/
+  - title: The SAC Mark
+    url: /who-we-are/the-sac-mark/
+  - title: About Accreditation
+    url: /who-we-are/about-accreditation/
+  - title: Benefits Of Accreditation
+    url: /who-we-are/benefits-of-accreditation/
+  - title: Working With Regulators
+    url: /who-we-are/working-with-regulators/
+  - title: Working With Businesses
+    url: /who-we-are/working-with-businesses/
+  - title: Join Us
+    url: /who-we-are/join-us/
+- title: Industries
+  url: /industries/testing-inspection-certification-industries/
+  sub-links:
+  - title: Testing Inspection Certification Industries
+    url: /industries/testing-inspection-certification-industries/
+  - title: Manufacturing
+    url: /industries/manufacturing/
+  - title: Construction
+    url: /industries/construction/
+  - title: Engineering
+    url: /industries/engineering/
+  - title: Healthcare
+    url: /industries/healthcare/
+  - title: Biochemical
+    url: /industries/biochemical/
+  - title: Marine And Offshore
+    url: /industries/marine-and-offshore/
+  - title: Logistics
+    url: /industries/logistics/
+  - title: Food Safety
+    url: /industries/food-safety/
+  - title: Chemicals
+    url: /industries/chemicals/
+  - title: Infocomm
+    url: /industries/infocomm/
+  - title: Others
+    url: /industries/others/
+- title: Services
+  url: /services/accreditation-services/
+  sub-links:
+  - title: Accreditation Services
+    url: /services/management-systems-accreditation/
+  - title: Training And Events
+    url: /services/training/
+- title: Resources
+  url: /resources/
+  sub-links:
+  - title: All
+    url: /resources/
+  - title: Publications
+    url: /resources/publications/
+  - title: News And Media
+    url: /resources/news-and-media/
+  - title: Brochures
+    url: /resources/brochures/
+  - title: FAQ
+    url: /resources/faq/
+  - title: Cab Success Stories
+    url: /resources/cab-success-stories/
+  - title: Case Studies
+    url: /resources/case-studies/
+  - title: Videos
+    url: /resources/videos/
+- title: Accredited Organizations
+  url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
+- title: Member Login
+  url: https://sacinet.enterprisesg.gov.sg/
