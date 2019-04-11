@@ -5,3 +5,6 @@ permalink: /who-we-are/our-vision-mission-and-strategic-outcome/
 breadcrumb: Our Vision Mission And Strategic Outcome
 collection_name: who-we-are
 ---
+
+# Mission and Strategic Outcomes
+![SACStrategicPlan2020](/images/SACStrategic2020.png)
