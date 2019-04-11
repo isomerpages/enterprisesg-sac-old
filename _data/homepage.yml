@@ -21,17 +21,23 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
+  - title: Search
+    description: SAC Accredited Organisation
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
+  - title: Accredition Services
+    description: Programmes/Schemes
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Get Accredited
+    description: Route to accredition
     url: /page-A/
+  - title: SAC Publications
+    description: Download Documents
+    url: /page/
+  - title: Training
+    description: Book a SAC Course
+    url: /page/
 
 resources-title: Resources
 resources-subtitle: Be in the know
