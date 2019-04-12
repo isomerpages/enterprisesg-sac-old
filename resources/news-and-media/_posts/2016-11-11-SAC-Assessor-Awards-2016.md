@@ -15,4 +15,4 @@ To recognise the assessors’ contributions, SAC has four categories of awards: 
  
 This year, the following 67 award recipients were recognised at the SAC Assessor Enclave held on 11 Nov 2016.  We look forward to all the assessors’ support in the years to come.
 
-![assessorawards](Awardees_List_2016.png)
+![assessorawards](/images/Awardees_List_2016.png)
