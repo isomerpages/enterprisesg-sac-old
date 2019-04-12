@@ -21,6 +21,7 @@ Mr Sim Feng-Ji, Director of Future Economy Programme Office, Ministry of Trade a
 Picture 3             |  Picture 4
 :-------------------------:|:-------------------------:
 ![customerday2017_3](/images/customerday2017_3.png)  |  ![customerday2017_4](/images/customerday2017_4.png)
+
 ![customerday2017_5](/images/customerday2017_5.png)
 
 The discussion forum allowed the participants to talk about topics such as growth and challenges in the TIC sector, how accreditation can support industry transformation and how CABs can become future-ready by working together to strengthen their capabilities to offer higher value-added services.
