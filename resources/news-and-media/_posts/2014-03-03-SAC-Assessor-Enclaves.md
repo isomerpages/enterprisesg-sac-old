@@ -4,8 +4,8 @@ title: SAC Assessor Enclaves
 date: 2014-03-03
 permalink: /resources/news-and-media/SAC-Assessor-Enclaves
 ---
-### 03 March 2014
-### SAC Assessor Enclaves
+#### 03 March 2014
+### **SAC Assessor Enclaves**
 SAC works on peer assessments of laboratories and inspection bodies where technical experts from industries, tertiary institutions or government bodies are often called upon to assist in the assessments.
 #### Experience Sharing for Chemical & Biological and Environmental Fields
 On 8 November 2013, our volunteers and assessors from the Chemical & Biological and Environmental fraternities gathered for the annual enclave. SAC received an overwhelming response of 49 participants.
