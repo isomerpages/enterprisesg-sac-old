@@ -11,7 +11,7 @@ The fourth Joint Annual Meetings for the Asia Pacific Laboratory Accreditation C
 
 One of the key highlights of the meetings was the various peer evaluation outcomes of APLAC and PAC including entry of new mutual recognition arrangement (MRA) members.
 
-![aplac-pac-2017](aplac-pac-2017.png)
+![aplac-pac-2017](/images/aplac-pac-2017.png)
 
 In APLAC, the new signatories are RusAccreditation (Russia) and NCA (Kazakhstan) for testing and calibration. Signatories that extended their recognition scope are KAN (Indonesia) and AAC Analitica (Russia) for proficiency testing providers.
 
