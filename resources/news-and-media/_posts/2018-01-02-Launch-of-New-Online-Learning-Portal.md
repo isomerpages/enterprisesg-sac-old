@@ -16,7 +16,7 @@ These modules include:
 3.       Accreditation Process
 4.       Accreditation Requirements
 
-![elearning screenshot](elearning screenshot.png)
+![elearning screenshot](/images/elearning screenshot.png)
 *Introductory page for the module on “Introduction to Accreditation and SAC”*
 
 Learners who go through these four modules will be equipped with basic knowledge and concepts important to accreditation and SAC. For example, the “Accreditation Process” module will allow learners to appreciate the process of obtaining accreditation from the start to the end. The SAC eLearning Portal will also provide learning materials from events and workshops as well as supplementary documents from international fora.
