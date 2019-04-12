@@ -22,12 +22,12 @@ Congratulations to SAC! All these achievements are only possible with the good w
 
 ![APLACPic3](/images/APLAC-pic3.jpg)
 
-*Group Picture with other AB signatories who signed the MRA for PTP.
- (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)*
+<span style="color:blue">*Group Picture with other AB signatories who signed the MRA for PTP.
+ (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)*</span>
  
  ![APLACPic4](/images/APLAC-pic4.jpg)
  
- *Group Picture with 9 other AB signatories who signed the MLA for FSMS.*
+ <span style="color:blue">*Group Picture with 9 other AB signatories who signed the MLA for FSMS.*</span>
  
 They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema)
  
