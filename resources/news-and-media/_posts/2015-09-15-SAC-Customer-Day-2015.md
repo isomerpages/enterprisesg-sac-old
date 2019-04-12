@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SAC Customer Day 2015
-date:   2015-9-15
+date:   2015-09-15
 permalink: /resources/news-and-media/SAC-Customer-Day-2015
 ---
 #### 15 September 2015
