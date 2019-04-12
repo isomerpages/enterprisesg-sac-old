@@ -29,6 +29,6 @@ Congratulations to SAC! All these achievements are only possible with the good w
  
  *Group Picture with 9 other AB signatories who signed the MLA for FSMS.*
  
- They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema)
+They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema)
  
 PAC is now ready to accept MLA application for Certification of Persons.  At the meeting, the development of MLA for Energy Management System (EnMS) was approved.  SAC can look forward to entry into these new MLAs in the near future.
