@@ -16,13 +16,23 @@ At the ILAC meetings, one of the key discussions was on the revision of ISO/IEC 
 At the IAF meetings, there was much deliberation on the new ISO 9001 expected to be published in September 2015.  There was discussion to harmonise the different approaches by accreditation bodies (ABs) in assessing certification bodies (CBs) for the transition to ISO 9001:2015. SAC will continue to seek guidance from IAF working group on the requirements for transition and communicate our approach to the accredited certification bodies in due course. The co-convener of Product Certification working group has urged members to feedback on the difficulties encountered by ABs and CBs during the implementation of ISO/IEC 17065. Accredited CBs are welcomed to provide feedback to SAC secretariat by the next PAC meeting in mid June 2015.
  
 **ISO CASCO structure**
+
 1 - Scope
+
 2 - Normative References
+
 3 - Terms and definitions
+
 4 - General requirements
+
 5 - Structural requirements
+
 6 - Resource requirements
+
 7 - Process requirements
+
 8 - Management requirements
+
 Annex A - Nominal cross-references to ISO 9001:2015
+
 Annex B - Guidelines for establishing applications for specific fields
