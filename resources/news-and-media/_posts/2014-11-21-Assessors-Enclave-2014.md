@@ -22,10 +22,10 @@ Chemical & Biological and Environmental Testing breakout group
 ![IB](/images/IB-breakout-grp.jpg)
 Inspection breakout group
 
-![CM](/images/CM-breakout-grp)
+![CM](/images/CM-breakout-grp.jpg)
 Calibration & Measurement breakout group
 
-![CE-Mech-and-Testing](CE-Mech-and-Testing-breakout-group.jpg)
+![CE-Mech-and-Testing](/images/CE-Mech-and-Testing-breakout-group.jpg)
 Civil Engineering, Mechanical and Electrical Testing breakout group
 
 The Enclave ended with a lovely buffet lunch at “Windows on the Park” Cafe. Overall, the feedback for the Enclave was positive and all the assessors had enjoyed themselves in socialising and sharing of experiences.
