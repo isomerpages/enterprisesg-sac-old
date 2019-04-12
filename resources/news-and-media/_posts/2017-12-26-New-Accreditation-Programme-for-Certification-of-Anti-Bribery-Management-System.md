@@ -15,6 +15,6 @@ Accreditation helps to demonstrate that the accredited CB is impartial and compe
 
 The SAC document, CT 21: SAC Criteria for Certification Bodies (Anti-Bribery Management System), specifies the supplementary SAC criteria for certification bodies on Anti-Bribery Management Systems (ABMS) certification to ISO 37001 Anti-Bribery Management Systems – Requirements with Guidance for Use, and is to be used with ISO/IEC 17021-1 and the applicable IAF Mandatory Documents
 
-![CT21_cover](/images/CT21_cover.PNG)
+<a href="https://www.sac-accreditation.gov.sg/Resources/sac_documents/Pages/Certification_Body_Accreditation.aspx"> ![CT21_cover](/images/CT21_cover.PNG) </a>
 
 Application for accreditation of ABMS certification is now open through the SAC Accreditation Portal, SACiNet.
