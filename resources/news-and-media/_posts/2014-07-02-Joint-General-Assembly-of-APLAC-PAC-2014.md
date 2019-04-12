@@ -17,8 +17,8 @@ Congratulations to SAC! All these achievements are only possible with the good w
 
 ![APLACPic2](/images/APLAC-pic2.jpg)
 
-*Signing of MRA to include PTP
-(From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)*
+<span style="color:blue">*Signing of MRA to include PTP
+(From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)*</span>
 
 ![APLACPic3](/images/APLAC-pic3.jpg)
 
