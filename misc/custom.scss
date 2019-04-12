@@ -16,6 +16,7 @@ $media-color-four: #00838f;
 $media-color-five: #00838f;
 $media-color-six: #00838f;
 $media-color-seven: #00838f;
+$media-color-eight: #00838f;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -83,6 +84,12 @@ $desktop: 960px + (2 * $gap) !default;
   		background-color: $media-color-seven;
   		&:hover {
   			background-color: darken($media-color-seven, 10%);
+		}
+  	}
+	&-8 {
+  		background-color: $media-color-eight;
+  		&:hover {
+  			background-color: darken($media-color-eight, 10%);
 		}
   	}
   }
