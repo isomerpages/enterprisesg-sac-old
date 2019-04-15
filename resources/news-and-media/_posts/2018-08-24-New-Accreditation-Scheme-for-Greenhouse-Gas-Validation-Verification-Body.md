@@ -5,7 +5,7 @@ date:   2018-08-24
 permalink: /resources/news-and-media/New-Accreditation-Scheme-for-Greenhouse-Gas-Validation-Verification-Body
 ---
 #### 24 August 2018
-### **New Accreditation Scheme for Greenhouse Gas Validation & Verification Body**
+# **New Accreditation Scheme for Greenhouse Gas Validation & Verification Body**
 
 The Singapore Accreditation Council (SAC) is pleased to launch a new Accreditation Scheme for Greenhouse Gas Validation & Verification Body on 24 August 2018 for organisations providing third-party validation/verification services for the reduction and removal of greenhouse gases (GHG).   This new accreditation scheme is developed in response to the increasing demand for sustainability and to support the aviation industry for the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) initiated by the International Civil Aviation Organization (ICAO).  CORSIA is a global voluntary Market-based Measure scheme to address any annual increase in total CO2 emissions from international civil aviation. The scope for SAC accreditation scheme for GHG validation & verification body will include verification of the emission report for the CORSIA programme. 
 
