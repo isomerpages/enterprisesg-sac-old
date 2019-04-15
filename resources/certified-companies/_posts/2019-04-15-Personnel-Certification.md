@@ -2,7 +2,7 @@
 layout: post
 title:  Personnel Certification
 date:   2019-04-15
-permalink: /resources/certifed-companies/Personnel-Certification
+permalink: /resources/certified-companies/Personnel-Certification
 ---
 # Personnel Certification
 
