@@ -5,7 +5,7 @@ date:   2014-11-01
 permalink: /resources/news-and-media/International-Developments-on-Accreditation
 ---
 #### 1 November 2014
-### **International Developments on Accreditation**
+# **International Developments on Accreditation**
 
 **International Developments on Accreditation**
 
