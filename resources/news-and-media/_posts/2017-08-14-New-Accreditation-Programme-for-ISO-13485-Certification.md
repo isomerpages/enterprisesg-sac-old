@@ -5,7 +5,7 @@ date:   2017-08-14
 permalink: /resources/news-and-media/New-Accreditation-Programme-for-ISO-13485-Certification
 ---
 #### 14 August 2017
-### **New Accreditation Programme for ISO 13485 Certification**
+# **New Accreditation Programme for ISO 13485 Certification**
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for Medical Devices Quality Management System Certification on 14 August 2017.
  
@@ -13,4 +13,4 @@ This programme is to accredit Certification Bodies (CBs) certifying companies to
  
 CBs accredited by SAC will be assessed to ensure that a CB is competent through validation of its operations and implementation of its quality system. SAC accreditation will provide added public confidence, level playing field among the CBs and assurance of integrity, credibility and transparency of certification services. In addition, SAC has a good track record of accrediting certification programmes that gain increasing acceptance from industry and government agencies.
  
-Application for accreditation of the Medical Devices Quality Management System Certification: ISO13485 can be done through SACiNet.
+Application for accreditation of the Medical Devices Quality Management System Certification: ISO13485 can be done through [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form).
