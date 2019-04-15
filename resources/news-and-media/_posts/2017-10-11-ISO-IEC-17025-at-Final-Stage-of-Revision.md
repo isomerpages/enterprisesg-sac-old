@@ -5,7 +5,7 @@ date:   2017-10-11
 permalink: /resources/news-and-media/ISO-IEC-17025-at-Final-Stage-of-Revision
 ---
 #### 11 October 2017
-### **ISO/IEC 17025 at Final Stage of Revision**
+# **ISO/IEC 17025 at Final Stage of Revision**
 
 The revision of [ISO/IEC 17025](http://iso.cmail19.com/t/d-l-uyurdry-krjiykdu-q/), the international standard for testing and calibration laboratories, started in February 2015 and has now reached the Final Draft International Standard (FDIS) stage. This is the last leg of development before the publication of the revised standard, planned for the end of 2017.
 
