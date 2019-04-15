@@ -25,10 +25,6 @@
     url: /who-we-are/about-accreditation/
   - title: Benefits Of Accreditation
     url: /who-we-are/benefits-of-accreditation/
-  - title: Working With Regulators
-    url: /who-we-are/working-with-regulators/
-  - title: Working With Businesses
-    url: /who-we-are/working-with-businesses/
   - title: Join Us
     url: /who-we-are/join-us/
 - title: Industries
@@ -36,26 +32,38 @@
   sub-links:
   - title: Testing Inspection Certification Industries
     url: /industries/testing-inspection-certification-industries/
-  - title: Manufacturing
-    url: /industries/manufacturing/
-  - title: Construction
-    url: /industries/construction/
-  - title: Engineering
-    url: /industries/engineering/
-  - title: Healthcare
-    url: /industries/healthcare/
-  - title: Biochemical
-    url: /industries/biochemical/
-  - title: Marine And Offshore
-    url: /industries/marine-and-offshore/
+  - title: Air Transport
+    url: /industries/air-transport/
+  - title: Built Environment
+    url: /industries/built-enviroment/
+  - title: Digital/ICT
+    url: /industries/digital-ict/
+  - title: Electronics
+    url: /industries/electronics/
+  - title: Energy & Chemicals
+    url: /industries/energy-and-chemicals/
+  - title: Food Manufacturing
+    url: /industries/food-manufacturing/
+  - title: Food Services
+    url: /industries/food-services/
+  - title: Healthcare & Biomedical
+    url: /industries/healthcare-and-biomedical/
+  - title: Land Transport
+    url: /industries/land-transport/
   - title: Logistics
-    url: /industries/logistics/
-  - title: Food Safety
-    url: /industries/food-safety/
-  - title: Chemicals
-    url: /industries/chemicals/
-  - title: Infocomm
-    url: /industries/infocomm/
+    url: /industries/logitics/
+  - title: Marine & Offshore Engineering
+    url: /industries/marine-and-offshore-engineering/
+  - title: Precision Engineering
+    url: /industries/precision-engineering/
+  - title: Retail
+    url: /industries/retail/
+  - title: Sea Transport
+    url: /industries/sea-transport/
+  - title: Urban Solutions
+    url: /industries/urban-solutions/
+  - title: Wholesale Trade
+    url: /industries/wholesale-trade/
   - title: Others
     url: /industries/others/
 - title: Services
