@@ -5,7 +5,7 @@ date:   2014-10-07
 permalink: /resources/news-and-media/Quality-and-Standards-Conference-2014
 ---
 #### 07 October 2014
-### **Quality and Standards Conference 2014**
+# **Quality and Standards Conference 2014**
 
 ![QS-2014-pic](/images/QS-2014-pic.png)
 *Dr James Galloway, CEO, JAS-ANZ, sharing on Conformance for Future of Manufacturing*
