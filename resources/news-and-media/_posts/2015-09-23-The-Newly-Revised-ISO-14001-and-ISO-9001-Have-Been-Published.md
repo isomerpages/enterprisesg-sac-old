@@ -5,7 +5,7 @@ date:   2015-09-23
 permalink: /resources/news-and-media/The-Newly-Revised-ISO-14001-and-ISO-9001-Have-Been-Published
 ---
 #### 23 September 2015
-### **The Newly Revised ISO 14001 and ISO 9001 Have Been Published**
+# **The Newly Revised ISO 14001 and ISO 9001 Have Been Published**
 
 The revised  ISO 14001:2015 Environmental management systems and ISO 9001:2015 Quality management systems, two of the most widely used standards, have been published on 15 September 2015.
  
