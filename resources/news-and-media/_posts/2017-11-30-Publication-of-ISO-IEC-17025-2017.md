@@ -5,7 +5,7 @@ date:   2017-11-30
 permalink: /resources/news-and-media/Publication-of-ISO-IEC-17025-2017
 ---
 #### 30 November 2017
-### **Publication of ISO/IEC 17025: 2017**
+# **Publication of ISO/IEC 17025: 2017**
 
 The new version of ISO/IEC 17025, the international standard for testing and calibration laboratories, was published on 30 November 2017, and has been adopted as a Singapore Standard.  A copy of this standard is available for purchase at [Toppan Leefung Pte Ltd](https://www.singaporestandardseshop.sg/).  Accredited laboratories are encouraged to purchase a copy to understand the changes and opt for an early transition to this revised standard.
 
