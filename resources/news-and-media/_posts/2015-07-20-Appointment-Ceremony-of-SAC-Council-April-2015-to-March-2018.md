@@ -5,9 +5,9 @@ date:   2015-07-20
 permalink: /resources/news-and-media/Appointment-Ceremony-of-SAC-Council-April-2015-to-March-2018
 ---
 #### 20 July 2015
-### **Appointment Ceremony of SAC Council (April 2015 to March 2018)**
+# **Appointment Ceremony of SAC Council (April 2015 to March 2018)**
 
-SAC Pic 1                  |  SAC Pic 2
+Picture 1                  |  Picture 2
 :-------------------------:|:-------------------------:
 ![sac-pic1](/images/SAC-pic1.png)  |  ![sac-pic2](/images/SAC-pic2.png)
 
