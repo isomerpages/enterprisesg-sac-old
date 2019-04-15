@@ -5,7 +5,7 @@ date:   2018-01-02
 permalink: /resources/news-and-media/Launch-of-New-Online-Learning-Portal
 ---
 #### 2 January 2018
-### **Launch of New Online Learning Portal**
+# **Launch of New Online Learning Portal**
 
 The Singapore Accreditation Council (SAC) has launched a new [platform](https://lms.wizlearn.com/saclearning) for online learning on 2 January 2018. The “SAC eLearning Portal” serves as a flexible learning tool for SAC stakeholders, allowing 24/7 online access to learning materials and resources to stay abreast of the latest developments and upgrade competency in accreditation-related matters.
  
