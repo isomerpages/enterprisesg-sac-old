@@ -2,7 +2,7 @@
 layout: post
 title:  Product Certification
 date:   2019-04-15
-permalink: /resources/certifed-companies/Product-Certification
+permalink: /resources/certified-companies/Product-Certification
 ---
 # Product Certification
 
