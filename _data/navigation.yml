@@ -76,8 +76,8 @@
 - title: Resources
   url: /resources/
   sub-links:
-  #- title: All
-   # url: /resources/
+  - title: All
+    url: /resources/
   - title: Publications
     url: /resources/publications/
   - title: How to use the SAC Accreditation Mark
