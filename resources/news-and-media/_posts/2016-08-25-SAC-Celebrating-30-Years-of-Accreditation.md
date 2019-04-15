@@ -5,7 +5,7 @@ date:   2016-08-25
 permalink: /resources/news-and-media/SAC-Celebrating-30-Years-of-Accreditation
 ---
 #### 25 August 2016
-### **SAC Celebrating 30 Years of Accreditation**
+# **SAC Celebrating 30 Years of Accreditation**
 
 This year, SPRING Singapore and SAC celebrates 50 years of the Singapore Standardisation Programme and 30 years of the Singapore Accreditation Programme.
  
