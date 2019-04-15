@@ -5,7 +5,7 @@ date:   2017-06-09
 permalink: /resources/news-and-media/World-Accreditation-Day-2017
 ---
 #### 9 June 2017
-### **World Accreditation Day 2017**
+# **World Accreditation Day 2017**
 
 ![WAD2017_1](/images/WAD2017_1.png)
 
