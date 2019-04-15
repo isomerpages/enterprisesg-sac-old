@@ -5,7 +5,7 @@ date:   2014-10-29
 permalink: /resources/news-and-media/SAC-Launched-a-New-Accreditation-Programme-on-Multi-Tiered-Cloud-Computing-Security-(MTCS)-Certification
 ---
 #### 29 October 2014
-### **SAC Launched a New Accreditation Programme on Multi-Tiered Cloud Computing Security (MTCS) Certification**
+# **SAC Launched a New Accreditation Programme on Multi-Tiered Cloud Computing Security (MTCS) Certification**
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for Multi-Tiered Cloud Computing Security (MTCS) Certification on 29 October 2014 during the CloudAsia 2014 event.  
  
