@@ -5,7 +5,7 @@ date:   2014-07-02
 permalink: /resources/news-and-media/Joint-General-Assembly-of-APLAC-PAC-2014
 ---
 #### 02 July 2014
-### **Joint General Assembly of APLAC-PAC 2014**
+# **Joint General Assembly of APLAC-PAC 2014**
 ![APLACPic1](/images/APLAC-pic1.jpg)
 The inaugural Joint General Assembly (GA) for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the Pacific Accreditation Cooperation (PAC) was held in Guadalajara, Mexico, from 21 to 27 June 2014.  These joint meetings between the two regional groups are to facilitate closer collaborations and joint activities to achieve the common outcomes of both organisations.
  
