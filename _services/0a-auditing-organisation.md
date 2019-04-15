@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Auditing Organisations
-permalink: /services/auditing-organisations/
+title: Auditing Organisation
+permalink: /services/auditing-organisation/
 breadcrumb: Auditing Organisation
 collection_name: services
 second_nav_title: "Accreditation Services"
