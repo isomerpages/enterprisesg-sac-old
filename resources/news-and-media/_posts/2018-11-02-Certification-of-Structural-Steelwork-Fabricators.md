@@ -5,7 +5,7 @@ date:   2018-11-02
 permalink: /resources/news-and-media/Certification-of-Structural-Steelwork-Fabricators
 ---
 #### 2 November 2018
-### **Certification of Structural Steelwork Fabricators**
+# **Certification of Structural Steelwork Fabricators**
 
 SAC is pleased to expand our Product Certification Scheme to include certification of Structural Steelwork Fabricators on 2 November 2018.
 
