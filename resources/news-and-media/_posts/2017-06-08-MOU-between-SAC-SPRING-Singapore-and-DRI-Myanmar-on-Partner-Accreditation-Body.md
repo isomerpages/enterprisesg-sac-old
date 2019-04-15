@@ -5,7 +5,7 @@ date:   2017-06-08
 permalink: /resources/news-and-media/MOU-between-SAC-SPRING-Singapore-and-DRI-Myanmar-on-Partner-Accreditation-Body
 ---
 #### 8 June 2017
-### **MOU between SAC/SPRING Singapore and DRI, Myanmar on Partner Accreditation Body**
+# **MOU between SAC/SPRING Singapore and DRI, Myanmar on Partner Accreditation Body**
 
 The Singapore Accreditation Council (SAC), SPRING Singapore and Myanmar’s Department of Research and Innovation (DRI) signed an MOU on 8 June 2017 at the 6th Singapore-Myanmar Joint Ministerial Working Committee (JMWC) meeting held in Singapore. This MOU is to share expertise in the accreditation of conformity assessment bodies (CABs) based on international standards and requirements.
  
