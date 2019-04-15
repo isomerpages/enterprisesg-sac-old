@@ -5,7 +5,7 @@ date:   2015-06-23
 permalink: /resources/news-and-media/Discover-Quality-and-Standards-with-the-Kiang-Family
 ---
 #### 23 June 2015
-### **Discover Quality and Standards with the Kiang Family**
+# **Discover Quality and Standards with the Kiang Family**
 
 <a href="https://www.youtube.com/watch?v=W78fYMEvq7g&feature=youtu.be"> ![kiang](/images/Kiang2.png) </a>
 
