@@ -5,7 +5,8 @@ date: 2014-03-03
 permalink: /resources/news-and-media/SAC-Assessor-Enclaves
 ---
 #### 03 March 2014
-### **SAC Assessor Enclaves**
+# **SAC Assessor Enclaves**
+
 SAC works on peer assessments of laboratories and inspection bodies where technical experts from industries, tertiary institutions or government bodies are often called upon to assist in the assessments.
 #### Experience Sharing for Chemical & Biological and Environmental Fields
 On 8 November 2013, our volunteers and assessors from the Chemical & Biological and Environmental fraternities gathered for the annual enclave. SAC received an overwhelming response of 49 participants.
@@ -28,6 +29,7 @@ With the publication of the revised ISO 15189 standard in November 2012, SAC too
 *SAC Experts from the Medical Testing and Medical Imaging Enclave*
 
 The assessors were tasked to grade some of the common assessment findings and provide feedbacks on the challenges in the assessment of the new standard.  Throughout the session, there were candid sharing of experiences and understanding of the requirements. It was a fruitful session with positive feedbacks!
+
 #### Upcoming Experience Sharing for SAC External Lead Assessors and NDT Technical Assessors
 The next Assessor Enclave scheduled on 25 March 2014 is for the SAC External Lead Assessors and NDT Technical Assessors.  There will be sharings on the revised SAC documents and use of SACiNet.  In addition, the lead assessors will also discuss and propose any revision needed for ISO/IEC 17025 while the NDT Technical assessors will discuss on the advanced NDT techniques as well as review the NDT Technical Notes.   
 
