@@ -5,7 +5,7 @@ date:   2015-07-20
 permalink: /resources/news-and-media/2015-APLAC–PAC-Annual-Joint-Meeting
 ---
 #### 20 July 2015
-### **2015 APLAC – PAC Annual Joint Meeting**
+# **2015 APLAC – PAC Annual Joint Meeting**
 
 The second Joint General Assembly (GA) for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and Pacific Accreditation Cooperation (PAC) was hosted by Sri Lanka Accreditation Board (SLAB) at Kingsbury Hotel Colombo in Sri Lanka from 12 to 21 June 2015. These joint meetings aimed to foster closer collaboration of the two organisations.
  
