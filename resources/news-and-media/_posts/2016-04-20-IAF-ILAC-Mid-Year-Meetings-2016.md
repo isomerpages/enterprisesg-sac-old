@@ -5,7 +5,7 @@ date:   2016-04-20
 permalink: /resources/news-and-media/IAF-ILAC-Mid-Year-Meetings-2016
 ---
 #### 20 April 2016
-### **IAF-ILAC Mid-Year Meetings 2016**
+# **IAF-ILAC Mid-Year Meetings 2016**
 
 ![IAFILAC](/images/ILAC IAF Mid 2016.png)
 
