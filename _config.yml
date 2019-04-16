@@ -40,7 +40,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  who-we-are:
+  about:
     output: true
   industries:
     output: true
