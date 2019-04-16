@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About Accreditation
-permalink: /who-we-are/about-accreditation/
+permalink: /about/about-accreditation/
 breadcrumb: About Accreditation
-collection_name: who-we-are
+collection_name: about
 ---
