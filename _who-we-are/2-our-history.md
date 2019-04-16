@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our History
-permalink: /who-we-are/our-history/
+permalink: /about/our-history/
 breadcrumb: Our History
-collection_name: who-we-are
+collection_name: about
 ---
