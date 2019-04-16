@@ -78,12 +78,8 @@
     url: /resources/
   - title: Publications
     url: /resources/publications/
-  - title: How to use the SAC Accreditation Mark
-    url: /resources/how-to-use-the-sac-accreditation-mark/
-  - title: How to use the ILAC MRA Mark
-    url: /resources/how-to-use-the-ilac-mra-mark/
-  - title: How to use the IAF MLA Mark
-    url: /resources/how-to-use-the-iaf-mla-mark/
+  - title: How to use
+    url: /resources/how-to-use/
   - title: News And Media
     url: /resources/news-and-media/
   - title: Brochures
@@ -94,10 +90,8 @@
     url: /resources/cab-success-stories/
   - title: Certified Companies
     url: /resources/certified-companies/
-  - title: Case Studies
-    url: /resources/case-studies/
-  - title: Videos
-    url: /resources/videos/
+  - title: Case Studies and Videos
+    url: /resources/case-studies-and-video/
 - title: Accredited Organizations
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
 - title: Member Login
