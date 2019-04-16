@@ -4,29 +4,27 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: Who We Are
-  url: /who-we-are/our-role/
+- title: About
+  url: /about/our-role/
   sub-links:
   - title: Our Role
-    url: /who-we-are/our-role/
+    url: /about/our-role/
   - title: Our Vision Mission And Strategic Outcome
-    url: /who-we-are/our-vision-mission-and-strategic-outcome/
+    url: /about/our-vision-mission-and-strategic-outcome/
   - title: Our History
-    url: /who-we-are/our-history/
+    url: /about/our-history/
   - title: Our Organisation And Structure
-    url: /who-we-are/our-organisation-and-structure/
+    url: /about/our-organisation-and-structure/
   - title: Collaborations And Recognitions
-    url: /who-we-are/collaborations-and-recognitions/
+    url: /about/collaborations-and-recognitions/
   - title: The SAC Mark
-    url: /who-we-are/the-sac-mark/
+    url: /about/the-sac-mark/
   - title: About Accreditation
-    url: /who-we-are/about-accreditation/
+    url: /about/about-accreditation/
   - title: Benefits Of Accreditation
-    url: /who-we-are/benefits-of-accreditation/
+    url: /about/benefits-of-accreditation/
   - title: Join Us
-    url: /who-we-are/join-us/
+    url: /about/join-us/
 - title: Industries
   url: /industries/testing-inspection-certification-industries/
   sub-links:
@@ -104,3 +102,5 @@
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
 - title: Member Login
   url: https://sacinet.enterprisesg.gov.sg/
+- title: Contact Us
+  url: /contact-us/
