@@ -18,7 +18,7 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about/
     
 key-highlights:
   - title: Search
