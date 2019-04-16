@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Join Us
-permalink: /who-we-are/join-us/
+permalink: /about/join-us/
 breadcrumb: Join Us
-collection_name: who-we-are
+collection_name: about
 ---
