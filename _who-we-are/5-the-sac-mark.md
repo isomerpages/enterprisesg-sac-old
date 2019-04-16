@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The Sac Mark
-permalink: /who-we-are/the-sac-mark/
+permalink: /about/the-sac-mark/
 breadcrumb: The Sac Mark
-collection_name: who-we-are
+collection_name: about
 ---
