@@ -8,12 +8,12 @@ List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodie
 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
 
 Laboratory
-    * Calibration & Measurement
-     * Lab Seicnet Solution Pte Ltd (07 November 2018)
-    * Medical Testing
-     * National Healthcare Group Diagnostics (07 November 2018)     
-    * Non-Destructive Testing
-     * Shipscan Marine Pte Ltd (16 February 2019)
+  * Calibration & Measurement
+   * Lab Seicnet Solution Pte Ltd (07 November 2018)
+  * Medical Testing
+   * National Healthcare Group Diagnostics (07 November 2018)     
+  * Non-Destructive Testing
+   * Shipscan Marine Pte Ltd (16 February 2019)
 
 Inspection Body
 
