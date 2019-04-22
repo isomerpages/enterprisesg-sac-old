@@ -8,25 +8,23 @@ List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodie
 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
 
 Laboratory
-
     * Calibration & Measurement
      * Lab Seicnet Solution Pte Ltd (07 November 2018)
-     * Medical Testing
-     * National Healthcare Group Diagnostics (07 November 2018)
-       
-    *   Non-Destructive Testing
+    * Medical Testing
+     * National Healthcare Group Diagnostics (07 November 2018)     
+    * Non-Destructive Testing
      * Shipscan Marine Pte Ltd (16 February 2019)
 
 Inspection Body
 
    * Hook-Lift & Container Inspection
-       * Maxiton Engineering Asia Pte Ltd (19 February 2019)
+     * Maxiton Engineering Asia Pte Ltd (19 February 2019)
     * Site Investigation
-       * Geonamics (S) Pte Ltd (25 January 2019)
-       * Asia Georesearch Agency Corporation Pte Ltd (21 February 2019)      
-       * AWCS Technologies Pte Ltd (21 February 2019)
+     * Geonamics (S) Pte Ltd (25 January 2019)
+     * Asia Georesearch Agency Corporation Pte Ltd (21 February 2019)      
+     * AWCS Technologies Pte Ltd (21 February 2019)
    * Structural Steelwork Inspection
-       * SGS Testing & Control Services Singapore Pte Ltd (23 January 2019)
+     * SGS Testing & Control Services Singapore Pte Ltd (23 January 2019)
    
 Certification Body    
    * Auditing Organisation 
@@ -62,13 +60,11 @@ Laboratory
    * Mechanical Testing
         * IKM Testing Asia Pte Ltd (18 February 2019)
 Inspection Body
-
      * Cargo Inspection
        * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 
 Certification Body
-
     *  Business Continuity Management
         * Lloyd's Register Quality Assurance Limited (13 March 2019)  
     * Energy Management System
