@@ -9,11 +9,13 @@ List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodie
 
 Laboratory
   * Calibration & Measurement
-   * Lab Seicnet Solution Pte Ltd (07 November 2018)
+     * Lab Seicnet Solution Pte Ltd (07 November 2018)
+     
   * Medical Testing
-   * National Healthcare Group Diagnostics (07 November 2018)     
+     * National Healthcare Group Diagnostics (07 November 2018)     
+   
   * Non-Destructive Testing
-   * Shipscan Marine Pte Ltd (16 February 2019)
+     * Shipscan Marine Pte Ltd (16 February 2019)
 
 Inspection Body
 
