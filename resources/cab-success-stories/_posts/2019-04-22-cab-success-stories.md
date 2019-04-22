@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Success Stories (CABs)
+title:  Success Stories
 date:   2019-04-22
 permalink: /resources/cab-success-stories/cab-success-stories
 ---
 
-### Success Stories (CABs)
+### Success Stories
 
 <h4 style="color:blue">Thumbs up from the Industry</h4>
  
