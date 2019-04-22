@@ -74,8 +74,9 @@ Certification Body
   
 Withdrawal by SAC
 Inspection Body
- * Cargo Inspection
-   * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
+   * Cargo Inspection
+      * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
+   
 Laboratory
   * Civil Engineering
     * ABSK Pte Ltd (05 February 2018)
