@@ -65,8 +65,9 @@ permalink: /resources/cab-status-update/cab-status-update
         * IKM Testing Asia Pte Ltd (18 February 2019)
         
 **Inspection Body**
-     * Cargo Inspection
-      * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
+
+   * Cargo Inspection
+        * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 
 **Certification Body**
