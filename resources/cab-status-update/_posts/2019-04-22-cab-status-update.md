@@ -61,7 +61,7 @@ Laboratory
         * IKM Testing Asia Pte Ltd (18 February 2019)
 Inspection Body
      * Cargo Inspection
-       * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
+      * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 
 Certification Body
@@ -74,8 +74,8 @@ Certification Body
   
 Withdrawal by SAC
 Inspection Body
-  * Cargo Inspection
-    * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
+ * Cargo Inspection
+   * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
 Laboratory
   * Civil Engineering
     * ABSK Pte Ltd (05 February 2018)
