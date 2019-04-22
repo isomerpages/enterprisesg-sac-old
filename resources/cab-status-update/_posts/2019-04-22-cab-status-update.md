@@ -23,7 +23,7 @@ permalink: /resources/cab-status-update/cab-status-update
 
    * Hook-Lift & Container Inspection
      * Maxiton Engineering Asia Pte Ltd (19 February 2019)
-    * Site Investigation
+   * Site Investigation
      * Geonamics (S) Pte Ltd (25 January 2019)
      * Asia Georesearch Agency Corporation Pte Ltd (21 February 2019)      
      * AWCS Technologies Pte Ltd (21 February 2019)
