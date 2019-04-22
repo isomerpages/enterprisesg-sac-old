@@ -28,12 +28,12 @@ Inspection Body
    
 Certification Body    
    * Auditing Organisation 
-    * ESIS Asia Pacific Pte Ltd (28 January 2019)  
-    * Axcel Safety Audit (14 February 2019)  
-    * ACE EHS Singapore Pte Ltd (05 March 2019)  
-    * Team-6 Safety Training & Consultancy (S) Pte Ltd (08 March 2019)
-    * Dynamic Safety Pte Ltd (08 March 2019)  
-    * THM Consultants Pte Ltd (18 March 2019)  
+    - ESIS Asia Pacific Pte Ltd (28 January 2019)  
+    - Axcel Safety Audit (14 February 2019)  
+    - ACE EHS Singapore Pte Ltd (05 March 2019)  
+    - Team-6 Safety Training & Consultancy (S) Pte Ltd (08 March 2019)
+    - Dynamic Safety Pte Ltd (08 March 2019)  
+    - THM Consultants Pte Ltd (18 March 2019)  
    * Occupational Safety and Health Management System 
      * Bureau Veritas Singapore Pte. Ltd. (27 February 2019)
      * SGS International Certification Services Singaproe Pte Ltd (05 March 2019)
