@@ -65,12 +65,12 @@ Inspection Body
 
 
 Certification Body
-    *  Business Continuity Management
+    * Business Continuity Management
         * Lloyd's Register Quality Assurance Limited (13 March 2019)  
     * Energy Management System
         * Lloyd's Register Quality Assurance Limited 13 March 2019)(
     * Multi-Tiered Cloud Computing Security
-       * TUV Rheinland Pte Ltd (29 December 2018)
+        * TUV Rheinland Pte Ltd (29 December 2018)
   
 Withdrawal by SAC
 Inspection Body
