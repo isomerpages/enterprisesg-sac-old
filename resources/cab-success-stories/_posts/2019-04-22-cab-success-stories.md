@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cab Success Stories
+title:  CAB Success Stories
 date:   2019-04-22
 permalink: /resources/cab-success-stories/cab-success-stories
 ---
