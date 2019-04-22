@@ -34,4 +34,3 @@ The assessors were tasked to grade some of the common assessment findings and pr
 The next Assessor Enclave scheduled on 25 March 2014 is for the SAC External Lead Assessors and NDT Technical Assessors.  There will be sharings on the revised SAC documents and use of SACiNet.  In addition, the lead assessors will also discuss and propose any revision needed for ISO/IEC 17025 while the NDT Technical assessors will discuss on the advanced NDT techniques as well as review the NDT Technical Notes.   
 
 SAC looks forward to welcoming our Assessors in the next enclave!  
-[test](/about/)
