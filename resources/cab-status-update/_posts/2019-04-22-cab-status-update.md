@@ -4,10 +4,12 @@ title:  CAB Status Update
 date:   2018-01-01
 permalink: /resources/cab-status-update/cab-status-update
 ---
-List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
-1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
+#### CAB Status Update
 
-Laboratory
+## List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
+<p style="color:blue">1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider </p>
+
+**Laboratory**
   * Calibration & Measurement
      * Lab Seicnet Solution Pte Ltd (07 November 2018)
      
@@ -17,7 +19,7 @@ Laboratory
   * Non-Destructive Testing
      * Shipscan Marine Pte Ltd (16 February 2019)
 
-Inspection Body
+**Inspection Body**
 
    * Hook-Lift & Container Inspection
      * Maxiton Engineering Asia Pte Ltd (19 February 2019)
@@ -28,7 +30,7 @@ Inspection Body
    * Structural Steelwork Inspection
      * SGS Testing & Control Services Singapore Pte Ltd (23 January 2019)
    
-Certification Body    
+**Certification Body**   
    * Auditing Organisation 
      * ESIS Asia Pacific Pte Ltd (28 January 2019)  
      * Axcel Safety Audit (14 February 2019)  
@@ -49,9 +51,9 @@ Certification Body
 
 3. Withdrawn Laboratory / Certification Body / Inspection Body 
 
-Voluntary Withdrawal by CABs
+**Voluntary Withdrawal by CABs**
 
-Laboratory
+**Laboratory**
 
    * Calibration & Measurement
         * IKM Testing Asia Pte Ltd (18 February 2019)
@@ -61,12 +63,12 @@ Laboratory
         * ABB Pte Ltd (07 January 2019)
    * Mechanical Testing
         * IKM Testing Asia Pte Ltd (18 February 2019)
-Inspection Body
+**Inspection Body**
      * Cargo Inspection
       * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 
-Certification Body
+**Certification Body**
   * Business Continuity Management
       * Lloyd's Register Quality Assurance Limited (13 March 2019)  
   * Energy Management System
@@ -74,12 +76,12 @@ Certification Body
   * Multi-Tiered Cloud Computing Security
       * TUV Rheinland Pte Ltd (29 December 2018)
   
-Withdrawal by SAC
-Inspection Body
+**Withdrawal by SAC**
+**Inspection Body**
    * Cargo Inspection
       * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
    
-Laboratory
+**Laboratory**
   * Civil Engineering
     * ABSK Pte Ltd (05 February 2018)
 
