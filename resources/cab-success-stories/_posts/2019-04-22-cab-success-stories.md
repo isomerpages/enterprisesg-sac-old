@@ -25,6 +25,7 @@ Analytical Laboratories (Singapore) Pte Ltd
 <h4 style="color:blue">SETSCO Services Pte Ltd</h4>
  
 "SETSCO Services became the first testing laboratory to be accredited by SINGLAS in 1987 in the field of Mechanical Testing. We have not looked back since and went on to garner five other fields of testing and two fields under the Accreditation Scheme for Inspection Body, bringing a total of eight accreditation certificates to date.
+
 Being an accredited laboratory has significantly contributed to Setsco’s business strategy and effectively facilitated our marketing efforts in growing our customer base and expanding geographically. Accreditation has brought about greater recognition and trust of our services among clients and this, in turn, assures the commercial viability and survival of our company in the face of competition and markedly lower margins."
 
 **Mr Sze Thiam Siong**  
@@ -45,7 +46,9 @@ SGS Testing & Control Services Singapore Pte Ltd
 <h4 style="color:blue">TÜV SÜD PSB Pte Ltd</h4>
   
 "TÜV SÜD PSB was honoured to be the first certification body in Singapore to be accredited by the SAC in 1997.  As a globally recognised testing and certification body, we needed accreditations that could enhance our international stature so as to ensure our test reports and certificates are recognised and accepted by local and overseas markets.
+
 In this context, SAC accreditation has served "TÜV SÜD PSB well.  SAC has always participated and played an influential role in the regional and international accreditation arena and "TÜV SÜD PSB has benefited from the formulation of international, strategic partnerships.  Our certificates carrying the SAC Mark are well accepted.
+
 Furthermore, SAC facilitates cross frontier accreditation through its mutual recognition arrangements (MRA) with accreditation bodies in IAF.  With this arrangement, it reduces cost through mutual acceptance of each other's accreditation audits.  I am sure the SAC will continue to provide more value-added services to all its clients."
 
 **Mr Richard Hong**  
