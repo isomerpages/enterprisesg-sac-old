@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /faq/
+permalink: /pages/faq/
 breadcrumb: FAQ
 title: FAQ
 ---
