@@ -79,9 +79,9 @@
   url: /
   sub-links:
   - title: News Releases
-    url: /resources/publications/
+    url: /resources/news-and-media/
   - title: Events
-    url: /resources/publications/
+    url: /resources/news-and-media/
   - title: Videos
     url: /resources/case-studies-and-video/
   - title: Case Studies
@@ -99,14 +99,12 @@
     url: /resources/publications/
   - title: How to use
     url: /resources/how-to-use/
-  - title: News And Media
-    url: /resources/news-and-media/
   - title: Brochures
     url: /resources/brochures/
-  - title: FAQ
-    url: /resources/faq/
   - title: Certified Companies
     url: /resources/certified-companies/
+  - title: FAQ
+    url: /resources/faq/
 - title: Accredited Organizations
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
 - title: Contact Us
