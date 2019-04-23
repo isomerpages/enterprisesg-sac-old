@@ -10,7 +10,7 @@ locations:
   # HQ Address [REQUIRED]
   - title: Our Address
     address: Singapore Accreditation Council<br>2 Fusionopolis Way<br>#15-01, Innovis,<br>Singapore 138634
-    find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
+    find-directions: https://www.google.com/maps/place/Innovis/@1.2980711,103.7864447,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4f918a4f6b:0x14d54468dd34b57e!8m2!3d1.2980711!4d103.7886334
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
