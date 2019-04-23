@@ -1,5 +1,5 @@
-title: Title
-title-abbreviated: Title
+title: Singapore Accreditation Council
+title-abbreviated: SAC
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -45,5 +45,7 @@ collections:
   industries:
     output: true
   services:
+    output: true
+  newsroom:
     output: true
 resources_name: resources
