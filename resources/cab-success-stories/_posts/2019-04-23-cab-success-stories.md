@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  Success Stories
-date:   2019-04-22
+date:   2019-04-23
 permalink: /resources/cab-success-stories/cab-success-stories
 ---
 
 ### Success Stories
 
 <h4 style="color:blue">Thumbs up from the Industry</h4>
- 
+
+Testing
+
 Often during the accreditation process, organisations that embrace quality will find ways to continually streamline and improve their operations, thus becoming more efficient and effective at managing their resources. Their ability to meet rigorous international standards and processes shows that they have proper systems in place. This ensures better record keeping and higher competency so that the data is reliable and credible. Ultimately, this enhances their reputation and the quality of services provided, propelling them to greater heights in operational excellence as well as in gaining new business.
 
 Our valued Customers and Stakeholders share their congratulatory messages here, as we mark the 10th anniversary of the SAC and 20thanniversary of accreditation in Singapore.
