@@ -75,6 +75,21 @@
     url: /services/training/
   - title: e-Services - eLearning Portal(Assessors)
     url: /services/training/  
+- title: News Room
+  url: /
+  sub-links:
+  - title: News Releases
+    url: /resources/publications/
+  - title: Events
+    url: /resources/publications/
+  - title: Videos
+    url: /resources/case-studies-and-video/
+  - title: Case Studies
+    url: /resources/case-studies-and-video/
+  - title: CAB Status Update
+    url: /resources/cab-status-update/
+  - title: CAB Success Stories
+    url: /resources/cab-success-stories/
 - title: Resources
   url: /resources/
   sub-links:
@@ -90,14 +105,8 @@
     url: /resources/brochures/
   - title: FAQ
     url: /resources/faq/
-  - title: CAB Status Update
-    url: /resources/cab-status-update/
-  - title: CAB Success Stories
-    url: /resources/cab-success-stories/
   - title: Certified Companies
     url: /resources/certified-companies/
-  - title: Case Studies and Videos
-    url: /resources/case-studies-and-video/
 - title: Accredited Organizations
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
 - title: Contact Us
