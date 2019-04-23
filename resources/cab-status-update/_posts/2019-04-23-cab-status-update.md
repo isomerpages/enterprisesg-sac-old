@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  CAB Status Update
-date:   2019-04-22
+date:   2019-04-23
 permalink: /resources/cab-status-update/cab-status-update
 ---
 ## CAB Status Update
@@ -46,7 +46,7 @@ permalink: /resources/cab-status-update/cab-status-update
 
  
 <p style="color:blue">2. Suspended Laboratory / Certification Body / Inspection Body</p>
-                                                 NA
+NA
 
 
 <p style="color:blue">3. Withdrawn Laboratory / Certification Body / Inspection Body</p>
