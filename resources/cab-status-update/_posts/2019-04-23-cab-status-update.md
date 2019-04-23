@@ -46,7 +46,7 @@ permalink: /resources/cab-status-update/cab-status-update
 
  
 <p style="color:blue">2. Suspended Laboratory / Certification Body / Inspection Body</p>
-Testing
+ Testing
 
 
 <p style="color:blue">3. Withdrawn Laboratory / Certification Body / Inspection Body</p>
