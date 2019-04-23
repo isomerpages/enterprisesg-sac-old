@@ -69,8 +69,12 @@
   sub-links:
   - title: Accreditation Services
     url: /services/auditing-organisation/
-  - title: Training And Events
+  - title: Training Services
     url: /services/training/
+  - title: e-Services - SACiNet(CABs)
+    url: /services/training/
+  - title: e-Services - eLearning Portal(Assessors)
+    url: /services/training/  
 - title: Resources
   url: /resources/
   sub-links:
