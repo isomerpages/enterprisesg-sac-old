@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  Management System Certification
-date:   2019-04-15
+layout: leftnav-page-content
+title: Management System Certification
 permalink: /resources/sac-certified-companies/management-system-certification
+breadcrumb: Brochures
+collection_name: resources
 ---
+
 # Management System Certification
 
 1. <a target="_blank" href="http://www.aceintlcert.com/">ACE International Certification Pte Ltd</a>
