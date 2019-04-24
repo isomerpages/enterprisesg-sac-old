@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Working With Regulators
 permalink: /about/working-with-regulators/
-breadcrumb: Working With Regulators
+breadcrumb: About
 collection_name: about
 ---
