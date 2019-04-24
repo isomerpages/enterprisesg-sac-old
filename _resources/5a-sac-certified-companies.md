@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Overview
 permalink: /resources/sac-certified-companies
-breadcrumb: SAC Certified Companies
+breadcrumb: Certified Companies
 collection_name: resources
 second_nav_title: "Certified Companies"
 ---
