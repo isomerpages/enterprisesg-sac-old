@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Join Us
 permalink: /about/join-us/
-breadcrumb: Join Us
+breadcrumb: About
 collection_name: about
 ---
