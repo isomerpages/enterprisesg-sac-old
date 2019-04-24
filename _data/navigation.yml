@@ -65,7 +65,6 @@
   - title: Others
     url: /industries/others/
 - title: Services
-  url: /services/
   sub-links:
   - title: Accreditation Services
     url: /services/accreditation-services/
@@ -93,7 +92,6 @@
   - title: CAB Success Stories
     url: /newsroom/cab-success-stories/
 - title: Resources
-  url: /resources/
   sub-links:
   - title: Brochures
     url: /resources/brochures/
