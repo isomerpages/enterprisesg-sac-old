@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Our Vision Mission And Strategic Outcome
 permalink: /about/our-vision-mission-and-strategic-outcome/
-breadcrumb: Our Vision Mission And Strategic Outcome
+breadcrumb: About
 collection_name: about
 ---
 
