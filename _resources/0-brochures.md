@@ -5,3 +5,5 @@ permalink: /resources/brochures/
 breadcrumb: Brochures
 collection_name: resources
 ---
+
+Sample Test Page for Brochures
