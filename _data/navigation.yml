@@ -78,6 +78,8 @@
 - title: NewsRoom
   url: /newsroom/
   sub-links:
+  - title: All
+    url: /newsroom/
   - title: News Releases
     url: /newsroom/news-releases/
   - title: Events
@@ -93,16 +95,18 @@
 - title: Resources
   url: /resources/
   sub-links:
-  - title: All
-    url: /resources/
   - title: Publications
     url: /resources/publications/
-  - title: How to use
-    url: /resources/how-to-use/
   - title: Brochures
     url: /resources/brochures/
-  - title: Certified Companies
-    url: /resources/certified-companies/
+  - title: How to use SAC Mark
+    url: /resources/how-to-use-sac-mark/
+  - title: How to use ILAC Mark
+    url: /resources/how-to-use-ilac-mark/
+  - title: How to use IAF Mark
+    url: /resources/how-to-use-iaf-mark/
+  - title: SAC Certified Companies
+    url: /resources/sac-certified-companies/
   - title: FAQ
     url: /pages/faq/
 - title: Accredited Organizations
