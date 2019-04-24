@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Benefits Of Accreditation
 permalink: /about/benefits-of-accreditation/
-breadcrumb: Benefits Of Accreditation
+breadcrumb: About
 collection_name: about
 ---
