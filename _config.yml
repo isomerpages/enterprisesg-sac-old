@@ -27,7 +27,7 @@ collections:
     output: true
   services:
     output: true
-  resourses:
+  resources:
     output: true
 
 # Resource Room and Pagination
