@@ -4,7 +4,7 @@ title: Product Certification
 permalink: /resources/product-certification
 breadcrumb: SAC Certified Companies
 collection_name: resources
-second_nav_title: "SAC Certified Companies"
+second_nav_title: "Certified Companies"
 ---
 # Product Certification
 
