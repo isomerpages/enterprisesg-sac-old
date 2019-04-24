@@ -4,7 +4,7 @@ title: Overview
 permalink: /resources/sac-certified-companies
 breadcrumb: SAC Certified Companies
 collection_name: resources
-second_nav_title: "SAC Certified Companies"
+second_nav_title: "Certified Companies"
 ---
 
 [Management System Certification](management-system-certification/)  
