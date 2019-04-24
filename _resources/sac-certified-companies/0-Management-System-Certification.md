@@ -2,7 +2,7 @@
 layout: post
 title:  Management System Certification
 date:   2019-04-15
-permalink: /resources/sac-certified-companies/Management-System-Certification
+permalink: /resources/sac-certified-companies/management-system-certification
 ---
 # Management System Certification
 
