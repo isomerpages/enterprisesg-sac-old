@@ -20,11 +20,21 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
+collections:
+  about:
+    output: true
+  industries:
+    output: true
+  services:
+    output: true
+
 # Resource Room and Pagination
+resources_name: "newsroom"
 paginate: 12
+paginate_path: "/newsroom/page:num"
 
 # Homepage sections
-homepage_hero_i_want_to: false
+homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
 homepage_resources: true
 
 # Feedback Form URL
@@ -39,13 +49,4 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 
-collections:
-  about:
-    output: true
-  industries:
-    output: true
-  services:
-    output: true
-  newsroom:
-    output: true
-resources_name: resources
+
