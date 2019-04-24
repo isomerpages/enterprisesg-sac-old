@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Product Certification
-permalink: /resources/product-certification
+permalink: /resources/temp-product-certification
 breadcrumb: Product Certification
 collection_name: resources
-second_nav_title: "SAC Certified Companies"
 ---
 # Product Certification
 
