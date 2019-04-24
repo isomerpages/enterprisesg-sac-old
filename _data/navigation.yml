@@ -95,10 +95,10 @@
 - title: Resources
   url: /resources/
   sub-links:
-  - title: Publications
-    url: /resources/publications/
   - title: Brochures
     url: /resources/brochures/
+  - title: Publications
+    url: /resources/publications/
   - title: How to use SAC Mark
     url: /resources/how-to-use-sac-mark/
   - title: How to use ILAC Mark
@@ -108,7 +108,7 @@
   - title: Certified Companies
     url: /resources/sac-certified-companies
   - title: FAQ
-    url: /pages/faq/
+    url: /resources/faq/
 - title: Accredited Organisations
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
 - title: Contact Us
