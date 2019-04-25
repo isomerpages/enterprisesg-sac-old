@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Logistics
 permalink: /industries/logistics/
-breadcrumb: Logistics
+breadcrumb: Industries
 collection_name: industries
 ---
