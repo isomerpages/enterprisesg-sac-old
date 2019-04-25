@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Wholesale Trade
 permalink: /industries/wholesale-trade/
-breadcrumb: Wholesale Trade
+breadcrumb: Industries
 collection_name: industries
 ---
