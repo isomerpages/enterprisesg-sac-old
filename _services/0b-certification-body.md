@@ -24,4 +24,23 @@ The accreditation programme for Energy Management System was launched in July 20
  
 The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification, by providing third-party assuance of the competency and impartiality of accredited Perosnnel Certification Bodies.
  
-In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Devic-Quality Management System and Anti-bribery Management System Certification were launched in 201. A new accreditation scheme on Auditing Organisation was alos launched in 2017.
+In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 201. A new accreditation scheme on Auditing Organisation was also launched in 2017.
+
+### Accreditation Criteria
+
+SAC accredits certification bodies that can demonstrate compliance with the following requirements and scope:
+
+#### (I) Management System Certification Body
+
+|----------------------------------------------------+----------------------------+-------------------------|
+| Programme                                          | Accreditation Requirements | Certification Standards |
+|----------------------------------------------------|----------------------------|-------------------------|
+| Quality Management Systems (QMS)                   |ISO/IEC 17021-1             | ISO 9001                |
+|                                                    |ISO/IEC 17021-3             |                         |
+|                                                    |Applicable IAF MDs          |                         |
+|----------------------------------------------------+----------------------------+-------------------------|
+| Quality Management for Bunker Supply Chain (QMBS)  |ISO/IEC 17021-1             | ISO 9001                |
+| (under QMS)                                        |SAC CT 09                   | SS 524                  |
+|====================================================+============================+=========================|
+| Footer row                                         |                            |                         |
+|----------------------------------------------------+----------------------------+-------------------------|
