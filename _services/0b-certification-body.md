@@ -35,24 +35,6 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 |---
 | Programme | Accreditation Requirements | Certification Standards 
 |-|-|-
-| Quality Management Systems (QMS) | ISO/IEC 17021-1 | ISO 9001
-| | ISO/IEC 17021-3 | 
-| | Applicable IAF MDs | 
+| Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001
+| Quality Management for Bunker Supply Chain(QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524
 |---
-| Quality Management for Bunker Supply Chain (QMBS) | ISO/IEC 17021-1 | ISO 9001
-| (under QMS) | SAC CT 09 | SS 524
-|===
-| Footer row
-
-|----------------------------------------------------+----------------------------+-------------------------|
-| Programme                                          | Accreditation Requirements | Certification Standards |
-|----------------------------------------------------|----------------------------|-------------------------|
-| Quality Management Systems (QMS)                   |ISO/IEC 17021-1             | ISO 9001                |
-|                                                    |ISO/IEC 17021-3             |                         |
-|                                                    |Applicable IAF MDs          |                         |
-|----------------------------------------------------+----------------------------+-------------------------|
-| Quality Management for Bunker Supply Chain (QMBS)  |ISO/IEC 17021-1             | ISO 9001                |
-| (under QMS)                                        |SAC CT 09                   | SS 524                  |
-|====================================================+============================+=========================|
-| Footer row                                         |                            |                         |
-|----------------------------------------------------+----------------------------+-------------------------|
