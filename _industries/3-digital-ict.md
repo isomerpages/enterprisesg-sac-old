@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Digital / ICT
 permalink: /industries/digital-ict/
-breadcrumb: Digital / ICT
+breadcrumb: Industries
 collection_name: industries
 ---
