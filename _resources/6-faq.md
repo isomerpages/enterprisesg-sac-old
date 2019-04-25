@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: FAQ
 permalink: /resources/faq/
-breadcrumb: FAQ
+breadcrumb: Resources
 collection_name: resources
 ---
 
