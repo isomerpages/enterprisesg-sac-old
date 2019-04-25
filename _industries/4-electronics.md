@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Electronics
 permalink: /industries/electronics/
-breadcrumb: Electronics
+breadcrumb: Industries
 collection_name: industries
 ---
