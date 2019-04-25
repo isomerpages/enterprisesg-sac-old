@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Built Environment
 permalink: /industries/built-environment/
-breadcrumb: Built Environment
+breadcrumb: Industries
 collection_name: industries
 ---
