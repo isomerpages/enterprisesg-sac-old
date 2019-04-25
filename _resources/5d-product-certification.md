@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Product Certification
 permalink: /resources/product-certification
-breadcrumb: Certified Companies
+breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Certified Companies"
 ---
