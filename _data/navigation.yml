@@ -71,10 +71,10 @@
     url: /services/accreditation-services/
   - title: Training Services
     url: /services/training/
-  - title: e-Services - SACiNet(CABs)
-    url: /services/training/
-  - title: e-Services - eLearning Portal(Assessors)
-    url: /services/training/  
+  - title: e-Services - SACiNet (CABs)
+    url: https://sacinet.enterprisesg.gov.sg/
+  - title: e-Services - eLearning Portal (Assessors)
+    url: https://lms.wizlearn.com/saclearning  
 - title: NewsRoom
   url: /newsroom/
   sub-links:
