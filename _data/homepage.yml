@@ -18,26 +18,25 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: /about/
+    url: /about/our-role/
     
 key-highlights:
   - title: Search
-    description: SAC Accredited Organisation
-    url: https://google.com
+    description: SAC Accredited Organisations
+    url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
     external: true
-  - title: Accredition Services
+  - title: Accreditation Services
     description: Programmes/Schemes
-    url: https://yahoo.com
-    external: true
+    url: /services/accreditation-services
   - title: Get Accredited
     description: Route to Accreditation
-    url: /page-A/
+    url: /services/apply-for-accreditation/
   - title: SAC Publications
     description: Download Documents
-    url: /page/
+    url: /resources/publications/
   - title: Training
     description: Download Documents
-    url: /page-B/
+    url: /services/training/
  
 
 resources-title: NewsRoom
