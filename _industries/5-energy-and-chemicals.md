@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Energy & Chemicals
 permalink: /industries/energy-and-chemicals/
-breadcrumb: Energy & Chemicals
+breadcrumb: Industries
 collection_name: industries
 ---
