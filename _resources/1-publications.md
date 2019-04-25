@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Publications
 permalink: /resources/publications/
-breadcrumb: Publications
+breadcrumb: Resources
 collection_name: resources
 ---
 
