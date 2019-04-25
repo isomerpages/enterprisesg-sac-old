@@ -45,10 +45,10 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Good Distribution Practice for Medical Devices (GDPMDS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 04 | HSA TS-01 
 | Energy Management System (EnMS) | ISO/IEC 17021-1<br/>ISO/IEC 50003<br/>Applicable IAF MDs | ISO 50001
 | Water Efficiency Management System (WEMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 11 | SS 577
-| Learning Service Providers (LSP) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT13| ISO 29990 
-| Applicable Technical Notes | Multi-Tiered Cloud Computing Security (MTCS) | ISO/IEC 17021-1<br/>Applicable IAF MDs <br/>SAC CT 14 | SS 584
+| Learning Service Providers (LSP) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT13| ISO 29990<br/>Applicable Technical Notes 
+| Multi-Tiered Cloud Computing Security (MTCS) | ISO/IEC 17021-1<br/>Applicable IAF MDs <br/>SAC CT 14 | SS 584
 | End-of-Life ICT Equipment (EIMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 15 | SS 587 
 Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16
-| ISO 55001 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18
-| ISO 13485 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001
+| ISO 55001 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 
+| Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001
 |---
