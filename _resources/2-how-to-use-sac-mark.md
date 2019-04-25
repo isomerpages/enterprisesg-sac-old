@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: How to use SAC Mark
 permalink: /resources/how-to-use-sac-mark/
-breadcrumb: How to use SAC Mark
+breadcrumb: Resources
 collection_name: resources
 ---
 
