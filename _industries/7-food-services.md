@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Food Services
 permalink: /industries/food-services/
-breadcrumb: Food Services
+breadcrumb: Industries
 collection_name: industries
 ---
