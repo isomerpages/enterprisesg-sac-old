@@ -48,7 +48,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Learning Service Providers (LSP) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT13| ISO 29990<br/>Applicable Technical Notes 
 | Multi-Tiered Cloud Computing Security (MTCS) | ISO/IEC 17021-1<br/>Applicable IAF MDs <br/>SAC CT 14 | SS 584
 | End-of-Life ICT Equipment (EIMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 15 | SS 587 
-Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16
-| ISO 55001 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 
+Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16 | ISO 55001 
+| Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001
 |---
