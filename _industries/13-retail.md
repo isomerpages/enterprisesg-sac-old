@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Retail
 permalink: /industries/retail/
-breadcrumb: Retail
+breadcrumb: Industries
 collection_name: industries
 ---
