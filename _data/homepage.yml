@@ -11,8 +11,8 @@ favicon: /images/sac-esg-logo.png
 agency-logo: /images/sac-esg-logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Singapore Accreditation Council
+hero-subtitle: Enterprise Singapore
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -40,7 +40,7 @@ key-highlights:
     url: /page-B/
  
 
-resources-title: Resources
+resources-title: NewsRoom
 resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resources/
+resources-more-button: More
+resources-more-button-url: newsroom/
