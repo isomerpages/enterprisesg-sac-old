@@ -13,4 +13,4 @@ SAC officers are energetic, informed, have a 'can-do' attitude and are committed
 
 To apply for a vacancy, please click [here](http://careers-gov-search.jobstreet.com.sg/Careers-Gov/job-opening.php?src=3&organization=85&mode=org) or submit your CV to [sac@enterprisesg.gov.sg](mailto:sac@enterprisesg.gov.sg).
 
-![join us](../images/SAC_00451.jpg)
+![join us](/images/SAC-00451.jpg )
