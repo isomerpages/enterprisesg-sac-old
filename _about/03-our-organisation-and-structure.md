@@ -5,4 +5,4 @@ permalink: /about/our-organisation-and-structure/
 breadcrumb: About
 collection_name: about
 ---
-![Organisation Chart](SAC_Org_Chart_August2018.png)
+![Organisation Chart](/images/SAC_Org_Chart_August2018.png)
