@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Our Vision Mission And Strategic Outcome
-permalink: /about/our-vision-mission-and-strategic-outcome/
+title: Our Vision, Mission And Strategic Outcomes
+permalink: /about/our-vision-mission-and-strategic-outcomes/
 breadcrumb: About
 collection_name: about
 ---
