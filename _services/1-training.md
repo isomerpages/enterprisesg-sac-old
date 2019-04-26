@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Training Services
 permalink: /services/training/
-breadcrumb: Training Services
+breadcrumb: Services
 collection_name: services
 ---
 
