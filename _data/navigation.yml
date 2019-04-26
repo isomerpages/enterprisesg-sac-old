@@ -75,7 +75,7 @@
     url: https://sacinet.enterprisesg.gov.sg/
   - title: e-Services - eLearning Portal (Assessors)
     url: https://lms.wizlearn.com/saclearning  
-- title: NewsRoom
+- title: News & Events
   url: /newsroom/
   sub-links:
   - title: All
@@ -109,7 +109,7 @@
     url: /resources/sac-certified-companies
   - title: FAQ
     url: /resources/faq/
-- title: Accredited Organisations
+- title: Accredited Org
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
 - title: Contact Us
   url: /pages/contact-us/
