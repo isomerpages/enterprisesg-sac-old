@@ -31,7 +31,7 @@ collections:
     output: true
 
 # Resource Room and Pagination
-resources_name: "newsroom"
+resources_name: "News & Events"
 paginate: 12
 paginate_path: "/newsroom/page:num"
 
