@@ -7,17 +7,17 @@
 - title: Beeline
   category: CITIZEN
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-  img: images/enclave2017_1.png 
-  bg-color: bg-beeline
+  img: /images/enclave2017_1.png 
+  bg-color: #FFFFFF
 
 - title: ParkingSG
   category: CITIZEN
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-  img: images/enclave2017_1.png 
-  bg-color: bg-parkingsg
+  img: /images/enclave2017_1.png 
+  bg-color: #FFFFFF
 
 - title: SingPass
   category: CITIZEN
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-  img: images/enclave2017_1.png 
-  bg-color: bg-singpass
+  img: /images/enclave2017_1.png 
+  bg-color: #FFFFFF
