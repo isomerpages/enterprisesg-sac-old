@@ -19,7 +19,8 @@ hero-banner: /images/hero-banner.png
 button:
   - text: Learn More
     url: /about/our-role/
-    
+
+# Key Highlights
 key-highlights:
   - title: Search
     description: SAC Accredited Organisations
@@ -38,7 +39,14 @@ key-highlights:
     description: Download Documents
     url: /services/training/
  
+# Programmes Section
+programmes-title: What is Accreditation?
+programmes-subtitle: Build trust in Singapore products and services
+programmes-description: The Singapore Accreditation Council (SAC) is the national authority for the independent accreditation of conformity assessment bodies in Singapore.
+programmes-more-button: More about accreditation
+programmes-more-button-url:
 
+# Resources Section
 resources-title: News & Events
 resources-subtitle: Be in the know
 resources-more-button: More
