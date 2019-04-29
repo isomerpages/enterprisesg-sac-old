@@ -394,3 +394,11 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.owl-carousel .owl-item .item {
+    text-align:center;
+}
+.owl-carousel .owl-item img {
+    width: 60%;
+    height: auto;
+}
