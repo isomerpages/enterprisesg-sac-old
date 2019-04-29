@@ -14,3 +14,15 @@ SAC officers are energetic, informed, have a 'can-do' attitude and are committed
 To apply for a vacancy, please click [here](http://careers-gov-search.jobstreet.com.sg/Careers-Gov/job-opening.php?src=3&organization=85&mode=org) or submit your CV to [sac@enterprisesg.gov.sg](mailto:sac@enterprisesg.gov.sg).
 
 ![join us](/images/SAC-00451.jpg )
+
+### Assessors
+
+Assessors play a crucial role in the SAC accreditation and in improving the standard of practices in the conformance industry. We are looking for professionals and experts that are keen to contribute their time, expertise and experience as Team Leaders or Technical Assessors. As an assessor, you will have opportunities to work with committed industry professionals and observe the various best practices in the industry. Besides gaining a better understanding of the conformance industry and accreditation infrastructure, you can also participate in our assessor enclaves, where like-minded experts share their experiences.
+
+#### Team Leaders
+Team Leaders lead assessment teams in carrying out assessment of the CABs. They assess the compliance of the management system of CABs to international standards such as ISO/IEC 17021-1, ISO/IEC 17065, ISO/IEC 17024, ISO/IEC 17025 or ISO/IEC 17020. We welcome individuals with an engineering or science degree and extensive experience in assessment/auditing of quality management systems.
+
+#### Technical Assessors
+Technical assessors focus on the assessment of the technical competency of CABs in providing a specific scope of conformity assessment activities. We welcome professionals and experts who have technical expertise that is related to the various accreditation programmes administered by SAC. 
+
+If you have the relevant expertise and experience, and are interested in contributing towards the conformance industry and accreditation infrastructure, please contact Lim Lee Fang ([Lim_Lee_Fang@enterprisesg.gov.sg](mailto:Lim_Lee_Fang@enterprisesg.gov.sg)) for more information.
