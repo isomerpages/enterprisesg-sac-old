@@ -57,7 +57,7 @@ info-sections:
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title:
-programmes-subtitle: What is Accreditation
+programmes-subtitle: What is Accreditation?
 programmes-description: Build trust in Singapore products and services
 programmes-more-button: More
 programmes-more-button-url: /about/
