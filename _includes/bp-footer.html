@@ -172,16 +172,18 @@
         <div class="row is-vcentered padding--top--sm">
             <div class="col is-two-thirds">
                 <ul>
+                    <p>The National Accreditation Programme is managed by Enterprise Singapore</p>
+                    <p>© {{ site.time | date: "%Y" }} {{site.title -}}</p>
+                    {%- comment -%} <p class="last-updated">Last Updated {{site.time | date_to_string -}}</p> {%- endcomment -%}
+                </ul>
+            </div>
+            <div class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">                
+                <ul>
                     <li><a href="{{site.baseurl}}/privacy/">Privacy Statement</a></li>
                     <li><a href="{{site.baseurl}}/terms-of-use/">Terms of Use</a></li>
                     <li><a href="https://www.isomer.gov.sg">Built with Isomer</a></li>
                     {%- comment -%} <li><a>Rate Service</a></li> {%- endcomment -%}
                 </ul>
-            </div>
-            <div class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-                <p>The National Accreditation Programme is managed by Enterprise Singapore</p>
-                <p>© {{ site.time | date: "%Y" }} {{site.title -}}</p>
-                {%- comment -%} <p class="last-updated">Last Updated {{site.time | date_to_string -}}</p> {%- endcomment -%}
             </div>
         </div>
     </div>
