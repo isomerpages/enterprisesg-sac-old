@@ -41,15 +41,15 @@ key-highlights:
 
 # Info Sections
 info-sections:
-  - section-title: Our Services
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
+  - section-title: Businesses
+    section-subtitle: About Accreditation
+    section-description: Endorsement of an organisation’s competence, credibility, independence and integrity against both national and international standards
     section-more-button: More
     section-more-button-url: /about/
     section-image-path: /images/enclave2017_1.png 
-  - section-title: Businesses
-    section-subtitle: Develop seamlessly
-    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
+  - section-title: Regulators
+    section-subtitle: Accreditation programmes relevant to regulators
+    section-description: Health, safety, and the environment
     section-more-button: More
     section-more-button-url: /about/
     section-image-path: /images/enclave2017_2.png 
