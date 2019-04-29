@@ -55,11 +55,12 @@ info-sections:
     section-image-path: /images/enclave2017_2.png 
 
 # Programmes Section
-programmes-title: What is Accreditation?
-programmes-subtitle: Build trust in Singapore products and services
-programmes-description: The Singapore Accreditation Council (SAC) is the national authority for the independent accreditation of conformity assessment bodies in Singapore.
-programmes-more-button: More about accreditation
-programmes-more-button-url:
+# To edit the programme details, go to programmes.yml
+programmes-title:
+programmes-subtitle: What is Accreditation
+programmes-description: Build trust in Singapore products and services
+programmes-more-button: More
+programmes-more-button-url: /about/
 
 # Resources Section
 resources-title: News & Events
