@@ -46,26 +46,26 @@ info-sections:
     section-description: Learn about the importance and benefits of accreditation for companies
     section-more-button: More
     section-more-button-url: /services/accreditation-services
-    section-image-path: /images/enclave2017_1.png 
+    section-image-path: /images/SAC_00173.jpg 
   - section-title: Regulators
     section-subtitle: Get certified
     section-description: Relevant accreditation programmes for regulators
     section-more-button: More
     section-more-button-url: /services/training
-    section-image-path: /images/enclave2017_2.png 
+    section-image-path: /images/SAC_00326.jpg 
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title:
 programmes-subtitle: What is Accreditation?
 programmes-description: Build trust in Singapore products and services
-programmes-more-button: More
+programmes-more-button: More about SAC
 programmes-more-button-url: /about/
 
 # Resources Section
 resources-title: News & Events
 resources-subtitle: Be in the know
-resources-more-button: More
+resources-more-button: More news and events
 resources-more-button-url: newsroom/
 
 # Careers Section
