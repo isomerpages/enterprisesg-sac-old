@@ -8,16 +8,16 @@
   category: CITIZEN
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
   img: /images/enclave2017_1.png 
-  bg-color: #FFFFFF
+  bg-color: bg-secondary
 
 - title: ParkingSG
   category: CITIZEN
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
   img: /images/enclave2017_1.png 
-  bg-color: #FFFFFF
+  bg-color: bg-secondary
 
 - title: SingPass
   category: CITIZEN
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
   img: /images/enclave2017_1.png 
-  bg-color: #FFFFFF
+  bg-color: bg-secondary
