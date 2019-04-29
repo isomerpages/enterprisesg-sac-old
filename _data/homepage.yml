@@ -38,7 +38,22 @@ key-highlights:
   - title: Training
     description: Download Documents
     url: /services/training/
- 
+
+# Info Sections
+info-sections:
+  - section-title: Our Services
+    section-subtitle: Hassle-free registration
+    section-description: We streamline your user registration process by removing your need for password and user management.
+    section-more-button: More
+    section-more-button-url: /about/
+    section-image-path: /images/enclave2017_1.png 
+  - section-title: Businesses
+    section-subtitle: Develop seamlessly
+    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
+    section-more-button: More
+    section-more-button-url: /about/
+    section-image-path: /images/enclave2017_2.png 
+
 # Programmes Section
 programmes-title: What is Accreditation?
 programmes-subtitle: Build trust in Singapore products and services
