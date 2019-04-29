@@ -73,8 +73,10 @@
     url: /services/training/
   - title: e-Services - SACiNet (CABs)
     url: https://sacinet.enterprisesg.gov.sg/
+    external: true
   - title: e-Services - eLearning Portal (Assessors)
-    url: https://lms.wizlearn.com/saclearning  
+    url: https://lms.wizlearn.com/saclearning 
+    external: true
 - title: News & Events
   url: /newsroom/
   sub-links:
