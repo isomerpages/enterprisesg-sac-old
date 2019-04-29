@@ -45,13 +45,13 @@ info-sections:
     section-subtitle: About Accreditation
     section-description: Learn about the importance and benefits of accreditation for companies
     section-more-button: More
-    section-more-button-url: /about/
+    section-more-button-url: /services/accreditation-services
     section-image-path: /images/enclave2017_1.png 
   - section-title: Regulators
     section-subtitle: Get certified
     section-description: Relevant accreditation programmes for regulators
     section-more-button: More
-    section-more-button-url: /about/
+    section-more-button-url: /services/training
     section-image-path: /images/enclave2017_2.png 
 
 # Programmes Section
