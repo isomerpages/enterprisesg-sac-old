@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Publications
+title: Overview
 permalink: /resources/publications/
 breadcrumb: Resources
 collection_name: resources
