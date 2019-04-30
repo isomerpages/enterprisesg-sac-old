@@ -395,6 +395,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+#search_activate
+{
+    padding-left:0;
+    padding-right:0;	
+}
+
 .programme-container .owl-carousel .owl-item .item {
     text-align:center;
 }
