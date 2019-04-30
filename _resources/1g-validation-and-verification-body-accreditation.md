@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Validation and Verification Bodies
-permalink: /resources/validation-and-verification-bodies
+title: Validation and Verification Body Accreditation
+permalink: /resources/validation-and-verification-body-accreditation
 breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Publications"
