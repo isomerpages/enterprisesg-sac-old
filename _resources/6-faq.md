@@ -52,7 +52,7 @@ Certification is the procedure by which a third party gives written assurance th
 
 ILAC and  IAF have published an informative article titled "[Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace](http://ilac.org/?ddownload=119879)" in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
-<h4><a name="qn3">What are the benefits of being accredited?</a></h4>
+<h4><a name="qn3"></a>What are the benefits of being accredited?</h4>
 These are some of the key benefits of being accredited.
  
 **Building Trust**  
