@@ -5,7 +5,7 @@ permalink: /resources/faq/
 breadcrumb: Resources
 collection_name: resources
 ---
-
+<a name="top"></a>
 ### Frequently Asked Questions on SAC Accreditation Programmes
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation:
@@ -138,4 +138,96 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 
 <h4><a name="qn7"></a>Another other enquiries?</h4>
-If you have any questions or doubts, you can drop us an email or call us directly through the Contact Us section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
+
+---
+
+<h4><a name="qnb1"></a>What is the difference between GLP recognition and ISO/IEC 17025 accreditation?</h4>
+GLP is a quality system concerned with the organisation process and conditions under which the non-clinical studies are planned, recorded, archived and reported. ISO/IEC 17025 accreditation is a formal recognition for technical competence to undertake specific tests or calibrations. In general GLP is used for non-clinical health & safety studies that are often called for in regulations while ISO/IEC 17025 accreditation is used normally voluntary. Laboratory accreditation to ISO/IEC 17025 is for routine testing and measurement while GLP covers often a series of experiments. Only GLP recognition can provide an effective quality system that gives regulators the necessary confidence in relation to how non-clinical health and safety studies are planned, performed, monitored, recorded, reported and archived.
+
+
+<h4><a name="qnb2"></a>Why should I Seek GLP Recognition with SAC?</h4>
+Any facility claiming to be in compliance with the Principles of Good Laboratory Practice of the Organisation for Economic Cooperation and Development (OECD) under the Singapore compliance-monitoring programme must be recognised by SAC for that compliance.
+ 
+In 1981, a decision of OECD Council, data generated in an OECD member country under its national compliance monitoring programme is accepted in other OECD member countries for the purposes of product registration (Mutual Acceptance of Data). Since January 2010, Singapore has been accepted as a non-OECD member country to be a member of the OECD Mutual Acceptance of Data framework. With this adherence, GLP studies conducted in Singapore will be accepted in more than 30 OECD and non-OECD member countries. 
+ 
+Product registration in overseas markets are typically referred to the US FDA for pharmaceuticals and the European authority (EMEA). In Singapore, the relevant registration authorities are Health Sciences Authority (HSA for pharmaceuticals), Agri-Food & Veterinary Authority (AVA for biologics and agricultural chemicals) and National Environment Agency (NEA for pesticides and industrial chemicals). With the MAD adherence, the Singapore GLP Compliance programme will provide greater assurance of test data for non-clinical studies. These regulators will be able to accept the test data with confidence in the assessment of health and safety for product approvals. 
+
+
+<h4><a name="qnb3"></a>What are the OECD Principles?</h4>
+The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at OECD website: [www.oecd.org/ehs](http://www.oecd.org/ehs)
+
+
+<h4><a name="qnb4"></a>Where do I apply the GLP Studies?</h4>
+The Principles of GLP are applied to the conduct of non-clinical health and environmental safety studies of test items contained in various chemical products. A study covers work done in a laboratory, in an animal house, in greenhouses, and in the field. Non-clinical studies may cover physical-chemical testing, toxicity studies, mutagenicity studies, environmental toxicity, bioaccumulation, residue studies, studies on effects of mesocosms and ecosystems and the analytical chemistry associated with such studies.
+
+
+<h4><a name="qnb5"></a>What is the information required for submission to SAC?</h4>
+A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :   
+a. Management structure  
+b. Key responsibilities of the personnel and units  
+c. Information on names of Study Director, Study Sponsor  
+d. Persons in charge of Quality Assurance and the Archive  
+e. Quality Manual and Standard Operation Procedures Structure, Master Schedule etc.
+
+
+<h4><a name="qnb6"></a>What are the criteria that a facility must follow?</h4>
+The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:   
+a. Quality Assurance and GLP  
+b. Compliance with Laboratory Suppliers with GLP Principles  
+c. The Application of the GLP Principles to Field Studies  
+d. The Application of GLP Principles to Short Term Studies  
+e. The Role and Responsibilities of the Study Director in GLP Studies  
+f. The Application of Principles of GLP to Computer Systems  
+g. The Application of the OECD Principles of GLP to the Organisation and Management of Multi-site Studies.  
+h. The Application of the Principles of GLP to In Vitro Studies  
+i.  Establishment and Control of Archives that Operate in Compliance with the Principles of GLP
+
+
+<h4><a name="qnb7"></a>What is the registration process like?</h4>
+The process for registration generally includes the following stages: Enquiry, Application, Document Review, On-site Inspection, follow-ups and Award of Registration.
+
+Once a research facility indicates an interest to be GLP compliant, SAC will visit the facility and provide information on the criteria, fees and process. Upon application, a review of documentation submitted and a site visit will follow. The site visit will include interviews with key staff, review of equipment, calibration, process, test materials management, dosing, records, study audits, archive etc to ensure that the OECD Principles are complied with.
+
+After registration, there will be an annual visit for study audits and inspection to ensure continued compliance.
+
+
+<h4><a name="qnb8"></a>How long does it take for a facility to be registered from the time of enquiry to get registration from SAC?</h4>
+A time frame of 3-6 months is estimated as the time frame for the process. It may however vary from the type and nature of studies. 
+
+
+<h4><a name="qnb9"></a>Is this programme mandatory?</h4> 
+Programme is voluntary. However, in some countries, particularly those within European Union, it is required by law that any non-clinical studies are to be conducted in compliance with the OECD Principles of GLP. 
+
+
+<h4><a name="qnb10"></a>What is Mutual Acceptance of Data (MAD)?</h4>
+MAD is a framework OECD Council established in 1981 stating that data generated in an OECD Member country in accordance with OECD Test Guidelines and Principles of Good Laboratory Practice (GLP) will be accepted in other Member countries for assessment purposes and other uses relating to the protection of human health and the environment. 
+ 
+ 
+<h4><a name="qnb11"></a>Who can participate in the GLP Compliance Programme?</h4>
+Companies that can benefit from GLP registration include:  
+* Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries
+* Contract research organisations
+
+
+<h4><a name="qnb12"></a>What about GLP and Clinical Studies?</h4>
+There is a misconception that GLP is required for the conduct of clinical studies. That is not correct. The introduction to the OECD Principles of GLP makes it clear that they only apply to non-clinical (pre-clinical) studies. Clinical studies, such as pharmaco-kinetic and efficacy studies, are excluded.  The relevant documents for clinical studies are the various codes, such as International Conference on Harmonisation (ICH). The USFDA and other registration authorities do require a demonstration of the quality of test data from clinical studies. In the US, this may be by means of conformance with CLIA (Clinical Laboratories Improvement Act). In Singapore, this is best demonstrated by the testing laboratory’s SAC-SINGLAS accreditation (in Medical Testing, Chemical & Biological Testing etc). 
+ 
+ 
+<h4><a name="qnb13"></a>How do I gain GLP recognition?</h4>
+A facility seeking recognition for compliance with OECD Principles of GLP should apply to SAC, stating the proposed scope of recognition, type of studies etc. An on-site assessment is done to determine compliance with the Principles. At least one GLP compliant study must be completed prior to the initial assessment. Re-assessments are done every two years and a study audit is done annually.
+
+
+<h4><a name="qnb14"></a>Where can I access the OECD Principles of GLP?</h4>
+Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the OECD website: [http://www.oecd.org/ehs](http://www.oecd.org/ehs).
+
+
+<h4><a name="qnb15"></a>Where can I get more information?</h4>
+Further information on the Singapore compliance monitoring programme should be sent to 
+[lim_lee_fang@enterprisesg.gov.sg](mailto:lim_lee_fang@enterprisesg.gov.sg)
+ 
+ 
+<h4><a name="qnb16"></a>Any other enquiries?</h4>
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
+
+<p style="text-align:right;font-size:0.9rem;"><a href="top">Back to top</a></p>
