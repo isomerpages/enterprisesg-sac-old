@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: SAC Publications
 permalink: /resources/publications
-breadcrumb: Resources
+breadcrumb: Publications
 collection_name: resources
 second_nav_title: "Publications"
 ---
