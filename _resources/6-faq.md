@@ -39,10 +39,11 @@ Below are some questions and answers that would help you understand what accredi
 
 - - -
 
-<h4><a name="qn1">What is accreditation?</a></h4>
+<h4><a name="qn1"></a>What is accreditation?</h4>
 Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification.
 
-<h4><a name="qn2">What is the difference between accreditation and certification?</a></h4>
+
+<h4><a name="qn2"></a>What is the difference between accreditation and certification?</h4>
 **Accreditation:**  
 Accreditation is the formal recognition by an accreditation authority to the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation.
 
@@ -68,3 +69,59 @@ Although accreditation comes at a cost, the cost savings that result from being 
 
 **Demonstrate Credibility**
 No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel.
+
+
+<h4><a name="qn3"></a>What are the SAC accreditation schemes?</h4>
+Currently SAC operates the following accreditation schemes: 
+
+* **Accreditation Scheme for Laboratories (SAC-SINGLAS)**  
+This scheme  evaluates the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
+ 
+* **Accreditation Scheme for Inspection Bodies**  
+This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
+ 
+* **Accreditation Scheme for Management Systems Certification Bodies**  
+ * Quality Management System (QMS)
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
+
+ * Business Continuity Management System (BCM)
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM). 
+
+ * Energy Management System (ENMS)
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements of ISO/IEC 17021 and CT 10 - SAC Criteria for Certification Bodies (ENMS). 
+
+ * Environmental Management System (EMS)
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. 
+
+ * Occupational Safety and Health Management System (OSHMS)
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC  17021 and CT 02 - SAC Criteria for Certification Bodies (OSHMS).
+
+ * HACCP based Food Management System
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing  SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and SAC HACCP Doc  01. 
+
+ * Food Safety Management System
+This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
+ 
+* **Accreditation Scheme for Product Certification**
+This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
+ 
+More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services).
+
+
+<h4><a name="qn4"></a>What is the general procedure for getting accreditation?</h4>
+The general procedure to obtain accreditation is as below:
+
+**Enquiry and Formal Application**  
+Applicants will submit an application form to SAC with the necessary documents and a non-refundable application fee. An SAC Officer will contact the applicant and make the necessary arrangements.
+
+**Preliminary Assessment (Optional)**  
+An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited. 
+
+**Initial Assessment**
+A team consisting of SAC assessor and/or technical experts will conduct the initial assessment.
+
+**Recommendation by Assessment Team**  
+The team will make a recommendation to the Review Committee for accreditation decision if the applicant has rectified any non-conformity satisfactorily.
+
+**Award of Accreditation**  
+If the Review Committee is agreeable with the recommendation of the assessment team, the applicant will be granted accreditation and issued with a certificate of accreditation. 
