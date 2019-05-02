@@ -18,4 +18,4 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 01 - Accreditation Process for Certification Bodies](../files/CT 01 (29 Mar 18).pdf)
 * [Information on the IAF MLA mark and sub-licence agreement](../files/IAF ML2 (2016 Issue_3).pdf) 
 
-<p style="text-align:right;"><a href="../files/sac_certification_programmes_publications.zip">Download as zip file</a></p>
+<p style="text-align:right;"><a href="../files/sac_certification_programmes_publications.zip" download>Download as zip file</a></p>
