@@ -5,8 +5,8 @@ permalink: /resources/faq/
 breadcrumb: Resources
 collection_name: resources
 ---
-<a name="top"></a>
-### Frequently Asked Questions on SAC Accreditation Programmes
+
+### <a name="top"></a>Frequently Asked Questions on SAC Accreditation Programmes
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation:
 
