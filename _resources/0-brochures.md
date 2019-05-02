@@ -10,13 +10,13 @@ collection_name: resources
   <tbody>
     <tr style="text-align:center">
       <td style="text-align:center; border:0;">
-        <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf"><img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf" target="_blank"><img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/></a>
       </td>
       <td style="text-align:center; border:0;">
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf"><img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/></a>
       </td>
       <td style="text-align:center; border:0;">
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Inspection%20Bodies.pdf"><img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Inspection%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/></a>
       </td>
     </tr>
     <tr style="text-align:center">
