@@ -117,7 +117,7 @@ Applicants will submit an application form to SAC with the necessary documents a
 **Preliminary Assessment (Optional)**  
 An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited. 
 
-**Initial Assessment**
+**Initial Assessment**  
 A team consisting of SAC assessor and/or technical experts will conduct the initial assessment.
 
 **Recommendation by Assessment Team**  
@@ -125,3 +125,17 @@ The team will make a recommendation to the Review Committee for accreditation de
 
 **Award of Accreditation**  
 If the Review Committee is agreeable with the recommendation of the assessment team, the applicant will be granted accreditation and issued with a certificate of accreditation. 
+
+
+<h4><a name="qn5"></a>How long does it take to get SAC accreditation?</h4>
+This would depend on a number of factors, such as the degree of an organisation's compliance with requirements, complexity of scope of the accreditation, availability of witnessing and clearance of incidences of non-conformance highlighted during the assessment. A reasonable time frame is between three to six months.
+
+ 
+<h4><a name="qn6"></a>What happens after getting accredited?</h4>
+If you are accredited, you will be able to use the SAC Accreditation Mark and offer your products or services with confidence both nationally and worldwide. You can also make use of the ILAC or IAF MRA mark. In addition, your company and the scope of accreditation will be listed in the SAC Directory and website, where companies and regulators visit to source for reliable providers.  
+
+There will also be periodic surveillance assessments to ensure your continued compliance with the scope of accreditation. The accreditation certificate will also require renewal periodically and the renewal period will depend on the terms and conditions of the accreditation scheme.
+
+
+<h4><a name="qn7"></a>Another other enquiries?</h4>
+If you have any questions or doubts, you can drop us an email or call us directly through the Contact Us section.
