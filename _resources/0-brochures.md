@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Brochures
 permalink: /resources/brochures/
-breadcrumb: Resources
+breadcrumb: Brochures
 collection_name: resources
 ---
 
