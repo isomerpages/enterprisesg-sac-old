@@ -12,7 +12,7 @@ collection_name: resources
       <td style="text-align:center">
         <a href="/"><img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/></a>
       </td>
-      <td width="226" style="text-align:center">
+      <td style="text-align:center">
         <a href="/"><img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/></a>
       </td>
       <td style="text-align:center">
