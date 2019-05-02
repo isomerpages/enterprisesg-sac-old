@@ -25,7 +25,7 @@ Singapore 237994
 **Customer Service Hotline** : (65) 6826 9691  
 **Fax** : (65) 6820 3341  
 **Email** : [singaporestandardseshop@toppanleefung.com](mailto:singaporestandardseshop@toppanleefung.com)  
-**Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg)  
+**Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}  
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (_Closed on Saturdays, Sundays and Public Holidays_)
 
-In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APLAC](http://www.aplac.org/), [PAC](http://www.apec-pac.org/), [IAF](http://www.iaf.nu/) and [ILAC](http://www.ilac.org/) websites.
+In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APLAC](http://www.aplac.org/){:target="_blank"}, [PAC](http://www.apec-pac.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="_blank"} websites.
