@@ -230,4 +230,4 @@ Further information on the Singapore compliance monitoring programme should be s
 <h4><a name="qnb16"></a>Any other enquiries?</h4>
 If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
 
-<p style="text-align:right;font-size:0.9rem;"><a href="top">↑ Back to top</a></p>
+<p style="text-align:right;font-size:0.9rem;"><a href="#top">↑ Back to top</a></p>
