@@ -11,11 +11,11 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Publications for All Certification Programmes
 
-* [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](../files/SAC 01 (02 April 2018).pdf)
-* [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](../files/SAC 02 - SAC and MRA Marks (02 April 2018).pdf)
-* [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](../files/SAC Guidance 01 - Guidelines on Code of Ethics (02 April 2018).pdf) 
-* [Accreditation Feedback Form](../files/SACFM10 - AC feedback form 02 April 2018.doc)
-* [CT 01 - Accreditation Process for Certification Bodies](../files/CT 01 (29 Mar 18).pdf)
-* [Information on the IAF MLA mark and sub-licence agreement](../files/IAF ML2 (2016 Issue_3).pdf) 
+* [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/certification_programmes/SAC 01 (02 April 2018).pdf){:target="_blank"}
+* [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/certification_programmes/SAC 02 - SAC and MRA Marks (02 April 2018).pdf){:target="_blank"}
+* [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/certification_programmes/SAC Guidance 01 - Guidelines on Code of Ethics (02 April 2018).pdf){:target="_blank"}
+* [Accreditation Feedback Form](/files/certification_programmes/SACFM10 - AC feedback form 02 April 2018.doc){:target="_blank"}
+* [CT 01 - Accreditation Process for Certification Bodies](/files/certification_programmes/CT 01 (29 Mar 18).pdf){:target="_blank"}
+* [Information on the IAF MLA mark and sub-licence agreement](/files/certification_programmes/files/IAF ML2 (2016 Issue_3).pdf){:target="_blank"} 
 
-<p style="text-align:right;"><a href="../files/sac_certification_programmes_publications.zip" download>Download as zip file</a></p>
+<p style="text-align:right;"><a href="/files/certification_programmes/sac_certification_programmes_publications.zip" download>Download as zip file</a></p>
