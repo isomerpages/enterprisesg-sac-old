@@ -71,7 +71,7 @@ Although accreditation comes at a cost, the cost savings that result from being 
 No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel.
 
 
-<h4><a name="qn3"></a>What are the SAC accreditation schemes?</h4>
+<h4><a name="qn4"></a>What are the SAC accreditation schemes?</h4>
 Currently SAC operates the following accreditation schemes: 
 
 * **Accreditation Scheme for Laboratories (SAC-SINGLAS)**  
@@ -108,7 +108,7 @@ This scheme evaluates the technical competence, integrity and independence of pr
 More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services).
 
 
-<h4><a name="qn4"></a>What is the general procedure for getting accreditation?</h4>
+<h4><a name="qn5"></a>What is the general procedure for getting accreditation?</h4>
 The general procedure to obtain accreditation is as below:
 
 **Enquiry and Formal Application**  
@@ -127,17 +127,17 @@ The team will make a recommendation to the Review Committee for accreditation de
 If the Review Committee is agreeable with the recommendation of the assessment team, the applicant will be granted accreditation and issued with a certificate of accreditation. 
 
 
-<h4><a name="qn5"></a>How long does it take to get SAC accreditation?</h4>
+<h4><a name="qn6"></a>How long does it take to get SAC accreditation?</h4>
 This would depend on a number of factors, such as the degree of an organisation's compliance with requirements, complexity of scope of the accreditation, availability of witnessing and clearance of incidences of non-conformance highlighted during the assessment. A reasonable time frame is between three to six months.
 
  
-<h4><a name="qn6"></a>What happens after getting accredited?</h4>
+<h4><a name="qn7"></a>What happens after getting accredited?</h4>
 If you are accredited, you will be able to use the SAC Accreditation Mark and offer your products or services with confidence both nationally and worldwide. You can also make use of the ILAC or IAF MRA mark. In addition, your company and the scope of accreditation will be listed in the SAC Directory and website, where companies and regulators visit to source for reliable providers.  
 
 There will also be periodic surveillance assessments to ensure your continued compliance with the scope of accreditation. The accreditation certificate will also require renewal periodically and the renewal period will depend on the terms and conditions of the accreditation scheme.
 
 
-<h4><a name="qn7"></a>Another other enquiries?</h4>
+<h4><a name="qn8"></a>Another other enquiries?</h4>
 If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
 
 ---
