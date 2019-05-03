@@ -6,7 +6,7 @@ breadcrumb: Brochures
 collection_name: resources
 ---
 
-<table border="0" cellpadding="20">
+<table border="0" cellpadding="20" style="table-layout:fixed;">
   <tbody>
     <tr style="text-align:center">
       <td style="text-align:center; border:0;">
