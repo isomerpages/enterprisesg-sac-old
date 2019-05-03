@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Proficiency Testing Providers
 permalink: /resources/proficiency-testing-provider-accreditation
-breadcrumb: Publications
+breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Publications"
 ---
