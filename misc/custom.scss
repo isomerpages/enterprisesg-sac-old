@@ -395,6 +395,18 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+#brochures_table
+{
+    table-layout:fixed;
+}
+
+#brochures_table td
+{
+    text-align:center;
+    border: 0;
+    width: 33%;
+}
+
 #search-activate
 {
     padding-left:0;
