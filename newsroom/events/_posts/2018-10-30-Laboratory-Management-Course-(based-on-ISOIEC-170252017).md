@@ -1,4 +1,3 @@
-We are now open for registration.  Please go to this link for the [registration form]().
 ---
 layout: post
 title: Laboratory Management Course (based on ISO/IEC 17025:2017)
