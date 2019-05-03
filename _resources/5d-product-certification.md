@@ -18,7 +18,7 @@ second_nav_title: "Certified Companies"
 8. [SGS Testing & Control Services Singapore Pte Ltd](http://www.sgs.sg/en/Our-Company/Certified-Clients-and-Products/Certified-Client-Directory.aspx){:target="_blank"}
 9. [Singapore Laboratory Services Pte Ltd](http://sls-singapore.sg/certification/){:target="_blank"}
 10. [Singapore Test Services Pte Ltd](http://www.test.com.sg/services_certification.aspx?st=Fire%20Safety%20Product&sid=21){:target="_blank"}
-11. <[TÜV Rheinland Singapore Pte Ltd](https://www.certipedia.com/?locale=en#product-search){:target="_blank"}
+11. [TÜV Rheinland Singapore Pte Ltd](https://www.certipedia.com/?locale=en#product-search){:target="_blank"}
 12. TÜV SÜD PSB Pte Ltd
  - [Product Listing Scheme (PLS)](http://www.tuv-sud-psb.sg/sg-en){:target="_blank"}
  - [Ready-Mixed Concrete (RMC) Certification Scheme](http://www.tuv-sud-psb.sg/sg-en/activity/testing-product-certification/ready-mixed-concrete-certification-scheme){:target="_blank"}
