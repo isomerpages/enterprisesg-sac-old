@@ -395,12 +395,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.brochures-table
+#brochures-table1, #brochures-table2, #brochures-table3
 {
     table-layout:fixed;
 }
 
-.brochures-table td
+#brochures-table1 td, #brochures-table2 td, #brochures-table3 td
 {
     text-align:center;
     border: 0;
