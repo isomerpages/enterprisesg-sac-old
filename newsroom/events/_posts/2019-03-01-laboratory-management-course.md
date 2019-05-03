@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2019 Joint courses between HSA-SAC
-date: 2019-04-01
+title: Laboratory Management Course
+date: 2019-03-01
 permalink: /newsroom/events/laboratory-management-course
 ---
 
@@ -10,12 +10,12 @@ permalink: /newsroom/events/laboratory-management-course
 
 **Fee**: SGD 1284.00 (inclusive of GST)
  
-**Course Venue:**
+**Course Venue:**  
 Village Hotel Bugis  
 390 Victoria Street, Singapore 188061  
 (Training room: Quartz 1, Level 6)
  
-We are now open for registration.  Please go to this link for the registration form.
+We are now open for registration.  Please go to this link for the [registration form](/files/events/Registration%20form%20(LM%20and%20IA-Mar%202019).docx).
  
 This 3-day course is to help the participants:
 * Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and  
