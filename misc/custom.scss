@@ -395,12 +395,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-#brochures_table
+.brochures-table
 {
     table-layout:fixed;
 }
 
-#brochures_table td
+.brochures-table td
 {
     text-align:center;
     border: 0;
