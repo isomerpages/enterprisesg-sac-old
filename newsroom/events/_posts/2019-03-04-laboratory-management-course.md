@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laboratory Management Course
-date: 2019-03-01
+date: 2019-03-04
 permalink: /newsroom/events/laboratory-management-course
 ---
 
