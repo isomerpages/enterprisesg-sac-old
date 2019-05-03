@@ -5,10 +5,12 @@ permalink: /resources/brochures/
 breadcrumb: Brochures
 collection_name: resources
 ---
-### Commemorative Booklet: 50 Years of Quality and Standards
+Please refer to the link for the latest SAC brochures.
+
+#### Commemorative Booklet: 50 Years of Quality and Standards
 [![Commemorative Book 2016](/images/brochures/Comm%20Book%202016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"}
 
-### SAC Brochures
+#### SAC Brochures
 <table id="brochures_table" border="0" cellpadding="20">
   <tbody>
     <tr>
@@ -77,10 +79,10 @@ collection_name: resources
   </tbody>
  </table>
 
-### SAC Directory
+#### SAC Directory
 [![SAC Directory 16-17](/images/brochures/SAC%20Directory%20Cover%201617.png)](/files/brochures/SAC%20Directory%2016-17%20Final.pdf){:target="_blank"}
 
-### Other Brochures
+#### Other Brochures
 * [World Accreditation Day 2018](http://ilac.org/news-and-events/world-accreditation-day/){:target="_blank"}
 * [ILAC brochures](https://ilac.org/publications-and-resources/ilac-promotional-brochures/){:target="_blank"}
 * [IAF brochures](https://www.iaf.nu/articles/Promotional_Documents/300){:target="_blank"}
