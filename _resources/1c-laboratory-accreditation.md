@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Laboratory Accreditation
 permalink: /resources/laboratory-accreditation
-breadcrumb: Publications
+breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Publications"
 ---
