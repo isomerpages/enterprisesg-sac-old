@@ -6,7 +6,7 @@ breadcrumb: Brochures
 collection_name: resources
 ---
 ### Commemorative Booklet: 50 Years of Quality and Standards
-![[Commemorative Book 2016](/images/brochures/Comm%20Book%202016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html)
+![[Commemorative Book 2016](/images/brochures/Comm%20Book%2016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html)
 
 ### SAC Brochures
 <table id="brochures_table" border="0" cellpadding="20">
