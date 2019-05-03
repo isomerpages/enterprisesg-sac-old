@@ -8,7 +8,7 @@ collection_name: resources
 Please refer to the link for the latest SAC brochures.
 
 #### Commemorative Booklet: 50 Years of Quality and Standards
-<table class="brochures_table" border="0" cellpadding="20">
+<table class="brochures-table" border="0" cellpadding="20">
   <tbody>
     <tr>
       <td><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html" target="_blank"><img src="/images/brochures/Comm%20Book%202016.png" alt="Commemorative Book 2016"/></a></td>
@@ -20,7 +20,7 @@ Please refer to the link for the latest SAC brochures.
 
 
 #### SAC Brochures
-<table class="brochures_table" border="0" cellpadding="20">
+<table class="brochures-table" border="0" cellpadding="20">
   <tbody>
     <tr>
       <td>
@@ -90,7 +90,7 @@ Please refer to the link for the latest SAC brochures.
 
 
 #### SAC Directory
-<table class="brochures_table" border="0" cellpadding="20">
+<table class="brochures-table" border="0" cellpadding="20">
   <tbody>
     <tr>
       <td><a href="/files/brochures/SAC%20Directory%2016-17%20Final.pdf" target="_blank"><img src="/images/brochures/SAC%20Directory%20Cover%201617.png" alt="SAC Directory 16-17"/></a></td>
