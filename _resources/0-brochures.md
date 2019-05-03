@@ -5,6 +5,9 @@ permalink: /resources/brochures/
 breadcrumb: Brochures
 collection_name: resources
 ---
+### Commemorative Booklet: 50 Years of Quality and Standards
+![[Commemorative Book 2016](/images/brochures/Comm%20Book%202016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html)
+
 ### SAC Brochures
 <table id="brochures_table" border="0" cellpadding="20">
   <tbody>
@@ -24,7 +27,7 @@ collection_name: resources
       <td valign="top">Accreditation Scheme for Laboratories</td>
       <td valign="top">Accreditation Scheme for Inspection Bodies</td>
     </tr>
-    <tr>&nbsp;</tr>
+    <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Managament%20System%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-MS.jpg" alt="MS Certification Bodies"/></a>
@@ -41,7 +44,7 @@ collection_name: resources
       <td valign="top">Accreditation Scheme for Product Certification Bodies</td>
       <td valign="top">Good Laboratory Practice Compliance Programme</td>
     </tr>
-    <tr>&nbsp;</tr>
+    <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PCB.jpg" alt="Personnel Certification Bodies"/></a>
@@ -58,7 +61,7 @@ collection_name: resources
       <td valign="top">Accreditation Scheme for Proficiency Testing Providers</td>
       <td valign="top">SAC Accreditation Marks</td>
     </tr>
-    <tr>&nbsp;</tr>
+    <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-Building_Construction.PNG" alt="SAC-Brochures-Building_Construction"/></a>
