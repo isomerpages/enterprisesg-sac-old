@@ -20,6 +20,6 @@ This 3-day course is to help the participants:
 * Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and  
 * Develop a quality system which can improve the laboratory operations to meet the needs of their clients understand the SAC requirements for accreditation
 
-For course objectives, please view attached [link]/files/events/Course%20objectives%20for%20website-LM2018.docx).
+For course objectives, please view attached [link](/files/events/Course%20objectives%20for%20website-LM2018.docx).
 
 <span style="color:orange">*</span> Priority will be given to SAC accredited CABs.
