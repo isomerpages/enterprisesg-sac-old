@@ -6,7 +6,7 @@ permalink: /newsroom/events/joint-courses-between-HSA-SAC
 ---
 
 ## 2019 Joint courses between HSA-SAC
-April, May, July and August 2019
+#### April, May, July and August 2019
 
 Click [here](/files/events/Course%20brochure%202019.pdf){:target="_blank"} to download the course brochure.
  
@@ -14,9 +14,8 @@ Please email Ms Thang Jia Sui at [HSA_CML@hsa.gov.sg](mailto:HSA_CML@hsa.gov.sg)
  
 Please note link for registration:-  
 [https://bit.ly/2GygoWl](https://bit.ly/2GygoWl)  
-<img style="width:130px;height:130px;" alt="QR Code" src="/images/QR%20Code.png"/>
-
-<p style="color:#288400;font-size:0.9rem;font-style:italic;">Note: A participant interested in a MU course should only register for either 3(a) or 3(b).</p>
+<img style="display:inline;width:130px;height:130px;" alt="QR Code" src="/images/QR%20Code.png"/>  
+<span style="color:#288400;font-size:0.9rem;font-style:italic;">Note: A participant interested in a MU course should only register for either 3(a) or 3(b).</span>
 
 <table border="0" cellspacing="0" cellpadding="0" style="background-color:#CCCCCC;">
  <tbody>
