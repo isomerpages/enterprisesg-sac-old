@@ -8,11 +8,19 @@ collection_name: resources
 Please refer to the link for the latest SAC brochures.
 
 #### Commemorative Booklet: 50 Years of Quality and Standards
-<a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html" target="_blank"><img src="/images/brochures/Comm%20Book%202016.png" alt="Commemorative Book 2016" width="522" style="width:522px;height:auto;"/></a>
+<table class="brochures_table" border="0" cellpadding="20">
+  <tbody>
+    <tr>
+      <td>[![Commemorative Book 2016](/images/brochures/Comm%20Book%202016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"}</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>  
 
 
 #### SAC Brochures
-<table id="brochures_table" border="0" cellpadding="20">
+<table class="brochures_table" border="0" cellpadding="20">
   <tbody>
     <tr>
       <td>
@@ -82,7 +90,15 @@ Please refer to the link for the latest SAC brochures.
 
 
 #### SAC Directory
-<a href=/files/brochures/SAC%20Directory%2016-17%20Final.pdf" target="_blank"><img src="/images/brochures/SAC%20Directory%20Cover%201617.png" alt="SAC Directory 16-17" width="220" style="width:220px;height:auto;"/></a>
+<table class="brochures_table" border="0" cellpadding="20">
+  <tbody>
+    <tr>
+      <td>[![SAC Directory 16-17](/images/brochures/SAC%20Directory%20Cover%201617.png)](/files/brochures/SAC%20Directory%2016-17%20Final.pdf){:target="_blank"}</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table> 
 
 
 #### Other Brochures
