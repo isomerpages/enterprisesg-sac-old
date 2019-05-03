@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Validation and Verification Body Accreditation
 permalink: /resources/validation-and-verification-body-accreditation
-breadcrumb: Publications
+breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Publications"
 ---
