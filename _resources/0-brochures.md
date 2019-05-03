@@ -6,7 +6,6 @@ breadcrumb: Brochures
 collection_name: resources
 ---
 ### SAC Brochures
-
 <table id="brochures_table" border="0" cellpadding="20">
   <tbody>
     <tr>
@@ -25,7 +24,7 @@ collection_name: resources
       <td valign="top">Accreditation Scheme for Laboratories</td>
       <td valign="top">Accreditation Scheme for Inspection Bodies</td>
     </tr>
-    <tr><br/></tr>
+    <tr>&nbsp;</tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Managament%20System%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-MS.jpg" alt="MS Certification Bodies"/></a>
@@ -38,11 +37,11 @@ collection_name: resources
       </td>
     </tr>
     <tr>
-      <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Management System Certification Bodies</td>
-      <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Product Certification Bodies</td>
-      <td valign="top" style="text-align:center; border:0;">Good Laboratory Practice Compliance Programme</td>
+      <td valign="top">Accreditation Scheme for Management System Certification Bodies</td>
+      <td valign="top">Accreditation Scheme for Product Certification Bodies</td>
+      <td valign="top">Good Laboratory Practice Compliance Programme</td>
     </tr>
-    <tr><br/></tr>
+    <tr>&nbsp;</tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PCB.jpg" alt="Personnel Certification Bodies"/></a>
@@ -55,11 +54,11 @@ collection_name: resources
       </td>
     </tr>
     <tr>
-      <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Personnel Certification Bodies</td>
-      <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Proficiency Testing Providers</td>
-      <td valign="top" style="text-align:center; border:0;">SAC Accreditation Marks</td>
+      <td valign="top">Accreditation Scheme for Personnel Certification Bodies</td>
+      <td valign="top">Accreditation Scheme for Proficiency Testing Providers</td>
+      <td valign="top">SAC Accreditation Marks</td>
     </tr>
-    <tr><br/></tr>
+    <tr>&nbsp;</tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-Building_Construction.PNG" alt="SAC-Brochures-Building_Construction"/></a>
