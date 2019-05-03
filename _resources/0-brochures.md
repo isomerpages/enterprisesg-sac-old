@@ -58,5 +58,18 @@ collection_name: resources
       <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Proficiency Testing Providers</td>
       <td valign="top" style="text-align:center; border:0;">SAC Accreditation Marks</td>
     </tr>
+    <tr></tr>
+    <tr style="text-align:center">
+      <td style="text-align:center; border:0;">
+        <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-Building_Construction.PNG" alt="SAC-Brochures-Building_Construction"/></a>
+      </td>
+      <td style="text-align:center; border:0;"></td>
+      <td style="text-align:center; border:0;"></td>
+    </tr>
+    <tr style="text-align:center">
+      <td valign="top" style="text-align:center; border:0;">SAC Accreditation Programmes for the Building and Construction Industry</td>
+      <td valign="top" style="text-align:center; border:0;"></td>
+      <td valign="top" style="text-align:center; border:0;"></td>
+    </tr>
   </tbody>
  </table>
