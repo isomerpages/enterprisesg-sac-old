@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internal Audit Course
-date: 2019-03-02
+date: 2019-03-07
 permalink: /newsroom/events/internal-audit-course
 ---
 ## Internal Audit Course
@@ -22,4 +22,4 @@ This 2-day course is to help the participants:
  
 For course objectives, please view attached [link](/files/events/Course%20Objectives-IA.pdf){:target="_blank"}.
  
-<span style="color:orange">*</span> Priority will be given to SAC accredited CABs.
+<span style="color:orange;">*</span> Priority will be given to SAC accredited CABs.
