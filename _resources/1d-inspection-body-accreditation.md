@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Inspection Body Accreditation
 permalink: /resources/inspection-body-accreditation
-breadcrumb: Publications
+breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Publications"
 ---
