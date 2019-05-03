@@ -11,7 +11,7 @@ Please refer to the link for the latest SAC brochures.
 <table class="brochures_table" border="0" cellpadding="20">
   <tbody>
     <tr>
-      <td>[![Commemorative Book 2016](/images/brochures/Comm%20Book%202016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"}</td>
+      <td><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html" target="_blank"><img src="/images/brochures/Comm%20Book%202016.png" alt="Commemorative Book 2016"/></a></td>
       <td></td>
       <td></td>
     </tr>
@@ -93,7 +93,7 @@ Please refer to the link for the latest SAC brochures.
 <table class="brochures_table" border="0" cellpadding="20">
   <tbody>
     <tr>
-      <td>[![SAC Directory 16-17](/images/brochures/SAC%20Directory%20Cover%201617.png)](/files/brochures/SAC%20Directory%2016-17%20Final.pdf){:target="_blank"}</td>
+      <td><a href="/files/brochures/SAC%20Directory%2016-17%20Final.pdf" target="_blank"><img src="/images/brochures/SAC%20Directory%20Cover%201617.png" alt="SAC Directory 16-17"/></a></td>
       <td></td>
       <td></td>
     </tr>
