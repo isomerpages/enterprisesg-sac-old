@@ -5,71 +5,72 @@ permalink: /resources/brochures/
 breadcrumb: Brochures
 collection_name: resources
 ---
+### SAC Brochures
 
-<table border="0" cellpadding="20" style="table-layout:fixed;">
+<table id="brochures_table" border="0" cellpadding="20">
   <tbody>
-    <tr style="text-align:center">
-      <td style="text-align:center; border:0;">
+    <tr>
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf" target="_blank"><img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/></a>
       </td>
-      <td style="text-align:center; border:0;">
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/></a>
       </td>
-      <td style="text-align:center; border:0;">
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Inspection%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/></a>
       </td>
     </tr>
-    <tr style="text-align:center">
-      <td valign="top" style="text-align:center; border:0;">SAC Main Booklet</td>
-      <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Laboratories</td>
-      <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Inspection Bodies</td>
+    <tr>
+      <td valign="top">SAC Main Booklet</td>
+      <td valign="top">Accreditation Scheme for Laboratories</td>
+      <td valign="top">Accreditation Scheme for Inspection Bodies</td>
     </tr>
-    <tr></tr>
-    <tr style="text-align:center">
-      <td style="text-align:center; border:0;">
+    <tr><br/></tr>
+    <tr>
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Managament%20System%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-MS.jpg" alt="MS Certification Bodies"/></a>
       </td>
-      <td style="text-align:center; border:0;">
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Product%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PC.PNG" alt="Product Certification Bodies"/></a>
       </td>
-      <td style="text-align:center; border:0;">
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Good%20Laboratory%20Practice%20Compliance%20Programme.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-GLP.jpg" alt="GLP Compliance"/></a>
       </td>
     </tr>
-    <tr style="text-align:center">
+    <tr>
       <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Management System Certification Bodies</td>
       <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Product Certification Bodies</td>
       <td valign="top" style="text-align:center; border:0;">Good Laboratory Practice Compliance Programme</td>
     </tr>
-    <tr></tr>
-    <tr style="text-align:center">
-      <td style="text-align:center; border:0;">
+    <tr><br/></tr>
+    <tr>
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PCB.jpg" alt="Personnel Certification Bodies"/></a>
       </td>
-      <td style="text-align:center; border:0;">
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Proficiency%20Testing%20Providers.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PTP.jpg" alt="Proficiency Testing Providers"/></a>
       </td>
-      <td style="text-align:center; border:0;">
+      <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20SAC%20Accreditation%20Mark.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-SAC%20Accreditation%20Marks.jpg" alt="SAC Accreditation Marks"/></a>
       </td>
     </tr>
-    <tr style="text-align:center">
+    <tr>
       <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Personnel Certification Bodies</td>
       <td valign="top" style="text-align:center; border:0;">Accreditation Scheme for Proficiency Testing Providers</td>
       <td valign="top" style="text-align:center; border:0;">SAC Accreditation Marks</td>
     </tr>
-    <tr></tr>
-    <tr style="text-align:center">
-      <td style="text-align:center; border:0;">
+    <tr><br/></tr>
+    <tr>
+      <td>
         <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-Building_Construction.PNG" alt="SAC-Brochures-Building_Construction"/></a>
       </td>
-      <td style="text-align:center; border:0;"></td>
-      <td style="text-align:center; border:0;"></td>
+      <td></td>
+      <td></td>
     </tr>
-    <tr style="text-align:center">
-      <td valign="top" style="text-align:center; border:0;">SAC Accreditation Programmes for the Building and Construction Industry</td>
-      <td valign="top" style="text-align:center; border:0;"></td>
-      <td valign="top" style="text-align:center; border:0;"></td>
+    <tr>
+      <td valign="top">SAC Accreditation Programmes for the Building and Construction Industry</td>
+      <td valign="top"></td>
+      <td valign="top"></td>
     </tr>
   </tbody>
  </table>
