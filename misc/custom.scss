@@ -432,7 +432,7 @@ $desktop: 960px + (2 * $gap) !default;
 	display:none;
 }
 
-.bp-footer .sub-header:hover + .is-hidden-mobile
+.bp-footer .col.is-one-quarter:hover > p.is-hidden-mobile
 {
     display:block;
 }
