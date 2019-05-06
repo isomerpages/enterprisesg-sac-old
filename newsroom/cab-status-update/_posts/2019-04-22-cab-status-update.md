@@ -7,7 +7,7 @@ permalink: /newsroom/cab-status-update/cab-status-update
 ## CAB Status Update
 
 #### List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
-<p style="color:blue">1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider </p>
+<p style="color:blue;font-weight:bold;">1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider </p>
 
 **Laboratory**
   * Calibration & Measurement
@@ -45,11 +45,11 @@ permalink: /newsroom/cab-status-update/cab-status-update
      * Control Union Singapore Pte Ltd (12 March 2019)
 
  
-<p style="color:blue">2. Suspended Laboratory / Certification Body / Inspection Body</p>
+<p style="color:blue;font-weight:bold;">2. Suspended Laboratory / Certification Body / Inspection Body</p>
  Testing
 
 
-<p style="color:blue">3. Withdrawn Laboratory / Certification Body / Inspection Body</p>
+<p style="color:blue;font-weight:bold;">3. Withdrawn Laboratory / Certification Body / Inspection Body</p>
 
 **Voluntary Withdrawal by CABs**
 
@@ -87,4 +87,4 @@ permalink: /newsroom/cab-status-update/cab-status-update
   * Civil Engineering
     * ABSK Pte Ltd (05 February 2018)
 
-<p style="color:blue"> 4. Others - Inoperative</p>
+<p style="color:blue;font-weight:bold;"> 4. Others - Inoperative</p>
