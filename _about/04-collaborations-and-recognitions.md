@@ -6,7 +6,7 @@ breadcrumb: About
 collection_name: about
 ---
 
-<iframe width="660" height="400" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:660px;height:auto;max-width:100%;" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
 
 The SAC works closely with other accreditation bodies to establish and maintain the Mutual Recognition Arrangements (MRAs), which help to facilitate regional and international trade for Singapore. Based on the results of intensive multi-national peer evaluation of its signatories, MRAs are important in building confidence for the competence and capabilities of an international network of accredited conformity assessment bodies. This is why the SAC’s signatory status in the MRAs is a global passport for enterprises in Singapore, without any need for re-testing, re-inspection and re-certification. 
  
