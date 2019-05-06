@@ -52,29 +52,80 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001
 |---
+
 Note:   
 1. AF MD: IAF Mandatory Documents 
 2. Please see Annex 1 for the list of above-mentioned standards.
 
 #### (II) Product Certification Body
-<table class="table-with-border">
+<table>
   <thead>
     <tr>
-      <th valign="top">Products (Scope)</th>
-      <th valign="top">Accreditation Requirements</th>
-      <th valign="top">Certification Standards</th>
+      <th valign="top" style="border-width:1px;">Products (Scope)</th>
+      <th valign="top" style="border-width:1px;">Accreditation Requirements</th>
+      <th valign="top" style="border-width:1px;">Certification Standards</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">British Retailer Consortium (BRC) (Food)</td>
-      <td valign="top">ISO/IEC 17065</td>
-      <td valign="top">BRC Global Standard for Food Safety</td>
+      <td valign="top" style="border-width:1px;">British Retailer Consortium (BRC) (Food)</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">BRC Global Standard for Food Safety</td>
     </tr>
     <tr>
-      <td valign="top">Building & Construction</td>
-      <td valign="top">ISO/IEC 17065</td>
-      <td valign="top">SS 560<br/>Various applicable standards</td>
+      <td valign="top" style="border-width:1px;">Building & Construction</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">SS 560<br/>Various applicable standards</td>
+    </tr>
+   <tr>
+      <td valign="top" style="border-width:1px;">Electrical & Electronics</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Fire Safety Products (FSP)</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065<br/>SAC CT 12</td>
+      <td valign="top" style="border-width:1px;">Refer to SCDF Fire Safety Guidelines 1</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Food Products</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Various applicable standards</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Gas Appliances and Accessories</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Various applicable standards</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Green Products </td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Various applicable standards</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Personal Protective Equipment</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Various applicable standards</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Ready-mixed Concrete (RMC)</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065<br/>SAC CT 05</td>
+      <td valign="top" style="border-width:1px;">SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Telecommunication</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Various applicable standards</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">Water Efficiency Labelling Products (WELS)</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065<br/>SAC CT 19</td>
+      <td valign="top" style="border-width:1px;">Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide</td>
+    </tr>
+    <tr>
+      <td valign="top" style="border-width:1px;">All Other Products</td>
+      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
+      <td valign="top" style="border-width:1px;">Various applicable standards</td>
     </tr>
  </tbody>
 </table> 
