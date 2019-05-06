@@ -428,9 +428,10 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top:0;
 }
 
-.bp-footer .is-hidden-mobile
-{
-     display:none;
+.bp-footer .is-hidden-mobile {
+	p {
+     		display:none;
+	}
 }
 
 .bp-footer .sub-header:hover + .is-hidden-mobile
