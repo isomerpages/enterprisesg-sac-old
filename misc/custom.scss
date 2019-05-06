@@ -407,6 +407,13 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
 }
 
+.table-with-border {
+	td, th {
+		border: 1px solid #d6d6d6;
+		border-width: 1px;
+	}
+}
+
 #search-activate
 {
     padding-left:0;
