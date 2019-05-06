@@ -71,7 +71,7 @@
     url: /services/accreditation-services/
   - title: Training Services
     url: /services/training/
-  - title: e-Services - SACiNet (CABs)
+  - title: e-Services - SACiNet
     url: https://sacinet.enterprisesg.gov.sg/
     external: true
   - title: e-Services - eLearning Portal (Assessors)
