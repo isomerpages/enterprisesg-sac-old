@@ -427,3 +427,13 @@ $desktop: 960px + (2 * $gap) !default;
     font-size:0.9rem;
     margin-top:0;
 }
+
+.bp-footer .is-hidden-mobile
+{
+     display:none;
+}
+
+.bp-footer .sub-header:hover + .is-hidden-mobile
+{
+    display:block;
+}
