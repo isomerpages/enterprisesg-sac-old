@@ -9,10 +9,10 @@ permalink: /newsroom/events/SAC-CT-17-–-SAC-Criteria-for-Accreditation-of-Audi
 
 **Fee:** SGD 256.80 (inclusive of GST) 
 
-**Course Venue:** 
-Village Hotel Bugis 
-390 Victoria Street 
-Singapore 188061 
+**Course Venue:**  
+Village Hotel Bugis   
+390 Victoria Street  
+Singapore 188061  
 Room: Quartz II, Level 6 
 
 This 1-day course is to provide the participants with:  
