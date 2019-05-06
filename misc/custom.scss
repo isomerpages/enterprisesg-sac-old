@@ -413,14 +413,7 @@ $desktop: 960px + (2 * $gap) !default;
     padding-right:0;	
 }
 
-.programme-container .owl-carousel .owl-item .item {
-    text-align:center;
-}
 
-.programme-container .owl-carousel .owl-item img {
-    width: 60%;
-    height: auto;
-}
 
 .back-to-top {
     text-align:right;
@@ -435,4 +428,15 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-footer .col.is-one-quarter:hover > p.is-hidden-mobile
 {
     display:block;
+}
+
+@media screen and (min-width: 1024px) {
+	.programme-container .owl-carousel .owl-item .item {
+    		text-align:center;
+	}
+
+	.programme-container .owl-carousel .owl-item img {
+	    width: 60%;
+	    height: auto;
+	}
 }
