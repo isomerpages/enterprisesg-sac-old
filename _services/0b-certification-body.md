@@ -52,3 +52,29 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001
 |---
+Note:   
+1. AF MD: IAF Mandatory Documents 
+2. Please see Annex 1 for the list of above-mentioned standards.
+
+#### (II) Product Certification Body
+<table class="table-with-border">
+  <thead>
+    <tr>
+      <th valign="top">Products (Scope)</th>
+      <th valign="top">Accreditation Requirements</th>
+      <th valign="top">Certification Standards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">British Retailer Consortium (BRC) (Food)</td>
+      <td valign="top">ISO/IEC 17065</td>
+      <td valign="top">BRC Global Standard for Food Safety</td>
+    </tr>
+    <tr>
+      <td valign="top">Building & Construction</td>
+      <td valign="top">ISO/IEC 17065</td>
+      <td valign="top">SS 560<br/>Various applicable standards</td>
+    </tr>
+ </tbody>
+</table> 
