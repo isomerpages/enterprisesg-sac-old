@@ -1,13 +1,13 @@
 {%- assign homepage = site.data.homepage -%}
 
 <style>
-  .bg-hero {
-    background: url('{{site.baseurl}}{{homepage.hero-banner}}') no-repeat top left;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  
+.bg-hero {
+  background: url('{{site.baseurl}}{{homepage.hero-banner}}') no-repeat top left;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
 </style>
+
 {%- assign collection-name = page.collection_name -%}
 {%- assign current-collection = site[collection-name] -%}
 
