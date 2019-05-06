@@ -72,10 +72,10 @@
   - title: Training Services
     url: /services/training/
   - title: e-Services - SACiNet
-    url: https://sacinet.enterprisesg.gov.sg/
+    url: https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form
     external: true
   - title: e-Services - eLearning Portal (Assessors)
-    url: https://lms.wizlearn.com/saclearning 
+    url: https://lms.wizlearn.com/saclearning
     external: true
 - title: Resources
   url: /resources/brochures/
