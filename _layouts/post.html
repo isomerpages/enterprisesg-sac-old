@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<section class="bp-section bg-secondary">
+  <div class="bp-container ">
+    <a name="top"></a>
+    <div class="row">
+      <div class="col is-11">
+        {%- include header-breadcrumb.html -%}
+      </div>
+    </div>
+  </div>
+  <div class="bp-container ">
+    <div class="row">
+      <div class="col is-11">
+      	<h1 class="has-text-white"><b>{{page.title}}</b></h1>
+      </div>
+    </div>
+  </div>
+  <div class="bp-container ">
+    <div class="row">
+      <div class="col is-11">
+      	<small class="has-text-white" style="padding-top: 2.25rem; padding-bottom: 0">{{- page.date | date_to_string | upcase -}}</small>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bp-section">
+	<div class="bp-container padding--top--lg content">
+    <div class="row">
+      <div class="col is-8 is-offset-2 print-content">
+    		{{- content -}}
+      </div>
+      {%- include print.html -%}
+    </div>
+    <p class="back-top-top"><a href="#top">↑ Back to top</a></p>
+  </div>
+</section>
