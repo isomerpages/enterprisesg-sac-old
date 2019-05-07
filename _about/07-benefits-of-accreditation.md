@@ -5,3 +5,60 @@ permalink: /about/benefits-of-accreditation/
 breadcrumb: About
 collection_name: about
 ---
+
+<ul class="bp-menu-list">
+                            {%- assign prev-second-nav-title = "" -%}
+                            {%- assign is-in-second-level-div = false -%}
+                            {%- for collection-document in current-collection -%}
+                                {%- comment -%} If this page is selected {%- endcomment -%}
+                                {%- if page.url == collection-document.permalink -%}
+                                    {%- if collection-document.second_nav_title -%}
+                                        {%- unless prev-second-nav-title == collection-document.second_nav_title -%}
+                                            {%- if is-in-second-level-div == true -%}
+                                                </div>
+                                            {%- endif -%}
+                                            <li class="is-active second-level-nav-header"><a class="is-active second-level-nav-header">{{- collection-document.second_nav_title -}}<i class="sgds-icon sgds-icon-chevron-up is-pulled-right is-size-4" aria-hidden="true"></i></a></li>
+                                            <div class="second-level-nav-div">
+                                            {%- assign is-in-second-level-div = true -%}
+                                        {%- endunless -%}
+                                        <li><a class="is-active second-level-nav-item padding--top--none" href="{{- site.baseurl -}}{{- collection-document.permalink -}}">{{- collection-document.title -}}</a></li>
+                                    {%- else -%}
+                                        {%- if is-in-second-level-div == true -%}
+                                            </div>
+                                        {%- endif -%}
+                                        <li><a class="is-active" href="{{- site.baseurl -}}{{- collection-document.permalink -}}">{{- collection-document.title -}}</a></li>
+                                        {%- assign is-in-second-level-div = false -%}
+                                    {%- endif -%}
+                                {%- comment -%} If this page is not the one that is selected {%- endcomment -%}
+                                {%- else -%}
+                                    {%- if collection-document.second_nav_title -%}
+                                        {%- unless prev-second-nav-title == collection-document.second_nav_title -%}
+                                            {%- if page.second_nav_title == collection-document.second_nav_title -%}
+                                                {%- if is-in-second-level-div == true -%}
+                                                    </div>
+                                                {%- endif -%}
+                                                <li class="is-active second-level-nav-header"><a class="is-active second-level-nav-header">{{- collection-document.second_nav_title -}}<i class="sgds-icon sgds-icon-chevron-up is-pulled-right is-size-4" aria-hidden="true"></i></a></li>
+                                                {%- assign is-in-second-level-div = true -%}
+                                                <div class="second-level-nav-div">
+
+                                            {%- else -%}
+                                                {%- if is-in-second-level-div == true -%}
+                                                    </div>
+                                                {%- endif -%}
+                                                <li class="second-level-nav-header"><a class="second-level-nav-header">{{- collection-document.second_nav_title -}}<i class="sgds-icon sgds-icon-chevron-down is-pulled-right is-size-4" aria-hidden="true"></i></a></li>
+                                                {%- assign is-in-second-level-div = true -%}
+                                                <div class="second-level-nav-div is-hidden">
+                                            {%- endif -%}
+                                        {%- endunless -%}
+                                        <li><a class="second-level-nav-item padding--top--none" href="{{- site.baseurl -}}{{- collection-document.permalink -}}">{{- collection-document.title -}}</a></li>
+                                    {%- else -%}
+                                        {%- if is-in-second-level-div == true -%}
+                                            </div>
+                                        {%- endif -%}
+                                        <li><a href="{{- site.baseurl -}}{{- collection-document.permalink -}}">{{- collection-document.title -}}</a></li>
+                                        {%- assign is-in-second-level-div = false -%}
+                                    {%- endif -%}
+                                {%- endif -%}
+                                {%- assign prev-second-nav-title = collection-document.second_nav_title -%}
+                            {%- endfor -%}
+                        </ul>
