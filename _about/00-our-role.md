@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Role
-permalink: /about/our-role/
-breadcrumb: about
+permalink: /about/our-role
 collection_name: about
 ---
 
