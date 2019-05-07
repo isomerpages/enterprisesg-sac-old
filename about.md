@@ -5,5 +5,6 @@ permalink: /about
 breadcrumb: 
 collection_name: about
 ---
-
-<span><b><p>{{- page.title -}}</p></b></span>
+{%- assign prev-second-nav-title = "hello world" -%}
+<p>{{- prev-second-nav-title -}}</p>
+<span><b>{{- page.title -}}</b></span>
