@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Our Role
 permalink: /about/our-role/
-breadcrumb: About
+breadcrumb: about
 collection_name: about
 ---
 
