@@ -5,7 +5,7 @@
 ##################################
 
 - title: About
-  url: /about/
+  url: /about
   sub-links:
   - title: Our Role
     url: /about/our-role/
