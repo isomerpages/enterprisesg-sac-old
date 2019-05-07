@@ -5,6 +5,6 @@ permalink: /about/the-sac-mark/
 breadcrumb: About
 collection_name: about
 ---
-{%- for collection-document in current-collection -%}
-  <p>{{- collection-document.title -}}</p>
-{%- endfor -%}
+
+{%- assign prev-second-nav-title = "hello world" -%}
+<p>{{- prev-second-nav-title -}}</p>
