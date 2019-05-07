@@ -1,7 +1,7 @@
 ---
 layout: navpage_overview
 title: About
-permalink: /about
+permalink: /about/
 breadcrumb: 
 collection_name: about
 ---
