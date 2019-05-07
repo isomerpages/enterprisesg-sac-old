@@ -1,10 +1,9 @@
 ---
-layout: leftnav-page-content
+layout: navpage_overview
 title: About
 permalink: /about
 breadcrumb: 
 collection_name: about
 ---
-{%- assign prev-second-nav-title = "hello world" -%}
-<p>{{- prev-second-nav-title -}}</p>
+
 <span><b>{{- page.title -}}</b></span>
