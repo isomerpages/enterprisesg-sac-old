@@ -7,6 +7,7 @@ collection_name: about
 ---
 
 <p>{{site.baseurl}}</p>
+<p>{{page.title}}</p>
 
 {%- assign current-collection = site[collection-name] -%}
 {%- for collection-document in current-collection -%}
