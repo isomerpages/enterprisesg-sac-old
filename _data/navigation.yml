@@ -5,7 +5,7 @@
 ##################################
 
 - title: About
-  url: /about/our-role/
+  url: /about/
   sub-links:
   - title: Our Role
     url: /about/our-role/
@@ -26,7 +26,7 @@
   - title: Join Us
     url: /about/join-us/
 - title: Industries
-  url: /industries/testing-inspection-certification-industries/
+  url: /industries/
   sub-links:
   - title: Testing Inspection Certification Industries
     url: /industries/testing-inspection-certification-industries/
@@ -65,7 +65,7 @@
   - title: Others
     url: /industries/others/
 - title: Services
-  url: /services/accreditation-services/
+  url: /services/
   sub-links:
   - title: Accreditation Services
     url: /services/accreditation-services/
@@ -78,7 +78,7 @@
     url: https://lms.wizlearn.com/saclearning
     external: true
 - title: Resources
-  url: /resources/brochures/
+  url: /resources/
   sub-links:
   - title: Brochures
     url: /resources/brochures/
