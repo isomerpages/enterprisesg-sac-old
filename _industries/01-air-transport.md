@@ -1,7 +1,6 @@
 ---
 layout: leftnav-page-content
 title: Air Transport
-permalink: /industries/air-transport/
-breadcrumb: Industries
+permalink: /industries/air-transport
 collection_name: industries
 ---
