@@ -10,9 +10,9 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Publications for All Certification Programmes
 
-* [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/file/sac_documents/SAC%2001%20%2802%20April%202018%29.pdf){:target="_blank"}
-* [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/file/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
-* [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/file/sac_documents/SAC%20Guidance%2001%20-%20Guidelines%20on%20Code%20of%20Ethics%20%2802%20April%202018%29.pdf){:target="_blank"}
+* [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/sac_documents/SAC%2001%20%2802%20April%202018%29.pdf){:target="_blank"}
+* [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
+* [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/sac_documents/SAC%20Guidance%2001%20-%20Guidelines%20on%20Code%20of%20Ethics%20%2802%20April%202018%29.pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/sac_documents/SACFM10%20-%20AC%20feedback%20form%2002%20April%202018.doc){:target="_blank"}
 * [CT 01 - Accreditation Process for Certification Bodies](/files/sac_documents/management_system_and_products_certification/CT%2001%20%2829%20Mar%2018%29.pdf){:target="_blank"}
 * [Information on the IAF MLA mark and sub-licence agreement](/files/sac_documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"} 
