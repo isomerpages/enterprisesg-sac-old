@@ -32,7 +32,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/sac_documents/management_system_and_products_certification/CT%2016%2c%2029%20March%202019.pdf){:target="_blank"} 
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/sac_documents/management_system_and_products_certification/CT%2018%2c%2029%20March%202019.pdf){:target="_blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 29 March 2019](/files/sac_documents/management_system_and_products_certification/CT%2021%20-%2029%20March%202019.pdf){:target="_blank"} 
-* [Management Systems Fees Schedule - 5 July 2018](/files/sac_documents/management_system_and_products_certification/SAC%20HACCP%20Doc%201_Sep05%20%28Amdt6_1Nov10%29.pdf){:target="_blank"} 
+* [Management Systems Fees Schedule - 5 July 2018](/files/sac_documents/management_system_and_products_certification/MS-Fees%20Schedule%20%28MSDOC04%29%205%20July%202018.pdf){:target="_blank"} 
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - Nov 2010](/files/sac_documents/management_system_and_products_certification/SAC%20HACCP%20Doc%201_Sep05%20%28Amdt6_1Nov10%29.pdf){:target="_blank"} 
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/sac_documents/management_system_and_products_certification/MD%201%20Issue%202%20Jan%202018%20Pub%2029%2001%202018.pdf){:target="_blank"} 
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/sac_documents/management_system_and_products_certification/IAF%20MD2%20-%202017.pdf){:target="_blank"} 
@@ -55,11 +55,15 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Assessment Checklist (ISO/TS 22003) - May 2017](/files/sac_documents/management_system_and_products_certification/MPFM25C%20-%20FSMS%20checklist%20%28May%2017%29.doc) 
 * [Assessment Checklist (ISO/IEC 27006) - Oct 18](/files/sac_documents/management_system_and_products_certification/Assessment%20Checklist%20%28ISOIEC%2027006%29%2010%20Oct%2018.doc)
 
+<p class="back-to-top"><a href="/files/sac_documents/management_system_and_products_certification/standards_and_criteria_document_for_management_systems_certification.zip" download>Download all  as zip file</a></p>
+
 ### Joint IAF-ISO Communiques 
 * [IAF-ISO_Communique_Expected_Outcomes_ISO_9001](/files/sac_documents/management_system_and_products_certification/IAF-ISO_Communique_Expected_Outcomes_ISO_9001.pdf){:target="_blank"} 
 * [IAF-ISO_Communique_Expected_Outcomes_ISO_14001](/files/sac_documents/management_system_and_products_certification/IAF-ISO_Communique_Expected_Outcomes_ISO_14001.pdf){:target="_blank"} 
 * [Joint IAF-ISO Communique on the publication and transition of ISO 9001:2015](/files/sac_documents/management_system_and_products_certification/Joint%20IAF%20ISO%20Communique%20on%20the%20publication%20and%20transition%2008Oct%202015.pdf){:target="_blank"} 
 * [IAF Communique on important information for certification bodies regarding transition to ISO 9001 and ISO 14001](/files/sac_documents/management_system_and_products_certification/IAF_communique__Important_information_for_Certification_Bodies_regarding_transition_to_ISO_9001_and_ISO_14001.pdf){:target="_blank"} 
+
+<p class="back-to-top"><a href="/files/sac_documents/management_system_and_products_certification/joint_iaf_iso_communiques.zip" download>Download all  as zip file</a></p>
 
 ### Standards and Criteria Document for Product Certification
 **ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services**
@@ -72,10 +76,14 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Product Certification Fees Schedule - 5 Jul 2018](/files/sac_documents/management_system_and_products_certification/Pdt-Fees%20Schedule%20%28PDOC04%29%205%20July%202018.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17065) - Sept 2013](/files/sac_documents/management_system_and_products_certification/17065%20checklist%2c%20Sep%2013.docx){:target="_blank"}
 
+<p class="back-to-top"><a href="/files/sac_documents/management_system_and_products_certification/standards_and_criteria_document_for_product_certification.zip" download>Download all  as zip file</a></p>
+
 ### Standards and Criteria Document for Personnel Certification
 **ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons**
 * [Personnel Certification Fee Schedule - 5 July 2018](/files/sac_documents/management_system_and_products_certification/PC-Fees%20Schedule%20%28PCDOC04%29%205%20July%202018.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/sac_documents/management_system_and_products_certification/17024%20checklist%2c%20Sep%2013.docx){:target="_blank"}
+
+<p class="back-to-top"><a href="/files/sac_documents/management_system_and_products_certification/standards_and_criteria_document_for_personnel_ceritification.zip" download>Download all  as zip file</a></p>
 
 ### Standards and Criteria Document for Auditing Organisations
 **Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
@@ -83,3 +91,5 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 17 - SAC Criteria for Auditing Organisations - Oct 2018](/files/sac_documents/management_system_and_products_certification/CT%2017%201%20October%202018.pdf){:target="_blank"}
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/sac_documents/management_system_and_products_certification/AO-Fees%20Schedule%20%28AODOC04%29%205%20July%202018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/sac_documents/management_system_and_products_certification/Assessment%20Checklist%20%28CT%2017%29%20-%2001%20October%202018.docx){:target="_blank"}
+
+<p class="back-to-top"><a href="/files/sac_documents/management_system_and_products_certification/standards_and_criteria_document_for_auditing%20_organisations.zip" download>Download all  as zip file</a></p>
