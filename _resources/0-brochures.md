@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Brochures
-permalink: /resources/brochures/
-breadcrumb: Brochures
+permalink: /resources/brochures
 collection_name: resources
 ---
 Please refer to the link for the latest SAC brochures.
