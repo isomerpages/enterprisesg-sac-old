@@ -2,7 +2,6 @@
 layout: leftnav-page-content
 title: Personnel Certification
 permalink: /resources/personnel-certification
-breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Certified Companies"
 ---
