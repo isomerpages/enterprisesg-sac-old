@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: How to use ILAC Mark
-permalink: /resources/how-to-use-ilac-mark/
-breadcrumb: Resources
+permalink: /resources/how-to-use-ilac-mark
 collection_name: resources
 ---
 
