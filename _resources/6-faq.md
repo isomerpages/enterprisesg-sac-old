@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: FAQ
-permalink: /resources/faq/
-breadcrumb: Resources
+permalink: /resources/faq
 collection_name: resources
 ---
 ### <a name="top"></a>Frequently Asked Questions on SAC Accreditation Programmes
