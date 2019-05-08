@@ -1,7 +1,7 @@
 ---
 layout: navpage_overview
 title: Services
-permalink: /services
-breadcrumb: 
+file_url: /services/
+breadcrumb: services
 collection_name: services
 ---
