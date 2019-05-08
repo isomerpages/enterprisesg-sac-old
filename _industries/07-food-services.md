@@ -1,7 +1,6 @@
 ---
 layout: leftnav-page-content
 title: Food Services
-permalink: /industries/food-services/
-breadcrumb: Industries
+permalink: /industries/food-services
 collection_name: industries
 ---
