@@ -11,7 +11,7 @@ A certification body must be fully conversant and comply with the relevant stand
 ### Publications for All Certification Programmes
 
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/file/sac_documents/SAC%2001%20%2802%20April%202018%29.pdf){:target="_blank"}
-* [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks]/file/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
+* [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/file/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/file/sac_documents/SAC%20Guidance%2001%20-%20Guidelines%20on%20Code%20of%20Ethics%20%2802%20April%202018%29.pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/sac_documents/SACFM10%20-%20AC%20feedback%20form%2002%20April%202018.doc){:target="_blank"}
 * [CT 01 - Accreditation Process for Certification Bodies](/files/sac_documents/management_system_and_products_certification/CT%2001%20%2829%20Mar%2018%29.pdf){:target="_blank"}
@@ -46,8 +46,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems](/files/sac_documents/management_system_and_products_certification/IAF%20MD11%202013.pdf){:target="_blank"} 
 * [IAF MD 11:2019 - For the Application of ISO/IEC/IEC 17021-1 for Audits of Integrated Management Systems](/files/sac_documents/management_system_and_products_certification/IAF%20MD11%20Issue%202%2017012019.pdf){:target="_blank"} 
 * [IAF MD 12:2016 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/sac_documents/management_system_and_products_certification/IAF%20MD%2012.pdf){:target="_blank"} 
-* [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance]/files/sac_documents/management_system_and_products_certification/IAF%20MD%2015.pdf){:target="_blank"} 
-* [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies]/files/sac_documents/management_system_and_products_certification/IAF%20MD%2016.pdf){:target="_blank"} 
+* [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/sac_documents/management_system_and_products_certification/IAF%20MD%2015.pdf){:target="_blank"} 
+* [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/sac_documents/management_system_and_products_certification/IAF%20MD%2016.pdf){:target="_blank"} 
 * [IAF MD 21:2018 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/sac_documents/management_system_and_products_certification/IAF%20MD21%20%28Migration%20to%20ISO45001-2018%29.pdf){:target="_blank"} 
 * [IAF MD 22:2018 - Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/sac_documents/management_system_and_products_certification/IAF%20MD%2022%20OHSMS.pdf){:target="_blank"} 
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies](/files/sac_documents/management_system_and_products_certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="_blank"}
