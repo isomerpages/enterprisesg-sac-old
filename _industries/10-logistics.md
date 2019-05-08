@@ -1,7 +1,6 @@
 ---
 layout: leftnav-page-content
 title: Logistics
-permalink: /industries/logistics/
-breadcrumb: Industries
+permalink: /industries/logistics
 collection_name: industries
 ---
