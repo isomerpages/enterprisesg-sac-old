@@ -1,1 +1,13 @@
 {%- include bp-footer.html -%}
+{%- if 'leftnav-page-content' -%}
+<script>
+// Dropdowns for mobile
+var $dropdowns = $("[aria-controls='dropdown-menu']"); 
+
+if ($dropdowns.length > 0) {
+    $dropdowns.forEach(function ($el) {
+        $el.attr('href','#');
+    });
+}
+</script>
+{%- endif -%}
