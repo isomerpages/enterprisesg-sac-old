@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Join Us
-permalink: /about/join-us/
-breadcrumb: About
+permalink: /about/join-us
 collection_name: about
 ---
 ### Career with SAC
