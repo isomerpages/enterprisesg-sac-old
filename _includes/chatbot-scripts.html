@@ -1,0 +1,9 @@
+// Dropdowns for mobile
+var dropdowns = document.getElementsByClassName("bp-dropdown is-hoverable");
+
+if (dropdowns.length > 0) {
+    var bpdropdownbuttons = dropdowns[0].getElementsByClassName("bp-dropdown-button");
+    if (bpdropdownbuttons.length > 0) {
+      bpdropdownbuttons[0].setAttribute("href", "#"); 
+    }
+}
