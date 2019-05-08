@@ -425,6 +425,10 @@ $desktop: 960px + (2 * $gap) !default;
     display: block;
 }
 
+.bp-dropdown.is-hoverable .bp-dropdown-button:hover, .bp-dropdown.is-hoverable .bp-dropdown-button:active {
+	color:blue;
+}
+
 .bp-footer p.is-hidden-mobile {
 	display:none;
 }
