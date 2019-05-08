@@ -1,7 +1,6 @@
 ---
 layout: leftnav-page-content
 title: Others
-permalink: /industries/others/
-breadcrumb: Industries
+permalink: /industries/others
 collection_name: industries
 ---
