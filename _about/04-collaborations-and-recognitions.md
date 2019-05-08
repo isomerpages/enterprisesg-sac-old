@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Collaborations And Recognitions
-permalink: /about/collaborations-and-recognitions/
+permalink: /about/collaborations-and-recognitions
 collection_name: about
 ---
 
