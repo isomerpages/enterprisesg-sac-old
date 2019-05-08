@@ -1,10 +1,10 @@
 {%- include bp-footer.html -%}
 <script>
 // Dropdowns for mobile
-var $dropdowns = $("a[aria-controls='dropdown-menu']"); 
+var $dropdowns1 = $("a[aria-controls='dropdown-menu']"); 
 
-if ($dropdowns.length > 0) {
-    $dropdowns.forEach(function ($el) {
+if ($dropdowns1.length > 0) {
+    $dropdowns1.forEach(function ($el) {
         $el.attr('href','#');
     });
 }
