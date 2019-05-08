@@ -1,7 +1,7 @@
 ---
 layout: navpage_overview
 title: Resources
-permalink: /resources
-breadcrumb: 
+file_url: /resources/
+breadcrumb: resources
 collection_name: resources
 ---
