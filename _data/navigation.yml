@@ -5,72 +5,72 @@
 ##################################
 
 - title: About
-  url: /about
+  url: /about/
   sub-links:
   - title: Our Role
-    url: /about/our-role/
+    url: /about/our-role
   - title: Our Vision, Mission And Strategic Outcomes
-    url: /about/our-vision-mission-and-strategic-outcomes/
+    url: /about/our-vision-mission-and-strategic-outcomes
   - title: Our History
-    url: /about/our-history/
+    url: /about/our-history
   - title: Our Organisation And Structure
-    url: /about/our-organisation-and-structure/
+    url: /about/our-organisation-and-structure
   - title: Collaborations And Recognitions
-    url: /about/collaborations-and-recognitions/
+    url: /about/collaborations-and-recognitions
   - title: The SAC Mark
-    url: /about/the-sac-mark/
+    url: /about/the-sac-mark
   - title: About Accreditation
-    url: /about/about-accreditation/
+    url: /about/about-accreditation
   - title: Benefits Of Accreditation
-    url: /about/benefits-of-accreditation/
+    url: /about/benefits-of-accreditation
   - title: Join Us
-    url: /about/join-us/
+    url: /about/join-us
 - title: Industries
   url: /industries/
   sub-links:
   - title: Testing Inspection Certification Industries
-    url: /industries/testing-inspection-certification-industries/
+    url: /industries/testing-inspection-certification-industries
   - title: Air Transport
-    url: /industries/air-transport/
+    url: /industries/air-transport
   - title: Built Environment
-    url: /industries/built-environment/
+    url: /industries/built-environment
   - title: Digital/ICT
-    url: /industries/digital-ict/
+    url: /industries/digital-ict
   - title: Electronics
-    url: /industries/electronics/
+    url: /industries/electronics
   - title: Energy & Chemicals
-    url: /industries/energy-and-chemicals/
+    url: /industries/energy-and-chemicals
   - title: Food Manufacturing
-    url: /industries/food-manufacturing/
+    url: /industries/food-manufacturing
   - title: Food Services
-    url: /industries/food-services/
+    url: /industries/food-services
   - title: Healthcare & Biomedical
-    url: /industries/healthcare-and-biomedical/
+    url: /industries/healthcare-and-biomedical
   - title: Land Transport
-    url: /industries/land-transport/
+    url: /industries/land-transport
   - title: Logistics
-    url: /industries/logistics/
+    url: /industries/logistics
   - title: Marine & Offshore Engineering
-    url: /industries/marine-and-offshore-engineering/
+    url: /industries/marine-and-offshore-engineering
   - title: Precision Engineering
-    url: /industries/precision-engineering/
+    url: /industries/precision-engineering
   - title: Retail
-    url: /industries/retail/
+    url: /industries/retail
   - title: Sea Transport
-    url: /industries/sea-transport/
+    url: /industries/sea-transport
   - title: Urban Solutions
-    url: /industries/urban-solutions/
+    url: /industries/urban-solutions
   - title: Wholesale Trade
-    url: /industries/wholesale-trade/
+    url: /industries/wholesale-trade
   - title: Others
-    url: /industries/others/
+    url: /industries/others
 - title: Services
   url: /services/
   sub-links:
   - title: Accreditation Services
-    url: /services/accreditation-services/
+    url: /services/accreditation-services
   - title: Training Services
-    url: /services/training/
+    url: /services/training
   - title: e-Services - SACiNet
     url: https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form
     external: true
@@ -81,19 +81,19 @@
   url: /resources/
   sub-links:
   - title: Brochures
-    url: /resources/brochures/
+    url: /resources/brochures
   - title: Publications
-    url: /resources/publications/
+    url: /resources/publications
   - title: How to use SAC Mark
-    url: /resources/how-to-use-sac-mark/
+    url: /resources/how-to-use-sac-mark
   - title: How to use ILAC Mark
-    url: /resources/how-to-use-ilac-mark/
+    url: /resources/how-to-use-ilac-mark
   - title: How to use IAF Mark
-    url: /resources/how-to-use-iaf-mark/
+    url: /resources/how-to-use-iaf-mark
   - title: Certified Companies
     url: /resources/sac-certified-companies
   - title: FAQ
-    url: /resources/faq/
+    url: /resources/faq
 - title: NewsRoom
   url: /newsroom/
   sub-links:
@@ -115,4 +115,4 @@
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
   external: true
 - title: Contact Us
-  url: /contact-us/
+  url: /contact-us
