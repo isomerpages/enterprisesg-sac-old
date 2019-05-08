@@ -54,3 +54,20 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/sac_documents/management_system_and_products_certification/17021-1%20checklist%2c%20Jan%2016.doc){:target="_blank"} 
 * [Assessment Checklist (ISO/TS 22003) - May 2017](/files/sac_documents/management_system_and_products_certification/MPFM25C%20-%20FSMS%20checklist%20%28May%2017%29.doc){:target="_blank"} 
 * [Assessment Checklist (ISO/IEC 27006) - Oct 18](/files/sac_documents/management_system_and_products_certification/Assessment%20Checklist%20%28ISOIEC%2027006%29%2010%20Oct%2018.doc){:target="_blank"} 
+
+### Joint IAF-ISO Communiques 
+* [IAF-ISO_Communique_Expected_Outcomes_ISO_9001](/files/sac_documents/management_system_and_products_certification/IAF-ISO_Communique_Expected_Outcomes_ISO_9001.pdf){:target="_blank"} 
+* [IAF-ISO_Communique_Expected_Outcomes_ISO_14001](/files/sac_documents/management_system_and_products_certification/IAF-ISO_Communique_Expected_Outcomes_ISO_14001.pdf){:target="_blank"} 
+* [Joint IAF-ISO Communique on the publication and transition of ISO 9001:2015](/files/sac_documents/management_system_and_products_certification/Joint%20IAF%20ISO%20Communique%20on%20the%20publication%20and%20transition%2008Oct%202015.pdf){:target="_blank"} 
+* [IAF Communique on important information for certification bodies regarding transition to ISO 9001 and ISO 14001](/files/sac_documents/management_system_and_products_certification/IAF_communique__Important_information_for_Certification_Bodies_regarding_transition_to_ISO_9001_and_ISO_14001.pdf){:target="_blank"} 
+
+### Standards and Criteria Document for Product Certification
+#### ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services
+* [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/CT%2005%2c%2029%20March%202019.pdf){:target="_blank"} 
+* [CT 06 - SAC Criteria for Ready-Mixed Concrete Producers - March 2019](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/CT%2006%2c%2029%20March%202019.pdf){:target="_blank"}
+* [CT 12 - SAC Criteria for Product Certification Bodies (Fire Safety Products) - March 2019](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/CT%2012%2c%2029%20March%202019.pdf){:target="_blank"}
+* [CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/CT%2019%2c%2029%20March%202019.pdf){:target="_blank"}
+* [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/CT%2020%202%20Nov%2018.pdf){:target="_blank"}
+* [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 04 May 2018](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/WELS%20Guidebook%20%284%20May%2018%29.pdf){:target="_blank"}
+* [Product Certification Fees Schedule - 5 Jul 2018](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/Pdt-Fees%20Schedule%20%28PDOC04%29%205%20July%202018.pdf){:target="_blank"}
+* [Assessment Checklist (ISO/IEC 17065) - Sept 2013](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Documents/Management_System_And_Products_Certificaton/Related_Documents/17065%20checklist%2c%20Sep%2013.docx){:target="_blank"}
