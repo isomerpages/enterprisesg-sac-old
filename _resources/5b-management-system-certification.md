@@ -2,7 +2,6 @@
 layout: leftnav-page-content
 title: Management System Certification
 permalink: /resources/management-system-certification
-breadcrumb: Resources
 collection_name: resources
 second_nav_title: "Certified Companies"
 ---
