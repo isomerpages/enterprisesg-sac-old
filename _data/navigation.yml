@@ -100,17 +100,17 @@
   - title: All
     url: /newsroom/
   - title: News Releases
-    url: /newsroom/news-releases/
+    url: /newsroom/news-releases
   - title: Events
-    url: /newsroom/events/
+    url: /newsroom/events
   - title: Videos
-    url: /newsroom/videos/
+    url: /newsroom/videos
   - title: Case Studies
-    url: /newsroom/case-studies/
+    url: /newsroom/case-studies
   - title: CAB Status Update
-    url: /newsroom/cab-status-update/
+    url: /newsroom/cab-status-update
   - title: CAB Success Stories
-    url: /newsroom/cab-success-stories/    
+    url: /newsroom/cab-success-stories    
 - title: Accredited Org
   url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
   external: true
