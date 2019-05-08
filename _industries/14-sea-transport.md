@@ -1,7 +1,6 @@
 ---
 layout: leftnav-page-content
 title: Sea Transport
-permalink: /industries/sea-transport/
-breadcrumb: Industries
+permalink: /industries/sea-transport
 collection_name: industries
 ---
