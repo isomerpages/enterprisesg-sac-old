@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Training Services
-permalink: /services/training/
-breadcrumb: Services
+permalink: /services/training
 collection_name: services
 ---
 
