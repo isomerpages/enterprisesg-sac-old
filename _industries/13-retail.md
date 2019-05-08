@@ -1,7 +1,6 @@
 ---
 layout: leftnav-page-content
 title: Retail
-permalink: /industries/retail/
-breadcrumb: Industries
+permalink: /industries/retail
 collection_name: industries
 ---
