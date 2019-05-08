@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our History
-permalink: /about/our-history/
+permalink: /about/our-history
 collection_name: about
 ---
 
