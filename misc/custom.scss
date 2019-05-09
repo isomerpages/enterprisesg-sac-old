@@ -439,11 +439,8 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top:0;
 }
 
-.bp-dropdown.is-hoverable .bp-dropdown-button {
-    	box-sizing:content-box;
-	span {
-		white-space:normal;
-	}
+.bp-dropdown.is-hoverable .bp-dropdown-button span{
+    white-space:normal;
 }
 
 .bp-footer p.is-hidden-mobile {
