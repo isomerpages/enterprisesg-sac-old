@@ -421,15 +421,7 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top:0;
 }
 
-.bp-dropdown.is-hoverable:active .bp-dropdown-menu {
-    display: block;
-}
-
-.bp-dropdown.is-hoverable:not(:active) .bp-dropdown-menu {
-    display: none;
-}
-
-.bp-dropdown.is-hoverable:active .bp-dropdown-button span {
+.bp-dropdown.is-hoverable .bp-dropdown-button span {
     white-space:normal;
 }
 
