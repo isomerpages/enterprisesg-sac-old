@@ -10,14 +10,16 @@
                 navbarDropdowns[i].style.display = "none";
             }
             
+            var navbarDropdown;
+            var navbarItemLinks;
             var navbarItems = document.getElementsByClassName('navbar-item has-dropdown');
             for (var i=0; i<navbarItems.length; i++) {
                 //toggle navbar dropdown menu
                 
-                var navbarItemLinks = navbarItems[i].getElementsByClassName('navbar-link');
+                navbarItemLinks = navbarItems[i].getElementsByClassName('navbar-link');
                 navbarDropdowns = navbarItems[i].getElementsByClassName('navbar-dropdown');
                 if (navbarItemLinks.length > 0) {
-                    var navbarDropdown = navbarDropdowns[0];
+                    navbarDropdown = navbarDropdowns[0];
                     navbarItemLinks[0].addEventListener('click', function (event) {
                         event.preventDefault();
                         if (navbarDropdown.style.display == "none") {
@@ -27,7 +29,6 @@
                         }
                     });
                 }
-                
             }
         }
     }    
