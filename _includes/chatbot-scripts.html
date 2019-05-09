@@ -2,7 +2,8 @@
     //script to toggle navbar dropdown menu im mobile view
     var navbarBurgers = document.getElementsByClassName('navbar-burger');
     if (navbarBurgers.length > 0) {
-        console.log("navbar-burger", navbarBurgers[0].style.display);
+        console.log("navbar-burger display", navbarBurgers[0].style.display);
+        console.log("navbar-burger visibility", navbarBurgers[0].style.visibility);
         if (navbarBurgers[0].style.display != "none") {
             
             //hide navbar dropdown menus on first load
