@@ -2,13 +2,12 @@
     //script to toggle navbar dropdown menu im mobile view
     var navbarBurgers = document.getElementsByClassName('navbar-burger');
     if (navbarBurgers.length > 0) {
-        console.log("navbarBurger display", window.getComputedStyle(navbarBurgers[0], null).getPropertyValue("display"));
-        if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue("display") != "none") {
+        if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
             
             //hide navbar dropdown menus on first load
             var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
             for (var i=0; i<navbarDropdowns.length; i++) {
-                navbarDropdowns[i].style.display = "none";
+                navbarDropdowns[i].style.display = 'none';
             }
             
             var navbarDropdown;
@@ -23,10 +22,10 @@
                     navbarDropdown = navbarDropdowns[0];
                     navbarItemLinks[0].addEventListener('click', function (event) {
                         event.preventDefault();
-                        if (navbarDropdown.style.display == "none") {
-                            navbarDropdown.style.display = "block";
+                        if (navbarDropdown.style.display == 'none') {
+                            navbarDropdown.style.display = 'block';
                         } else {
-                            navbarDropdown.style.display = "none";
+                            navbarDropdown.style.display = 'none';
                         }
                     });
                 }
@@ -41,8 +40,8 @@
 var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
 if (mobileDropdownSections.length > 0) {
     //dropmenu bar is visible in mobile screen
-    console.log("mobileDropdownSections display", mobileDropdownSections[0].style.display);
-    if  (mobileDropdownSections[0].style.display != "none") {
+    console.log('mobileDropdownSection',window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display'));
+    if (window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display') == 'block') {
         var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
         var dropdownMenu = document.getElementById('dropdown-menu');
         if (dropdownTriggers.length > 0 && dropdownMenu !== null) {
@@ -56,15 +55,15 @@ if (mobileDropdownSections.length > 0) {
             
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('click', function (event) {
-                if (dropdownMenu.style.display == "none") {
-                    dropdownMenu.style.display = "block";
+                if (dropdownMenu.style.display == 'none') {
+                    dropdownMenu.style.display = 'block';
                     if (dropdownIcon !== null) {
-                        dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-down", "sgds-icon-chevron-up");
+                        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
                     }
                 } else {
-                    dropdownMenu.style.display = "none";
+                    dropdownMenu.style.display = 'none';
                     if (dropdownIcon !== null) {
-                        dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-up", "sgds-icon-chevron-down");
+                        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
                     }
                 }
             });
