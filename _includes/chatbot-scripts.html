@@ -25,10 +25,10 @@ window.onload = function(){
                     navbarDropdown = navbarDropdowns[0];
                     navbarItemLinks[0].addEventListener('click', function (event) {
                         event.preventDefault();
-                        if (navbarDropdown.style.display == 'none') {
-                            navbarDropdown.style.display = 'block';
+                        if (navbarDropdowns[0].style.display == 'none') {
+                            navbarDropdowns[0].style.display = 'block';
                         } else {
-                            navbarDropdown.style.display = 'none';
+                            navbarDropdowns[0].style.display = 'none';
                         }
                     });
                 }
