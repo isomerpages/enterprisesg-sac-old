@@ -23,7 +23,7 @@
                     navbarDropdown = navbarDropdowns1[0];
                     navbarItemLinks[0].addEventListener('click', function (event) {
                         event.preventDefault();
-                        if (navbarDropdown.style.display == 'none') {
+                        if (navbarDropdown.style.display != 'block') {
                             navbarDropdown.style.display = 'block';
                         } else {
                             navbarDropdown.style.display = 'none';
@@ -41,8 +41,6 @@
 var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
 if (mobileDropdownSections.length > 0) {
     //dropmenu bar is visible in mobile screen
-    console.log('mobileDropdownSection display',mobileDropdownSections[0].style.display);
-    console.log('mobileDropdownSection',window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display'));
     if (window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display') == 'block') {
         var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
         var dropdownMenu = document.getElementById('dropdown-menu');
@@ -57,7 +55,7 @@ if (mobileDropdownSections.length > 0) {
             
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('click', function (event) {
-                if (dropdownMenu.style.display == 'none') {
+                if (dropdownMenu.style.display != 'block') {
                     dropdownMenu.style.display = 'block';
                     if (dropdownIcon !== null) {
                         dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
