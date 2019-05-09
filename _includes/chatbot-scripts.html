@@ -27,8 +27,10 @@ window.onload = function(){
                         }
                         if (navbarDropdown.style.display == 'none') {
                             navbarDropdown.style.display = 'block';
+                            this.className = this.className + ' is-active';
                         } else {
                             navbarDropdown.style.display = 'none';
+                            this.className = this.className.replace('is-active','');
                         }
                     });
                 }
