@@ -1,11 +1,10 @@
 <script>
 // Dropdowns for mobile
-var dropdowns = document.getElementsByClassName('.bp-dropdown.is-hoverable');
+var dropdowns = document.getElementsByClassName('bp-dropdown is-hoverable');
 
 if (dropdowns.length > 0) {
     dropdowns.forEach(function ($el) {
         $el.addEventListener('click', function (event) {
-            alert('click');
             var dropdownmenu = document.getElementById('dropdown-menu');
             if (dropdownmenu !== null) {
                 if (dropdownmenu.style.display == "none") {
