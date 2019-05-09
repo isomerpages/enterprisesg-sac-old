@@ -35,44 +35,41 @@ window.onload = function(){
             }
         }
     }  
+    
+    // script to toggle leftnav dropdown menu in mobile view
+    var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
+    if (mobileDropdownSections.length > 0) {
+        //dropmenu bar is visible in mobile screen
+        if (window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display') == 'block') {
+            var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
+            var dropdownMenu = document.getElementById('dropdown-menu');
+            if (dropdownTriggers.length > 0 && dropdownMenu !== null) {
+
+                //get dropdown trigger bar 'up/down' icon
+                var dropdownIcons = dropdownTriggers[0].getElementsByClassName('sgds-icon');
+                var dropdownIcon;
+                if (dropdownIcons.length > 0) {
+                    dropdownIcon = dropdownIcons[0];
+                }
+
+                //toggle dropdown menu and dropdown trigger bar icon 
+                dropdownTriggers[0].addEventListener('click', function (event) {
+                    if (dropdownMenu.style.display != 'block') {
+                        dropdownMenu.style.display = 'block';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                        }
+                    } else {
+                        dropdownMenu.style.display = 'none';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+                        }
+                    }
+                });
+            } 
+        }
+    }
 };    
 </script>    
 
-{%- if page.layout == 'leftnav-page-content' -%}
-<script>
-// script to toggle leftnav dropdown menu in mobile view
-var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
-if (mobileDropdownSections.length > 0) {
-    //dropmenu bar is visible in mobile screen
-    if (window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display') == 'block') {
-        var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
-        var dropdownMenu = document.getElementById('dropdown-menu');
-        if (dropdownTriggers.length > 0 && dropdownMenu !== null) {
-            
-            //get dropdown trigger bar 'up/down' icon
-            var dropdownIcons = dropdownTriggers[0].getElementsByClassName('sgds-icon');
-            var dropdownIcon;
-            if (dropdownIcons.length > 0) {
-                dropdownIcon = dropdownIcons[0];
-            }
-            
-            //toggle dropdown menu and dropdown trigger bar icon 
-            dropdownTriggers[0].addEventListener('click', function (event) {
-                if (dropdownMenu.style.display != 'block') {
-                    dropdownMenu.style.display = 'block';
-                    if (dropdownIcon !== null) {
-                        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-                    }
-                } else {
-                    dropdownMenu.style.display = 'none';
-                    if (dropdownIcon !== null) {
-                        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
-                    }
-                }
-            });
-        } 
-    }
-}
-</script>    
-{%- endif -%} 
 
