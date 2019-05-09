@@ -426,7 +426,12 @@ $desktop: 960px + (2 * $gap) !default;
     padding-right:0;	
 }
 
-
+.video-iframe
+{
+	width:680p;
+	height:auto;
+	max-width:100%;
+}
 
 .back-to-top {
     text-align:right;
@@ -455,5 +460,11 @@ $desktop: 960px + (2 * $gap) !default;
 	.programme-container .owl-carousel .owl-item img {
 	    width: 60%;
 	    height: auto;
+	}
+}
+
+@media screen and (min-width: 720px) {
+	.video-iframe {
+		height:400px;
 	}
 }
