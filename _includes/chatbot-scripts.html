@@ -22,7 +22,9 @@ window.onload = function(){
                     navbarItemLinks[0].addEventListener('click', function (event) {
                         event.preventDefault();
                         var navbarDropdown = this.nextSibling;
-                        console.log(this.textContent, navbarDropdown.textContent);
+                        while (navbarDropdown.className.indexOf('navbar-dropdown') == -1) {
+                            navbarDropdown = navbarDropdown.nextSibling;
+                        }
                         if (navbarDropdown.style.display == 'none') {
                             navbarDropdown.style.display = 'block';
                         } else {
@@ -58,14 +60,14 @@ if (mobileDropdownSections.length > 0) {
             dropdownTriggers[0].addEventListener('click', function (event) {
                 if (dropdownMenu.style.display != 'block') {
                     dropdownMenu.style.display = 'block';
-                    if (dropdownIcon !== null) {
+                    /*if (dropdownIcon !== null) {
                         dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-                    }
+                    }*/
                 } else {
                     dropdownMenu.style.display = 'none';
-                    if (dropdownIcon !== null) {
+                    /*if (dropdownIcon !== null) {
                         dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
-                    }
+                    }*/
                 }
             });
         } 
