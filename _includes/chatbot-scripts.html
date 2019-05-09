@@ -1,18 +1,41 @@
+{%- if page.layout == 'leftnav-page-content' -%}
 <script>
-// Dropdowns for mobile
-var dropdowns = document.getElementsByClassName('bp-dropdown is-hoverable');
-var dropdownmenu = document.getElementById('dropdown-menu');
-    
-if (dropdowns.length > 0 && dropdownmenu !== null) {
-    dropdowns[0].addEventListener('click', function (event) {
+// script for Dropdown menu in mobile
+var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
+if (mobileDropdownSections.length > 0) {
+    //dropmenu bar is visible in mobile screen
+    if  (mobileDropdownSections[0].style.display != "none") {
+        var dropdowns = document.getElementsByClassName('bp-dropdown is-hoverable');
         var dropdownmenu = document.getElementById('dropdown-menu');
-        if (dropdownmenu !== null) {
-            if (dropdownmenu.style.display == "none") {
-                dropdownmenu.style.display = "block";
-            } else {
-                dropdownmenu.style.display = "none";
+        if (dropdowns.length > 0 && dropdownmenu !== null) {
+            
+            //get dropdown bar 'up/down' icon
+            var dropdownIcons = dropdowns.getElementsByClassName('sgds-icon');
+            var dropdownIcon;
+            if (dropdownIcons.length > 0) {
+                dropdownIcon = dropdownIcons[0];
             }
-        }
-    });
-}    
-</script>
+            
+            //toggle dropdown menu and dropdown bar icon 
+            dropdowns[0].addEventListener('click', function (event) {
+                var dropdownmenu = document.getElementById('dropdown-menu');
+                if (dropdownmenu !== null) {
+                    if (dropdownmenu.style.display == "none") {
+                        dropdownmenu.style.display = "block";
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-down", "sgds-icon-chevron-up");
+                        }
+                    } else {
+                        dropdownmenu.style.display = "none";
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-up", "sgds-icon-chevron-down");
+                        }
+                    }
+                }
+            });
+        } 
+    }
+}
+</script>    
+{%- endif -%} 
+
