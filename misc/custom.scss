@@ -9,16 +9,19 @@ $secondary: #414042; //Very dark grayish violet
 $secondary-hover: lighten($primary, 10%);
 
 //esg secondary colors
-$media-color-one: #0055B8; //esg blue
-$media-color-two: #FF5000; //esg orange
-$media-color-three: #82BC00; //esg green
-$media-color-four: #0055B8; //esg blue
-$media-color-five: #FF5000; //esg orange
-$media-color-six: #82BC00; //esg green
-$media-color-seven: #0055B8; //esg blue
-$media-color-eight: #FF5000; //esg orange
-$media-color-nine: #82BC00; //esg green
-$media-color-ten: #0055B8; //esg blue
+//$media-color-one: #0055B8; //esg blue
+//$media-color-two: #FF5000; //esg orange
+//$media-color-three: #82BC00; //esg green
+$media-color-one: #E7131A; //Vivid red
+$media-color-two: #414042; //Very dark grayish violet
+$media-color-three: #f2f2f2; //whitish gray
+$media-color-four: #E7131A; //Vivid red
+$media-color-five: #414042; //Very dark grayish violet
+$media-color-six: #f2f2f2; //whitish gray
+$media-color-seven: #E7131A; //Vivid red
+$media-color-eight: #414042; //Very dark grayish violet
+$media-color-nine: #f2f2f2; //whitish gray
+$media-color-ten: #E7131A; //Vivid red
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
