@@ -15,20 +15,18 @@ window.onload = function(){
             var navbarItemLinks;
             var navbarItems = document.getElementsByClassName('navbar-item has-dropdown');
             for (var i=0; i<navbarItems.length; i++) {
-                //toggle navbar dropdown menu
-                
-                navbarItemLinks = navbarItems[i].getElementsByClassName('navbar-link');
-                console.log('navbarItemLinks',i, navbarItemLinks[0].textContent);
-                navbarDropdowns = navbarItems[i].getElementsByClassName('navbar-dropdown');
-                console.log('navbarDropdowns',i, navbarDropdowns[0].textContent);
+               
+                //toggle navbar dropdown menu              
+                navbarItemLinks = navbarItems[i].getElementsByClassName('navbar-link');                
                 if (navbarItemLinks.length > 0) {
-                    navbarDropdown = navbarDropdowns[0];
                     navbarItemLinks[0].addEventListener('click', function (event) {
                         event.preventDefault();
-                        if (navbarDropdowns[0].style.display == 'none') {
-                            navbarDropdowns[0].style.display = 'block';
+                        var navbarDropdown = this.nextSibling;
+                        console.log(this.textContent, navbarDropdown.textContent);
+                        if (navbarDropdown.style.display == 'none') {
+                            navbarDropdown.style.display = 'block';
                         } else {
-                            navbarDropdowns[0].style.display = 'none';
+                            navbarDropdown.style.display = 'none';
                         }
                     });
                 }
