@@ -428,6 +428,11 @@ $desktop: 960px + (2 * $gap) !default;
     white-space:normal;
 }
 
+.navbar .navbar-link.is-active:after
+{
+	transform: rotate(-225reg);
+}
+
 .bp-footer p.is-hidden-mobile {
 	display:none;
 }
