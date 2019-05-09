@@ -30,7 +30,7 @@ window.onload = function(){
                             this.className = this.className + ' is-active';
                         } else {
                             navbarDropdown.style.display = 'none';
-                            this.className = this.className.replace('is-active','');
+                            this.className = this.className.replace('is-active','').trim();
                         }
                     });
                 }
