@@ -4,8 +4,8 @@ window.onload = function(){
     var navbarBurgers = document.getElementsByClassName('navbar-burger');
     if (navbarBurgers.length > 0) {
         var style = window.getComputedStyle(navbarBurgers[0]);
-        console.log("navbar-burger", navbarBurgers[0].style);
-        console.log("navbar-burger computedStyle", style);
+        console.log("navbar-burger display", window.getComputedStyle(navbarBurgers[0], null).getPropertyValue("display"));
+        console.log("navbar-burger visibility", window.getComputedStyle(navbarBurgers[0], null).getPropertyValue("visibility"));
         if (navbarBurgers[0].style.display != "none") {
             
             //hide navbar dropdown menus on first load
