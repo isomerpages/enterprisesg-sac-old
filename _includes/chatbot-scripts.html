@@ -18,9 +18,9 @@ window.onload = function(){
                 //toggle navbar dropdown menu
                 
                 navbarItemLinks = navbarItems[i].getElementsByClassName('navbar-link');
-                console.log('navbarItemLinks',i, navbarItemLinks);
+                console.log('navbarItemLinks',i, navbarItemLinks[0].textContent);
                 navbarDropdowns = navbarItems[i].getElementsByClassName('navbar-dropdown');
-                //console.log('navbarDropdowns',i, navbarDropdowns[i].textContent);
+                console.log('navbarDropdowns',i, navbarDropdowns[0].textContent);
                 if (navbarItemLinks.length > 0) {
                     navbarDropdown = navbarDropdowns[0];
                     navbarItemLinks[0].addEventListener('click', function (event) {
