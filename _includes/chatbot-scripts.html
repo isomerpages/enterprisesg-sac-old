@@ -5,31 +5,28 @@ var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidd
 if (mobileDropdownSections.length > 0) {
     //dropmenu bar is visible in mobile screen
     if  (mobileDropdownSections[0].style.display != "none") {
-        var dropdowns = mobileDropdownSections[0].getElementsByClassName('bp-dropdown is-hoverable');
-        var dropdownmenu = document.getElementById('dropdown-menu');
-        if (dropdowns.length > 0 && dropdownmenu !== null) {
+        var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
+        var dropdownMenu = document.getElementById('dropdown-menu');
+        if (dropdownTriggers.length > 0 && dropdownMenu !== null) {
             
-            //get dropdown bar 'up/down' icon
-            var dropdownIcons = dropdowns[0].getElementsByClassName('sgds-icon');
+            //get dropdown trigger bar 'up/down' icon
+            var dropdownIcons = dropdownTriggers[0].getElementsByClassName('sgds-icon');
             var dropdownIcon;
             if (dropdownIcons.length > 0) {
                 dropdownIcon = dropdownIcons[0];
             }
             
-            //toggle dropdown menu and dropdown bar icon 
-            dropdowns[0].addEventListener('click', function (event) {
-                var dropdownmenu = document.getElementById('dropdown-menu');
-                if (dropdownmenu !== null) {
-                    if (dropdownmenu.style.display == "none") {
-                        dropdownmenu.style.display = "block";
-                        if (dropdownIcon !== null) {
-                            dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-down", "sgds-icon-chevron-up");
-                        }
-                    } else {
-                        dropdownmenu.style.display = "none";
-                        if (dropdownIcon !== null) {
-                            dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-up", "sgds-icon-chevron-down");
-                        }
+            //toggle dropdown menu and dropdown trigger bar icon 
+            dropdownTriggers[0].addEventListener('click', function (event) {
+                if (dropdownMenu.style.display == "none") {
+                    dropdownMenu.style.display = "block";
+                    if (dropdownIcon !== null) {
+                        dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-down", "sgds-icon-chevron-up");
+                    }
+                } else {
+                    dropdownMenu.style.display = "none";
+                    if (dropdownIcon !== null) {
+                        dropdownIcon.className = dropdownIcon.className.replace("sgds-icon-chevron-up", "sgds-icon-chevron-down");
                     }
                 }
             });
