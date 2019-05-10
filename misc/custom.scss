@@ -418,6 +418,10 @@ $desktop: 960px + (2 * $gap) !default;
 		text-align:center;
    	 	border: 0;
     		width: 33%;
+		@include touch() {
+			display:block;		 
+		    	width: 100%;
+		}
 	}
 	a {
 		text-decoration:none;
