@@ -24,75 +24,95 @@ Please refer to the link for the latest SAC brochures.
     <tr>
       <td valign="top">
         <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf" target="_blank">
-          <figure>
-  			    <img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/>
-  			    <figcaption>SAC Main Booklet</figcaption>
-		      </figure>
+         <figure>
+  	   <img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/>
+  	   <figcaption>SAC Main Booklet</figcaption>
+	</figure>
         </a>
       </td>
       <td valign="top">
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf" target="_blank">
           <figure>
-  			    <img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/>
-  			    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
-		      </figure>
+  	    <img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/>
+  	    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
+	  </figure>
         </a>
       </td>
       <td valign="top">
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Inspection%20Bodies.pdf" target="_blank">
           <figure>
-  			    <img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/>
-  			    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
-		      </figure>
+      	    <img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/>
+    	    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
+	  </figure>
         </a>
       </td>
     </tr>
     <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Managament%20System%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-MS.jpg" alt="MS Certification Bodies"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Managament%20System%20Certification%20Bodies.pdf" target="_blank">
+	  <figure>
+  	    <img src="/images/brochures/SAC-Brochures-MS.jpg" alt="MS Certification Bodies"/>
+  	    <figcaption>Accreditation Scheme for Management System Certification Bodies</figcaption>
+	  </figure>
+	 </a>
       </td>
       <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Product%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PC.PNG" alt="Product Certification Bodies"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Product%20Certification%20Bodies.pdf" target="_blank">
+	  <figure>
+  	   <img src="/images/brochures/SAC-Brochures-PC.PNG" alt="Product Certification Bodies"/>
+  	   <figcaption>Accreditation Scheme for Product Certification Bodies</figcaption>
+	  </figure>
+	</a>
       </td>
       <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Good%20Laboratory%20Practice%20Compliance%20Programme.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-GLP.jpg" alt="GLP Compliance"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Good%20Laboratory%20Practice%20Compliance%20Programme.pdf" target="_blank">
+	  <figure>
+  	    <imgsrc="/images/brochures/SAC-Brochures-GLP.jpg" alt="GLP Compliance"/>
+  	    <figcaption>Accreditation Scheme for Personnel Certification Bodies</figcaption>
+	  </figure>
+	</a>
       </td>
-    </tr>
-    <tr>
-      <td valign="top">Accreditation Scheme for Management System Certification Bodies</td>
-      <td valign="top">Accreditation Scheme for Product Certification Bodies</td>
-      <td valign="top">Good Laboratory Practice Compliance Programme</td>
-    </tr>
-    <tr><td>&nbsp;</td></tr>
-    <tr>
-      <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PCB.jpg" alt="Personnel Certification Bodies"/></a>
-      </td>
-      <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Proficiency%20Testing%20Providers.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-PTP.jpg" alt="Proficiency Testing Providers"/></a>
-      </td>
-      <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20SAC%20Accreditation%20Mark.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-SAC%20Accreditation%20Marks.jpg" alt="SAC Accreditation Marks"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">Accreditation Scheme for Personnel Certification Bodies</td>
-      <td valign="top">Accreditation Scheme for Proficiency Testing Providers</td>
-      <td valign="top">SAC Accreditation Marks</td>
     </tr>
     <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
-        <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-Building_Construction.PNG" alt="SAC-Brochures-Building_Construction"/></a>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank">
+	  <figure>
+  	    <img src="/images/brochures/SAC-Brochures-PCB.jpg" alt="Personnel Certification Bodies"/>
+  	    <figcaption>SAC Main Booklet</figcaption>
+	  </figure>	
+	</a>
+      </td>
+      <td>
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Proficiency%20Testing%20Providers.pdf" target="_blank">
+	  <figure>
+  	    <img src="/images/brochures/SAC-Brochures-PTP.jpg" alt="Proficiency Testing Providers"/>
+  	    <figcaption>Accreditation Scheme for Proficiency Testing Providers</figcaption>
+	  </figure>
+	</a>
+      </td>
+      <td>
+        <a href="/files/brochures/SAC%20Brochure%20-%20SAC%20Accreditation%20Mark.pdf" target="_blank">
+	  <figure>
+  	   <img src="/images/brochures/SAC-Brochures-SAC%20Accreditation%20Marks.jpg" alt="SAC Accreditation Marks"/>
+  	   <figcaption>SAC Accreditation Marks</figcaption>
+	  </figure>
+	</a>
+      </td>
+    </tr>
+    <tr><td>&nbsp;</td></tr>
+    <tr>
+      <td>
+        <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank">
+	  <figure>
+  	    <img src="/images/brochures/SAC-Brochures-Building_Construction.PNG" alt="SAC-Brochures-Building_Construction"/>
+  	    <figcaption>SAC Accreditation Programmes for the Building and Construction Industry</figcaption>
+	  </figure>
+	</a>
       </td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td valign="top">SAC Accreditation Programmes for the Building and Construction Industry</td>
-      <td valign="top"></td>
-      <td valign="top"></td>
     </tr>
   </tbody>
  </table>
