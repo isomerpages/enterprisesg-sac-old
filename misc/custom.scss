@@ -414,6 +414,12 @@ $desktop: 960px + (2 * $gap) !default;
 #brochures-table1, #brochures-table2, #brochures-table3
 {
 	table-layout:fixed;
+	tr {
+		margin-bottom: 1rem;
+		@include touch() {
+			margin-bottom:0;
+		}
+	}	
 	td {
 		text-align:center;
    	 	border: 0;
@@ -421,7 +427,7 @@ $desktop: 960px + (2 * $gap) !default;
 		@include touch() {
 			display:block;		 
 		    	width: 100%;
-		}
+			margin-bottom: 0.8rem;		}
 	}
 	a {
 		text-decoration:none;
