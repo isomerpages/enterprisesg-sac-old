@@ -60,19 +60,27 @@ if (mobileDropdownSections.length > 0) {
                     var dropdownIcon;
                     if (dropdownIcons.length > 0) {
                         dropdownIcon = dropdownIcons[0];
-                    }
-                    
-                    if (dropdownMenu.style.display != 'block') {
-                        dropdownMenu.style.display = 'block';
-                        if (dropdownIcon !== null) {
+                        
+                        if (dropdownIcon.className.indexOf('chevron-down')!== -1) {
                             dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
                         }
-                    } else {
-                        dropdownMenu.style.display = 'none';
-                        if (dropdownIcon !== null) {
+                        else {
                             dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
                         }
                     }
+                    
+                    
+                   // if (dropdownMenu.style.display != 'block') {
+                   //     dropdownMenu.style.display = 'block';
+                   //     if (dropdownIcon !== null) {
+                   //         dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                   //     }
+                   // } else {
+                   //     dropdownMenu.style.display = 'none';
+                   //     if (dropdownIcon !== null) {
+                   //         dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+                   //     }
+                   // }
                 }              
             });
         } 
