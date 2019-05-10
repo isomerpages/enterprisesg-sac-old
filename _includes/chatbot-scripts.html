@@ -52,36 +52,27 @@ if (mobileDropdownSections.length > 0) {
                         
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('click', function (event) {
-                alert('click');
-                //get dropdown trigger bar 'up/down' icon
-                    var dropdownIcons = this.getElementsByClassName('sgds-icon');
-                    var dropdownIcon;
-                    if (dropdownIcons.length > 0) {
-                        dropdownIcon = dropdownIcons[0];
-                        if (dropdownIcon.className.indexOf('chevron-down') != -1) {
-                             dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-                        }
-                        else {
-                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+                var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
+                var dropdownIcons = this.getElementsByClassName('sgds-icon');
+                var dropdownIcon;
+                if (dropdownIcons.length > 0) {
+                    dropdownIcon = dropdownIcons[0];
+                }
+                if (dropdownMenus.length > 0) {
+                    var dropdownMenu = dropdownMenus[0];
+                    if (window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
+                        dropdownMenu.style.display = 'none';
+                        if (dropdownIcon !== null) {
+                             dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevronup', 'sgds-icon-chevron-down');
                         }
                     }
-                //var dropdownMenu = document.getElementById('dropdown-menu');
-               // if (dropdownMenu !== null) {
-                    
-                    
-
-                    //if (dropdownMenu.style.display != 'block') {
-                       // dropdownMenu.style.display = 'block';
-                     //    if (dropdownIcon !== null) {
-                     //        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-                     //   }
-                    //} else {
-                    //    dropdownMenu.style.display = 'none';
-                    //    if (dropdownIcon !== null) {
-                    //        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
-                    //    }
-                    //}
-               // }              
+                    else {
+                        dropdownMenu.style.display = 'block';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                        }
+                    }
+                }           
             });
         } 
     }
