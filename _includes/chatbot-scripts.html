@@ -43,12 +43,13 @@ window.onload = function(){
 {%- if page.layout == 'leftnav-page-content' -%}
 <script>
 function toggleTriggerBarIconOnMouseover(event) {
+    
+    //event.target may not be the bo-dropdown-trigger element so we try to traverse the elements first
     var _this = event.target;
     while (_this.className.indexOf('bp-dropdown-trigger') == -1) {
         _this = _this.parentElement;
     }
     if (_this != null) {
-        alert(_this.className);
         var dropdownIcons = _this.getElementsByClassName('sgds-icon');
         if (dropdownIcons.length > 0) {
             var dropdownIcon = dropdownIcons[0];
@@ -72,7 +73,31 @@ if (mobileDropdownSections.length > 0) {
                         
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('mouseover', toggleTriggerBarIconOnMouseover);
-           
+            dropdownTriggers[0].addEventListener('click', function (event) {
+                this.removeEventListener('mouseover', toggleTriggerBarIconOnMouseover);
+                
+                var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
+                var dropdownIcons = this.getElementsByClassName('sgds-icon');
+                var dropdownIcon;
+                if (dropdownIcons.length > 0) {
+                    dropdownIcon = dropdownIcons[0];
+                }
+                if (dropdownMenus.length > 0) {
+                    var dropdownMenu = dropdownMenus[0];
+                    if (dropdownMenu.style.display == 'block' || window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
+                        dropdownMenu.style.display = 'none';
+                        if (dropdownIcon !== null) {
+                             dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+                        }
+                    }
+                    else {
+                        dropdownMenu.style.display = 'block';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                        }
+                    }
+                }           
+            });
         } 
     }
 }
