@@ -43,7 +43,7 @@ window.onload = function(){
 {%- if page.layout == 'leftnav-page-content' -%}
 <script>
 function toggleTriggerBarIconOnMouseover(event) {
-    
+    alert('mouseover');
     //event.target may not be the bo-dropdown-trigger element so we try to traverse the elements first
     var _this = event.target;
     while (_this.className.indexOf('bp-dropdown-trigger') == -1) {
@@ -74,6 +74,7 @@ if (mobileDropdownSections.length > 0) {
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('mouseover', toggleTriggerBarIconOnMouseover);
             dropdownTriggers[0].addEventListener('click', function (event) {
+                alert('click', this.className);
                 this.removeEventListener('mouseover', toggleTriggerBarIconOnMouseover);
                 
                 var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
