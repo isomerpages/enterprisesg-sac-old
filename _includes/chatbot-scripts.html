@@ -46,12 +46,13 @@ function toggleTriggerBarIconOnMouseover(event) {
     alert(event.target);
     var dropdownIcons = event.target.getElementsByClassName('sgds-icon');
     if (dropdownIcons.length > 0) {
-    var dropdownIcon = dropdownIcons[0];
-    if (dropdownIcon.className.indexOf('sgds-icon-chevron-down') != -1){
-        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-    }
-    else {
-        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+        var dropdownIcon = dropdownIcons[0];
+        if (dropdownIcon.className.indexOf('sgds-icon-chevron-down') != -1){
+            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+        }
+        else {
+            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+        }   
     }
 }
 
