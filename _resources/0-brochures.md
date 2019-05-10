@@ -47,7 +47,6 @@ Please refer to the link for the latest SAC brochures.
         </a>
       </td>
     </tr>
-    <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Managament%20System%20Certification%20Bodies.pdf" target="_blank">
@@ -74,7 +73,6 @@ Please refer to the link for the latest SAC brochures.
 	</a>
       </td>
     </tr>
-    <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank">
@@ -101,7 +99,6 @@ Please refer to the link for the latest SAC brochures.
 	</a>
       </td>
     </tr>
-    <tr><td>&nbsp;</td></tr>
     <tr>
       <td>
         <a href="/files/brochures/SAC%20Accreditation%20Programmes%20for%20the%20Building%20and%20Construction%20Industry.pdf" target="_blank">
