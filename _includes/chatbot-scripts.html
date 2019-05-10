@@ -50,52 +50,26 @@ if (mobileDropdownSections.length > 0) {
         var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
         if (dropdownTriggers.length > 0) {
             var dropdownTrigger = dropdownTriggers[0];    
-            dropdownTrigger.addEventListener('mouseover', function(event){
-                alert('mouseoever');
-            });
-            dropdownTrigger.addEventListener('click', function(event){
-                alert('click');
-            });
             //toggle dropdown menu and dropdown trigger bar icon 
-            /*dropdownTrigger.addEventListener('mouseover', function(event){
-                dropdownTrigger.setAttribute('data-hasmouseover','true');
-                dropdownTrigger.removeEventListener('mouseover', arguments.callee);
+            dropdownTrigger.addEventListener('click', function (event) {
+                var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
                 var dropdownIcons = dropdownTrigger.getElementsByClassName('sgds-icon');
-                var dropdownIcon;
-                if (dropdownIcons.length > 0) {
-                    dropdownIcon = dropdownIcons[0];
-                    if (dropdownIcon.className.indexOf('sgds-icon-chevron-down') != -1){
-                        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                if (dropdownMenus.length > 0) {
+                    var dropdownMenu = dropdownMenus[0];
+                    if (dropdownMenu.style.display == 'block' || window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
+                        dropdownMenu.style.display = 'none';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+                        }
                     }
                     else {
-                        dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
-                    }   
-                }
-                
-                dropdownTrigger.addEventListener('click', function (event) {
-                    if (dropdownTrigger.getAttribute('data-hasmouseover')) {
-                        dropdownTrigger.removeAttribute('data-hasmouseover');
-                        return;
+                        dropdownMenu.style.display = 'block';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                        }
                     }
-                    var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
-                    var dropdownIcons = dropdownTrigger.getElementsByClassName('sgds-icon');
-                    if (dropdownMenus.length > 0) {
-                        var dropdownMenu = dropdownMenus[0];
-                        if (dropdownMenu.style.display == 'block' || window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
-                            dropdownMenu.style.display = 'none';
-                            if (dropdownIcon !== null) {
-                                 dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
-                            }
-                        }
-                        else {
-                            dropdownMenu.style.display = 'block';
-                            if (dropdownIcon !== null) {
-                                dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-                            }
-                        }
-                    }           
-                });
-            });*/
+                }           
+            });
         } 
     }
 }
