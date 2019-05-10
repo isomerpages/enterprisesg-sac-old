@@ -66,9 +66,8 @@ if (mobileDropdownSections.length > 0) {
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('mouseover', toggleTriggerBarIconOnMouseover);
             dropdownTriggers[0].addEventListener('click', function (event) {
-                if (this.removeEventListener) {
-                    this.removeEventListener("mousemove", toggleTriggerBarIconOnMouseover);
-                }
+                this.removeEventListener("mousemove", toggleTriggerBarIconOnMouseover);
+                
                 var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
                 var dropdownIcons = this.getElementsByClassName('sgds-icon');
                 var dropdownIcon;
@@ -77,6 +76,7 @@ if (mobileDropdownSections.length > 0) {
                 }
                 if (dropdownMenus.length > 0) {
                     var dropdownMenu = dropdownMenus[0];
+                    alert(dropdownMenu.style.display);
                     if (window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
                         dropdownMenu.style.display = 'none';
                         if (dropdownIcon !== null) {
