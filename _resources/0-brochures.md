@@ -34,7 +34,7 @@ Please refer to the link for the latest SAC brochures.
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf" target="_blank">
           <figure>
   	    <img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/>
-  	    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
+  	    <figcaption>Accreditation Scheme for Laboratories</figcaption>
 	  </figure>
         </a>
       </td>
@@ -80,7 +80,7 @@ Please refer to the link for the latest SAC brochures.
         <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Personnel%20Certification%20Bodies.pdf" target="_blank">
 	  <figure>
   	    <img src="/images/brochures/SAC-Brochures-PCB.jpg" alt="Personnel Certification Bodies"/>
-  	    <figcaption>SAC Main Booklet</figcaption>
+  	    <figcaption>Accreditation Scheme for Personnel Certification Bodies</figcaption>
 	  </figure>	
 	</a>
       </td>
