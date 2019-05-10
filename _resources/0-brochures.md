@@ -19,7 +19,7 @@ Please refer to the link for the latest SAC brochures.
 
 
 #### SAC Brochures
-<table class="brochures-table" border="0" cellpadding="20">
+<table id="brochures-table2" border="0" cellpadding="20">
   <tbody>
     <tr>
       <td valign="top">
