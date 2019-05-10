@@ -68,8 +68,8 @@ Please refer to the link for the latest SAC brochures.
       <td>
         <a href="/files/brochures/SAC%20Brochure%20-%20Good%20Laboratory%20Practice%20Compliance%20Programme.pdf" target="_blank">
 	  <figure>
-  	    <imgsrc="/images/brochures/SAC-Brochures-GLP.jpg" alt="GLP Compliance"/>
-  	    <figcaption>Accreditation Scheme for Personnel Certification Bodies</figcaption>
+  	    <img src="/images/brochures/SAC-Brochures-GLP.jpg" alt="GLP Compliance"/>
+  	    <figcaption>Good Laboratory Practice Compliance Programme</figcaption>
 	  </figure>
 	</a>
       </td>
