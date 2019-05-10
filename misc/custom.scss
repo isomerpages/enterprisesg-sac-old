@@ -413,38 +413,20 @@ $desktop: 960px + (2 * $gap) !default;
 
 #brochures-table1, #brochures-table2, #brochures-table3
 {
-    table-layout:fixed;
-}
-
-#brochures-table1 td, #brochures-table2 td, #brochures-table3 td
-{
-    text-align:center;
-    border: 0;
-    width: 33%;
-}
-
-.brochures-table 
-{
 	table-layout:fixed;
-}
-
-.brochures-table a 
-{
-	text-decoration:none;
-	color:inherit;
-}
-
-.brochures-table td
-{
-	text-align:center;
-    	border: 0;
-    	width: 33%;
-}
-
-.brochures-table figure > figcaption
-{
-	padding-top:0.8rem;
-	font-style:normal;
+	td {
+		text-align:center;
+   	 	border: 0;
+    		width: 33%;
+	}
+	a {
+		text-decoration:none;
+		color:inherit;
+	}
+	figure > figcaption {
+		padding-top:0.8rem;
+		font-style:normal;
+	}
 }
 
 #search-activate
@@ -490,7 +472,7 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
 	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
 		display:none;
 	}
