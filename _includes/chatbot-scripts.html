@@ -43,7 +43,7 @@ window.onload = function(){
 {%- if page.layout == 'leftnav-page-content' -%}
 <script>
 function toggleTriggerBarIconOnMouseover(event) {
-    alert(this);
+    alert(event.target.className, this.className);
     var dropdownIcons = this.getElementsByClassName('sgds-icon');
     if (dropdownIcons.length > 0) {
         var dropdownIcon = dropdownIcons[0];
