@@ -77,13 +77,14 @@ if (mobileDropdownSections.length > 0) {
             dropdownTriggers[0].addEventListener('mouseover', toggleTriggerBarIconOnMouseover);
             dropdownTriggers[0].addEventListener('click', function (event) {
                 
-                
+                alert('click', this.className);
                 var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
                 var dropdownIcons = this.getElementsByClassName('sgds-icon');
                 var dropdownIcon;
                 if (dropdownIcons.length > 0) {
                     dropdownIcon = dropdownIcons[0];
                 }
+                alert('click1', this.className, dropdownIcon.className);
                 if (dropdownMenus.length > 0) {
                     var dropdownMenu = dropdownMenus[0];
                     if (dropdownMenu.style.display == 'block' || window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
