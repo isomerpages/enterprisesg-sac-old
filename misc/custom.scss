@@ -423,6 +423,30 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
 }
 
+.brochures-table 
+{
+	table-layout:fixed;
+}
+
+.brochures-table a 
+{
+	text-decoration:none;
+	color:inherit;
+}
+
+.brochures-table td
+{
+	text-align:center;
+    	border: 0;
+    	width: 33%;
+}
+
+.brochures-table figure > figcaption
+{
+	padding-top:0.8rem;
+	font-style:normal;
+}
+
 #search-activate
 {
     padding-left:0;
