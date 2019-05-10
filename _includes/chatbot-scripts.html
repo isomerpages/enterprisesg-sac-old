@@ -52,12 +52,12 @@ if (mobileDropdownSections.length > 0) {
                         
             //toggle dropdown menu and dropdown trigger bar icon 
             dropdownTriggers[0].addEventListener('click', function (event) {
+                alert('click');
                 //get dropdown trigger bar 'up/down' icon
                     var dropdownIcons = this.getElementsByClassName('sgds-icon');
                     var dropdownIcon;
                     if (dropdownIcons.length > 0) {
                         dropdownIcon = dropdownIcons[0];
-                        alert(dropdownIcon.className);
                         if (dropdownIcon.className.indexOf('chevron-down') != -1) {
                              dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
                         }
