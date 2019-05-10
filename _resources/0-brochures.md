@@ -22,20 +22,30 @@ Please refer to the link for the latest SAC brochures.
 <table id="brochures-table2" border="0" cellpadding="20">
   <tbody>
     <tr>
-      <td>
-        <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf" target="_blank"><img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/></a>
+      <td valign="top">
+        <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf" target="_blank">
+          <figure>
+  			    <img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/>
+  			    <figcaption>SAC Main Booklet</figcaption>
+		      </figure>
+        </a>
       </td>
-      <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/></a>
+      <td valign="top">
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Laboratories.pdf" target="_blank">
+          <figure>
+  			    <img src="/images/brochures/SAC-Brochures-LA.jpg" alt="Laboratories Scheme"/>
+  			    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
+		      </figure>
+        </a>
       </td>
-      <td>
-        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Inspection%20Bodies.pdf" target="_blank"><img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/></a>
+      <td valign="top">
+        <a href="/files/brochures/SAC%20Brochure%20-%20Accreditation%20Scheme%20for%20Inspection%20Bodies.pdf" target="_blank">
+          <figure>
+  			    <img src="/images/brochures/SAC-Brochures-IB.jpg" alt="Inspection Bodies Scheme"/>
+  			    <figcaption>Accreditation Scheme for Inspection Bodies</figcaption>
+		      </figure>
+        </a>
       </td>
-    </tr>
-    <tr>
-      <td valign="top">SAC Main Booklet</td>
-      <td valign="top">Accreditation Scheme for Laboratories</td>
-      <td valign="top">Accreditation Scheme for Inspection Bodies</td>
     </tr>
     <tr><td>&nbsp;</td></tr>
     <tr>
