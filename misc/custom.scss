@@ -411,6 +411,16 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+.brochures-table
+{
+	table-layout:fixed;
+	td {
+		text-align:center;
+   	 	border: 0;
+    		width: 33%;
+	}
+}
+
 #brochures-table1, #brochures-table2, #brochures-table3
 {
 	table-layout:fixed;
