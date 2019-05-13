@@ -413,7 +413,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .content table.brochures-table
 {
-	table-layout:fixed;
+	table-layout:fixed;	
 	tr {
 		margin-bottom: 1rem;
 		@include touch() {
@@ -427,7 +427,12 @@ $desktop: 960px + (2 * $gap) !default;
 		@include touch() {
 			display:block;		 
 		    	width: 100%;
-			margin-bottom: 0.8rem;		}
+			margin-bottom: 0.8rem;	
+			&:empty{
+				display:none;
+			}
+		}
+		
 	}
 	a {
 		text-decoration:none;
