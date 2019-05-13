@@ -1,8 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Collaborations And Recognitions
+title: Overview
 permalink: /about/collaborations-and-recognitions
 collection_name: about
+second_nav_title: "Collaborations And Recognitions"
 ---
 
 <iframe class="video-iframe" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
