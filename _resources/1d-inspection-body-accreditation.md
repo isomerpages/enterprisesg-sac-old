@@ -10,7 +10,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 ### ISO/IEC 17020:2012 - Conformity Assessment-Requirements for the operation of various types of bodies performing inspection
 
 * [ILAC P15:07/2016 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies](/files/sac_documents/inspection_body_accreditation/ILAC_P15_07_2016.pdf){:target="_blank"}
-* [Rules for the Use of ILAC MRA Mark]/files/sac_documents/inspection_body_accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="_blank"}
+* [Rules for the Use of ILAC MRA Mark](/files/sac_documents/inspection_body_accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="_blank"}
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/sac_documents/SAC%2001%20%2802%20April%202018%29.pdf){:target="_blank"}
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/sac_documents/SAC%20Guidance%2001%20-%20Guidelines%20on%20Code%20of%20Ethics%20%2802%20April%202018%29.pdf){:target="_blank"}
@@ -24,10 +24,10 @@ Cargo Inspection Field
 * [Technical Note CI 01: 06 May 2019 - Specific Requirements for the Accreditation of Inspection Bodies for Cargo](/files/sac_documents/inspection_body_accreditation/CI%2001%20%286%20May%202019%29.pdf){:target="_blank"}
 
 Central Alarm Monitoring Stations Inspection Field 
-* [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of Inspection Bodies for Central Alarm Monitoring Stations]/files/sac_documents/inspection_body_accreditation/CAMS%2001%20%2809%20July%202018%29.pdf){:target="_blank"}
+* [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of Inspection Bodies for Central Alarm Monitoring Stations](/files/sac_documents/inspection_body_accreditation/CAMS%2001%20%2809%20July%202018%29.pdf){:target="_blank"}
  
 Motor Vehicle Inspection Field 
-* [Technical Note: MV 01: 09 Jul 2019 - Specific Requirements for Accreditation of Motor Vehicles Inspection]/files/sac_documents/inspection_body_accreditation/MV%2001%20%2809%20July%202018%29.pdf){:target="_blank"}
+* [Technical Note: MV 01: 09 Jul 2019 - Specific Requirements for Accreditation of Motor Vehicles Inspection](/files/sac_documents/inspection_body_accreditation/MV%2001%20%2809%20July%202018%29.pdf){:target="_blank"}
  
 Pressure Vessel / Lifting Equipment Inspection Field
 * [Technical Note: PV/LE: June 2018 - Specific Requirements for the Accreditation of Inspection Bodies in Pressure Vessels and Lifting Equipment Inspection](/files/sac_documents/inspection_body_accreditation/Technical%20Note%20PVLE%2001%20%2805%20June%202018%29.pdf){:target="_blank"}
