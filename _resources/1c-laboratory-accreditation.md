@@ -44,7 +44,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Civil Engineering Testing Field**
 * [CE 001 - Mar 2019: Specific Requirements for Civil Engineering Testing Laboratories](/files/sac_documents/laboratory_accreditation/testing_and_calibration_documents/civil_engineering_testing_field/CE%20001%2029%20Mar%202019.pdf){:target="_blank"}
-* [CE 002 - Mar 2019: Specific Requirements for Non-Destructive Testing for Concrete]/files/sac_documents/laboratory_accreditation/testing_and_calibration_documents/civil_engineering_testing_field/CE%20002%2029%20Mar%202019.pdf){:target="_blank"}
+* [CE 002 - Mar 2019: Specific Requirements for Non-Destructive Testing for Concrete](/files/sac_documents/laboratory_accreditation/testing_and_calibration_documents/civil_engineering_testing_field/CE%20002%2029%20Mar%202019.pdf){:target="_blank"}
 * [SAC SINGLAS Technical Guide 3 - Guidance on Measurement Uncertainty for Civil Engineering and Mechanical Testing Laboratories](/files/sac_documents/laboratory_accreditation/testing_and_calibration_documents/civil_engineering_testing_field/Technical%20Guide%203%2029%20Mar%202019.pdf){:target="_blank"}
 
 **Electrical Testing Field**
