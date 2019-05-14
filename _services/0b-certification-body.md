@@ -94,13 +94,13 @@ Note:
       <td>
        Other Programmes 
         <ul>
-         <li style="font-size:inherit;">Counterterrorism Personnel</li>
-         <li style="font-size:inherit;">Financial Planners</li>
-         <li style="font-size:inherit;">Medical Technologies</li>
-         <li style="font-size:inherit;">Non-Destructive Testing Personnel</li>
-         <li style="font-size:inherit;">Rope Access Personnel</li>
-         <li style="font-size:inherit;">Welding Personnel</li>
-         <li style="font-size:inherit;">Others</li>
+         <li style="font-size:inherit;margin:0;">Counterterrorism Personnel</li>
+         <li style="font-size:inherit;margin:0;">Financial Planners</li>
+         <li style="font-size:inherit;margin:0;">Medical Technologies</li>
+         <li style="font-size:inherit;margin:0;">Non-Destructive Testing Personnel</li>
+         <li style="font-size:inherit;margin:0;">Rope Access Personnel</li>
+         <li style="font-size:inherit;margin:0;">Welding Personnel</li>
+         <li style="font-size:inherit;margin:0;">Others</li>
         </ul>
       </td>
       <td>ISO/IEC 17024</td>
