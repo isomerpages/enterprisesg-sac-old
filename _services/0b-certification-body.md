@@ -128,3 +128,31 @@ Note:
     </tr>
  </tbody>
 </table> 
+
+#### (III) Personnel Certification Body
+|---
+| Programmes | Accreditation Requirements | Certification Standards 
+|-|-|-
+| Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43
+| Other Programmes<br/> * Counterterrorism Personnel
+* Financial Planners
+* Medical Technologies
+* Non-Destructive Testing Personnel
+* Rope Access Personnel
+* Welding Personnel
+* Others |ISO/IEC 17024 | Various applicable standards
+|---
+
+#### BENEFITS
+Accreditation will:
+
+* Increase confidence  
+Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence  in those who choose to engage the services of SAC accredited certification bodies. 
+
+* International recognition 
+As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System, Food Safety Management System, Environmental Management System and Product Certification of the Pacific Accreditation Cooperation (PAC) and the International Accreditation Forum (IAF), certificates issued by SAC-accredited certification bodies are globally recognised by MLA members that span across 38 economies. 
+
+#### PROCESS
+Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body’s office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation.  The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process.  
+ 
+The detailed description of the accreditation process can be seen below: 
