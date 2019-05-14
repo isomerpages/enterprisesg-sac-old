@@ -16,8 +16,7 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 
 ### How to Recognise Accredited Reports & Certificates?
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:
-
-<img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="height:127px;width:327px;"/>
+<img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="height:127px;width:327px;margin-left:0;"/>
 
 #### List of MRAs
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
@@ -35,12 +34,14 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
 * Signed in 2017 (EnMS)
 * Signed in 2017 (EMS)
 
+***
 
 <img src="/images/ILAC_logo.jpg" alt="ILAC Logo" style="height:118px;width:118px;margin-left:0;"/>
 **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection** ([ILAC MRA](http://www.ilac.org/about-ilac/){:target="_blank"})
 * Signed in 2001 (Testing and Calibration)
 * Signed in 2012 (Inspection Bodies)
 
+***
 
 <img src="/images/iaf.gif" alt="IAF Logo" style="height:119px;width:171px;margin-left:0;"/>
 **International Accreditation Forum for Quality Management System and Product Certification** ([IAF MLA](http://www.iaf.nu/){:target="_blank"})
@@ -48,6 +49,8 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
 * Signed in 2007 (Product)
 * Signed in 2015 (FSMS)
 * Signed in 2017 (EMS)
+
+***
 
 Note: To facilitate recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
 Please click below for the respective MRA listings.
