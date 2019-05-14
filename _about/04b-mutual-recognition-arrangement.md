@@ -23,7 +23,7 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
 
 <img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;margin-left:0;"/>
-**Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.**
+**Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.**  
 [APAC](https://www.apac-accreditation.org/){:target="_blank"} is a merger of APLAC and PAC.  
 * Signed in 1997 (Testing and Calibration)
 * Signed in 2003 (Inspection Bodies)
@@ -35,10 +35,12 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
 * Signed in 2017 (EnMS)
 * Signed in 2017 (EMS)
 
+
 <img src="/images/ILAC_logo.jpg" alt="ILAC Logo" style="height:118px;width:118px;margin-left:0;"/>
 **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection** ([ILAC MRA](http://www.ilac.org/about-ilac/){:target="_blank"})
 * Signed in 2001 (Testing and Calibration)
 * Signed in 2012 (Inspection Bodies)
+
 
 <img src="/images/iaf.gif" alt="IAF Logo" style="height:119px;width:171px;margin-left:0;"/>
 **International Accreditation Forum for Quality Management System and Product Certification** ([IAF MLA](http://www.iaf.nu/){:target="_blank"})
