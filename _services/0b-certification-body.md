@@ -77,47 +77,37 @@ Note:
 
 #### (III) Personnel Certification Body
 <table>
+ <thead>
+  <tr>
+   <th>Programmes</th>
+   <th>Accreditation Requirements</th>
+   <th>Certification Standards</th>
+  </tr>
+ </thead>
   <tbody>
-    <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
-    </tr>
-    <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
-      <td align="right">$12</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
-      <td align="right">$1</td>
-    </tr>
+   <tr>
+    <td>Business (Management) Consultants SIRI Consultant</td>
+    <td>ISO/IEC 17024</td>
+    <td>TR 43</td>
+   </tr>
     <tr>
       <td>
+       Other Programmes
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+         <li>Counterterrorism Personnel</li>
+         <li>Financial Planners</li>
+         <li>Medical Technologies</li>
+         <li>Non-Destructive Testing Personnel</li>
+         <li>Rope Access Personnel</li>
+         <li>Welding Personnel</li>
+         <li>Others</li>
         </ul>
       </td>
-      <td align="center">See the list</td>
-      <td align="right">from the first column</td>
+      <td>ISO/IEC 17024</td>
+      <td>Various applicable standards</td>
     </tr>
   </tbody>
 </table>
-
-
-|---
-| Programmes | Accreditation Requirements | Certification Standards 
-|-|-|-
-| Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43
-| <ul><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul> | ISO/IEC 17024 | Various applicable standards
-|---
 
 #### BENEFITS
 Accreditation will:
