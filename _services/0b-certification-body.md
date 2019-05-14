@@ -57,77 +57,23 @@ Note:
 2. Please see Annex 1 for the list of above-mentioned standards.
 
 #### (II) Product Certification Body
-<table>
-  <thead>
-    <tr>
-      <th valign="top" style="border-width:1px;">Products (Scope)</th>
-      <th valign="top" style="border-width:1px;">Accreditation Requirements</th>
-      <th valign="top" style="border-width:1px;">Certification Standards</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" style="border-width:1px;">British Retailer Consortium (BRC) (Food)</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">BRC Global Standard for Food Safety</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Building & Construction</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">SS 560<br/>Various applicable standards</td>
-    </tr>
-   <tr>
-      <td valign="top" style="border-width:1px;">Electrical & Electronics</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Fire Safety Products (FSP)</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065<br/>SAC CT 12</td>
-      <td valign="top" style="border-width:1px;">Refer to SCDF Fire Safety Guidelines 1</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Food Products</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Various applicable standards</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Gas Appliances and Accessories</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Various applicable standards</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Green Products </td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Various applicable standards</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Personal Protective Equipment</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Various applicable standards</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Ready-mixed Concrete (RMC)</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065<br/>SAC CT 05</td>
-      <td valign="top" style="border-width:1px;">SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Telecommunication</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Various applicable standards</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">Water Efficiency Labelling Products (WELS)</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065<br/>SAC CT 19</td>
-      <td valign="top" style="border-width:1px;">Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide</td>
-    </tr>
-    <tr>
-      <td valign="top" style="border-width:1px;">All Other Products</td>
-      <td valign="top" style="border-width:1px;">ISO/IEC 17065</td>
-      <td valign="top" style="border-width:1px;">Various applicable standards</td>
-    </tr>
- </tbody>
-</table> 
+
+|---
+| Products (Scope) | Accreditation Requirements | Certification Standards 
+|-|-|-
+| British Retailer Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety
+| Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards
+| Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards
+| Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12 | Refer to SCDF Fire Safety Guidelines 1
+| Food Products | ISO/IEC 17065 | Various applicable standards
+| Gas Appliances and Accessories | ISO/IEC 17065 | Various applicable standards
+| Green Products | >ISO/IEC 17065 | Various applicable standards
+| Personal Protective Equipment | ISO/IEC 17065 | Various applicable standards
+| Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05 | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06
+| Telecommunication | ISO/IEC 17065 | Various applicable standards
+| Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19 | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide 
+| All Other Products | ISO/IEC 17065 | Various applicable standards
+|---
 
 #### (III) Personnel Certification Body
 
@@ -135,14 +81,7 @@ Note:
 | Programmes | Accreditation Requirements | Certification Standards 
 |-|-|-
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43
-| Other Programmes
-* Counterterrorism Personnel
-* Financial Planners
-* Medical Technologies
-* Non-Destructive Testing Personnel
-* Rope Access Personnel
-* Welding Personnel
-* Others | ISO/IEC 17024 | Various applicable standards
+| Other Programmes <ul><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul> | ISO/IEC 17024 | Various applicable standards
 |---
 
 #### BENEFITS
