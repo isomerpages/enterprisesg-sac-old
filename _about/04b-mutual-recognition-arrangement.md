@@ -33,14 +33,12 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
 * Signed in 2014 (FSMS)
 * Signed in 2017 (EnMS)
 * Signed in 2017 (EMS)
-
 ***
 
 <img src="/images/ILAC_logo.jpg" alt="ILAC Logo" style="height:118px;width:118px;margin-left:0;"/>
 **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection** ([ILAC MRA](http://www.ilac.org/about-ilac/){:target="_blank"})
 * Signed in 2001 (Testing and Calibration)
 * Signed in 2012 (Inspection Bodies)
-
 ***
 
 <img src="/images/iaf.gif" alt="IAF Logo" style="height:119px;width:171px;margin-left:0;"/>
@@ -49,7 +47,6 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
 * Signed in 2007 (Product)
 * Signed in 2015 (FSMS)
 * Signed in 2017 (EMS)
-
 ***
 
 Note: To facilitate recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
