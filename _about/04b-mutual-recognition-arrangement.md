@@ -22,10 +22,12 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 #### List of MRAs
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
 
-<img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;display:inline-block;margin-right:10px;vertical-align:middle;"/>
-<div style="display:inline-block;vertical-align:middle;">
- <p>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.</p>
- <a href="https://www.apac-accreditation.org/" target="_blank">APAC</a> is a merger of APLAC and PAC.
+<div>
+ <img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;display:inline-block;margin-right:10px;vertical-align:middle;"/>
+ <div style="display:inline-block;vertical-align:middle;">
+  <p>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.</p>
+  <a href="https://www.apac-accreditation.org/" target="_blank">APAC</a> is a merger of APLAC and PAC.
+ </div>
 </div>
 * Signed in 1997 (Testing and Calibration)
 * Signed in 2003 (Inspection Bodies)
