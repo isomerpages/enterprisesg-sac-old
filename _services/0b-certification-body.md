@@ -81,7 +81,7 @@ Note:
 | Programmes | Accreditation Requirements | Certification Standards 
 |-|-|-
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43
-| Other Programmes <ul><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul> | ISO/IEC 17024 | Various applicable standards
+| <ul><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul> | ISO/IEC 17024 | Various applicable standards
 |---
 
 #### BENEFITS
