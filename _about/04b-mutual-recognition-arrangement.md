@@ -17,8 +17,22 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 ### How to Recognise Accredited Reports & Certificates?
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:
 
-![SAC Singlas with ILAC](/images/SAC_singlas_ with_ilac_2.jpg){:height="127px" width="327px"}
+<img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="height:127px;width:327px;"/>
+
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
+
+![APAC Logo](/images/APAC_logo.jpg )
+**Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.**  
+[APAC](https://www.apac-accreditation.org/){:target="_blank"} is a merger of APLAC and PAC.
+* Signed in 1997 (Testing and Calibration)
+* Signed in 2003 (Inspection Bodies)
+* Signed in 2007 (Medical ISO 15189)
+* Signed in 2014 (Proficiency Testing Providers)
+* Signed in 1998 (QMS)
+* Signed in 2006 (Product)
+* Signed in 2014 (FSMS)
+* Signed in 2017 (EnMS)
+* Signed in 2017 (EMS)
 
 Note: To facilitate recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
 Please click below for the respective MRA listings.
