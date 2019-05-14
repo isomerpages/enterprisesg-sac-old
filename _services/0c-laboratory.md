@@ -42,3 +42,6 @@ Upon receiving the accreditation application, the secretariat will send a quotat
 **(Note: SAC staff will conduct the Preliminary Assessment, except for the Calibration & Measurement field, in which case a technical assessor will be engaged for the assessment.)**
  
 The schematic diagram of the accreditation process is described below:
+<div style="display:block;text-align:center;">
+ <img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
+</div> 
