@@ -7,6 +7,6 @@ second_nav_title: "Certified Companies"
 ---
 # List of Companies Certified by SAC Accredited Certification Bodies
 
-[Management System Certification](management-system-certification/)  
-[Personnel Certification](personnel-certification/)  
-[Product Certification](product-certification/)
+* [Management System Certification](management-system-certification/)
+* [Personnel Certification](personnel-certification/)
+* [Product Certification](product-certification/)
