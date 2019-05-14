@@ -16,9 +16,9 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 
 ### How to Recognise Accredited Reports & Certificates?
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:
-<img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="height:127px;width:327px;margin-left:0;"/>
+<img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="height:127px;width:327px;"/>
 
-#### List of MRAs
+### List of MRAs
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
 
 <img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;margin-left:0;"/>
@@ -57,7 +57,8 @@ Please click below for the respective MRA listings.
 
 * [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
 * [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing,    Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="_blank"}
- 
+
+
 ### OECD Mutual Acceptance of Data (MAD)
 Since January 2010, Singapore became an adherent member of the OECD Mutual Acceptance of Data (MAD) framework. GLP studies conducted in Singapore will now be recognised in more than 30 OECD member and non-member countries. 
  
