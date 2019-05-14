@@ -92,15 +92,14 @@ Note:
    </tr>
     <tr>
       <td>
-       Other Programmes
-        <ul>
-         <li>Counterterrorism Personnel</li>
-         <li>Financial Planners</li>
-         <li>Medical Technologies</li>
-         <li>Non-Destructive Testing Personnel</li>
-         <li>Rope Access Personnel</li>
-         <li>Welding Personnel</li>
-         <li>Others</li>
+       Other Programmes 
+         <li style="font-size:inherit;">Counterterrorism Personnel</li>
+         <li style="font-size:inherit;">Financial Planners</li>
+         <li style="font-size:inherit;">Medical Technologies</li>
+         <li style="font-size:inherit;">Non-Destructive Testing Personnel</li>
+         <li style="font-size:inherit;">Rope Access Personnel</li>
+         <li style="font-size:inherit;">Welding Personnel</li>
+         <li style="font-size:inherit;">Others</li>
         </ul>
       </td>
       <td>ISO/IEC 17024</td>
