@@ -22,30 +22,12 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 #### List of MRAs
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
 
-<table>
- <tr>
-   <td>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.<br/><a href="https://www.apac-accreditation.org/" target="_blank">APAC</a> is a merger of APLAC and PAC.</td>
-   <td valign="middle" rowspan="2"><img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;margin:0;"/></td>
- </tr>
- <tr>
-  <td>
-  <ul>
-   <li>Signed in 1997 (Testing and Calibration)</li>
-   <li>Signed in 2003 (Inspection Bodies)</li>
-   <li>Signed in 2007 (Medical ISO 15189)</li>
-   <li>Signed in 2014 (Proficiency Testing Providers)</li>
-   <li>Signed in 1998 (QMS)</li>
-   <li>Signed in 2006 (Product)</li>
-   <li>Signed in 2014 (FSMS)</li>
-   <li>Signed in 2017 (EnMS)</li>
-   <li>Signed in 2017 (EMS)</li>
-  </ul>
-  </td>
- </tr>
-</table>
+<img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;display:inline-block;margin-right:10px;vertical-align:middle;"/>
+<div style="display:inline-block;vertical-align:middle;">
+ <p style="display:inline-block;vertical-align:middle;">Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.</p>
+ <a href="https://www.apac-accreditation.org/" target="_blank">APAC</a> is a merger of APLAC and PAC.
+</div>
 
-<img src="/images/APAC_logo.jpg" alt="APAC Logo" style="height:79px;width:198px;margin-left:0;"/>
-**Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification.**  
 [APAC](https://www.apac-accreditation.org/){:target="_blank"} is a merger of APLAC and PAC.
 * Signed in 1997 (Testing and Calibration)
 * Signed in 2003 (Inspection Bodies)
