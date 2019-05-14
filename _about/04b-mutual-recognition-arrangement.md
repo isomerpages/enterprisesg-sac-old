@@ -29,17 +29,7 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
   <a href="https://www.apac-accreditation.org/" target="_blank">APAC</a> is a merger of APLAC and PAC.
  </div>
 </div>
-* Signed in 1997 (Testing and Calibration)
-* Signed in 2003 (Inspection Bodies)
-* Signed in 2007 (Medical ISO 15189)
-* Signed in 2014 (Proficiency Testing Providers)
-* Signed in 1998 (QMS)
-* Signed in 2006 (Product)
-* Signed in 2014 (FSMS)
-* Signed in 2017 (EnMS)
-* Signed in 2017 (EMS)
 
-[APAC](https://www.apac-accreditation.org/){:target="_blank"} is a merger of APLAC and PAC.
 * Signed in 1997 (Testing and Calibration)
 * Signed in 2003 (Inspection Bodies)
 * Signed in 2007 (Medical ISO 15189)
