@@ -130,11 +130,12 @@ Note:
 </table> 
 
 #### (III) Personnel Certification Body
+
 |---
 | Programmes | Accreditation Requirements | Certification Standards 
 |-|-|-
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43
-| Other Programmes<br/><br/>Counterterrorism Personnel<br/>Financial Planners<br/>Medical Technologies<br/>Non-Destructive Testing Personnel<br/>Rope Access Personnel<br/>Welding Personnel<br/>Others |ISO/IEC 17024 | Various applicable standards
+| Other Programmes<br/><br/>Counterterrorism Personnel<br/>Financial Planners<br/>Medical Technologies<br/>Non-Destructive Testing Personnel<br/>Rope Access Personnel<br/>Welding Personnel<br/>Others | ISO/IEC 17024 | Various applicable standards
 |---
 
 #### BENEFITS
@@ -150,4 +151,4 @@ As a member of the Multilateral Recognition Arrangement (MLA) for Quality Manage
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body’s office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation.  The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process.  
  
 The detailed description of the accreditation process can be seen below: 
-![Accreditation Services Chart](/images/accreditation_process.png )
+<img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
