@@ -452,6 +452,9 @@ $desktop: 960px + (2 * $gap) !default;
 .content #mra-table
 {
 	tr > td {
+		img {
+			margin:0;
+		}
 		&:first-child{
 			width:70%;
 		}
