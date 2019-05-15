@@ -459,6 +459,7 @@ $desktop: 960px + (2 * $gap) !default;
 			width:70%;
 			@include touch() {
 				width: 100%;
+				border-bottom-width:0;
 			}
 		}
 		&:second-child {
