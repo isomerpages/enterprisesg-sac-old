@@ -457,13 +457,15 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 		&:first-child{
 			width:70%;
+			@include touch() {
+				width: 100%;
+			}
 		}
 		&:second-child {
 			width: 30%;
-		}
-		@include touch() {
-			display:block;		 
-		    	width: 100%;
+			@include touch() {
+				width: 100%;
+			}
 		}
 	}
 }
