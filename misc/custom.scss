@@ -345,6 +345,11 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
+	table li {
+		font-size:inherit;
+		line-height:inherit;
+		margin:0;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -441,6 +446,22 @@ $desktop: 960px + (2 * $gap) !default;
 	figure > figcaption {
 		padding-top:0.8rem;
 		font-style:normal;
+	}
+}
+
+.content #mra-table
+{
+	tr > td {
+		&:first-child{
+			width:70%;
+		}
+		&:second-child {
+			width: 30%;
+		}
+		@include touch() {
+			display:block;		 
+		    	width: 100%;
+		}
 	}
 }
 
