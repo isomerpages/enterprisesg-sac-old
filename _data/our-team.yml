@@ -7,7 +7,7 @@ board-of-directors:
   - name: Mr Alok Mishra 
     title: Deputy Chairman
     organisation: Value Addition, Singapore
-    image-url:
+    image-url: /images/our_organisation_structure/person.gif
   - name: Mr Tan Kai Hoe 
     title: Deputy Chairman
     organisation: Accuron Technologies Limited
@@ -62,6 +62,33 @@ board-of-directors:
     image-url:
   - name: Mr Richard Hong See Yen
     title: Member
-    organisation: Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group&#58; Inspection Bodies&#39; Representative
+    organisation: Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group&#58; Certification Bodies&#39; Representative
     image-url:
- 
+  - name: Mr Sze Thiam Siong
+    title: Member
+    organisation: Singapore Manufacturing Federation (SMF) - TIC Interest Group&#58; Inspection Bodies&#39; Representative
+    image-url:
+  - name: Ms Eunice Ng
+    title: Member
+    organisation: Singapore Manufacturing Federation (SMF) - TIC Interest Group&#58; Laboratories&#39; Representative
+    image-url:
+  - name: Mr Wu Yong Lin
+    title: Member
+    organisation: Singapore Precision Engineering and Technology Association (SPETA) 
+    image-url:
+  - name: Mr Tan Gheng Een
+    title: Member
+    organisation: Singapore Quality Institute (SQI)
+    image-url:
+  - name: Mr Chris Ng
+    title: Member
+    organisation: Smart Nation and Digital Government Office 
+    image-url:
+  - name: Er Seow Kang Seng
+    title: Member
+    organisation: The Institution of Engineers, Singapore (IES)
+    image-url:
+  - name: Ms Chang Kwei Fern
+    title: Secretary
+    organisation: SAC Secretariat
+    image-url:  
