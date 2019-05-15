@@ -47,7 +47,7 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
   <tr>
     <td>
      <img src="/images/ILAC_logo.jpg" alt="ILAC Logo" style="height:118px;width:118px;"/><br/>
-     <strong>International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection</strong> (<a href="http://www.iaf.nu/" target="_blank">ILAC MRA</a>)
+     <strong>International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection</strong> (<a href="http://www.ilac.org/about-ilac/" target="_blank">ILAC MRA</a>)
     </td>
     <td>
      <ul>
@@ -59,7 +59,7 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
   <tr>
     <td>
      <img src="/images/iaf.gif" alt="IAF Logo" style="height:119px;width:171px;"/><br/>
-     <strong>International Accreditation Forum for Quality Management System and Product Certification</strong> (<a href="http://www.ilac.org/about-ilac/" target="_blank">IAF MLA</a>)
+     <strong>International Accreditation Forum for Quality Management System and Product Certification</strong> (<a href="http://www.iaf.nu/" target="_blank">IAF MLA</a>)
     </td>
     <td>
      <ul>
@@ -78,7 +78,7 @@ Note: To facilitate recognition of accredited reports and certificates, the accr
 Please click below for the respective MRA listings.
 
 * [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
-* [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing,    Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="_blank"}
+* [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="_blank"}
 
 
 ### OECD Mutual Acceptance of Data (MAD)
