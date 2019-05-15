@@ -467,6 +467,9 @@ $desktop: 960px + (2 * $gap) !default;
 				width: 100%;
 			}
 		}
+		@include touch() {
+			display:block;
+		}
 	}
 }
 
