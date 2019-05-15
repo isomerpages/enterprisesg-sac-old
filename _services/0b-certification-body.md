@@ -67,7 +67,7 @@ Note:
 | Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12 | Refer to SCDF Fire Safety Guidelines 1
 | Food Products | ISO/IEC 17065 | Various applicable standards
 | Gas Appliances and Accessories | ISO/IEC 17065 | Various applicable standards
-| Green Products | >ISO/IEC 17065 | Various applicable standards
+| Green Products | ISO/IEC 17065 | Various applicable standards
 | Personal Protective Equipment | ISO/IEC 17065 | Various applicable standards
 | Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05 | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06
 | Telecommunication | ISO/IEC 17065 | Various applicable standards
