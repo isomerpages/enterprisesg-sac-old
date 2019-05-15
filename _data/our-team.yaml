@@ -1,0 +1,176 @@
+# Board of Directors
+board-of-directors:
+  - name: Mr Renny Yeo
+    title: Chairman
+    organisation: Tai Sing Electric Ltd 
+    image-url: /images/our_organisation_structure/Renny%20Yeo%20HR2.JPG
+  - name: Mr Alok Mishra 
+    title: Deputy Chairman
+    organisation: Value Addition, Singapore
+  - name: Mr Tan Kai Hoe 
+    title: Deputy Chairman
+    organisation: Accuron Technologies Limited
+  - name: Dr Leslie Retnam
+    title: Member
+    organisation: National University of Singapore
+  - name: Mr Albert Kee
+    title: Member
+    organisation: Association of Singapore Marine Industries (ASMI)
+  - name: Er Thanabal Kaliannan (Alternate: Er Lung Hian Hao)
+    title: Member
+    organisation: Building and Construction Authority (BCA)
+  - name: Ms Low Min Yong 
+    title: Member
+    organisation: Health Sciences Agency (HSA)
+  - name: Mr Martin Khoo (Alternate: Mr Ken Low)
+    title: Member
+    organisation: Info-Communications Media Development Authority (IMDA)
+  - name: Adj. A/Prof Raymond Chua
+    title: Member
+    organisation: Ministry of Health (MOH)
+  - name: Mr Silas Sng Wee Kiat
+    title: Vice President
+    organisation: Ministry of Manpower (MOM)
+  - name: Ms Mary Elizabeth Chelliah (Alternate:  Mr Andrew Chua)
+    title: Executive Director
+    organisation: Ministry of Trade and Industry (MTI)
+  - name: Ms Chan Wai San
+    title: Member
+    organisation: National Environment Agency (NEA)
+  - name: Ms Ong Shwu Hoon
+    title: Member
+    organisation: Singapore Business Federation (SBF)
+  - name: Mr Desmond Hill
+    title: Member
+    organisation: Singapore Contractors Association Ltd (SCAL)
+  - name: Mr Tay Jih-Hsin
+    title: Member
+    organisation: Singapore Manufacturing Federation (SMF)
+  - name: Mr Richard Hong See Yen
+    title: Member
+    organisation: Singapore Manufacturing Federation (SMF) - TIC Interest Group : Certification Bodies' Representative
+  - name: Mr Sze Thiam Siong
+    title: Member
+    organisation: Singapore Manufacturing Federation (SMF) - TIC Interest Group : Inspection Bodies' Representative
+  - name: Ms Eunice Ng
+    title: Member
+    organisation: Singapore Manufacturing Federation (SMF) - TIC Interest Group: Laboratories' Representative
+  - name: Mr Wu Yong Lin
+    title: Member
+    organisation: Singapore Precision Engineering and Technology Association (SPETA) 
+  - name: Mr Tan Gheng Een
+    title: Member
+    organisation: Singapore Quality Institute (SQI)
+  - name: Mr Chris Ng
+    title: Member
+    organisation: Smart Nation and Digital Government Office 
+  - name: Er Seow Kang Seng
+    title: Member
+    organisation: The Institution of Engineers, Singapore (IES)
+  - name: Ms Chang Kwei Fern
+    title: Secretary
+    organisation: SAC Secretariat
+
+# Organisational Structure
+organisational-structure:
+  - title: CE Office
+    teams:
+      - name: Internal Audit
+  - title: Corporate Services
+    teams:
+      - name: Communications and Marketing Group (CMG)
+        link:
+      - name: Development & Organisation Transformation (DOT)
+        link:
+      - name: Finance, Investment and Procurement Group (FIPG)
+        link:
+      - name: Group IT Division (GITD)
+        link:       
+      - name: Legal
+        link:  
+      - name: People and Organisation Group (POG)
+        link:  
+      - name: Strategy and Plans Division (SPD)
+        link:
+      - name: Special Projects
+        link:
+  - title: Cybersecurity Group
+    teams:
+      - name: Advanced Cybersecurity Capabilities
+        link:
+      - name: Government Cyber Defence
+        link:
+      - name: Government Cybersecurity Consulting Services
+        link:
+      - name: Government Cybersecurity Policy & Planning
+        link:
+      - name: Ministry CISO
+        link:
+  - title: Governance Group
+    teams:
+      - name: Audit and Compliance 
+        link:
+      - name: Performance and Portfolio
+        link:
+      - name: Policies and Standards
+        link:
+      - name: Procurement
+        link:
+  - title: Product Development
+    teams:
+      - name: Government Infrastructure Group (GIG)
+        link:
+      - name: Government Digital Services (GDS)
+        link:
+      - name: Data Science and Artificial Intelligence Division (DSAID)
+        link:
+      - name: Sensors and Internet of Things (SIoT)
+        link:
+  - title: Product Management
+    teams:
+      - name: Business Management Division (BMD)
+      - name: Moments of Life (MOL)
+      - name: National Digital Identity (NDI)
+      - name: Smart Nation Sensor Programme Office (SNSPO)
+  - title: Services Pillar
+    teams:
+      - name: Central Technical Services (CTS)
+        link: 
+      - name: Cluster and Technology Management Office (CTMO)
+        link: 
+      - name: Culture, Community and Youth Cluster
+        link: 
+      - name: Education Cluster
+        link: 
+      - name: Environment and Water Resources Cluster
+        link: 
+      - name: Finance Cluster
+        link: 
+      - name: Health Cluster
+        link: 
+      - name: Home Affair Cluster
+        link:    
+      - name: Justice, Law and Foreign Affairs Cluster
+        link: 
+      - name: Manpower Cluster
+        link: 
+      - name: Ministry of Communication and Information Cluster
+        link: 
+      - name: National Devt and Transport Cluster
+        link: 
+      - name: Planning and Quality Assurance (PQA)
+        link: 
+      - name: Premium Customer Care Services (PCCS)
+        link:        
+      - name: Prime Minister Office's Office
+        link:    
+      - name: Social and Family Development
+        link:  
+      - name: Solution Architecture Office (SAO)
+        link: 
+      - name: Standard Market Solutions (SMS)
+        link: 
+      - name: Standard Products (SP)
+        link: 
+      - name: Trade and Industry Cluster
+        link:
