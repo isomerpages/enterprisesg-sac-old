@@ -1,5 +1,5 @@
-# Board of Directors
-board-of-directors:
+# Senior Leadership
+senior-leadership:
   - name: Mr Renny Yeo
     title: Chairman
     organisation: Tai Sing Electric Ltd 
@@ -92,7 +92,7 @@ board-of-directors:
     title: Secretary
     organisation: SAC Secretariat
     image-url: /images/our_organisation_structure/person.gif
-
+    
 # Organisational Structure
 organisational-structure:
   - title: Council Committees
