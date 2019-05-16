@@ -30,22 +30,3 @@ second_nav_title: "Our Organisation And Structure"
 |-|-|-
 | Secretary | Ms Lim Lee Fang | SAC Secretariat
 |---
-
-## Council Committee For Inspection (CCI)
-### Term: 1 July 2018 - 30 June 2021
-|---
-| Designation | Name | Organisation
-|-|-|-
-| Chairman | Mr Silas Sng Wee Kiat | Singapore Accreditation Council
-|-|-|-
-| Member | Dr Poh Teoh Yaw | Building & Construction Authority
-| | Mr Adrian Lo | Bureau Veritas Singapore Pte Ltd
-| | Mr Loh Lock Mun | FRP Products Co. Pte Ltd
-| | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd
-| | Er. Yong Fen Leong | KTP Consultants Pte Ltd
-| | Er. Merlyn Thong | Land Transport Authority
-| | A/Prof Leong Eng Choon | Nanyang Technological University
-| | Dr Ho Nyok Yong | Samwoh Innovation Centre Pte Ltd
-|-|-|-
-| Secretary | Mr Tan Yee Teck | Singapore Accreditation Council
-|---
