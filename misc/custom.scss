@@ -513,6 +513,11 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 
+#board-of-directors-button:after
+{
+	content: 'SAC Council';
+}
+
 .person-info-card > div {
 	height: 100%;
 }
