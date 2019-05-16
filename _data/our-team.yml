@@ -92,3 +92,33 @@ board-of-directors:
     title: Secretary
     organisation: SAC Secretariat
     image-url: /images/our_organisation_structure/person.gif
+
+# Organisational Structure
+organisational-structure:
+  - title: Laboratory Technical Committees
+    teams:
+      - name: Technical Committee For Calibration & Measurement 
+        link:
+      - name: Technical Committee For Chemical & Biological Sciences
+        link:
+      - name: Technical Committee For Electrical & Infocomm Technology
+        link:
+      - name: Technical Committee For Good Laboratory Practice
+        link:       
+      - name: Technical Committee For Medical Testing
+        link:  
+      - name: Technical Committee For Medical Imaging
+        link:  
+      - name: Technical Committee For Physical Engineering
+        link:
+  - title: Inspection Body Technical Committees
+    teams:
+      - name: Technical Committee for Mechanical Engineering Inspection 
+        link:
+      - name: Technical Committee for Structural Steelwork Inspection
+        link:
+      - name: Technical Committee for Cargo Inspection
+        link:
+      - name: Technical Committee for Site Investigation
+        link:       
+ 
