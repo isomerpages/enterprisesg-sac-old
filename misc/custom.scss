@@ -511,7 +511,7 @@ $desktop: 960px + (2 * $gap) !default;
 		display:none;
 		visibility:hidden;
 	}
-	&:after {
+	&::after {
 		content: 'SAC Council'; //changes the 'Board of Directors' heading to 'SAC Council'
 	}
 }
@@ -521,13 +521,13 @@ $desktop: 960px + (2 * $gap) !default;
 		display:none;
 		visibility:hidden;
 	}
-	&:after {
+	&::after {
 		content: 'Council Committee'; //changes the 'BSenior Leadership' heading to 'Council Committee'
 	}
 }
 
 #board-of-directors {
-	&:before{
+	&::before{
 		content: 'The SAC Council is the highest authority in the accreditation hierarchy. It comprises a member of the industry as its Chairman and balanced representation from all relevant parties as members. Representatives include those from industries, purchasers and suppliers, government departments, professional bodies, national standards authority, certification bodies and consumer interest groups.'
 	}
 	.person-info-card {
