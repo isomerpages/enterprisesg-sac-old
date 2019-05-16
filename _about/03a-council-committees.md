@@ -1,5 +1,5 @@
 ---
-layout: our-team
+layout: leftnav-page-content
 title: Council Committees
 permalink: /about/council-committees
 collection_name: about
