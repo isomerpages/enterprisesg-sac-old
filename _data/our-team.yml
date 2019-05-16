@@ -133,4 +133,19 @@ organisational-structure:
         link:
       - name: Technical Committee for Site Investigation
         link:       
- 
+  - title: Secretariat
+    teams:
+      - name: General Enquiries 
+        link:
+      - name: Laboratory Accreditation
+        link:
+      - name: Inspection Body Accreditation
+        link:
+      - name: Certification Body / Auditing Organisation Accreditation
+        link:   
+      - name: Singapore Good Laboratory Compliance Programme
+        link: 
+      - name: Proficiency Testing Providers
+        link: 
+      - name: Training
+        link:   
