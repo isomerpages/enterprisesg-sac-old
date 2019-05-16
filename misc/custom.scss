@@ -506,6 +506,13 @@ $desktop: 960px + (2 * $gap) !default;
     display:block;
 }
 
+
+#board-of-directors-button > b 
+{
+	display:none;
+}
+
+
 .person-info-card > div {
 	height: 100%;
 }
