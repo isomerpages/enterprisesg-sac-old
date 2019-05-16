@@ -5,6 +5,16 @@ permalink: /about/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
+There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
+
+Choose one of the Council Committee group below to view all of its members and chairman:
+
+* [Council Committee For Laboratory (CCL)](#council-committee-laboratory)
+* [Council Committee For Inspection (CCI](#council-committee-inspection)
+* [Council Committee For Certification (CCC)](#council-committee-certification)
+* [Council Committee For Business Development (CCBD)](#council-committee-business-development)
+* [Council Committee For Biomedical & Health (CCBH)](#council-committee-biomedical-health)
+
 
 [](){:id="council-committee-laboratory"}
 ## Council Committee For Laboratory (CCL)
