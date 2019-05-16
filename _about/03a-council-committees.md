@@ -13,8 +13,8 @@ second_nav_title: "Our Organisation And Structure"
 |-|-|-
 | Chairman | Dr Leslie Retnam | National University of Singapore
 | Member | Dr Paul Chiew | Agri-Food & Veterinary Authority of Singapore
-| | Dr Lim Ee Meng | A*STAR National Metrology Centre (NMC)
-| | Pending| A*STAR Singapore Institute of Manufacturing Technology (SIMTech)
+| | Dr Lim Ee Meng | A-STAR National Metrology Centre (NMC)
+| | Pending| A-STAR Singapore Institute of Manufacturing Technology (SIMTech)
 | | Dr Gao Chun Ping | Building and Construction Authority
 | | Mr Lim Soon Chia | Cyber Security Agency
 | | Dr Teo Tang Lin | Health Sciences Authority
