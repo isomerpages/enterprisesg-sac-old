@@ -506,6 +506,16 @@ $desktop: 960px + (2 * $gap) !default;
     display:block;
 }
 
+#board-of-directors-button b 
+{
+	display:none;
+}
+
+#board-of-directors-button: after
+{
+	content: 'SAC Council';
+}
+
 @media screen and (min-width: 1024px) {
 	.programme-container .owl-carousel .owl-item .item {
     		text-align:center;
