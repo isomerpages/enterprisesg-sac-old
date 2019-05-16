@@ -522,7 +522,7 @@ $desktop: 960px + (2 * $gap) !default;
 		visibility:hidden;
 	}
 	&::after {
-		content: 'Council Committee'; //changes the 'BSenior Leadership' heading to 'Council Committee'
+		content: 'Secretariat'; //changes the 'BSenior Leadership' heading to 'Secretariat'
 	}
 }
 
@@ -548,8 +548,8 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-#committee-members-table::before {
-	content: url(organisation-structure/laboratory-technical-committee-calibration-and-measurement.html);
+#accordion-body-0::before {
+	content: 'There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.';
 }
 
 @media screen and (min-width: 1024px) {
