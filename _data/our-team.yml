@@ -95,6 +95,18 @@ board-of-directors:
 
 # Organisational Structure
 organisational-structure:
+  - title: Council Committees
+    teams:
+      - name: Council Committee For Laboratory (CCL) 
+        link:
+      - name: Council Committee For Biomedical & Health (CCBH)
+        link:
+      - name: Council Committee For Inspection (CCI)
+        link:
+      - name: Council Committee For Certification (CCC)
+        link:       
+      - name: Council Committee For Business Development (CCBD)
+        link:  
   - title: Laboratory Technical Committees
     teams:
       - name: Technical Committee For Calibration & Measurement 
