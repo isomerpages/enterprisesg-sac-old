@@ -512,7 +512,7 @@ $desktop: 960px + (2 * $gap) !default;
 		visibility:hidden;
 	}
 	&:after {
-		content: 'SAC Council';
+		content: 'SAC Council'; //changes the 'Board of Directors' heading to 'SAC Council'
 	}
 }
 
@@ -522,7 +522,7 @@ $desktop: 960px + (2 * $gap) !default;
 		visibility:hidden;
 	}
 	&:after {
-		content: 'Council Committee';
+		content: 'Council Committee'; //changes the 'BSenior Leadership' heading to 'Council Committee'
 	}
 }
 
@@ -533,7 +533,8 @@ $desktop: 960px + (2 * $gap) !default;
 	.person-info-card {
 		&:first-child {
 			margin-top: 1rem;
-			& + .person-info-card {
+			//selects the 2nd .person-info-card without using nth-child which isn't supported in IE8
+			& + .person-info-card { 
 				margin-top: 1rem;
 			}
 		}
