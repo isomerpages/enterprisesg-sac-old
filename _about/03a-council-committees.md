@@ -13,7 +13,7 @@ second_nav_title: "Our Organisation And Structure"
 | Designation | Name | Organisation
 |-|-|-
 | Chairman | Dr Leslie Retnam | National University of Singapore
-|-|-|-
+| | |
 | Member | Dr Paul Chiew | Agri-Food & Veterinary Authority of Singapore
 | | Dr Lim Ee Meng | A-STAR National Metrology Centre (NMC)
 | | Pending | A-STAR Singapore Institute of Manufacturing Technology (SIMTech)
@@ -28,6 +28,6 @@ second_nav_title: "Our Organisation And Structure"
 | | Pending | SMF-TIC Interest Group: Testing
 | | Pending | SMF-TIC Interest Group: Calibration
 | | Prof Chew Soon Hoe | The Institute of Engineers, Singapore 
-|-|-|-
+| | |
 | Secretary | Ms Lim Lee Fang | SAC Secretariat
 |---
