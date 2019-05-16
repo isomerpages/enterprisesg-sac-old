@@ -1,11 +1,10 @@
 ---
 layout: our-team
-title: Our Organisation And Structure
+title: Overview
 permalink: /about/our-organisation-and-structure
 collection_name: about
+second_nav_title: "Our Organisation And Structure"
 ---
-
-<div id="committee-members-table"></div>
 
 For more information on the organisational structure of Singapore Accreditation Council, please refer to the ‘Organisational Chart’ below.
 
