@@ -527,7 +527,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 #board-of-directors::before{
-	url(/images/our_organisation_structure/SAC%20Org%20Chart%20August2018.png)
+	content: url(/images/our_organisation_structure/SAC%20Org%20Chart%20August2018.png);
 }
 
 #senior-leadership {
