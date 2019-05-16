@@ -5,7 +5,9 @@ permalink: /about/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
-## Council Committee For Laboratory (CCL)[](){:id="council-committee-laboratory"}
+
+[](){:id="council-committee-laboratory"}
+## Council Committee For Laboratory (CCL)
 ### Term : 1 July 2018 - 30 June 2021
 
 |---
@@ -29,7 +31,8 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Ms Lim Lee Fang | SAC Secretariat
 |---
 
-## Council Committee For Inspection (CCI)[](){:id="council-committee-inspection"}
+[](){:id="council-committee-inspection"}
+## Council Committee For Inspection (CCI)
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
@@ -47,7 +50,8 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council
 |---
 
-## Council Committee for Certification (CCC)[](){:id="council-committee-certification"}
+[](){:id="council-committee-certification"}
+## Council Committee for Certification (CCC)
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
@@ -69,7 +73,8 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council
 |---
 
-## Council Committee for Business Development (CCBD)[](){:id="council-committee-business-development"}
+[](){:id="council-committee-business-development"}
+## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
@@ -87,7 +92,8 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Mr Tan Yee Teck | SAC Secretariat
 |---
 
-## Council Committee for Biomedical & Health (CCBH)[](){:id="council-committee-biomedical-health"}
+[](){:id="council-committee-biomedical-health"}
+## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
