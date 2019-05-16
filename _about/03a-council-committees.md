@@ -34,6 +34,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Designation | Name | Organisation
 |-|-|-
 | Chairman | Dr Leslie Retnam | National University of Singapore
+|-|-|-
 | Member | Dr Paul Chiew | Agri-Food & Veterinary Authority of Singapore
 | | Dr Lim Ee Meng | A-STAR National Metrology Centre (NMC)
 | | Pending | A-STAR Singapore Institute of Manufacturing Technology (SIMTech)
@@ -48,5 +49,6 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | | Pending | SMF-TIC Interest Group: Testing
 | | Pending | SMF-TIC Interest Group: Calibration
 | | Prof Chew Soon Hoe | The Institute of Engineers, Singapore 
+|-|-|-
 | Secretary | Ms Lim Lee Fang | SAC Secretariat
 |---
