@@ -29,7 +29,7 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Ms Lim Lee Fang | SAC Secretariat
 |---
 
-## Council Committee For Inspection (CCI)
+## Council Committee For Inspection (CCI)[](){:id="council-committee-inspection"}
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
@@ -47,7 +47,7 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council
 |---
 
-## Council Committee for Certification (CCC)
+## Council Committee for Certification (CCC)[](){:id="council-committee-certification"}
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
@@ -69,7 +69,7 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council
 |---
 
-## Council Committee for Business Development (CCBD)
+## Council Committee for Business Development (CCBD)[](){:id="council-committee-business-development"}
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
@@ -87,7 +87,7 @@ second_nav_title: "Our Organisation And Structure"
 | **Secretary** | Mr Tan Yee Teck | SAC Secretariat
 |---
 
-## Council Committee for Biomedical & Health (CCBH)
+## Council Committee for Biomedical & Health (CCBH)[](){:id="council-committee-biomedical-health"}
 ### Term: 1 July 2018 - 30 June 2021
 
 |---
