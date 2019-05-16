@@ -6,7 +6,8 @@ collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
 
-### [Council Committee For Laboratory (CCL)](){id="council-committee-laboratory"}
+### Council Committee For Laboratory (CCL)
+
 |---
 | Designation | Name | Organisation
 |-|-|-
