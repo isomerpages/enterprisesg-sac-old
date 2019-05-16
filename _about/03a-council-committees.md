@@ -5,8 +5,7 @@ permalink: /about/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
-
-## Council Committee For Laboratory (CCL)
+## [Council Committee For Laboratory (CCL)](){:id="council-committee-laboratory"}
 ### Term : 1 July 2018 - 30 June 2021
 
 |---
