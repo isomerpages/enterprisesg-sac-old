@@ -506,24 +506,31 @@ $desktop: 960px + (2 * $gap) !default;
     display:block;
 }
 
-
-#board-of-directors-button > b 
-{
-	display:none;
+#board-of-directors-button {
+	b {
+		display:none;
+		visibility:hidden;
+	}
+	&:after {
+		content: 'SAC Council';
+	}
 }
 
-
-#board-of-directors-button:after
-{
-	content: 'SAC Council';
+#senior-leadership-button {
+	b {
+		display:none;
+		visibility:hidden;
+	}
+	&:after {
+		content: 'Council Committee';
+	}
 }
 
 .person-info-card > div {
 	height: 100%;
-}
-
-.person-info-card img {
-	height: 100%;
+	img {
+		height: 100%;
+	}
 }
 
 @media screen and (min-width: 1024px) {
