@@ -98,15 +98,15 @@ organisational-structure:
   - title: Council Committees
     teams:
       - name: Council Committee For Laboratory (CCL) 
-        link:
+        link: /about/council-committees#council-committee-laboratory
       - name: Council Committee For Biomedical & Health (CCBH)
-        link:
+        link: /about/council-committees
       - name: Council Committee For Inspection (CCI)
-        link:
+        link: /about/council-committees
       - name: Council Committee For Certification (CCC)
-        link:       
+        link: /about/council-committees        
       - name: Council Committee For Business Development (CCBD)
-        link:  
+        link: /about/council-committees
   - title: Laboratory Technical Committees
     teams:
       - name: Technical Committee For Calibration & Measurement 
