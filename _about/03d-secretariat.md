@@ -5,6 +5,7 @@ permalink: /about/secretariat
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
+[](){:id="sec-top"}
 
 * [General Enquiries](#general-enquiries)
 * [Laboratory Accreditation](#laboratory-accreditation)
@@ -24,6 +25,8 @@ second_nav_title: "Our Organisation And Structure"
 | Ms Manjit Pal Kaur | Executive | [manjit_pal_kaur@enterprisesg.gov.sg](mailto:manjit_pal_kaur@enterprisesg.gov.sg) | (65) 62791856 | All Schemes
 | Ms Angie Ng | Executive | [angie_ng@enterprisesg.gov.sg](mailto:angie_ng@enterprisesg.gov.sg) | (65) 62791800 | All Schemes
 |---
+
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
 
 [](){:id="laboratory-accreditation"}
 #### Laboratory Accreditation
@@ -47,6 +50,8 @@ second_nav_title: "Our Organisation And Structure"
 | Ms Tracy Toh | Senior Accreditation Officer | [tracy_toh@enterprisesg.gov.sg](mailto:tracy_toh@enterprisesg.gov.sg) | (65) 62793842 | Chemical & Biological Sciences
 |---
 
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
+
 [](){:id="inspection-body-accreditation"}
 #### Inspection Body Accreditation
 
@@ -61,6 +66,8 @@ second_nav_title: "Our Organisation And Structure"
 | Mr James Lee | Senior Accreditation Officer | [james_lee@enterprisesg.gov.sg](mailto:james_lee@enterprisesg.gov.sg) | (65) 62791863 | Cargo Inspection
 |---
 
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
+
 [](){:id="certification-body-accreditation"}
 #### Certification Body / Auditing Organisation Accreditation
 
@@ -74,6 +81,8 @@ second_nav_title: "Our Organisation And Structure"
 | Mr Choong Wenlong | Assistant Project Manager | [choong_wenlong@enterprisesg.gov.sg](mailto:choong_wenlong@enterprisesg.gov.sg) | (65) 62793735 | Auditing Organisation (AO)
 |---
 
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
+
 [](){:id="good-laboratory-compliance-programme"}
 #### Singapore Good Laboratory Compliance Programme
 
@@ -82,6 +91,8 @@ second_nav_title: "Our Organisation And Structure"
 |-|-|-
 | Ms Ho Phuy Bee | Senior Accreditation Officer | [ho_phuy_bee@enterprisesg.gov.sg](mailto:ho_phuy_bee@enterprisesg.gov.sg) | (65) 62791816 | All Areas
 |---
+
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
 
 [](){:id="proficiency-testing-providers"}
 #### Proficiency Testing Providers
@@ -92,6 +103,8 @@ second_nav_title: "Our Organisation And Structure"
 | Ms Lee Jia Juan | Deputy Director | [lee_jia_juan@enterprisesg.gov.sg](mailto:lee_jia_juan@enterprisesg.gov.sg) | (65) 62793672 | All Areas
 |---
 
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
+
 [](){:id="training"}
 #### Training
 
@@ -101,3 +114,5 @@ second_nav_title: "Our Organisation And Structure"
 | Ms Lim Lee Fang | Deputy Director | [lim_lee_fang@enterprisesg.gov.sg](mailto:lim_lee_fang@enterprisesg.gov.sg) | (65) 62793930 | All
 | Ms Angie Ng | Executive | [angie_ng@enterprisesg.gov.sg](mailto:angie_ng@enterprisesg.gov.sg) | (65) 6279 1800 | All
 |---
+
+<p class="back-to-top"><a href="#sec-top">↑ Back to top</a></p>
