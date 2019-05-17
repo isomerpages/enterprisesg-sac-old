@@ -40,7 +40,7 @@ window.onload = function(){
 };    
 </script>    
 
-{%- if page.layout == 'leftnav-page-content' -%}
+{%- if page.layout == 'leftnav-page-content' || page.layout == 'our-team' -%}
 <script>
 // script to toggle leftnav dropdown menu in mobile view
 var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
