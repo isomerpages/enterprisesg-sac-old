@@ -136,16 +136,16 @@ organisational-structure:
   - title: Secretariat
     teams:
       - name: General Enquiries 
-        link:
+        link: /about/secretariat#general-enquiries
       - name: Laboratory Accreditation
-        link:
+        link: /about/secretariat#laboratory-accreditation
       - name: Inspection Body Accreditation
-        link:
+        link: /about/secretariat#inspection-body-accreditation
       - name: Certification Body / Auditing Organisation Accreditation
-        link:   
+        link: /about/secretariat#certification-body-accreditation  
       - name: Singapore Good Laboratory Compliance Programme
-        link: 
+        link: /about/secretariat#good-laboratory-compliance-programme
       - name: Proficiency Testing Providers
-        link: 
+        link: /about/secretariat#proficiency-testing-providers
       - name: Training
-        link:   
+        link: /about/secretariat#training
