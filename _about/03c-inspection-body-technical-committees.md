@@ -43,8 +43,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation
 |-|-|-
 | **Chairman** | Er Chin Leong Siong | Building and Construction Authority
-| **Member** |  | 
-| | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore
+| **Member** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore 
 | | Mr Ang Poh Cheng | Housing & Development Board
 | | Mr Tang Pei Luen | Jurong Town Council
 | | Mr Lim Tuck Fang | Land Transport Authority
