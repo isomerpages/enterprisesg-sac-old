@@ -557,12 +557,16 @@ $desktop: 960px + (2 * $gap) !default;
     		display: inline-block;
     		width: 30%;
     		line-height: normal;
-    		font-size: smaller;
+    		font-size: small;
     		vertical-align: top;
 	}
 }
 
-
+.person-info-card {
+	@include touch() {
+		flex-basis:auto;
+	}
+}
 
 .person-info-card > div {
 	height: 100%;
@@ -576,6 +580,7 @@ $desktop: 960px + (2 * $gap) !default;
 		@include touch() {
 			width: 100%;
 			display: block;
+			text-align:center;
 		}
 	}
 }
