@@ -9,14 +9,14 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 Choose one of the Council Committee group below to view all of its members and chairman:
 
-* [Council Committee For Laboratory (CCL)](#council-committee-laboratory)
-* [Council Committee For Inspection (CCI](#council-committee-inspection)
-* [Council Committee For Certification (CCC)](#council-committee-certification)
-* [Council Committee For Business Development (CCBD)](#council-committee-business-development)
-* [Council Committee For Biomedical & Health (CCBH)](#council-committee-biomedical-health)
+* [Council Committee For Laboratory (CCL)](#ccl)
+* [Council Committee For Inspection (CCI](#cci)
+* [Council Committee For Certification (CCC)](#ccc)
+* [Council Committee For Business Development (CCBD)](#ccbd)
+* [Council Committee For Biomedical & Health (CCBH)](#ccbh)
 
 
-[](){:id="council-committee-laboratory"}
+[](){:id="ccl"}
 ## Council Committee For Laboratory (CCL)
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -41,7 +41,7 @@ Choose one of the Council Committee group below to view all of its members and c
 | **Secretary** | Ms Lim Lee Fang | SAC Secretariat
 |---
 
-[](){:id="council-committee-inspection"}
+[](){:id="cci"}
 ## Council Committee For Inspection (CCI)
 ### Term: 1 July 2018 - 30 June 2021
 
@@ -60,7 +60,7 @@ Choose one of the Council Committee group below to view all of its members and c
 | **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council
 |---
 
-[](){:id="council-committee-certification"}
+[](){:id="ccc"}
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2018 - 30 June 2021
 
@@ -83,7 +83,7 @@ Choose one of the Council Committee group below to view all of its members and c
 | **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council
 |---
 
-[](){:id="council-committee-business-development"}
+[](){:id="ccbd"}
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2018 - 30 June 2021
 
@@ -102,7 +102,7 @@ Choose one of the Council Committee group below to view all of its members and c
 | **Secretary** | Mr Tan Yee Teck | SAC Secretariat
 |---
 
-[](){:id="council-committee-biomedical-health"}
+[](){:id="ccbh"}
 ## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2018 - 30 June 2021
 
