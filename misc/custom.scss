@@ -551,6 +551,17 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+#board-of-directors-button, #senior-leadership-button, #organisational-structure-button {
+	@include touch() {
+		margin: 0;
+    		display: inline-block;
+    		width: 32%;
+    		line-height: normal;
+    		font-size: smaller;
+    		vertical-align: top;
+	}
+}
+
 .person-info-card > div {
 	height: 100%;
 	img {
@@ -574,6 +585,10 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 @media screen and (max-width: 1023px) {
+	.col {
+		padding: 0;
+	}
+	
 	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
 		display:none;
 	}
