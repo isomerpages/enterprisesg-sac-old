@@ -3,7 +3,7 @@ layout: default
 ---
 <section class="bp-section bg-secondary">
   <div class="bp-container ">
-    <a name="top"></a>
+    <a id="post-top"></a>
     <div class="row">
       <div class="col is-11">
         {%- include header-breadcrumb.html -%}
@@ -31,7 +31,7 @@ layout: default
     <div class="row">
       <div class="col is-8 is-offset-2 print-content">
     		{{- content -}}
-             <p class="back-to-top"><a href="#top">↑ Back to top</a></p>
+             <p class="back-to-top"><a href="#post-top">↑ Back to top</a></p>
       </div>
       {%- include print.html -%}
     </div>
