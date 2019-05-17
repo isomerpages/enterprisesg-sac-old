@@ -6,7 +6,7 @@ collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
 
-There are 4 Technical Committees supporting the Inspection Body Accreditation scheme.
+There are 4 Technical Committees supporting the Inspection Body Accreditation scheme. [](){:id="ib-top"}  
 
 * [Technical Committee for Mechanical Engineering Inspection](#tcmei)
 * [Technical Committee for Structural Steelwork Inspection](#tcssi)
@@ -35,6 +35,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr Sean Teoh | SAC Secretariat
 |---
 
+<p class="back-to-top"><a href="#ib-top">↑ Back to top</a></p>
+
 [](){:id="tcssi"}
 ## Structural Steelwork Inspection
 ### Term : 1 July 2018 - 30 June 2021
@@ -56,6 +58,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat
 |---
 
+<p class="back-to-top"><a href="#ib-top">↑ Back to top</a></p>
+
 [](){:id="tcci"}
 ## Cargo Inspection
 ### Term : 1 July 2018 - 30 June 2021
@@ -73,6 +77,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | 	Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd
 | **Secretary** | Mr James Lee | SAC Secretariat
 |---
+
+<p class="back-to-top"><a href="#ib-top">↑ Back to top</a></p>
 
 [](){:id="tcsi"}
 ## Site Investigation
@@ -92,3 +98,5 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Ms Prathipa Devi Sundraju | TIC Interest Group
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat
 |---
+
+<p class="back-to-top"><a href="#ib-top">↑ Back to top</a></p>
