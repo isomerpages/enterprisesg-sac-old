@@ -555,17 +555,28 @@ $desktop: 960px + (2 * $gap) !default;
 	@include touch() {
 		margin: 0;
     		display: inline-block;
-    		width: 32%;
+    		width: 30%;
     		line-height: normal;
     		font-size: smaller;
     		vertical-align: top;
 	}
 }
 
+
+
 .person-info-card > div {
 	height: 100%;
 	img {
 		height: 100%;
+		@include touch() {
+			display:inline-block;
+		}
+	}
+	.image-col {
+		@include touch() {
+			width: 100%;
+			display: block;
+		}
 	}
 }
 
