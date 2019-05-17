@@ -110,19 +110,19 @@ organisational-structure:
   - title: Laboratory Technical Committees
     teams:
       - name: Technical Committee For Calibration & Measurement 
-        link:
+        link: /about/laboratory-technical-committees#technical-committee-calibration-measurement
       - name: Technical Committee For Chemical & Biological Sciences
-        link:
+        link: /about/laboratory-technical-committees#technical-committee-sciences
       - name: Technical Committee For Electrical & Infocomm Technology
-        link:
+        link: /about/laboratory-technical-committees#technical-committee-electrical-infocomm
       - name: Technical Committee For Good Laboratory Practice
-        link:       
+        link: /about/laboratory-technical-committees#technical-committee-glp      
       - name: Technical Committee For Medical Testing
-        link:  
+        link: /about/laboratory-technical-committees#technical-committee-medical-testing
       - name: Technical Committee For Medical Imaging
-        link:  
+        link: /about/laboratory-technical-committees#technical-committee-medical-imaging 
       - name: Technical Committee For Physical Engineering
-        link:
+        link: /about/laboratory-technical-committees#technical-committee-physical-engineering
   - title: Inspection Body Technical Committees
     teams:
       - name: Technical Committee for Mechanical Engineering Inspection 
