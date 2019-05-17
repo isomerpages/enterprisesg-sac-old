@@ -21,8 +21,8 @@ second_nav_title: "Our Organisation And Structure"
 | Name | 	Designation | Email | Phone | Scheme
 |-|-|-
 | Ms Helen Tan | Senior Executive | [helen_tan@enterprisesg.gov.sg](mailto:helen_tan@enterprisesg.gov.sg) | (65) 6279 1855 | All Schemes
-| Ms Manjit Pal Kaur | Executive | [	manjit_pal_kaur@enterprisesg.gov.sg](mailto:	manjit_pal_kaur@enterprisesg.gov.sg) | (65) 6279 1856 | All Schemes
-| Ms Angie Ng | Executive | [	angie_ng@enterprisesg.gov.sg](mailto:	angie_ng@enterprisesg.gov.sg) | (65) 6279 1800 | All Schemes
+| Ms Manjit Pal Kaur | Executive | [manjit_pal_kaur@enterprisesg.gov.sg](mailto:manjit_pal_kaur@enterprisesg.gov.sg) | (65) 6279 1856 | All Schemes
+| Ms Angie Ng | Executive | [angie_ng@enterprisesg.gov.sg](mailto:angie_ng@enterprisesg.gov.sg) | (65) 6279 1800 | All Schemes
 |---
 
 [](){:id="laboratory-accreditation"}
