@@ -98,41 +98,41 @@ organisational-structure:
   - title: Council Committees
     teams:
       - name: Council Committee For Laboratory (CCL) 
-        link: /about/council-committees#council-committee-laboratory
+        link: /about/council-committees#ccl
       - name: Council Committee For Biomedical & Health (CCBH)
-        link: /about/council-committees#council-committee-biomedical-health
+        link: /about/council-committees#ccbh
       - name: Council Committee For Inspection (CCI)
-        link: /about/council-committees#council-committee-inspection
+        link: /about/council-committees#cci
       - name: Council Committee For Certification (CCC)
-        link: /about/council-committees#council-committee-certification        
+        link: /about/council-committees#ccc      
       - name: Council Committee For Business Development (CCBD)
-        link: /about/council-committees#council-committee-business-development
+        link: /about/council-committees#ccbd
   - title: Laboratory Technical Committees
     teams:
       - name: Technical Committee For Calibration & Measurement 
-        link: /about/laboratory-technical-committees#technical-committee-calibration-measurement
+        link: /about/laboratory-technical-committees#tccm
       - name: Technical Committee For Chemical & Biological Sciences
-        link: /about/laboratory-technical-committees#technical-committee-sciences
+        link: /about/laboratory-technical-committees#tccbs
       - name: Technical Committee For Electrical & Infocomm Technology
-        link: /about/laboratory-technical-committees#technical-committee-electrical-infocomm
+        link: /about/laboratory-technical-committees#tceit
       - name: Technical Committee For Good Laboratory Practice
-        link: /about/laboratory-technical-committees#technical-committee-glp      
+        link: /about/laboratory-technical-committees#tcglp   
       - name: Technical Committee For Medical Testing
-        link: /about/laboratory-technical-committees#technical-committee-medical-testing
+        link: /about/laboratory-technical-committees#tcmt
       - name: Technical Committee For Medical Imaging
-        link: /about/laboratory-technical-committees#technical-committee-medical-imaging 
+        link: /about/laboratory-technical-committees#tcmi
       - name: Technical Committee For Physical Engineering
-        link: /about/laboratory-technical-committees#technical-committee-physical-engineering
+        link: /about/laboratory-technical-committees#tcpe
   - title: Inspection Body Technical Committees
     teams:
       - name: Technical Committee for Mechanical Engineering Inspection 
-        link: /about/inspection-body-technical-committees#mechanical-engineering-inspection
+        link: /about/inspection-body-technical-committees#tcmei
       - name: Technical Committee for Structural Steelwork Inspection
-        link: /about/inspection-body-technical-committees#structural-steelwork-inspection
+        link: /about/inspection-body-technical-committees#tcssi
       - name: Technical Committee for Cargo Inspection
-        link: /about/inspection-body-technical-committees#cargo-inspection
+        link: /about/inspection-body-technical-committees#tcci
       - name: Technical Committee for Site Investigation
-        link: /about/inspection-body-technical-committees#site-investigation      
+        link: /about/inspection-body-technical-committees#tcsi   
   - title: Secretariat
     teams:
       - name: General Enquiries 
