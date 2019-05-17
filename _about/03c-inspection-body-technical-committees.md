@@ -8,13 +8,13 @@ second_nav_title: "Our Organisation And Structure"
 
 There are 4 Technical Committees supporting the Inspection Body Accreditation scheme.
 
-* [Technical Committee for Mechanical Engineering Inspection](#mechanical-engineering-inspection)
-* [Technical Committee for Structural Steelwork Inspection](#structural-steelwork-inspection)
-* [Technical Committee for Cargo Inspection](#cargo-inspection)
-* [Technical Committee for Site Investigation](#site-investigation)
+* [Technical Committee for Mechanical Engineering Inspection](#tcmei)
+* [Technical Committee for Structural Steelwork Inspection](#tcssi)
+* [Technical Committee for Cargo Inspection](#tcci)
+* [Technical Committee for Site Investigation](#tcsi)
 
 
-[](){:id="mechanical-engineering-inspection"}
+[](){:id="tcmei"}
 ## Mechanical Engineering Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -35,7 +35,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr Sean Teoh | SAC Secretariat
 |---
 
-[](){:id="structural-steelwork-inspection"}
+[](){:id="tcssi"}
 ## Structural Steelwork Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -56,7 +56,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat
 |---
 
-[](){:id="cargo-inspection"}
+[](){:id="tcci"}
 ## Cargo Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -74,7 +74,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr James Lee | SAC Secretariat
 |---
 
-[](){:id="site-investigation"}
+[](){:id="tcsi"}
 ## Site Investigation
 ### Term : 1 July 2018 - 30 June 2021
 
