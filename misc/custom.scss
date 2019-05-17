@@ -585,7 +585,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 @media screen and (max-width: 1023px) {
-	.col {
+	//for the tabs in 'Our Organisation and Structure'
+	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
 	
