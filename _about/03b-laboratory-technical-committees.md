@@ -8,15 +8,15 @@ second_nav_title: "Our Organisation And Structure"
 
 There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
-* [Technical Committee For Calibration & Measurement](#technical-committee-calibration-measurement)
-* [Technical Committee For Chemical & Biological Sciences](#technical-committee-sciences)
-* [Technical Committee For Electrical & Infocomm Technology](#technical-committee-electrical-infocomm)
-* [Technical Committee For Good Laboratory Practice](#technical-committee-glp)
-* [Technical Committee For Medical Testing](#technical-committee-medical-testing)
-* [Technical Committee For Medical Imaging](#technical-committee-medical-imaging)
-* [Technical Committee For Physical Engineering](#technical-committee-physical-engineering)
+* [Technical Committee For Calibration & Measurement](#tccm)
+* [Technical Committee For Chemical & Biological Sciences](#tccbs)
+* [Technical Committee For Electrical & Infocomm Technology](#tceit)
+* [Technical Committee For Good Laboratory Practice](#tcglp)
+* [Technical Committee For Medical Testing](#tcmt)
+* [Technical Committee For Medical Imaging](#tcmi)
+* [Technical Committee For Physical Engineering](#tcpe)
 
-[](){:id="technical-committee-calibration-measurement"}
+[](){:id="tccm"}
 ## Calibration & Measurement
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -34,7 +34,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Mr Adrian Ang | SAC Secretariat
 |---
 
-[](){:id="technical-committee-sciences"}
+[](){:id="tccbs"}
 ## Chemical & Biological Sciences
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -55,7 +55,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat
 |---
 
-[](){:id="technical-committee-electrical-infocomm"}
+[](){:id="tceit"}
 ## Electrical & Infocomm Technology
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -78,7 +78,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Mr Addison Bain | SAC Secretariat
 |---
 
-[](){:id="technical-committee-glp"}
+[](){:id="tcglp"}
 ## Good Laboratory Practice
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -95,7 +95,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat
 |---
 
-[](){:id="technical-committee-medical-testing"}
+[](){:id="tcmt"}
 ## Medical Testing
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -119,7 +119,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |---
 
 
-[](){:id="technical-committee-medical-imaging"}
+[](){:id="tcmi"}
 ## Medical Imaging
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -135,7 +135,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |---
 
 
-[](){:id="technical-committee-physical-engineering"}
+[](){:id="tcpe"}
 ## Physical Engineering
 ### Term : 1 July 2018 - 30 June 2021
 
