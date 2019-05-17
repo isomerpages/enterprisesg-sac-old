@@ -1,9 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Collaborations And Recognitions
 permalink: /about/collaborations-and-recognitions
 collection_name: about
-breadcrumb: about / Collaborations And Recognitions
 second_nav_title: "Collaborations And Recognitions"
 ---
 
