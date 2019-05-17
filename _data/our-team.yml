@@ -126,13 +126,13 @@ organisational-structure:
   - title: Inspection Body Technical Committees
     teams:
       - name: Technical Committee for Mechanical Engineering Inspection 
-        link:
+        link: /about/inspection-body-technical-committees#mechanical-engineering-inspection
       - name: Technical Committee for Structural Steelwork Inspection
-        link:
+        link: /about/inspection-body-technical-committees#structural-steelwork-inspection
       - name: Technical Committee for Cargo Inspection
-        link:
+        link: /about/inspection-body-technical-committees#cargo-inspection
       - name: Technical Committee for Site Investigation
-        link:       
+        link: /about/inspection-body-technical-committees#site-investigation      
   - title: Secretariat
     teams:
       - name: General Enquiries 
