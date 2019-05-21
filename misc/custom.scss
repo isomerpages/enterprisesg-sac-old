@@ -474,13 +474,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-.bp-dropdown.is-active .bp-dropdown-menu,
-.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
-
-    display: block;
-
-}
-
 #search-activate
 {
     padding-left:0;
