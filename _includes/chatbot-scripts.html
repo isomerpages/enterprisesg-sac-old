@@ -43,6 +43,7 @@ window.onload = function(){
 {%- if page.layout == 'leftnav-page-content' or page.layout == 'our-team' -%}
 <script>
 // script to toggle leftnav dropdown menu in mobile view
+    /*
 var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
 if (mobileDropdownSections.length > 0) {
     //dropmenu bar is visible in mobile screen
@@ -76,7 +77,7 @@ if (mobileDropdownSections.length > 0) {
             });
         } 
     }
-}
+}*/
     
 //edit nav title for 'overview' pages  
 var titleSections = document.getElementsByClassName('bp-section-pagetitle');
@@ -84,11 +85,9 @@ if (titleSections.length > 0) {
     var pageTitles = titleSections[0].getElementsByTagName('h1');
     if (pageTitles.length > 0) {
         var title = pageTitles[0].textContent;
-        console.log("title", title);
         if (title.search(/overview/i) === 0) {
             var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
             if (activeSecondLevelNavHeaders.length > 0) {
-                console.log(activeSecondLevelNavHeaders[0].textContent);
                 pageTitles[0].textContent = activeSecondLevelNavHeaders[0].textContent;
             }
         }
