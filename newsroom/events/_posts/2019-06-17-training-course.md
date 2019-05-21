@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2019 Joint courses between HSA-SAC
-date: 2019-04-05
-permalink: /newsroom/events/joint-courses-between-HSA-SAC
+title: Training-course-on-ISOIEC-17021-12015,-ISOIEC-17021-22016
+date: 2019-06-17
+permalink: /newsroom/events/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016
 ---
 
 ## Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
