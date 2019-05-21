@@ -94,3 +94,23 @@ if (titleSections.length > 0) {
 }
 </script>    
 {%- endif -%} 
+
+{%- if page.layout == 'post' -%}
+<script>
+    //add a 'back-to-top' link for 'post' layout pages
+    var printContents = document.getElementsByClassName('print-content');
+    if (printContents.length > 0) {
+        var linkNode1 = document.createElement("a");
+        linkNode1.setAttribute("id","post-top");
+        printContents[0].insertBefore(linkNode1, printContents[0].firstChild);
+        
+        var linkNode = document.createElement("a");
+        linkNode.setAttribute("href","#post-top");
+        linkNode.innerHTML = "↑ Back to top";
+        var paragraphNode = document.createElement("p");
+        paragraphNode.setAttribute("class","back-to-top");
+        paragraphNode.appendChild(linkNode);
+        printContents[0].appendChild(paragraphNode);
+    }
+</script>
+{%- endif -%} 
