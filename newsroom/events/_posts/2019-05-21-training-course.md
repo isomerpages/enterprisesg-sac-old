@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training-course-on-ISOIEC-17021-12015,-ISOIEC-17021-22016
-date: 2019-06-17
+date: 2019-05-21
 permalink: /newsroom/events/training-course-ISOIEC-17021-12015
 ---
 
