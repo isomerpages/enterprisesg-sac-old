@@ -17,6 +17,16 @@ Please note link for registration:-
 <img style="display:inline;width:130px;height:130px;" alt="QR Code" src="/images/QR%20Code.png"/>  
 <span style="color:#288400;font-size:0.9rem;font-style:italic;">Note: A participant interested in a MU course should only register for either 3(a) or 3(b).</span>
 
+|---
+| No. | Course Title | Fee (inclusive of GST) |  Dates | Status
+|-|-|-|-|-
+| 1 | Basic Statistical Tools | $267.50 | 5 Apr 2019 | Registration closed
+| 2 | Method Validation for Chemical Testing | $267.50 | 7 May 2019 | Registration closed
+| 3a | Measurement Uncertainty for Chemical Testing | $406.60 | 29-30 Jul 2019 (1.5 days) | Open
+| 3b | Measurement Uncertainty for Chemical Testing (with emphasis on water testing parameters | $406.60 | 26-27 Aug 2019
+(1.5 days) | Open
+|---
+
 <table border="0" cellspacing="0" cellpadding="0" style="background-color:#CCCCCC;">
  <tbody>
   <tr>
@@ -49,8 +59,7 @@ Please note link for registration:-
   </tr>
   <tr>
    <td valign="top" style="border:1px solid black;">3b</td>
-   <td valign="top" style="border:1px solid black;">Measurement Uncertainty for
-Chemical Testing (with emphasis on water testing parameters</td>
+   <td valign="top" style="border:1px solid black;">Measurement Uncertainty for Chemical Testing (with emphasis on water testing parameters</td>
    <td valign="top" style="border:1px solid black;">$406.60</td>
    <td valign="top" style="border:1px solid black;">26-27 Aug 2019
 (1.5 days)</td>
