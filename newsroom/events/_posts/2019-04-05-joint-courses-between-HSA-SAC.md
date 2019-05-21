@@ -2,8 +2,7 @@
 layout: post
 title: 2019 Joint courses between HSA-SAC
 date: 2019-04-05
-category: Events
-breadcrumb: Events
+category: events
 permalink: /newsroom/events/joint-courses-between-HSA-SAC
 ---
 
