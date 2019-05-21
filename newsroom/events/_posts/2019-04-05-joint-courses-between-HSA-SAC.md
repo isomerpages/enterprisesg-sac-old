@@ -2,6 +2,7 @@
 layout: post
 title: 2019 Joint courses between HSA-SAC
 permalink: /newsroom/events/joint-courses-between-HSA-SAC
+breadcrumb: events
 category: events
 ---
 
