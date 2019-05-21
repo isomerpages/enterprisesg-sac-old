@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training Course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
-date: 2019-06-17
+date: 2019-05-21
 permalink: /newsroom/events/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016
 ---
 
