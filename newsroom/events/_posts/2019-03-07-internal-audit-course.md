@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Internal Audit Course
-date: 2019-03-07
+title: Internal Audit Course (4-6 March 2019)
+category: events
 permalink: /newsroom/events/internal-audit-course
 ---
-## Internal Audit Course
+## Internal Audit Course 
 **7-8 March 2019**
 
 **Fee:**  SGD 856.00 (inclusive of GST)
