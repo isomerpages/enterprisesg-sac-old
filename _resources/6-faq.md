@@ -65,10 +65,10 @@ Through the various mutual recognition arrangements between accreditation bodies
 **Minimises Risk**  
 Accredited organisations reduce the risk of providing unreliable test results, services and products, and are able to meet the customers' expectations.
 
-**Reduce Costs**
+**Reduce Costs**  
 Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc.
 
-**Demonstrate Credibility**
+**Demonstrate Credibility**  
 No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel.
 <p class="back-to-top"><a href="#faq-top">↑ Back to top</a></p>
 
@@ -82,28 +82,28 @@ This scheme  evaluates the technical competence of testing and calibration labor
 This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
  
 * **Accreditation Scheme for Management Systems Certification Bodies**  
- * Quality Management System (QMS)
+ * Quality Management System (QMS)  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
 
- * Business Continuity Management System (BCM)
+ * Business Continuity Management System (BCM)  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM). 
 
- * Energy Management System (ENMS)
+ * Energy Management System (ENMS)  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements of ISO/IEC 17021 and CT 10 - SAC Criteria for Certification Bodies (ENMS). 
 
- * Environmental Management System (EMS)
+ * Environmental Management System (EMS)  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. 
 
- * Occupational Safety and Health Management System (OSHMS)
+ * Occupational Safety and Health Management System (OSHMS)  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC  17021 and CT 02 - SAC Criteria for Certification Bodies (OSHMS).
 
- * HACCP based Food Management System
+ * HACCP based Food Management System  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing  SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and SAC HACCP Doc  01. 
 
- * Food Safety Management System
+ * Food Safety Management System  
 This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
  
-* **Accreditation Scheme for Product Certification**
+* **Accreditation Scheme for Product Certification**  
 This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
  
 More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services).
@@ -157,7 +157,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb3"></a>What are the OECD Principles?</h4>
-The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at OECD website: [www.oecd.org/ehs](http://www.oecd.org/ehs)
+The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at OECD website: [www.oecd.org](https://ntp.niehs.nih.gov/iccvam/suppdocs/feddocs/oecd/oecd_glpcm.pdf)
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb4"></a>Where do I apply the GLP Studies?</h4>
@@ -221,7 +221,7 @@ A facility seeking recognition for compliance with OECD Principles of GLP should
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb14"></a>Where can I access the OECD Principles of GLP?</h4>
-Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the OECD website: [http://www.oecd.org/ehs](http://www.oecd.org/ehs).
+Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the OECD website: [http://www.oecd.org/ehs](http://www.oecd.org/ehs){:target="_blank"}.
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb15"></a>Where can I get more information?</h4>
@@ -230,5 +230,5 @@ Further information on the Singapore compliance monitoring programme should be s
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
  
 <h4><a name="qnb16"></a>Any other enquiries?</h4>
-If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target="_blank"} section.
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
