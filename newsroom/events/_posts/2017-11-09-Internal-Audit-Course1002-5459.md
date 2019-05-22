@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Internal Audit Course
-date: 2017-11-09
+title: Internal Audit Course (9-10 Nov 2017)
+category: events
 permalink: /newsroom/events/Internal-Audit-Course1002-5459
 ---
 ## Internal Audit Course
