@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Laboratory Management Course (based on ISO/IEC 17025)
-date: 2017-08-17
+title: Laboratory Management Course (based on ISO/IEC 17025) (17-18 Aug 2017)
+category: events
 permalink: /newsroom/events/Internal-Audit-Course0620-2507
 ---
 ## Internal Audit Course
