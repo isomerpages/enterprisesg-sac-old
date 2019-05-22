@@ -350,6 +350,13 @@ $desktop: 960px + (2 * $gap) !default;
 		line-height:inherit;
 		margin:0;
 	}
+	a {
+		color: $primary;
+		text-decoration: none;
+	}
+	a:hover, a:active{
+		text-decoration: underline;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
