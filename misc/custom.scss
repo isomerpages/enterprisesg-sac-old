@@ -355,6 +355,7 @@ $desktop: 960px + (2 * $gap) !default;
 		text-decoration: none;
 	}
 	a:hover, a:active{
+		color: $primary;
 		text-decoration: underline;
 	}
 }
