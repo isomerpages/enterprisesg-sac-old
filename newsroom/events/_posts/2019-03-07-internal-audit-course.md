@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internal Audit Course (4-6 March 2019)
+title: Internal Audit Course (7-8 March 2019)
 category: events
 permalink: /newsroom/events/internal-audit-course
 ---
