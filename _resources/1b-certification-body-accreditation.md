@@ -17,8 +17,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 01 - Accreditation Process for Certification Bodies](/files/sac_documents/management_system_and_products_certification/CT%2001%20%2829%20Mar%2018%29.pdf){:target="_blank"}
 * [Information on the IAF MLA mark and sub-licence agreement](/files/sac_documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"} 
 
-<p class="back-to-top"><a href="/files/sac_documents/sac_certification_programmes_publications.zip" download>Download all  as zip file</a></p>
-
 ### Standards and Criteria Document for Management Systems Certification
 **ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - March 2019](/files/sac_documents/management_system_and_products_certification/CT%2002_29%20March%202019.pdf){:target="_blank"} 
