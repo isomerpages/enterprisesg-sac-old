@@ -301,10 +301,10 @@ $desktop: 960px + (2 * $gap) !default;
     &.is-active{
        span{
          &:nth-child(1){
-               transform: translateY(8px);
+               transform: translateY(8px) rotate(45deg);
          }
          &:nth-child(3){
-               transform: translateY(-8px);
+               transform: translateY(-8px) rotate(-45deg);
          } 	    
        }
     }	    
@@ -348,6 +348,13 @@ $desktop: 960px + (2 * $gap) !default;
       background-color:$secondary;
     }
   }
+}
+
+//increase size of search bar icon for mobile screen
+.search-bar.sgds-icon.sgds-icon-search { 
+	font-size: 1.5rem;
+	top: 0.5rem;
+	left: 0.5rem;
 }
 
 // Post-content
