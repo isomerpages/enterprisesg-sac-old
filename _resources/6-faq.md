@@ -222,7 +222,7 @@ A facility seeking recognition for compliance with OECD Principles of GLP should
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb14"></a>Where can I access the OECD Principles of GLP?</h4>
-Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the OECD website: [http://www.oecd.org/ehs](http://www.oecd.org/ehs){:target="_blank"}.
+Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb15"></a>Where can I get more information?</h4>
