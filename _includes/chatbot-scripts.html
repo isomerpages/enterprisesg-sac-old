@@ -75,6 +75,23 @@ if (mobileDropdownSections.length > 0) {
                 }           
             });
         } 
+        
+        //edit top navigation buttons in 'our-team' layout  
+        var boardOfDirectorButton = document.getElementById('board-of-directors-button');
+        if (boardOfDirectorButton !== null) {
+            var parentContainter = boardOfDirector.parentElement;
+            if (parentContainter !== null) {
+                if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
+                    var grandParentContainer = parentContainter.parentElement;
+                    if (grandParentContainer !== null) {
+                        grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
+                        grandParentContainer.className = grandParentContainer.className + 'bp-overflow-buttons padding--left--none padding--right--none';
+                        grandParentContainer.styles.marginBottom = '4rem';
+                        parentContainer.className = grandParentContainer.className.replace('bp-sec-button','bp-buttons').trim();
+                    }
+                }
+            }
+        }
     }
 }
     
@@ -88,23 +105,6 @@ if (titleSections.length > 0) {
             var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
             if (activeSecondLevelNavHeaders.length > 0) {
                 pageTitles[0].textContent = activeSecondLevelNavHeaders[0].textContent;
-            }
-        }
-    }
-}
-    
-//edit top navigation buttons in 'our-team' layout  
-var boardOfDirectorButton = document.getElementById('board-of-directors-button');
-if (boardOfDirectorButton !== null) {
-    var parentContainter = boardOfDirector.parentElement;
-    if (parentContainter !== null) {
-        if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
-            var grandParentContainer = parentContainter.parentElement;
-            if (grandParentContainer !== null) {
-                grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
-                grandParentContainer.className = grandParentContainer.className + 'bp-overflow-buttons padding--left--none padding--right--none';
-                grandParentContainer.styles.marginBottom = '4rem';
-                parentContainer.className = grandParentContainer.className.replace('bp-sec-button','bp-buttons').trim();
             }
         }
     }
