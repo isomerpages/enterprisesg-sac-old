@@ -1,3 +1,8 @@
+
+{%- if page.layout == 'faq' -%}
+<script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
+{%- endif -%}
+
 <script>  
 window.onload = function(){    
     //script to toggle navbar dropdown menu im mobile view
