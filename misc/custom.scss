@@ -288,8 +288,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
  &-burger{	//increase the size of the navbar-burger icon on mobile screen  
-    span{
-      background-color: #000000;    
+    span{   
       width: 24px;
       height: 2px;
       &:nth-child(1){
@@ -302,10 +301,10 @@ $desktop: 960px + (2 * $gap) !default;
     &.is-active{
        span{
          &:nth-child(1){
-               transform: translateY(8px) rotate(45deg);
+               transform: translateY(8px);
          }
          &:nth-child(3){
-               transform: translateY(-8px) rotate(45deg);
+               transform: translateY(-8px);
          } 	    
        }
     }	    
