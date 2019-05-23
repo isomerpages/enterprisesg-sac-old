@@ -50,7 +50,7 @@ Accreditation is the formal recognition by an accreditation authority to the tec
 **Certification:**  
 Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
-ILAC and  IAF have published an informative article titled "[Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace](http://ilac.org/?ddownload=119879)" in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+ILAC and  IAF have published an informative article titled "[Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace](http://ilac.org/?ddownload=119879){:target='_blank'}" in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 <p class="back-to-top"><a href="#faq-top">↑ Back to top</a></p>
 
 <h4><a name="qn3"></a>What are the benefits of being accredited?</h4>
@@ -107,7 +107,7 @@ This scheme evaluates the technical competence, integrity and independence of ce
 * **Accreditation Scheme for Product Certification**  
 This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
  
-More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services).
+More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services){:target="_blank"}.
 <p class="back-to-top"><a href="#faq-top">↑ Back to top</a></p>
 
 <h4><a name="qn5"></a>What is the general procedure for getting accreditation?</h4>
