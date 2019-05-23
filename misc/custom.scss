@@ -625,9 +625,3 @@ $desktop: 960px + (2 * $gap) !default;
 		height:400px;
 	}
 }
-
-@media screen and (max-width: 719px) {
-	.bg-hero {
-		background-image: url("/images/hero_frontpage_mobile.jpg");
-	}
-}
