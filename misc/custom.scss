@@ -589,17 +589,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-#board-of-directors-button, #senior-leadership-button, #organisational-structure-button {
-	@include touch() {
-		margin: 0;
-    		display: inline-block;
-    		width: 30%;
-    		line-height: normal;
-    		font-size: small;
-    		vertical-align: top;
-	}
-}
-
 .person-info-card {
 	@include touch() {
 		flex-basis:auto;
