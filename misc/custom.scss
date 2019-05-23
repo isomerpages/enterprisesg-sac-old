@@ -620,14 +620,14 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-@media screen and (min-width: 769px)
+@media screen and (min-width: 720px) {
 	.video-iframe {
 		height:400px;
 	}
 }
 
-@media screen and (max-width: 768px) {
-	.display {
-		font-size: 3rem;
+@media screen and (max-width: 719px) {
+	.bg-hero {
+		background-image: url("/images/hero_frontpage_mobile.jpg");
 	}
 }
