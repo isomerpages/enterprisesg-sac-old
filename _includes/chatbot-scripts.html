@@ -85,8 +85,8 @@ if (mobileDropdownSections.length > 0) {
                     var grandParentContainer = parentContainer.parentElement;
                     if (grandParentContainer !== null) {
                         grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
-                        grandParentContainer.className = grandParentContainer.className + 'bp-overflow-buttons padding--left--none padding--right--none';
-                        grandParentContainer.styles.marginBottom = '4rem';
+                        grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
+                        grandParentContainer.style.marginBottom = '4rem';
                         parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
                     }
                 }
