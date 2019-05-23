@@ -291,14 +291,13 @@ $desktop: 960px + (2 * $gap) !default;
     span{
       background-color: #000000;    
       width: 24px;
-      height: 2px;	    
-        &:nth-child(1){
-          top: calc(50% - 9px);
-        }
-	&:nth-child(3){
-          top: calc(50% + 7px);
-        }    
+      height: 2px;
+      &:nth-child(1){
+        top: calc(50% - 9px);
       }
+      &:nth-child(3){
+        top: calc(50% + 7px);
+      } 	    
     }
   }
   .navbar-link{
