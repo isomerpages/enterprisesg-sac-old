@@ -140,7 +140,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 <p class="back-to-top"><a href="#faq-top">↑ Back to top</a></p>
 
 <h4><a name="qn8"></a>Another other enquiries?</h4>
-If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target="_blank"} section.
 <p class="back-to-top"><a href="#faq-top">↑ Back to top</a></p>
 
 ---
@@ -158,7 +158,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb3"></a>What are the OECD Principles?</h4>
-The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at OECD website: [www.oecd.org](https://ntp.niehs.nih.gov/iccvam/suppdocs/feddocs/oecd/oecd_glpcm.pdf)
+The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at [OECD website] (https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}
 <p class="back-to-top"><a href="#faq-topb">↑ Back to top</a></p>
 
 <h4><a name="qnb4"></a>Where do I apply the GLP Studies?</h4>
