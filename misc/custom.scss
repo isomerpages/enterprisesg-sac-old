@@ -302,15 +302,14 @@ $desktop: 960px + (2 * $gap) !default;
     &.is-active{
        span{
          &:nth-child(1){
-           transform: translateY(8px);
+               transform: translateY(8px) rotate(45deg);
          }
          &:nth-child(3){
-           transform: translateY(-8px);
+               transform: translateY(-8px) rotate(45deg);
          } 	    
        }
-     }	    
+    }	    
   }
-}
   .navbar-link{
      &:hover:after{
 	border-bottom: 1px solid $secondary;
