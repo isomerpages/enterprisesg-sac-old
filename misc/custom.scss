@@ -287,20 +287,6 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
-  &-burger {
-	.span {
-		background-color: #000000;
-		height: 2px;
-		left: calc(50% - 12px);
-		width: 24px;
-		&:nth-child(1) {
-			top: calc(50% - 9px);
-		}
-		&:nth-child(3) {
-			top: calc(50% + 7px);
-		}
-	}
-  }
   .navbar-link{
      &:hover:after{
 	border-bottom: 1px solid $secondary;
