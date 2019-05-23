@@ -611,11 +611,11 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-
+/*
 #accordion-body-0::before {
 	content: 'There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.';
 }
-
+*/
 @media screen and (min-width: 1024px) {
 	.programme-container .owl-carousel .owl-item .item {
     		text-align:center;
