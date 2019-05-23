@@ -4,8 +4,8 @@ layout: leftnav-page-content
 
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
-	<div>
-		<h3>{{- section.description -}}</h3>
+	<h3>{{- section.description -}}</h3>
+	<div style="margin-top:1rem;margin-bottom:1rem;">
 		{%- for sectionfaq in section.faqs -%}
 		{%- comment -%} Accordion header {%- endcomment -%}
 		<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
