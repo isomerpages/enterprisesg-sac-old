@@ -299,7 +299,7 @@ $desktop: 960px + (2 * $gap) !default;
         top: calc(50% + 7px);
       } 	    
     }
-    .is-active {
+    &.is-active{
        span{
          &:nth-child(1){
            transform: translateY(8px);
