@@ -3,15 +3,15 @@ layout: leftnav-page-content
 ---
 
 {{- content -}}
-
+{%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
 <div>
     <h3>{{- section.description -}}</h3>
-		{%- for faq in section.faqs -%}
+		{%- for sectionfaq in section.faqs -%}
 			{%- comment -%} Accordion header {%- endcomment -%}
 			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 				<div class="col is-expanded is-fullwidth is-paddingless">
-					<h5 class="has-text-grey-dark is-marginless"><b>{{- faq.question -}}</b></h5>
+					<h5 class="has-text-grey-dark is-marginless"><b>{{- sectionfaq.question -}}</b></h5>
 				</div>
 				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 			</div>
@@ -19,7 +19,7 @@ layout: leftnav-page-content
 			<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
         	<div class="row is-multiline">
-						{{- faq.answer -}}
+						{{- sectionfaq.answer -}}
 					</div>
 				</div>
 			</div>
