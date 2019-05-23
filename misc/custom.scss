@@ -287,7 +287,7 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
- &-burger{	 
+ &-burger{	//increase the size of the navbar-burger icon on mobile screen  
     span{
       background-color: #000000;    
       width: 24px;
@@ -299,7 +299,18 @@ $desktop: 960px + (2 * $gap) !default;
         top: calc(50% + 7px);
       } 	    
     }
+    .is-active {
+       span{
+         &:nth-child(1){
+           transform: translateY(8px);
+         }
+         &:nth-child(3){
+           transform: translateY(-8px);
+         } 	    
+       }
+     }	    
   }
+}
   .navbar-link{
      &:hover:after{
 	border-bottom: 1px solid $secondary;
