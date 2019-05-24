@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: FAQ
+title: FAQ-OLD
 permalink: /resources/faq-old
 collection_name: resources
 ---
