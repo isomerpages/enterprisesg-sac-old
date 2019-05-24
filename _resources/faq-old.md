@@ -2,7 +2,6 @@
 layout: leftnav-page-content
 title: FAQ-OLD
 permalink: /resources/faq-old
-collection_name: resources
 ---
 [](){:id="faq-top"}  
 ### Frequently Asked Questions on SAC Accreditation Programmes
