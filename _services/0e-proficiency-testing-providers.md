@@ -5,7 +5,7 @@ permalink: /services/proficiency-testing-providers
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
-### ABOUT PROFICIENCY TESTING PROVIDERS
+## ABOUT PROFICIENCY TESTING PROVIDERS
 Proficiency testing involves the use of inter-laboratory comparisons for the determination of laboratory performance. The need for ongoing confidence in laboratory performance is not only essential for laboratories and their customers but also for other interested parties such as regulators and accreditation bodies. 
 
 Proficiency testing providers play an important role in the value chain for assurance of products and services. Their proficiency testing programmes should be properly designed and statistically robust so that the benchmarking of participants’ performance is properly conducted and the participants can monitor trend and identify gaps in their performance for corrective actions and improvements.
@@ -14,7 +14,7 @@ For proficiency testing providers to demonstrate their capabilities and give con
 
 SAC officially launched the Accreditation Scheme for Proficiency Testing Providers (PTP) on 14 August 2013.
 
-#### Accreditation Criteria
+### Accreditation Criteria
 
 The primary standard used for accreditation of proficiency testing providers is ISO/IEC 17043 (Conformity Assessment – General Requirements for proficiency testing). 
 The requirements in this standard apply to areas such as management, planning and design, personnel, assuring quality and confidentiality for organising PT programme. 
@@ -23,13 +23,13 @@ Technical note, PTP 001 – Requirements for the Application of ISO/IEC 17043, w
 
 This is a voluntary scheme that is open to all facilities. SAC accreditation is only granted for the specific scope(s) put up for accreditation. 
 
-#### BENEFITS
+### BENEFITS
 
 Being an accredited PTP gives the organisation credibility for their PT services. Once a MRA for PTP is established, this credibility goes beyond the local market.
 
 In addition, with the pool of accredited local PTPs available, customers such as laboratories will have access to more affordable and reliable sources of PT programmes.
 
-#### PROCESS
+### PROCESS
 
 A facility seeking recognition for compliance with ISO/IEC 17043 should apply to SAC, stating its proposed scope and type of PT programme for recognition. It has to provide key information on:  
    a) Management structure  
@@ -44,5 +44,5 @@ Once a facility has met all criteria of ISO/IEC 17043, SAC will issue a Certific
 
 Surveillance assessment will be conducted annually and reassessment will be conducted every four years for the renewal of accreditation. The schematic diagram of the accreditation process is described below:
 <div style="display:block;text-align:center;">
- <img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
+  <img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
 </div> 
