@@ -5,9 +5,6 @@ layout: leftnav-page-content
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
 	<h3>{{- section.title -}}</h3>
-	{%- if section.description -%}
-		<p>{{- section.description -}}</p>
-	{%- endif -%}
 	<div style="margin-top:1rem;margin-bottom:1rem;">
 		{%- for sectionfaq in section.faqs -%}
 		{%- comment -%} Accordion header {%- endcomment -%}
