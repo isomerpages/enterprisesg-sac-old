@@ -5,7 +5,7 @@ permalink: /services/certifcation-body
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
-## ABOUT CERTIFICATION BODIES
+## ABOUT
 
 Accreditation is an endorsement of a certification body’s independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
 
