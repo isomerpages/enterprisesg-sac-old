@@ -2,14 +2,14 @@
 layout: post
 title:  Success Stories
 date:   2019-04-22
-permalink: /newsroom/cab-success-stories/cab-success-stories
+permalink: /newsroom/cab-success-stories/success-stories-1
 ---
 
 ## Thumbs up from the Industry
 
 Often during the accreditation process, organisations that embrace quality will find ways to continually streamline and improve their operations, thus becoming more efficient and effective at managing their resources. Their ability to meet rigorous international standards and processes shows that they have proper systems in place. This ensures better record keeping and higher competency so that the data is reliable and credible. Ultimately, this enhances their reputation and the quality of services provided, propelling them to greater heights in operational excellence as well as in gaining new business.
 
-Our valued Customers and Stakeholders share their congratulatory messages here, as we mark the 10th anniversary of the SAC and 20thanniversary of accreditation in Singapore.
+Our valued Customers and Stakeholders share their congratulatory messages here, as we mark the 10th anniversary of the SAC and 20th anniversary of accreditation in Singapore.
  
  
 ### Analytical Laboratories (Singapore) Pte Ltd
