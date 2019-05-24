@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: FAQ
-permalink: /resources/faq
+permalink: /resources/faq-old
 collection_name: resources
 ---
 [](){:id="faq-top"}  
