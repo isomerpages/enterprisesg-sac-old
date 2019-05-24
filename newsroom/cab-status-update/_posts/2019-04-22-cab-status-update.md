@@ -63,7 +63,7 @@ permalink: /newsroom/cab-status-update/status-update-1
 
 ### 3. Withdrawn Laboratory / Certification Body / Inspection Body 
 
-#### Voluntary Withdrawal by CABs**
+#### Voluntary Withdrawal by CABs
 
 #### Laboratory
 * **Calibration & Measurement**
@@ -92,6 +92,7 @@ permalink: /newsroom/cab-status-update/status-update-1
         
 * **Multi-Tiered Cloud Computing Security**
   * TUV Rheinland Pte Ltd (29 December 2018)
+
 * **Withdrawal by SAC**
 
 #### Inspection Body
@@ -108,7 +109,7 @@ permalink: /newsroom/cab-status-update/status-update-1
   * Kalswift Singapore Pte Ltd (07 May 2019)
         
 #### Inspection Body
-* **Cargo Inspection
+* **Cargo Inspection**
   * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 #### Certification Body**
@@ -121,8 +122,8 @@ permalink: /newsroom/cab-status-update/status-update-1
 
 #### Withdrawal by SAC
 
-#### Inspection Body**
-* ** Cargo Inspection
+#### Inspection Body
+* **Cargo Inspection**
   * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
 
 #### Laboratory
