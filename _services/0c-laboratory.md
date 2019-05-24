@@ -5,12 +5,12 @@ permalink: /services/laboratory
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
-### ABOUT SAC-SINGLAS
+## ABOUT SAC-SINGLAS
 The Singapore Laboratory Accreditation Scheme (SAC-SINGLAS) plays an important role in improving the business efficiency and competitiveness of local industries. Administered by the SAC, the scheme accredits laboratories that conduct tests, calibrations and measurements in a spectrum of fields. 
 
 The process of accreditation under SAC-SINGLAS assesses and recognises the technical competence and effective management processes of a professional service provider and its staff. The scheme kicked started in November 1986 and aims to upgrade the standard of testing and calibration services in Singapore.
  
-#### Accreditation Criteria
+### Accreditation Criteria
 SAC-accredited laboratories and radiology services are set against the best international technical and management system standards of ISO/IEC 17025 – General Requirements for the Competence of testing and calibration laboratories – and ISO 15189 – Particular Requirements for Quality and Competence (for medical laboratories only). 
 
 SAC-SINGLAS works on a peer assessment basis, whereby laboratories are assessed by technical experts from specific fields of testing and calibration. These experts come from the industry, government bodies and tertiary institutions. 
@@ -19,20 +19,16 @@ This is a voluntary scheme that is open to all laboratories. To date, laboratori
 
 SAC-SINGLAS accreditation is only granted for specific tests and calibrations in specific fields. Laboratories are only allowed to issue endorsed reports for accredited tests and calibrations. 
  
-### BENEFITS
+## BENEFITS
 Accreditation will: 
  
-* Gain assurance of competence  
-Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards. 
+* **Gain assurance of competence**: Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards. 
 
-* Maintain high quality  
-Testing facilities are guaranteed to preserve global quality standards through regular surveillance visits.
+* **Maintain high quality**: Testing facilities are guaranteed to preserve global quality standards through regular surveillance visits.
 
-* Minimise your risk  
-A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-work of your products.
+* **Minimise your risk**: A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-work of your products.
 
-* Increase customer buy-in.  
-Using an accredited laboratory will improve your company’s image and gain customers buy-in.
+* **Increase customer buy-in**: Using an accredited laboratory will improve your company’s image and gain customers buy-in.
 
 As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the International Laboratory Accreditation Cooperation (ILAC) as well as having bilateral contract with the European Cooperation for Accreditation (EA), reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across 65 economies.
  
