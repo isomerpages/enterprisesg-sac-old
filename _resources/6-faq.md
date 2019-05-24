@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: FAQ-TEST
+title: FAQ
 permalink: /resources/faq
 collection_name: resources
 ---
