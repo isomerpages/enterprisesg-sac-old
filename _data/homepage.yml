@@ -35,21 +35,6 @@ key-highlights:
     description: Find a SAC Course
     url: /services/training/
 
-# Info Sections
-info-sections:
-  - section-title: Businesses
-    section-subtitle: About Accreditation
-    section-description: Learn about the importance and benefits of accreditation for companies
-    section-more-button: More
-    section-more-button-url: /services/accreditation-services
-    section-image-path: /images/SAC_00173.jpg 
-  - section-title: Regulators
-    section-subtitle: Get certified
-    section-description: Relevant accreditation programmes for regulators
-    section-more-button: More
-    section-more-button-url: /services/training
-    section-image-path: /images/SAC_00326.jpg 
-
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title:
@@ -63,10 +48,3 @@ resources-title: NewsRoom
 resources-subtitle: Be in the know
 resources-more-button: More
 resources-more-button-url: /newsroom/
-
-# Careers Section
-careers-title: Careers
-careers-subtitle: Join Us
-careers-description: We play a crucial role in actively promoting the benefits of accreditation to the regulators and users of conformity assessment services.
-careers-more-button: Explore Opportunities
-careers-more-button-url: /about/join-us/
