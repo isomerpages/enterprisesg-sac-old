@@ -16,11 +16,6 @@ hero-subtitle: Your Trusted Partner in Accreditation
 hero-banner: /images/hero_frontpage.jpg
 hero-banner-mobile: /images/hero_frontpage_mobile.jpg
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /about/our-role/
-
 # Key Highlights
 key-highlights:
   - title: Search
