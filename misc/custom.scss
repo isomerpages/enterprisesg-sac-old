@@ -274,6 +274,11 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+//h1 header (e.g. in frontpage banner)
+.display {
+    font-size: 4rem;
+}
+
 // Navbar
 .navbar{
   &-start{
@@ -617,11 +622,6 @@ $desktop: 960px + (2 * $gap) !default;
 }
 */
 @media screen and (min-width: 1024px) {
-	//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
-	.bp-hero-body .row {  
-    		min-height: calc(100% - 90px);
-		height: calc(100% - 90px);
-	}
 	
 	.programme-container .owl-carousel .owl-item .item {
     		text-align:center;
