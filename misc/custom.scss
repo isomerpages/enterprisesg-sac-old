@@ -186,6 +186,11 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $secondary !important;
 }
 
+.bp-hero-body .row {  
+    	min-height: calc(100% - 90px);
+	height: calc(100% - 90px);
+}
+
 // Menu/Left-nav
 .bp-menu-list a.is-active {
 	color: $secondary !important;
