@@ -112,7 +112,7 @@ permalink: /newsroom/cab-status-update/status-update-1
 * **Cargo Inspection**
   * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
-#### Certification Body**
+#### Certification Body
 * **Business Continuity Management**
   * Lloyd's Register Quality Assurance Limited (13 March 2019)  
 * **Energy Management System**
