@@ -8,6 +8,7 @@ collection_name: about
 ## About
 
 In Singapore, the Singapore Accreditation Council (SAC) is the national accreditation body. Managed by Enterprise Singapore, SAC maintains the integrity and impartiality of conformity assessment practices. The Council builds global trust in Singapore's products and services by strengthening our country’s technical infrastructure for conformity assessments, as well as in forging Mutual Recognition Arrangements (MRAs) with our economic partners.  
+
 SAC is represented by various interested parties from the industry, government, academia and Conformity Assessment Bodies (CABs). It is supported by 5 Council Committees as well as 11 Technical Committees with over 500 committee members and assessors, each overseeing specific fields and areas of accreditation.
 
 ## What does SAC do?
