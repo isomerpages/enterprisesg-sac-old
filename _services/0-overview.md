@@ -9,11 +9,16 @@ SAC is the national accreditation body in Singapore. It operates a range of accr
 
 The accreditation criteria for determining the competence of companies are based on the relevant international standard (eg. ISO/IEC 17025, ISO 15189, ISO/IEC 17020, ISO/IEC 17021-1, ISO/IEC 17024, ISO/IEC 17065, ISO/IEC 17043).
 
-SAC will develop new services from time to time to meet the needs of our industry. The current accreditation schemes offered by SAC are:
-* Accreditation Scheme for Laboratories (SAC-SINGLAS)
-* Accreditation Scheme for Inspection Bodies
-* Accreditation Scheme for Management Systems Certification Bodies
-* Accreditation Scheme for Product Certification Bodies
-* Accreditation Scheme for Proficiency Testing Provider
-* Accreditation Scheme for Personnel Certification Bodies
-* Accreditation Scheme for Validation & Verification Bodies
+Our accreditation schemes provide independent third-party attestation of 
+* Auditing Organisations 
+* Greenhouse Gas Validation & Verification Bodies 
+* Inspection Bodies 
+* Laboratories 
+* Management System Certification Bodies 
+* Personnel Certification Bodies 
+* Product Certification Bodies 
+* Proficiency Testing Providers
+
+We also administer the Singapore Good Laboratory Practice (GLP) Compliance Programme.
+
+We organise accreditation-related training courses such as scheme-specific conformity requirements, technical and management skillsets, and updates on international requirements. 
