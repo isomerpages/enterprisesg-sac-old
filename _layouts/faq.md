@@ -8,13 +8,14 @@ layout: leftnav-page-content
 	{%- if section.description -%}
 		<p>{{- section.description -}}</p>
 	{%- endif -%}
-	{::options parse_block_html="true" /}
 	<div style="margin-top:1rem;margin-bottom:1rem;">
 		{%- for sectionfaq in section.faqs -%}
 		{%- comment -%} Accordion header {%- endcomment -%}
 		<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 			<div class="col is-expanded is-fullwidth is-paddingless">
-				<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">{{- sectionfaq.question -}}</b></h5>
+				<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">
+					<b>{{- sectionfaq.question -}}</b>
+				</h5>
 			</div>
 			<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 		</div>
