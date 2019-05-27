@@ -4,10 +4,8 @@ title: test
 permalink: /test
 ---
 
-{%- assign title = "Frequently Asked Questions on SAC Accreditation Programmes" -%}
-{%- assign description = "Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation." -%}
-<h3>{{- section.title -}}</h3>
-<p>{{- section.description -}}</p>
+{%- assign name = "1" -%}
+<h3>{{- name -}}</h3>
 
 <div class="row is-multiline">
 # Headline2
