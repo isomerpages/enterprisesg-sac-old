@@ -4,8 +4,6 @@ title: test
 permalink: /test
 ---
 {%- assign name = "1" -%}
-
-
 <section class="bp-section is-small bp-section-pagetitle">
     <div class="bp-container">
         <div class="row">
@@ -16,7 +14,6 @@ permalink: /test
     </div>
 </section>
 
-{::options parse_block_html="true" /}
 <div markdown="1">
     ## test
     Have **fun!**
