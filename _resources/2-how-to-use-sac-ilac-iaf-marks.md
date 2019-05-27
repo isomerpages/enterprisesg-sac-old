@@ -5,7 +5,7 @@ permalink: /resources/how-to-use-sac-ilac-iaf-marks
 collection_name: resources
 ---
 
-## General Conditions on Use of Accreditation Marks
+## General Conditions for Use of SAC Accreditation Marks
 
 1. The Accreditation Mark is illustrated below and the appropriate artwork shall be reproduced accurately without any alteration subject to provisions of this clause.
 
