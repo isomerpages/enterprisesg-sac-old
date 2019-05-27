@@ -29,7 +29,7 @@ collections:
     output: true
   resources:
     output: true
-  accredited org:
+  accredited:
     output: true
 
 # Resource Room and Pagination
