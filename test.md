@@ -9,8 +9,7 @@ permalink: /test
 <h3>{{- title -}}</h3>
 <p>{{- description -}}</p>
 
-
-<div class="row is-multiline">
+<div class="row is-multiline" markdown="1">
 # Headline2
 Have **fun!**
 </div>	
