@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: How to use SAC Mark
-permalink: /resources/how-to-use-sac-mark
+permalink: /resources/how-to-use-sac-ilac-iaf-marks
 collection_name: resources
 ---
 
