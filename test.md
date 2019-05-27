@@ -1,5 +1,6 @@
 ---
 layout: default
+title: test
 permalink: /test
 ---
 {%- assign name = "1" -%}
@@ -14,7 +15,7 @@ permalink: /test
         </div>
     </div>
 </section>
-<div>
+<div markdown="1">
     
     Have **fun!**
     
