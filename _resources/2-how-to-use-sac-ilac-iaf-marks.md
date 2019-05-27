@@ -22,6 +22,6 @@ certificate number must be readable. It shall be used on a background that will 
 7. The Certified Organisation shall ensure that the Mark was not used by its subsidiaries or associates not related to this accredited management system for its product approval or associated documentations. 
 
 
-[SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
+[Clik here for more information on the use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"}
 
-[Information on the IAF MLA mark and sub-licence agreement](/files/sac_documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"}
+[Click here for more information on the IAF MLA mark and sub-licence agreement](/files/sac_documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"}
