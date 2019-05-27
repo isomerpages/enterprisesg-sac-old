@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign name = "1" -%}
+
+
+<section class="bp-section is-small bp-section-pagetitle">
+    <div class="bp-container">
+        <div class="row">
+            <div class="col">
+                <h1 class="has-text-white"><b>{{- name -}}</b></h1>
+            </div>
+        </div>
+    </div>
+</section>
