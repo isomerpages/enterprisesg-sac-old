@@ -88,12 +88,8 @@
     url: /resources/brochures
   - title: Publications
     url: /resources/publications
-  - title: How to use SAC Mark
-    url: /resources/how-to-use-sac-mark
-  - title: How to use ILAC Mark
-    url: /resources/how-to-use-ilac-mark
-  - title: How to use IAF Mark
-    url: /resources/how-to-use-iaf-mark
+  - title: How to use SAC / ILAC / IAF Marks
+    url: /resources/how-to-use-sac-ilac-iaf-marks
   - title: Certified Companies
     url: /resources/sac-certified-companies
   - title: FAQ
