@@ -15,7 +15,7 @@ permalink: /test
         </div>
     </div>
 </section>
-<div markdown="1">
+<div>
     <span style="display:block;">
     Have **fun!**
     </span>
