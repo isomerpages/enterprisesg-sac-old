@@ -23,10 +23,10 @@ Please refer to the link for the latest SAC brochures.
   <tbody>
     <tr>
       <td valign="top">
-        <a href="/files/brochures/SAC%20Brochure%20(Main%20Booklet).pdf" target="_blank">
+        <a href="/files/brochures/SAC_Brochure.pdf" target="_blank">
          <figure>
-  	   <img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Main Booklet"/>
-  	   <figcaption>SAC Main Booklet</figcaption>
+  	   <img src="/images/brochures/SAC-Brochure.jpg" alt="SAC Booklet"/>
+  	   <figcaption>SAC Booklet</figcaption>
 	</figure>
         </a>
       </td>
