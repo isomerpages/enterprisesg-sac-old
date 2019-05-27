@@ -28,7 +28,8 @@ Have **fun!**
 			<div class="row is-multiline" markdown="1">
 # Headline2
 Have **fun!**
-			</div>		
+</div>	
+			
 		</div>
 	</div>		
 </div>
