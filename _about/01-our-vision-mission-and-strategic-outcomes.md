@@ -4,8 +4,13 @@ title: Our Vision, Mission And Strategic Outcomes
 permalink: /about/our-vision-mission-and-strategic-outcomes
 collection_name: about
 ---
+## Vision
+To be the trusted partner for assurance of quality products and services locally and globally
 
-## Mission and Strategic Outcomes
+# Misson
+To deliver a robust accreditation framework and international recognition of Singapore-based enterprises
+
+## Strategic Outcomes
 ![SACStrategicPlan2020](/images/SACStrategic2020.png)
 
 ## Impartiality Policy
