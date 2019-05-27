@@ -6,7 +6,7 @@ collection_name: about
 second_nav_title: "Collaborations And Recognitions"
 ---
 
-<iframe class="video-iframe" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
+<iframe class="video-iframe" src="https://www.youtube.com/embed/rN9M7aJ85LU" frameborder="0" allowfullscreen></iframe>
 
 ### A Global Passport for Singapore Enterprises
 
