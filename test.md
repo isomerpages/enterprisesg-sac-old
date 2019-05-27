@@ -17,6 +17,7 @@ permalink: /test
 Have **fun!**
 </div>	
 
+{::options parse_block_html="true" /}
 <div style="margin-top:1rem;margin-bottom:1rem;">
 	<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 		<div class="col is-expanded is-fullwidth is-paddingless">
