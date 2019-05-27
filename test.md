@@ -15,6 +15,9 @@ permalink: /test
         </div>
     </div>
 </section>
+
+{::options parse_block_html="true" /}
 <div markdown="1">
+    ## test
     Have **fun!**
 </div>
