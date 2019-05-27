@@ -18,9 +18,9 @@ layout: leftnav-page-content
 			<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 		</div>
 		{%- comment -%} Accordion body {%- endcomment -%}
+		{::options parse_block_html="true" /}
 		<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
-			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-				{::options parse_block_html="true" /}
+			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">		
 				<div class="row is-multiline">
 				{{- sectionfaq.answer -}}
 				</div>		
