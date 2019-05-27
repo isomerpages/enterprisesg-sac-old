@@ -7,30 +7,41 @@ collection_name: resources
 
 ## General Conditions for Use of SAC Accreditation Marks
 
+### Layout
+
 1. The Accreditation Mark is illustrated below and the appropriate artwork shall be reproduced accurately without any alteration subject to provisions of this clause.
 
 2. The entire Mark may be uniformly enlarged or reduced, but shall not be less than 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated.
 
 3. The accreditation marks must be reproduced in the official colours, red (Pantone 032C) or dark grey (Pantone 432C). Single colour accreditation marks, subjective to SAC’s approval, can be used for limited colour or black and white production, only on light backgrounds. The font used for the certificate number is Univers 65 Bold. When this font is not readily available using software such as Microsoft Office or on platforms such as websites, Arial Bold can be used in its place. When an accredited organisation is accredited for more than 1 programme/field, the accredited organisation can choose to list all certificate numbers under 1 SAC mark, after obtaining approval from SAC in writing.
 
-4. When the SAC accreditation mark is used by an accredited certification body, the appropriate certificate number accorded to the body under the programme shall be used in conjunction with the SAC accreditation mark.
+### Use of Accredited CAB Combined ILAC MRA Mark by Accredited Laboratories and Inspection Bodies
 
-5. The Mark shall not be used by Certified organisations that implies the certification applies to activities that are outside the scope of certification as detailed in the certificate. There shall be no ambiguity in the Mark or accompanying text, as to what has been certified.
+1. An accredited laboratory or inspection body is encouraged to use the Accredited CAB Combined ILAC MRA Mark to demonstrate that the
+laboratory or inspection body is accredited by a signatory of the International Laboratory Accreditation Cooperation (ILAC) Mutual Recognition Arrangement. The ILAC MRA Mark shall only be used in combination with the SAC accreditation mark which is then known as the “Accredited CAB Combined ILAC MRA Mark”. 
 
-6. The Certified Organisation shall ensure that the Mark was not used by its subsidiaries or associates not related to this accredited management system for its product approval or associated documentations.
+2.  The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
-## General Principles on Use of the IAF MLA Mark
+3. The ILAC MRA Mark may bereproduced in black and white or in colour provided the approved colours
+are used. Embossed, relief, or die-stamped versions are allowable. 
 
-The International Accreditation Forum, Inc. (IAF) facilitates trade and supports regulators by operating a worldwide mutual recognition arrangement among Accreditation Bodies (ABs) in order that the results issued by Conformity Assessment Bodies (CABs) accredited by IAF Accreditation Body members are accepted globally.
+4. The ILAC MRA mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. It shall not appear in a size that renders the ILAC MRA words unreadable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. It shall maintain similar proportions to the SAC accreditation mark within the Accredited CAB Combined ILAC MRA Mark. The difference in the height of SAC accreditation mark and the ILAC
+MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted for the letters within the ILAC MRA Mark, as the typeface is custom-designed artwork. The ILAC MRA mark must be based upon the original artwork to ensure high-quality production. 
 
-Accreditation reduces risk for business and its customers by assuring that accredited CABs are competent to carry out the work they undertake within their scope of accreditation. ABs that are members of IAF and the CABs they accredit are required
-to comply with appropriate international standards and the applicable IAF application documents for the consistent application of those standards.
+## Use of IAF MLA Mark by Accredited Certification Bodies
 
-ABs that are signatories to the IAF Multilateral Recognition Arrangement (MLA) are evaluated regularly by an appointed team of peers to provide confidence in the operation of their accreditation schemes. The structure and scope of the IAF MLA is detailed in IAF PR 4 - Structure of IAF MLA and Endorsed Normative Documents. The IAF MLA is structured in five levels: Level 1 specifies mandatory criteria that apply to all ABs, ISO/IEC 17011. The combination of a Level 2 activity(ies) and the corresponding Level 3 normative document(s) is called the main scope of the MLA, and the combination of Level 4 (if applicable) and Level 5 relevant normative
-documents is called a sub-scope of the MLA.
+1. An accredited certification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the "Combined Mark". 
 
-* The main scope of the MLA includes activities e.g. product certification and associated mandatory documents e.g. ISO/IEC 17065. The attestations made by CABs at the main scope level are considered to be equally reliable.
+2. Accredited certification bodies must enter into a sublicensing agreement with SAC prior to the use of the "Combined Mark". The coverage of the sublicense is restricted to the scope of the MLA for which SAC is a signatory of the IAF MLA and also restricted to the certification bodies' scope of accreditation.
 
-* The sub scope of the MLA includes conformity assessment requirements e.g. ISO 9001 and scheme specific requirements, where applicable, e.g. ISO TS 22003. The attestations made by CABs at the sub scope level are considered to be equivalent.
+3. The “Combined Mark” in conjunction with the certification body's mark, can be used on letterheads, accredited certificates, quotations for work, advertisements, websites and other documents.
 
-The IAF MLA delivers the confidence needed for market acceptance of conformity assessment outcomes. An attestation issued, within the scope of the IAF MLA, by a body that is accredited by an IAF MLA signatory AB can be recognized worldwide, thereby facilitating international trade.
+4. The certification body shall not allow its customers to use the combined mark.
+
+5. The IAF MLA Mark shall be printed according to the following specifications:
+  i. In black and white or in the colours Pantone 2747 (dark blue) Pantone 299 (light blue);
+  ii. On a clearly contrasting background; and
+  iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than
+20mm for printed media and 75 pixels for digital media.
+
+6. Please refer to IAF ML-2 General Principles on the use of the IAF MLA Mark for more information.
