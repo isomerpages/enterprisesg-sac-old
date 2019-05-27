@@ -19,8 +19,10 @@ layout: leftnav-page-content
 		</div>
 		{%- comment -%} Accordion body {%- endcomment -%}
 		<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
-			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%" markdown="1">
+			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
+				<span style="display:block;" class="row is-multiline">
 				{{- sectionfaq.answer -}}
+				</span>		
 			</div>
 		</div>
 		{%- endfor -%}
