@@ -3,6 +3,7 @@ layout: default
 title: test
 permalink: /test
 ---
+{::options parse_block_html="false" /}
 {%- assign name = "1" -%}
 <section class="bp-section is-small bp-section-pagetitle">
     <div class="bp-container">
@@ -14,6 +15,7 @@ permalink: /test
     </div>
 </section>
 
+{::options parse_block_html="true" /}
 <div markdown="1">
     ## test
     Have **fun!**
