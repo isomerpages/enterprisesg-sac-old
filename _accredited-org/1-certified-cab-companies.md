@@ -7,4 +7,4 @@ collection_name: accredited-org
 
 ## List of Companies Certified by SAC Accredited Certification Bodies
 
-<br/>
+### Type of Certification
