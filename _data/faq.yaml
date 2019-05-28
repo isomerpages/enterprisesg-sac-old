@@ -110,7 +110,15 @@
       - question: How do I gain GLP Recognition?
         answer: 
           - line: "A facility seeking recognition for compliance with OECD Principles of GLP should apply to SAC, stating the proposed scope of recognition, type of studies etc. An on-site assessment is done to determine compliance with the Principles. At least one GLP compliant study must be completed prior to the initial assessment. Re-assessments are done every two years and a study audit is done annually."
-      
+      - question: Where can I access the OECD Principles of GLP?
+        answer: 
+          - line: "Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the <a href='https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm' target='_blank'>OECD website.</a>"
+      - question: Where can I get more information?
+        answer: 
+          - line: "Further information on the Singapore compliance monitoring programme should be sent to <a href='mailto:lim_lee_fang@enterprisesg.gov.sg'>lim_lee_fang@enterprisesg.gov.sg</a>."
+      - question: Any other enquiries?
+        answer: 
+          - line: "If you have any questions or doubts, you can drop us an email or call us directly through the <a href='/contact-us' target='_blank'>Contact Us</a> section."
 
 
 
