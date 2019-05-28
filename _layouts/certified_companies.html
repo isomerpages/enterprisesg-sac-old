@@ -5,7 +5,7 @@ layout: leftnav-page
 {%- assign certified-companies = site.data.certified-companies -%}
 <div class="content">	
 	<div>
-		{%- for certification in certified-companies.certification-type -%}
+		{%- for certification in certified-companies -%}
 			{%- comment -%} Accordion header {%- endcomment -%}
 			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 				<div class="col is-expanded is-fullwidth is-paddingless">
