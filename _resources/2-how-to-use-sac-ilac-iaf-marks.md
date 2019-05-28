@@ -58,7 +58,7 @@ MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted 
 
 ## Use of IAF MLA Mark by Accredited Certification Bodies
 
-<img style="width:300px;max-width:100%;" alt="iaf-mla-mark" src="/images/how-to-use-marks/combined-mark-certification-bodies.jpg"/>
+<img style="width:537px;max-width:100%;" alt="iaf-mla-mark" src="/images/how-to-use-marks/combined-mark-certification-bodies.jpg"/>
 
 1. An accredited certification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the "Combined Mark". 
 
