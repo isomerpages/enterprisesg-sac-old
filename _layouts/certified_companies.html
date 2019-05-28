@@ -21,7 +21,7 @@ layout: leftnav-page
 						{%- for company in certification.company-list -%}
 						    <div class="col is-4 padding--right--xl padding--bottom">
 								<div class="margin--top--none">
-									{%- if company.link -%}<a href="{{- site.baseurl -}}{{- company.link -}}">{%- endif -%}{{- company.name -}}{%- if company.link -%}</a>{%- endif -%}
+									{%- if company.link -%}<a href="{{- company.link -}}" target="_blank">{%- endif -%}{{- company.name -}}{%- if company.link -%}</a>{%- endif -%}
 								</div>
 							</div>
 						{%- endfor -%}
