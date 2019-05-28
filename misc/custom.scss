@@ -616,25 +616,12 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-/*
-#accordion-body-0::before {
-	content: 'There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.';
-}
-*/
+
 @media screen and (min-width: 1024px) {
 	//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
 	.bp-hero-body .row {  
     		min-height: 270px;
 		height: 301px;
-	}
-	
-	.programme-container .owl-carousel .owl-item .item {
-    		text-align:center;
-	}
-
-	.programme-container .owl-carousel .owl-item img {
-	    width: 60%;
-	    height: auto;
 	}
 }
 
