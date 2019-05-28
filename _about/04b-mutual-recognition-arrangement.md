@@ -19,6 +19,7 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 <img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="width:327px;max-width:100%;height:auto;"/>
 
 ### List of MRAs
+---
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
 
 <table id="mra-table">
@@ -73,11 +74,12 @@ Since 1997, SAC has signed numerous multi-lateral MRAs such as:
  </tbody>
 </table>
 
-
+---
 Note: To facilitate recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
 Please click below for the respective MRA listings.
 
 * [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
+
 * [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="_blank"}
 
 
