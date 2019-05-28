@@ -1,38 +1,94 @@
 - title: Management System Certification
-  teams:
-    - name: Council Committee For Laboratory (CCL) 
-      link: /about/council-committees#ccl
-    - name: Council Committee For Biomedical & Health (CCBH)
-      link: /about/council-committees#ccbh
-    - name: Council Committee For Inspection (CCI)
-      link: /about/council-committees#cci
-    - name: Council Committee For Certification (CCC)
-      link: /about/council-committees#ccc      
-    - name: Council Committee For Business Development (CCBD)
-      link: /about/council-committees#ccbd
+  company-list:
+    - name: ACE International Certification Pte Ltd
+      link: http://www.aceintlcert.com/
+    - name: BSI Group Pte Ltd
+      link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
+    - name: Building and Construction Authority
+      link: https://www.bca.gov.sg/Professionals/IQUAS/IQUAS/StaticPages/iso_company.aspx?menuID=7
+    - name: Bureau Veritas Singapore Pte Ltd
+      link: http://www.bureauveritas.com/home/contact   
+    - name: SOCOTEC Certification Singapore Pte Ltd
+      link: http://www.socotec-certification-international.sg/certification/certified-companies
+    - name: DAS Certification Singapore Pte Ltd
+      link: http://dascert.com.sg/client-zone?field_certification_number_value=&field_standard_value=All  
+    - name: DNV GL Business Assurance Pte Ltd
+      link: https://certificatechecker.dnvgl.com/ 
+    - name: EQA IMS Certification Pte Ltd
+      link: http://eqaims.com/client-directory/ 
+    - name: EPI Certification Pte Ltd
+      link: https://www.epi-certification.com/  
+    - name: Guardian Independent Certification Pte Ltd
+      link: http://gicg.com.sg/information/client-directory/ 
+    - name: ICR Singapore Certification Pte Ltd
+      link: http://www.icrsgcert.com/ 
+    - name: ISOCERT Pte Ltd
+      link: https://www.isocert.sg/latest-news 
+    - name: KW Certification Pte Ltd
+      link: http://www.kwcert.com/contact-us/   
+    - name: Lloyd's Register Quality Assurance Limited
+      link: http://www.lrqa.com.sg/
+    - name: QAI Certification Pte Ltd
+      link: http://www.qaic-singapore.com/?page_id=35
+    - name: SC2 Pte Ltd
+      link: http://www.sc2.com.sg/services.php?s=3&pg=7&spg=9&sspg=
+    - name: Setsco Services Pte Ltd
+      link: http://www.setsco.com/setsco/Info/html/service-enquiry.html
+    - name: SGS International Certification Services Pte Ltd
+      link: http://www.sgs.sg/en/Our-Company/Certified-Clients-and-Products/Certified-Client-Directory.aspx
+    - name: Singapore Test Services Pte Ltd
+      link: https://www.isc-global.net/our-clients/
+    - name: Singapore ISC Pte Ltd
+      link: http://www.test.com.sg/services_certification.aspx?st=Management%20Systems&sid=9#
+    - name: TQCSI Certification Pte Ltd
+      link: http://www.tqcsi.com/v2.0/cert_org_search.asp 
+    - name: Transpacific Certification Singapore Pte Ltd
+      link: http://tcspl.com.sg/?page_id=471
+    - name: TÜV Rheinland Singapore Pte Ltd
+      link: https://www.certipedia.com/?locale=en#system-search
+    - name: TÜV SÜD PSB Pte Ltd
+      link: http://www.tuv-sud-psb.sg/sg-en/resource-centre/certificate-finder/directory-of-management-system-certified-companies
+    - name: URS Far East Pte Ltd
+      link: http://www.acbworld.org/index.nsf/xpClientSearch.xsp 
 - title: Personnel Certification
-  teams:
-    - name: Technical Committee For Calibration & Measurement 
-      link: /about/laboratory-technical-committees#tccm
-    - name: Technical Committee For Chemical & Biological Sciences
-      link: /about/laboratory-technical-committees#tccbs
-    - name: Technical Committee For Electrical & Infocomm Technology
-      link: /about/laboratory-technical-committees#tceit
-    - name: Technical Committee For Good Laboratory Practice
-      link: /about/laboratory-technical-committees#tcglp   
-    - name: Technical Committee For Medical Testing
-      link: /about/laboratory-technical-committees#tcmt
-    - name: Technical Committee For Medical Imaging
-      link: /about/laboratory-technical-committees#tcmi
-    - name: Technical Committee For Physical Engineering
-      link: /about/laboratory-technical-committees#tcpe
+  company-list:
+    - name: Admaterials Technologies Pte Ltd
+      link: http://www.admaterials.com.sg/service_cert_companies.php
+    - name: CAST Laboratories Pte Ltd
+      link: http://www.castlab.com.sg/our-services/certification-body-for-ready-mixed-concrete/
+    - name: Centre Testing International Pte Ltd
+      link: http://www.cti-cert.com/en/resourceInit.do?id=116
+    - name: SOCOTEC Certification Singapore Pte Ltd
+      link: http://www.socotec-certification-international.sg/certification/product-certification
+    - name: Guardian Independent Certification Pte Ltd
+      link: http://gicg.com.sg/information/client-directory/
+    - name: Intertek Testing Services (Singapore) Pte Ltd
+      link: http://www.intertek.com/directories/
+    - name: Setsco Services Pte Ltd
+      link: http://www.setsco.com/setsco/Info/html/prdtcertification.html
+    - name: SGS Testing & Control Services Singapore Pte Ltd
+      link: http://www.sgs.sg/en/Our-Company/Certified-Clients-and-Products/Certified-Client-Directory.aspx
+    - name: Singapore Laboratory Services Pte Ltd
+      link: http://sls-singapore.sg/certification/
+    - name: Singapore Test Services Pte Ltd
+      link: ttp://www.test.com.sg/services_certification.aspx?st=Fire%20Safety%20Product&sid=21
+    - name: TÜV Rheinland Singapore Pte Ltd
+      link: https://www.certipedia.com/?locale=en#product-search
+    - name: TÜV SÜD PSB Pte Ltd - Product Listing Scheme (PLS)
+      link: http://www.tuv-sud-psb.sg/sg-en
+    - name: TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme
+      link: http://www.tuv-sud-psb.sg/sg-en/activity/testing-product-certification/ready-mixed-concrete-certification-scheme
+    - name: UL International-Singapore Pte Ltd
+      link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html    
 - title: Product Certification
-  teams:
-    - name: Technical Committee for Mechanical Engineering Inspection 
-      link: /about/inspection-body-technical-committees#tcmei
-    - name: Technical Committee for Structural Steelwork Inspection
-      link: /about/inspection-body-technical-committees#tcssi
-    - name: Technical Committee for Cargo Inspection
-      link: /about/inspection-body-technical-committees#tcci
-    - name: Technical Committee for Site Investigation
-      link: /about/inspection-body-technical-committees#tcsi   
+  company-list:
+    - name: Institute of Management Consultants (Singapore)
+      link: http://rmcsingapore.org/images/PDF/Register-of-RMC.pdf
+    - name: Non-Destructive Testing Society (Singapore)
+      link: http://www.ndtss.org.sg/
+    - name: Singapore PMC Certification Pte Ltd
+      link: http://www.pmccertification.sg/pmc-search-directory
+    - name: Singapore Rope Access Association Limited
+      link: http://sraa.asia/members/cert/
+    - name: TÜV SÜD PSB Pte Ltd
+      link: https://www.tuv-sud-psb.sg/sg-en/activity/auditing-system-certification/scmc
