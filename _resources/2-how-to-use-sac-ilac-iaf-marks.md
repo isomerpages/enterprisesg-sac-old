@@ -9,19 +9,19 @@ collection_name: resources
 ### Layout
 
 1. The SAC Accreditation Marks are illustrated below and the appropriate artwork shall be reproduced accurately without any alteration subject to provisions of this clause. 
-<figure style="inline-block;">
+<figure style="display:inline-block;">
   <img src="/images/how-to-use-marks/sac-accreditation-mark-inspection-bodies.jpg" alt="SAC Accreditation Mark for Inspection Bodies" style="width:300px;max-width:100%">
   <figcaption>SAC Accreditation Mark for Inspection Bodies</figcaption>
 </figure>
-<figure style="inline-block;">
+<figure style="display:inline-block;">
   <img src="/images/how-to-use-marks/sac-accreditation-mark-laboratories.jpg" alt="SAC Accreditation Mark for Laboratories" style="width:300px;max-width:100%">
   <figcaption>SAC Accreditation Mark for Laboratories</figcaption>
 </figure>
-<figure style="inline-block;">
+<figure style="display:inline-block;">
   <img src="/images/how-to-use-marks/sac-accreditation-mark-certification-bodies.jpg" alt="SAC Accreditation Mark for Certification Bodies" style="width:300px;max-width:100%">
   <figcaption>SAC Accreditation Mark for Certification Bodies</figcaption>
 </figure>
-<figure style="inline-block;">
+<figure style="display:inline-block;">
   <img src="/images/how-to-use-marks/sac-accreditation-mark-other-schemes.jpg" alt="SAC Accreditation Mark for Other Schemes
 " style="width:300px;max-width:100%">
   <figcaption>SAC Accreditation Mark for Other Schemes
@@ -39,11 +39,11 @@ collection_name: resources
 
 1. An accredited laboratory or inspection body is encouraged to use the Accredited CAB Combined ILAC MRA Mark to demonstrate that the
 laboratory or inspection body is accredited by a signatory of the International Laboratory Accreditation Cooperation (ILAC) Mutual Recognition Arrangement. The ILAC MRA Mark shall only be used in combination with the SAC accreditation mark which is then known as the "Accredited CAB Combined ILAC MRA Mark". 
-<figure style="inline-block;">
-  <img src="/images/how-to-use-marks/ilac-mra-mark-laboratory.jpg alt="Combined ILAC MRA Mark for Accredited Laboratory" style="width:300px;max-width:100%">
+<figure style="display:inline-block;">
+  <img src="/images/how-to-use-marks/ilac-mra-mark-laboratory.jpg" alt="Combined ILAC MRA Mark for Accredited Laboratory" style="width:300px;max-width:100%">
   <figcaption>Combined ILAC MRA Mark for Accredited Laboratory</figcaption>
 </figure>
-<figure style="inline-block;">
+<figure style="display:inline-block;">
   <img src="/images/how-to-use-marks/ilac-mra-mark-inspection-body.jpg" alt="Combined ILAC MRA Mark for Accredited Inspection Body" style="width:300px;max-width:100%">
   <figcaption>Combined ILAC MRA Mark for Accredited Inspection Body</figcaption>
 </figure>
@@ -51,7 +51,7 @@ laboratory or inspection body is accredited by a signatory of the International 
 2.  The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
 3. The ILAC MRA Mark may bereproduced in black and white or in colour provided the approved colours are used. Embossed, relief, or die-stamped versions are allowable. 
-<img style="width:300px;max-width:100%;" alt="ILAC MRA Mark" src="/images/how-to-use-marks/ilac-mra-mark.jpg"/>
+<img style="width:537px;max-width:100%;" alt="ILAC MRA Mark" src="/images/how-to-use-marks/ilac-mra-mark.jpg"/>
 
 4. The ILAC MRA mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. It shall not appear in a size that renders the ILAC MRA words unreadable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. It shall maintain similar proportions to the SAC accreditation mark within the Accredited CAB Combined ILAC MRA Mark. The difference in the height of SAC accreditation mark and the ILAC
 MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted for the letters within the ILAC MRA Mark, as the typeface is custom-designed artwork. The ILAC MRA mark must be based upon the original artwork to ensure high-quality production. 
