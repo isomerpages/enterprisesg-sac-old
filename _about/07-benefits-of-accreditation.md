@@ -9,15 +9,18 @@ collection_name: about
 
 Accreditation offers assurance in the integrity of conformity assessment reports and certificates of your products or services – instilling confidence in stakeholders and promoting differentiated products and services to your customers. 
 
-* **Reduced risk and higher level of quality assurance**: Take the guesswork out of choosing a CAB. SACaccredited CABs have been assessed according to internationally recognised conformity assessment frameworks, thereby ensuring that you get the quality service that best fulfils your requirements.  
+* **Reduced risk and higher level of quality assurance**:  
+Take the guesswork out of choosing a CAB. SACaccredited CABs have been assessed according to internationally recognised conformity assessment frameworks, thereby ensuring that you get the quality service that best fulfils your requirements.  
 
-* **Reduced costs**: With accreditation, you save cost from the removal or reduction of: 
+* **Reduced costs**:  
+With accreditation, you save cost from the removal or reduction of: 
   * Product failure  
   * Downtime  
   * Re-testing  
   * Re-auditing  
   
-* **Facilitates global trade**: Overseas markets will be more ready to accept  the reports of an accredited CAB, hence minimising technical barriers to trade.
+* **Facilitates global trade**:  
+Overseas markets will be more ready to accept  the reports of an accredited CAB, hence minimising technical barriers to trade.
  
 As SAC is a signatory to many regional and international arrangements, this means that products and services that are tested and/or certified by accredited CABs in Singapore will also be more readily accepted in these signatory countries. By engaging a SAC accredited CAB, you will open more doors to business opportunities worldwide.
 
