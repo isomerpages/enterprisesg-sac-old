@@ -6,6 +6,9 @@ collection_name: services
 second_nav_title: "Accreditation Services"
 ---
 
+## Who can Apply?
+The SAC accreditation schemes are open to all conformity assessment bodies (CABs) such as laboratories, inspection and certification bodies.
+
 ## How to Get Accredited?
 
 It can take between three to six months for organisations to obtain their SAC accreditation. This is dependent on a number of factors, such as the degree of the organisation’s compliance with requirements, the complexity of scope of accreditation and the availability of witnessing and clearance of incidences of non-conformance highlighted during the assessment. The SAC application process covers:
