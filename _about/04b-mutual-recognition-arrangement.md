@@ -18,9 +18,7 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:
 <img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="width:327px;max-width:100%;height:auto;"/>
 
-### List of MRAs
-
-Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
+### We have established MRAs with the following regional and international organisations:
 
 ---
 
