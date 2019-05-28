@@ -19,8 +19,9 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 <img src="/images/SAC_singlas_ with_ilac_2.jpg" alt="SAC Singlas with ILAC" style="width:327px;max-width:100%;height:auto;"/>
 
 ### List of MRAs
----
+
 Since 1997, SAC has signed numerous multi-lateral MRAs such as: 
+---
 
 <table id="mra-table">
  <tbody>
