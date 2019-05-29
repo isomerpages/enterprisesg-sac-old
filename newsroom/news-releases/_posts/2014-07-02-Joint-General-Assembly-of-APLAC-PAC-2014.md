@@ -4,9 +4,9 @@ title:  Joint General Assembly of APLAC-PAC 2014
 date:   2014-07-02
 permalink: /newsroom/news-releases/Joint-General-Assembly-of-APLAC-PAC-2014
 ---
-#### 02 July 2014
-# **Joint General Assembly of APLAC-PAC 2014**
+
 ![APLACPic1](/images/APLAC-pic1.jpg)
+
 The inaugural Joint General Assembly (GA) for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the Pacific Accreditation Cooperation (PAC) was held in Guadalajara, Mexico, from 21 to 27 June 2014.  These joint meetings between the two regional groups are to facilitate closer collaborations and joint activities to achieve the common outcomes of both organisations.
  
 SAC is a full member of both APLAC and PAC, and has contributed significantly as immediate past Chair of APLAC and as a member of the PAC Executive Committee.  As a MRA signatory member of APLAC and PAC, SAC participates in key meetings to ensure the equivalence of accreditations provided by our counterparts and influence related accreditation and certification issues where necessary.
@@ -16,18 +16,15 @@ The key highlight for SAC at this Joint Meeting is our signing of the inaugural 
 Congratulations to SAC! All these achievements are only possible with the good work of all our volunteers, assessors and staff.
 
 ![APLACPic2](/images/APLAC-pic2.jpg)
-
-<span style="color:blue">*Signing of MRA to include PTP
-(From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)*</span>
+_Signing of MRA to include PTP
+(From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)_
 
 ![APLACPic3](/images/APLAC-pic3.jpg)
-
-<span style="color:blue">*Group Picture with other AB signatories who signed the MRA for PTP.
- (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)*</span>
+_Group Picture with other AB signatories who signed the MRA for PTP.  
+ (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)_
  
  ![APLACPic4](/images/APLAC-pic4.jpg)
- 
- <span style="color:blue">*Group Picture with 9 other AB signatories who signed the MLA for FSMS.*</span>
+_Group Picture with 9 other AB signatories who signed the MLA for FSMS._
  
 They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema)
  
