@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-permalink: /training-courses/joint-courses-between-HSA-SAC
+permalink: /newsroom/courses/joint-courses-between-HSA-SAC
 ---
 
 ## 2019 Joint courses between HSA-SAC
