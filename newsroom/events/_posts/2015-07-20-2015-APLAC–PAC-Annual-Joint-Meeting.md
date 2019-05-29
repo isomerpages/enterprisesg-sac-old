@@ -2,7 +2,7 @@
 layout: post
 title:  2015 APLAC – PAC Annual Joint Meeting
 date:   2015-07-20
-permalink: /newsroom/news-releases/2015-APLAC–PAC-Annual-Joint-Meeting
+permalink: /newsroom/events/2015-APLAC–PAC-Annual-Joint-Meeting
 ---
 #### 20 July 2015
 # **2015 APLAC – PAC Annual Joint Meeting**
