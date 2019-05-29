@@ -4,8 +4,6 @@ title:  New MLA on Environmental Management System for SAC
 date:   2017-07-27
 permalink: /newsroom/news-releases/New-MLA-on-Environmental-Management-System-for-SAC
 ---
-#### 27 July 2017
-# **New MLA on Environmental Management System for SAC**
 
 The Singapore Accreditation Council (SAC) has signed the International Accreditation Forum (IAF) Multilateral recognition arrangements (MLA) for accreditation of Environmental Management Systems (EMS) on 27 July 2017.  With the new MLA in place, SAC-accredited EMS (ISO 14001) certificates will be recognized internationally.
 
