@@ -5,9 +5,6 @@ date:   2018-09-28
 permalink: /newsroom/news-releases/Launch-of-New-Accreditation-Programme-for-ISMS-Certification
 ---
 
-## Launch of New Accreditation Programme for ISMS Certification
-#### 28 September 2018
-
 SAC is pleased to launch the new accreditation programme for Information Security Management System (ISMS) Certification on 28 September 2018.  
  
 This new Accreditation Programme accredits certification bodies (CBs) certifying companies to ISO 27001 Information technology - Security techniques – Information security management systems – Requirements.  ISO/IEC 27001 is the leading international standard for information security management and helps organisations to keep information assets secure.  Accredited  ISO 27001 certification will provide confidence to organisations and stakeholders in areas related to cyber security and data protection. 
