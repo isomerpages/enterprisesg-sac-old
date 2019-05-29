@@ -4,18 +4,17 @@
 #                                #
 ##################################
 
-- desc: Build Strategic Influence and MRAs
-  img: /images/homepage/about-sac-1.png
-  bg-color: bg-singpass
-- desc: Build Trust in Singapore's Products and Services
-  img: /images/homepage/about-sac-2.png
-  bg-color: bg-beeline
-- desc: Champion Conformance Practices
-  img: /images/homepage/about-sac-3.png
+- title: Building Trust
+  desc: With accreditation, there is nothing to hide
+  img: /images/homepage/sac-poster-1.png
   bg-color: bg-parkingsg
-- desc: Your Trusted Partner in Accreditation
-  img: /images/homepage/about-sac-4.png
+
+- title: Championing Conformance Practices
+  desc: Competent services prevent defective products
+  img: /images/homepage/sac-poster-2.png
   bg-color: bg-singpass
-- desc: Going Global with SAC Accreditation
-  img: /images/homepage/about-sac-5.png 
+
+- title: Going Global
+  desc: Gain entry into overseas markets and acceptance by regulators and major users with SAC Accreditation
+  img: /images/homepage/sac-poster-3.png
   bg-color: bg-beeline
