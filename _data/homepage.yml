@@ -37,14 +37,14 @@ key-highlights:
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-title:
+programmes-title: About
 programmes-subtitle: What is Accreditation?
 programmes-description: Build trust in Singapore products and services
 programmes-more-button: More about SAC
-programmes-more-button-url: /about/
+programmes-more-button-url: /about/our-role
 
 # Resources Section
 resources-title: NewsRoom
 resources-subtitle: Be in the know
-resources-more-button: More
+resources-more-button: More News & Events
 resources-more-button-url: /newsroom/
