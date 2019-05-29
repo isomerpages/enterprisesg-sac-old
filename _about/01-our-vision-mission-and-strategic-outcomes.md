@@ -7,7 +7,7 @@ collection_name: about
 ## Vision
 To be the trusted partner for assurance of quality products and services locally and globally
 
-# Misson
+## Misson
 To deliver a robust accreditation framework and international recognition of Singapore-based enterprises
 
 ## Strategic Outcomes
