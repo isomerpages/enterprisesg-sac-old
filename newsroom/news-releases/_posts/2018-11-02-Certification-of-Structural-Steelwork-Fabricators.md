@@ -19,4 +19,4 @@ The SS EN 1090-1:2018 and SS EN 1090-2: 2018 have been published in October 2018
 
 The requirement to use SAC accredited certification body (CB) for evaluation of conformity and issue Factory Production Control (FPC) certificates to structural steelworks fabricators is clearly stated in the National Forward of SS EN 1090-1:2018.  The Singapore’s Structural Design Codes have fully adopted the Eurocodes since April 2015.  Through accredited certification, BCA aims to align the local fabrication practices with the Eurocodes and raise the competency and professionalism of structural steelworks fabricators. 
 
-Application for accreditation is now open through the SAC accreditation portal, SACiNet.  Please contact your account manager for more information.
+Application for accreditation is now open through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}.  Please contact your account manager for more information.
