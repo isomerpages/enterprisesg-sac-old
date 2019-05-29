@@ -4,7 +4,7 @@ title: Laboratory Management course (21-23 Aug 2017)
 category: courses
 permalink: /newsroom/courses/Laboratory-Management-course0620-1436
 ---
-##Laboratory Management course
+## Laboratory Management course
 **21-23 August 2017**
 
 **Fee:** SGD 1177.00 (inclusive of GST)
