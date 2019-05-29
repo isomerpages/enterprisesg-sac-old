@@ -2,12 +2,12 @@
 layout: post
 title:  SAC Assessor Awards 2016
 date:   2016-11-11
-permalink: /newsroom/news-releases/SAC-Assessor-Awards-2016
+permalink: /newsroom/events/SAC-Assessor-Awards-2016
 ---
 #### 11 November 2016
-# **SAC Assessor Awards 2016**
+## SAC Assessor Awards 2016
 
-**SAC Assessor Awards 2016 - Recognising Assessors’ Contributions**
+### SAC Assessor Awards 2016 - Recognising Assessors' Contributions
  
 Assessors play a critical role in the maintenance of Singapore’s accreditation infrastructure. Through their support, SAC has been able to build trust in the quality of Singapore’s products and services.
  
