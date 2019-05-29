@@ -4,8 +4,6 @@ title:  SAC Assessor Awards 2016
 date:   2016-11-11
 permalink: /newsroom/events/SAC-Assessor-Awards-2016
 ---
-#### 11 November 2016
-## SAC Assessor Awards 2016
 
 ### SAC Assessor Awards 2016 - Recognising Assessors' Contributions
  
