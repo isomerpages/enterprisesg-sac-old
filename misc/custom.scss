@@ -274,6 +274,10 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.programme-container {
+	display:none;
+}
+
 //h1 header (e.g. in frontpage banner)
 .display {
     font-size: 4rem;
