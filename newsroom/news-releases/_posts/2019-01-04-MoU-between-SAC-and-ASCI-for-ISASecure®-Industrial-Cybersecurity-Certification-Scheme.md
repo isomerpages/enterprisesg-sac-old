@@ -17,6 +17,6 @@ SAC is pleased to expand our Laboratory Accreditation Scheme to include Robustne
 Application for accreditation is now open through the SAC accreditation portal, SACiNet. Please contact your account manager for more information.
 
 <figure>
- <img src="/images/news-releases/MOU-ISA.jpg" style="width:auto;max-width:100%"/>
+ <img src="/images/news-releases/MOU-ISA.jpg" alt="Signing of MoU" style="width:auto;max-width:100%"/>
  <figcaption>Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI</figcaption>
 </figure>
