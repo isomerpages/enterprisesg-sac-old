@@ -2,7 +2,7 @@
 layout: post
 title:  SAC Customer Day 2015
 date:   2015-09-15
-permalink: /newsroom/news-releases/SAC-Customer-Day-2015
+permalink: /newsroom/events/SAC-Customer-Day-2015
 ---
 #### 15 September 2015
 # **SAC Customer Day 2015**
