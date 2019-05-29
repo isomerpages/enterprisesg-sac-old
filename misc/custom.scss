@@ -262,7 +262,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $secondary;
 	.col {
 		border-left:1px solid darken($primary,10%);
 		@include touch(){
