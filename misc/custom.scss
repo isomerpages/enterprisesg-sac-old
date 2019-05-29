@@ -6,8 +6,8 @@
 
 //$primary: #E7131A; //Vivid red
 //$secondary: #414042; //Very dark grayish violet
-$primary: #53565A; //PMS Cool Grey 11C
-$secondary: #ED2E38; //PMS Red 032C
+$primary: #ED2E38; //PMS Red 032C
+$secondary: #53565A; //PMS Cool Grey 11C
 $secondary-hover: lighten($primary, 10%);
 
 //esg secondary colors
@@ -261,12 +261,8 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 // Homepage
-#notification-bar {
-	background-color: $primary !important;
-}
-
 #key-highlights{
-	background-color: $secondary;
+	background-color: $primary !important;
 	.col {
 		border-left:1px solid darken($primary,10%);
 		@include touch(){
