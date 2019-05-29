@@ -2,7 +2,7 @@
 layout: post
 title: SAC Assessor Enclaves
 date: 2014-03-03
-permalink: /newsroom/news-releases/SAC-Assessor-Enclaves
+permalink: /newsroom/events/SAC-Assessor-Enclaves
 ---
 #### 03 March 2014
 # **SAC Assessor Enclaves**
