@@ -4,8 +4,6 @@ title:  SAC Visit to Myanmar
 date:   2017-09-14
 permalink: /newsroom/events/SAC-Visit-to-Myanmar
 ---
-#### 14 September 2017
-## SAC Visit to Myanmar
 
 Following the Memorandum of Understanding (MOU) signed on 8 June 2019 for the Singapore Accreditation Council (SAC) to be Myanmar’s Partner Accreditation Body, a knowledge sharing session was jointly organised with the Myanmar’s Department of Research & Innovation (DRI) on 11 September 2017.  SAC met up with prospective conformity assessment bodies in Yangon, Myanmar and shared on SAC accreditation programmes, its assessment process and criteria. There were a lot of interest in SAC as an internationally recognised accreditation body.
 
