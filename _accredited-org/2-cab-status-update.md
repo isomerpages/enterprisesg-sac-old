@@ -5,8 +5,8 @@ permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
 ---
 
-## List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
-### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
+### List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
+#### **1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider**
 
 #### Laboratory
 
@@ -53,7 +53,7 @@ collection_name: accredited-org
   * Verifavia (Singapore) Pte. Ltd. (03 April 2019)
   * TUV SUD PSB Pte Ltd (07 May 2019)
 
-### 2. Suspended Laboratory / Certification Body / Inspection Body 
+#### **2. Suspended Laboratory / Certification Body / Inspection Body** 
 
 #### Inspection Body
 * **Cargo Inspection**
@@ -61,7 +61,7 @@ collection_name: accredited-org
 * **Hook-Lift & Container Inspection**
   * AJK Engineering Pte Ltd (Suspended 29 March 2019 - 28 June 2019)
 
-### 3. Withdrawn Laboratory / Certification Body / Inspection Body 
+#### **3. Withdrawn Laboratory / Certification Body / Inspection Body** 
 
 #### Voluntary Withdrawal by CABs
 
@@ -134,4 +134,4 @@ collection_name: accredited-org
 * **Calibration & Measurement** 
   * Kalswift Singapore Pte Ltd (07 May 2019)
 
-### 4. Others - Inoperative
+### **4. Others - Inoperative**
