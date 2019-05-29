@@ -10,6 +10,15 @@ collection_name: services
 ![Training Calender 2018](/images/Training_Calendar.png)
 SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards. 
 
+|---
+| Date | Title 
+|-|-
+| 17 Jun (pm) to 18 Jun 2019 | Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
+| April, May, July and August 2019 | 2019 Joint courses between HSA-SAC
+| 4-6 March 2019 | Laboratory Management Course
+| 7-8 March 2019 | Internal Audit Course
+|---
+
 ### Our Trainers
 Comprising local as well as overseas experts, SAC’s team of trainers possesses in-depth knowledge on the training subject and are experienced in implementing accreditation requirements. Training courses are relevant and up to date, incorporating case studies and exercises wherever possible to encourage active participation and peer learning.
 
