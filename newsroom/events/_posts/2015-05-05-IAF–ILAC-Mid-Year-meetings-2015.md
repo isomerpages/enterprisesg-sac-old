@@ -5,7 +5,7 @@ date:   2015-05-05
 permalink: /newsroom/events/IAF–ILAC-Mid-Year-meetings-2015
 ---
 #### 05 May 2015
-# **IAF – ILAC Mid-Year meetings 2015**
+## IAF – ILAC Mid-Year meetings 2015
 
 ![iaf-ilac-meeting](/images/IAF2.png)
 
