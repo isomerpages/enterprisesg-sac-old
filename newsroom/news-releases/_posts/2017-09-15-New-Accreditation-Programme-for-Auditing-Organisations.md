@@ -4,12 +4,13 @@ title:  New Accreditation Programme for Auditing Organisations
 date:   2017-09-15
 permalink: /newsroom/news-releases/New-Accreditation-Programme-for-Auditing-Organisations
 ---
+
+## New Accreditation Programme for Auditing Organisations
 #### 15 September 2017
-# **New Accreditation Programme for Auditing Organisations**
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for auditing organisations (AOs) on 15 September 2017. Application of accreditation of auditing organisations is now open and can be done through the SAC accreditation portal, SACiNet.
  
-To raise the quality of Workplace Safety and Health (WSH) audits in the WSH management system for the industry, the Ministry of Manpower (MOM) has collaborated with SAC to establish a new regulatory regime to be established for WSH auditing organisations (WSHAOs). Under the new regime, the WSHAOs have to be accredited by SAC to be registered with MOM for performing WSH audit services. The SAC accreditation programme for auditing organisations was developed with close collaboration with MOM and industry stakeholders. The accreditation criteria will be based on [SAC CT 17](https://www.sac-accreditation.gov.sg/Resources/sac_documents/Pages/Certification_Body_Accreditation.aspx#auditing) - Criteria for Accreditation of Auditing Organisations.
+To raise the quality of Workplace Safety and Health (WSH) audits in the WSH management system for the industry, the Ministry of Manpower (MOM) has collaborated with SAC to establish a new regulatory regime to be established for WSH auditing organisations (WSHAOs). Under the new regime, the WSHAOs have to be accredited by SAC to be registered with MOM for performing WSH audit services. The SAC accreditation programme for auditing organisations was developed with close collaboration with MOM and industry stakeholders. The accreditation criteria will be based on [SAC CT 17](/files/sac_documents/management_system_and_products_certification/CT%2017%201%20October%202018.pdf){:target="_blank"} - Criteria for Accreditation of Auditing Organisations.
 
 ![AOProgrammeLaunch2017](/images/AOProgrammeLaunch2017.png)
 *(Left) Mr Desmond Hill, Chairman of SAC's Council Committee for Management Systems & Product (CCMP) announced the launch of the new accreditation programme on 15 September 2017 at a briefing session for WSHAOs organised by the Ministry of Manpower (MOM).
