@@ -5,9 +5,6 @@ date:   2018-11-02
 permalink: /newsroom/news-releases/Certification-of-Structural-Steelwork-Fabricators
 ---
 
-## Certification of Structural Steelwork Fabricators
-#### 2 November 2018
-
 SAC is pleased to expand our Product Certification Scheme to include certification of Structural Steelwork Fabricators on 2 November 2018.
 
 SAC CT 20 SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) specifies the additional definitions and supplementary criteria for certification bodies (CBs) of structural steelworks fabricators and is to be used with ISO/IEC 17065 and the applicable IAF Mandatory Documents.  CBs shall assess and certify the Factory Production Control system of structural steelworks fabricators according to the following standards:
