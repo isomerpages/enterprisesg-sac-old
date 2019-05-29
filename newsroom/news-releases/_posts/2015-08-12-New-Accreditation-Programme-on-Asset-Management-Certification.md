@@ -4,8 +4,6 @@ title:  New Accreditation Programme on Asset Management Certification
 date:   2015-08-12
 permalink: /newsroom/news-releases/New-Accreditation-Programme-on-Asset-Management-Certification
 ---
-#### 12 August 2015
-# **New Accreditation Programme on Asset Management Certification**
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for Asset Management Certification on 12 August 2015 during the SPRING Quality and Standard Conference. 
  
@@ -15,4 +13,4 @@ CBs accredited by SAC will be assessed to meet stringent criteria of conducting 
  
 SAC  accreditation will provide added public confidence, level playing field among the CBs and assurance of integrity, credibility and transparency of certification services. In addition, SAC has a good track record of accrediting certification programmes that gain increasing acceptance from  industry and government agencies.
  
-Accreditation for the Asset Management Certification programme is now open for CB’s application via [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form).
+Accreditation for the Asset Management Certification programme is now open for CB’s application via [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}.
