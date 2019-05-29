@@ -5,7 +5,7 @@ date:   2014-11-01
 permalink: /newsroom/news-releases/International-Developments-on-Accreditation
 ---
 
-### International Developments on Accreditation**
+### International Developments on Accreditation
 
 Accreditation bodies and stakeholders of accreditation all over the world gathered at Vancouver, Canada from 7-17 Oct 2014 for the joint International Accreditation Forum (IAF) and International Laboratory Accreditation Cooperation (ILAC) Annual Meetings, to discuss key policy issues on accreditation and conformity assessment practices as well as MRA matters.
 
