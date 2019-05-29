@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Internal Audit Course (7-8 March 2019)
 permalink: /newsroom/courses/internal-audit-course
 ---
 ## Internal Audit Course 
