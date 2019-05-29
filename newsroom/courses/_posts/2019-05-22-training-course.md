@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: ""
 permalink: /newsroom/courses/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016
 ---
 
