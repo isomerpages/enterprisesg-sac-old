@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ISO 15189:2012 Course (Medical Laboratories) (30-31 Oct 2017)
-category: events
-permalink: /newsroom/events/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)
+category: courses
+permalink: /newsroom/courses/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)
 ---
 ## ISO 15189:2012 Course (Medical Laboratories)
 **30 - 31 October 2017**
