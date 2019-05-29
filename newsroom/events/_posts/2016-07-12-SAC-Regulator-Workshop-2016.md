@@ -2,10 +2,10 @@
 layout: post
 title:  SAC Regulator Workshop 2016
 date:   2016-07-12
-permalink: /newsroom/news-releases/SAC-Regulator-Workshop-2016
+permalink: /newsroom/events/SAC-Regulator-Workshop-2016
 ---
 #### 12 July 2016
-# **SAC Regulator Workshop 2016**
+## SAC Regulator Workshop 2016
 
 Singapore Accreditation Council (SAC) organised a Regulator Workshop on 9 June 2016 at Suntec Singapore Convention & Exhibition Centre. This workshop was organised in conjunction with the World Accreditation Day (WAD), with the theme Accreditation - A Global Tool to Support Public Policy. The workshop served as a platform for the various regulatory bodies to share experiences and clarify doubts on the use of accreditation in their regulatory regime. The event was attended by more than 50 participants representing 18 ministries and agencies.
 
