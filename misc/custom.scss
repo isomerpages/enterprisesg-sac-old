@@ -261,6 +261,10 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 // Homepage
+#notification-bar {
+	background-color: $primary !important;
+}
+
 #key-highlights{
 	background-color: $secondary;
 	.col {
