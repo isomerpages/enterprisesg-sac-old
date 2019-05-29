@@ -4,8 +4,6 @@ title:  IAF-ILAC Mid-Year Meetings 2016
 date:   2016-04-20
 permalink: /newsroom/events/IAF-ILAC-Mid-Year-Meetings-2016
 ---
-#### 20 April 2016
-## IAF-ILAC Mid-Year Meetings 2016
 
 ![IAF-ILAC](/images/ILAC IAF Mid 2016.png)
 
