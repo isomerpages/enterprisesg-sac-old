@@ -5,9 +5,6 @@ date:   2017-11-23
 permalink: /newsroom/news-releases/IAF-ILAC-2017-Joint-Annual-Meetings
 ---
 
-## IAF-ILAC 2017 Joint Annual Meetings
-#### 23 November 2017
-
 ![IAF Certificate 14001](/images/IAF Certificate 14001.jpg)
 
 (Above) IAF Chairman, Mr Xiao Jianhua, presenting the certificate to SAC Director, Ms Chang Kwei Fern, to accept SAC into IAF multilateral recognition arrangement (MLA) for ISO 14001 which was officially recognized from 27 July 2017.
@@ -18,7 +15,7 @@ Some key developments and resolutions made at the meetings are:
 
 **Expiry of ISO 9001:2008 and ISO 14001:2004 certificates**
 
-All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). [Click here](https://www.sac-accreditation.gov.sg/news/pressrelease/Documents/IAF_communique__Important_information_for_Certification_Bodies.pdf) for more details on the IAF Communique.
+All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). [Click here](https://www.sac-accreditation.gov.sg/news/pressrelease/Documents/IAF_communique__Important_information_for_Certification_Bodies.pdf){:target="_blank"} for more details on the IAF Communique.
  
 **Mandatory issuance of accredited personnel certifications**
 
