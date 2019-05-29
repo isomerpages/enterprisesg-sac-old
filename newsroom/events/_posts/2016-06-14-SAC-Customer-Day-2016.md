@@ -4,8 +4,6 @@ title:  SAC Customer Day 2016
 date:   2016-06-14
 permalink: /newsroom/events/SAC-Customer-Day-2016
 ---
-#### 14 June 2016
-## SAC Customer Day 2016
 
 SAC Customer Day was held on 09 June 2016 at Suntec Singapore Convention & Exhibition Centre. The event this year was also to celebrate SAC’s 30 Years of Accreditation.
 
