@@ -11,8 +11,6 @@ Singapore Accreditation Council (SAC) organised a Regulator Workshop on 9 June 2
 
 SAC invited Dr Llewellyn Richards, Chief Executive, International Accreditation New Zealand (IANZ) to share with the regulators on the effective use of accreditation to support regulatory work in New Zealand. There were also presentations from SPRING Singapore, Health Science Authority and Ministry of Manpower on how accreditation serves as an important tool to support policy and regulation.
 
--
-
 At the open dialogue session, positive feedbacks, improvement and clarification areas were solicited from the participants. Key areas of discussion include the access to expertise by SAC, the training and qualifications of assessors, the assessment process and the values versus the cost of accreditation.
 
 ![sacregulator3](/images/SAC Regulator Workshop 2016 (3).png)
