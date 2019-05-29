@@ -9,18 +9,17 @@ permalink: /newsroom/events/SAC-Customer-Day-2017
 
 SAC Customer Day was held on 4 September 2017 at Furama Riverfront Hotel. This event was organised to bring together the Conformity Assessment Bodies (CABs) to celebrate the achievements in accreditation, made possible by the contributions of various stakeholders.
 
- 
-Picture 1             |  Picture 2
-:-------------------------:|:-------------------------:
-![customerday2017_1](/images/customerday2017_1.png)  |  ![customerday2017_2](/images/customerday2017_2.png)
+|---
+| ![customerday2017_1](/images/customerday2017_1.png) | ![customerday2017_2](/images/customerday2017_2.png) 
+|---
 
-The theme for this year’s event was “Opportunities for Accredited Services in a Transforming Economy”. SAC invited Mr Richard Hong, Chief Executive Officer of TÜV SÜD ASEAN, to share on the mega trends shaping the world and opportunities for new TIC services to support emerging areas such as digital transformation, alternative energy and urban mobility.
+The theme for this year's event was "Opportunities for Accredited Services in a Transforming Economy". SAC invited Mr Richard Hong, Chief Executive Officer of TÜV SÜD ASEAN, to share on the mega trends shaping the world and opportunities for new TIC services to support emerging areas such as digital transformation, alternative energy and urban mobility.
 
 Mr Sim Feng-Ji, Director of Future Economy Programme Office, Ministry of Trade and Industry was also invited to share how standards and conformance will play a key role in the implementation of Industry Transformation Maps (ITMs) across different sectors and domains.
 
-Picture 3             |  Picture 4
-:-------------------------:|:-------------------------:
-![customerday2017_3](/images/customerday2017_3.png)  |  ![customerday2017_4](/images/customerday2017_4.png)
+|---
+| ![customerday2017_3](/images/customerday2017_3.png) | ![customerday2017_4](/images/customerday2017_4.png) 
+|---
 
 ![customerday2017_5](/images/customerday2017_5.png)
 
