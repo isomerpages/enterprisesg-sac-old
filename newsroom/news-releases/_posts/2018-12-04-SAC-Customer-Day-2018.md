@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  MoU between SAC and ASCI
-date:   2019-01-04
-permalink: /newsroom/news-releases/MoU-between-SAC-and-ASCI
+title:  SAC Customer Day 2018
+date:   2018-12-04
+permalink: /newsroom/news-releases/Customer-Day-2018
 ---
 
 #### 4 December 2018
