@@ -385,11 +385,11 @@ $desktop: 960px + (2 * $gap) !default;
 		margin:0;
 	}
 	a {
-		color: $primary;
+		color: $secondary;
 		text-decoration: none;
 	}
 	a:hover, a:active{
-		color: $primary;
+		color: $secondary;
 		text-decoration: underline;
 	}
 }
