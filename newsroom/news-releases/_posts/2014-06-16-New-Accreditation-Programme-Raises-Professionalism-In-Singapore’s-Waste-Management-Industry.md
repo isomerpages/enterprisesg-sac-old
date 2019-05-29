@@ -4,8 +4,6 @@ title:  New Accreditation Programme Raises Professionalism In Singapore’s Wast
 date:   2014-06-16
 permalink: /newsroom/news-releases/New-Accreditation-Programme-Raises-Professionalism-In-Singapore’s-Waste-Management-Industry
 ---
-#### 16 June 2014
-# **New Accreditation Programme Raises Professionalism In Singapore’s Waste Management Industry**
 
 The Singapore Accreditation Council (SAC) launches its new accreditation programme for Hook-Lift & Container Inspection for waste management on 7 May 2014 and it was announced on 3 June 2014 by Ms Grace Fu, Minister, Prime Minister’s Office; and Second Minister for the Environment and Water Resources, and Foreign Affairs, at the Clean Environment Convention Opening Plenary.  This programme is timely as demand for waste management is growing, with Singapore generating 7.85 million tonnes of waste in last year alone. The programme will help to further improve productivity in the local solid waste management industry, which employs an estimated 12,000 staff.
  
