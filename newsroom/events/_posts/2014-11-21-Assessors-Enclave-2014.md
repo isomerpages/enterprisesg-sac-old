@@ -2,7 +2,7 @@
 layout: post
 title:  Assessors Enclave 2014
 date:   2014-11-21
-permalink: /newsroom/news-releases/Assessors-Enclave-2014
+permalink: /newsroom/events/Assessors-Enclave-2014
 ---
 #### 21 November 2014
 # **Assessor Enclave 2014**
