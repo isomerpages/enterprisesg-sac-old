@@ -2,10 +2,10 @@
 layout: post
 title:  SAC Assessor Enclave and Appreciation Lunch 2017
 date:   2017-12-15
-permalink: /newsroom/news-releases/SAC-Assessor-Enclave-and-Appreciation-Lunch-2017
+permalink: /newsroom/events/SAC-Assessor-Enclave-and-Appreciation-Lunch-2017
 ---
 #### 15 December 2017
-# **SAC Assessor Enclave and Appreciation Lunch 2017**
+## SAC Assessor Enclave and Appreciation Lunch 2017
 
 SAC organised its annual Assessor Enclave on 15 November 2017 to discuss technical issues, harmonise assessment practices and provide networking opportunities for fellow assessors. The event was attended by about 110 assessors and committee members from the laboratory and inspection body accreditation schemes.
 
@@ -13,9 +13,7 @@ SAC shared on the recently revised key international standards ISO/IEC 17011 and
 
 The subsequent breakout sessions for laboratory and inspection body assessors provided a platform for in-depth discussion and clarification on some of the key requirements in the revised standards and the classification of non-conformities in their specific areas.
 
-Picture 1             |  Picture 2
-:-------------------------:|:-------------------------:
-![enclave2017_1](/images/enclave2017_1.png)  |  ![enclave2017_2](/images/enclave2017_2.png)
+| ![enclave2017_1](/images/enclave2017_1.png)  |  ![enclave2017_2](/images/enclave2017_2.png) |
 
 (Above) Breakout Groups for Laboratory and Inspection Body Assessors
 
