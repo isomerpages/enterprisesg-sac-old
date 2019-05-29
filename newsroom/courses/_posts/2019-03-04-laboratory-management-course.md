@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Laboratory Management Course (4-6 March 2019)
-category: events
-permalink: /newsroom/events/laboratory-management-course
+category: courses
+permalink: /newsroom/courses/laboratory-management-course
 ---
 
 ## Laboratory Management Course
