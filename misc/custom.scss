@@ -396,6 +396,10 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $primary;
 		text-decoration: underline;
 	}
+	img {
+		width: auto;
+		max-width: 100%;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
