@@ -616,7 +616,11 @@ $desktop: 960px + (2 * $gap) !default;
 		@include touch() {
 			width: 100%;
 			display: block;
-			text-align:center;
+		}
+		img {
+			@include touch() {
+				width: 100%;
+			}
 		}
 	}
 }
