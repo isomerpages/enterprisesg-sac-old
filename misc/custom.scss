@@ -502,12 +502,18 @@ $desktop: 960px + (2 * $gap) !default;
 .content table.with-image-captions {
 	td {
 		text-align: center;
-		vertical-align:top;
-		padding-left: 2rem;
-		padding-right: 2rem;
-		padding-bottom: 2rem;
-		img {
-			margin-bottom: 0.8rem;
+	}
+	tr:nth-child(even) {
+		td {
+			padding-top: 0;
+			padding-bottom: 1rem;
+			vertical-align:top;
+		}	
+	}
+	tr:nth-child(odd) {
+		td {
+			padding-bottom: 0;
+			vertical-align:bottom;
 		}
 	}
 }
@@ -515,6 +521,14 @@ $desktop: 960px + (2 * $gap) !default;
 .content table.brochures-table {
 	table-layout:fixed;	
 	td {
+		text-align: center;
+		vertical-align:top;
+		padding-left: 2rem;
+		padding-right: 2rem;
+		padding-bottom: 2rem;
+		img {
+			margin-bottom: 0.8rem;
+		}
     		width: 33%;
 		@include touch() {
 			display:block;		 
