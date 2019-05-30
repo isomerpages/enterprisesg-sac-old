@@ -539,17 +539,24 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .content table.with-image-captions {
+	td {
+		padding-left: 2em;
+		padding-right: 2em;
+		vertical-align:top;
+		img {
+			margin-bottom: 0.8rem;
+		}
+	}
 	tr:nth-child(even) {
 		td {
 			padding-top: 0;
 			padding-bottom: 1rem;
-			vertical-align:top;
+			
 		}	
 	}
 	tr:nth-child(odd) {
 		td {
 			padding-bottom: 0;
-			vertical-align:bottom;
 		}
 	}
 }
