@@ -39,5 +39,5 @@ Upon receiving the accreditation application, the secretariat will send a quotat
  
 The schematic diagram of the accreditation process is described below:
 <div style="display:block;text-align:center;">
- <img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
+ <img src="/images/services/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
 </div> 
