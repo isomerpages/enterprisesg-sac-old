@@ -29,10 +29,9 @@ collection_name: resources
   </figure>
 
 {:.center-text .no-border .with-image-captions}
-|![SAC Accreditation Mark for Inspection Bodies](/images/how-to-use-marks/sac-accreditation-mark-inspection-bodies.jpg)  | ![SAC Accreditation Mark for Laboratories](/images/how-to-use-marks/sac-accreditation-mark-laboratories.jpg) |
+|![SAC Accreditation Mark for Inspection Bodies](/images/how-to-use-marks/sac-accreditation-mark-inspection-bodies.jpg){: style="width: 300px"}  | ![SAC Accreditation Mark for Laboratories](/images/how-to-use-marks/sac-accreditation-mark-laboratories.jpg){: style="width: 300px"} |
 | _for Inspection Bodies_ | _for Laboratories_ |
-|  |  |
-| ![SAC Accreditation Mark for Certification Bodies](/images/how-to-use-marks/sac-accreditation-mark-certification-bodies.jpg) |  ![SAC Accreditation Mark for Other Schemes](/images/how-to-use-marks/sac-accreditation-mark-other-schemes.jpg) |
+| ![SAC Accreditation Mark for Certification Bodies](/images/how-to-use-marks/sac-accreditation-mark-certification-bodies.jpg){: style="width: 300px"} |  ![SAC Accreditation Mark for Other Schemes](/images/how-to-use-marks/sac-accreditation-mark-other-schemes.jpg){: style="width: 300px"} |
 | _for Certification Bodies_ | _for Other Schemes_ |
 
 * The entire Mark may be uniformly enlarged or reduced, but shall not be less than 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated.  
