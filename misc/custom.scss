@@ -525,12 +525,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-.content table.center-text {
-	td {
-		text-align: center;
-	}
-}
-
 .content table.no-border {
 	border: 0;
 	td {
@@ -540,23 +534,13 @@ $desktop: 960px + (2 * $gap) !default;
 
 .content table.with-image-captions {
 	td {
-		padding-left: 2em;
-		padding-right: 2em;
+		text-align: center;
 		vertical-align:top;
+		padding-left: 2rem;
+		padding-right: 2rem;
+		padding-bottom: 2rem;
 		img {
 			margin-bottom: 0.8rem;
-		}
-	}
-	tr:nth-child(even) {
-		td {
-			padding-top: 0;
-			padding-bottom: 1rem;
-			
-		}	
-	}
-	tr:nth-child(odd) {
-		td {
-			padding-bottom: 0;
 		}
 	}
 }
@@ -569,7 +553,6 @@ $desktop: 960px + (2 * $gap) !default;
 			display:block;		 
 		    	width: 100%;
 		}
-		
 	}
 	a {
 		text-decoration:none;
