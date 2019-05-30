@@ -542,11 +542,14 @@ $desktop: 960px + (2 * $gap) !default;
 	tr:nth-child(even) {
 		td {
 			padding-top: 0;
+			padding-bottom: 1rem;
+			vertical-align:top;
 		}	
 	}
 	tr:nth-child(odd) {
 		td {
 			padding-bottom: 0;
+			vertical-align:bottom;
 		}
 	}
 }
