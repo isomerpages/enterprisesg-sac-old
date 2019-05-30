@@ -525,6 +525,12 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.content table.centre-text {
+	td {
+		text-align: center;
+	}
+}
+
 #search-activate
 {
     padding-left:0;
