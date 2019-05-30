@@ -21,7 +21,7 @@ Please refer to the link for the latest SAC brochures.
 #### SAC Brochures
 
 {:.center-text .no-border .with-image-captions .brochures-table1}
-|![SAC Booklet](/images/brochures/SAC-Booklet.jpg)  | ![Laboratories Scheme](/images/brochures/SAC-Brochures-LA.jpg) | ![Inspection Bodies Scheme](/images/brochures/SAC-Brochures-IB.jpg) |
+| [<figure>![SAC Booklet](/images/brochures/SAC-Booklet.jpg)<figcaption>SAC Booklet</figcaption></figure>](/files/brochures/SAC-Booklet.pdf){target="_blank"}  | ![Laboratories Scheme](/images/brochures/SAC-Brochures-LA.jpg) | ![Inspection Bodies Scheme](/images/brochures/SAC-Brochures-IB.jpg) |
 | _SAC Booklet_ | _Accreditation Scheme for Laboratories_ | _Accreditation Scheme for Inspection Bodies_ |
 | ![MS Certification Bodies](/images/brochures/SAC-Brochures-MS.jpg) |  ![Product Certification Bodies](/images/brochures/SAC-Brochures-PC.PNG) | ![GLP Compliance](/images/brochures/SAC-Brochures-GLP.jpg)
 | _Accreditation Scheme for Management System Certification Bodies_ | _Accreditation Scheme for Product Certification Bodies_ | _Good Laboratory Practice Compliance Programme_ |
