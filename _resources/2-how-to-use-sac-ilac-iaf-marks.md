@@ -28,8 +28,11 @@ collection_name: resources
   </figcaption>
   </figure>
 
-* The entire Mark may be uniformly enlarged or reduced, but shall not be less than 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. 
-<img style="width:300px;max-width:100%;" alt="sac-mark-15mm" src="/images/how-to-use-marks/sac-mark-15mm.jpg"/>
+|![SAC Accreditation Mark for Inspection Bodies](/images/how-to-use-marks/sac-accreditation-mark-inspection-bodies.jpg)  | ![SAC Accreditation Mark for Laboratories](/images/how-to-use-marks/sac-accreditation-mark-laboratories.jpg) |
+| _for Inspection Bodies_ | _for Laboratories_ |
+
+* The entire Mark may be uniformly enlarged or reduced, but shall not be less than 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated.  
+![sac-mark-15mm](/images/how-to-use-marks/sac-mark-15mm.jpg)
 
 * The accreditation marks must be reproduced in the official colours, red (Pantone 032C) or dark grey (Pantone 432C). Single colour accreditation marks, subjective to SAC’s approval, can be used for limited colour or black and white production but only on light backgrounds. The font used for the certificate number is Univers 65 Bold. When this font is not readily available using software such as Microsoft Office or on platforms such as websites, Arial Bold can be used in its place. When an accredited organisation is accredited for more than 1 programme/field, the accredited organisation can choose to list all certificate numbers under 1 SAC mark after obtaining approval from SAC in writing.
 
@@ -50,15 +53,15 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 * The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
-* The ILAC MRA Mark may be reproduced in black and white or in colour provided the approved colours are used. Embossed, relief, or die-stamped versions are allowable. 
-<img style="width:537px;max-width:100%;" alt="ILAC MRA Mark" src="/images/how-to-use-marks/ilac-mra-mark.jpg"/>
+* The ILAC MRA Mark may be reproduced in black and white or in colour provided the approved colours are used. Embossed, relief, or die-stamped versions are allowable.  
+![ILAC MRA Mark](/images/how-to-use-marks/ilac-mra-mark.jpg)
 
 * The ILAC MRA mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. It shall not appear in a size that renders the ILAC MRA words unreadable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. It shall maintain similar proportions to the SAC accreditation mark within the Accredited CAB Combined ILAC MRA Mark. The difference in the height of SAC accreditation mark and the ILAC
 MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted for the letters within the ILAC MRA Mark, as the typeface is custom-designed artwork. The ILAC MRA mark must be based upon the original artwork to ensure high-quality production. 
 
 ## Use of IAF MLA Mark by Accredited Certification Bodies
 
-<img style="width:537px;max-width:100%;" alt="iaf-mla-mark" src="/images/how-to-use-marks/combined-mark-certification-bodies.jpg"/>
+![iaf-mla-mark](/images/how-to-use-marks/combined-mark-certification-bodies.jpg){{: style="width: 537px"}}
 
 * An accredited certification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the "Combined Mark". 
 
