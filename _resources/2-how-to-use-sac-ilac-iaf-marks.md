@@ -28,7 +28,7 @@ collection_name: resources
   </figcaption>
   </figure>
 
-{:.center-text .no-border}
+{:.center-text .no-border .with-image-captions}
 |![SAC Accreditation Mark for Inspection Bodies](/images/how-to-use-marks/sac-accreditation-mark-inspection-bodies.jpg)  | ![SAC Accreditation Mark for Laboratories](/images/how-to-use-marks/sac-accreditation-mark-laboratories.jpg) |
 | _for Inspection Bodies_ | _for Laboratories_ |
 |  |  |
