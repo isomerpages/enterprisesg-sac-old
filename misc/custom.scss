@@ -467,39 +467,6 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.content table.brochures-table
-{
-	table-layout:fixed;	
-	tr {
-		margin-bottom: 1rem;
-		@include touch() {
-			margin-bottom:0;
-		}
-	}	
-	td {
-		text-align:center;
-   	 	border: 0;
-    		width: 33%;
-		@include touch() {
-			display:block;		 
-		    	width: 100%;
-			margin-bottom: 0.8rem;	
-			&:empty{
-				display:none;
-			}
-		}
-		
-	}
-	a {
-		text-decoration:none;
-		color:inherit;
-	}
-	figure > figcaption {
-		padding-top:0.8rem;
-		font-style:normal;
-	}
-}
-
 .content #mra-table
 {
 	tr > td {
@@ -545,7 +512,7 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-.content table.brochures-table1 {
+.content table.brochures-table {
 	table-layout:fixed;	
 	td {
     		width: 33%;
