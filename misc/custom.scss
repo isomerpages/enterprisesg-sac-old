@@ -609,9 +609,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .person-info-card > div {
-	height: 100%;
 	img {
-		height: 100%;
 		@include touch() {
 			display:inline-block;
 		}
