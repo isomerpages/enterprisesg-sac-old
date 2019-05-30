@@ -609,6 +609,9 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .person-info-card > div {
+	@include touch() {
+		text-align:center;
+	}
 	.image-col {
 		@include touch() {
 			width: 100%;
