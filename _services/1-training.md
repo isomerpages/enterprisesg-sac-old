@@ -7,7 +7,7 @@ collection_name: services
 
 ## Training Courses and Seminars
 
-![Training Calender 2018](/images/Training_Calendar.png)
+![Training Calender 2018](/images/services/Training_Calendar.png)
 SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards. 
 
 ### Recent Courses / Workshops / Seminars
