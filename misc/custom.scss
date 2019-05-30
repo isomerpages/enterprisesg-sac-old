@@ -397,7 +397,8 @@ $desktop: 960px + (2 * $gap) !default;
 		text-decoration: underline;
 	}
 	img {
-		width: auto;
+		width: "";
+		height: "";
 		max-width: 100%;
 	}
 }
