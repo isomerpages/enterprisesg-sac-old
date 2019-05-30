@@ -44,5 +44,5 @@ Once a facility has met all criteria of ISO/IEC 17043, SAC will issue a Certific
 
 Surveillance assessment will be conducted annually and reassessment will be conducted every four years for the renewal of accreditation. The schematic diagram of the accreditation process is described below:
 <div style="display:block;text-align:center;">
-  <img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
+  <img src="/images/services/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
 </div> 
