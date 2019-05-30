@@ -32,6 +32,4 @@ Accreditation will:
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the V/VBs and the competence of the validators/verifiers. This will be carried out through a document review, assessments at the V/VB's office as well as on-site witnessed assessments of validation/ verification - all conducted by the V/VB. When the V/VB has demonstrated compliance with our requirements, it will be recommended for accreditation. One approved, SAC will grant a certificate or accreditation. The detailed description of the type of assessments is stipulated in CT 01, Accreditation Prodcess.
  
 The detailed description of the accreditation process can be seen below:  
-<div style="display:block;text-align:center;">
- <img src="/images/services/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
-</div> 
+![Accreditation Services Chart](/images/services/accreditation_process.png)
