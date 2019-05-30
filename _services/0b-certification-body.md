@@ -122,5 +122,5 @@ Upon receiving the application for accreditation, qualified assessors are assign
  
 The detailed description of the accreditation process can be seen below: 
 <div style="display:block;text-align:center;">
- <img src="/images/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
+ <img src="/images/services/accreditation_process.png" alt="Accreditation Services Chart" style="width:auto;max-width:100%;"/>
 </div> 
