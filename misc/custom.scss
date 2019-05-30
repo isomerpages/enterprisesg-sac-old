@@ -552,10 +552,6 @@ $desktop: 960px + (2 * $gap) !default;
     display:block;
 }
 
-.bp-footer.top-section .col.is-one-quarter {
-	width: 16%;
-}
-
 #board-of-directors-button {
 	b {
 		display:none;
@@ -648,7 +644,12 @@ $desktop: 960px + (2 * $gap) !default;
 	.video-iframe {
 		height:400px;
 	}
+	
+	.bp-footer.top-section .col.is-one-quarter {
+		width: 16%;
+	}
 }
+
 @media screen and (max-width: 768px) {
 	.display {
 	    font-size: 3rem;
