@@ -538,6 +538,19 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.content table.with-image-captions {
+	tr:nth-child(even) {
+		td {
+			padding-bottom: 0;
+		}	
+	}
+	tr:nth-child(odd) {
+		td {
+			padding-top: 0;
+		}
+	}
+}
+
 #search-activate
 {
     padding-left:0;
