@@ -22,16 +22,8 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 
 ---
 
-{:.with-multiple-lines}
-| Column 1      | Column 2   | Column 3  | Column 4   |
-|---------------|:-----------|:---------:|:-----------|
-| First Row     | Some value | Another   | 1. yoyo    |
-|               |            |           | 2. baz     |
-|               |            |           | 3. bar     |
-|---------------|------------|-----------|------------|
-| Second row    | hey yo     | I'm cool  | Totally    |
-|---------------|------------|-----------|------------|
-| Third  row    | asdf       | andmore   | sweet      |
+| ![APAC Logo](/images/APAC_logo.jpg){:style= "width:198px; height: 79px"} **Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification** | {::nomarkdown} <ul><li>Signed in 1997 (Testing and Calibration)</li><li>Signed in 2003 (Inspection Bodies)</li><li>Signed in 2007 (Medical ISO 15189)</li><li>Signed in 2014 (Proficiency Testing Providers)</li><li>Signed in 1998 (QMS)</li><li>Signed in 2006 (Product)</li><li>Signed in 2014 (FSMS)</li><li>Signed in 2017 (EnMS)</li><li>Signed in 2017 (EMS)</li></ul>{:/} |
+
 
 <table id="mra-table">
  <tbody>
