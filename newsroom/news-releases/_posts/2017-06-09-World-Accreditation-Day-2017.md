@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  World Accreditation Day 2017
 date:   2017-06-09
