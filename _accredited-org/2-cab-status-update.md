@@ -8,7 +8,6 @@ collection_name: accredited-org
 ### List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
 
 #### **1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider**
-{:.has-text-primary}
 
 #### Laboratory
 {:.has-text-underline .has-equal-vertical-spacing}
@@ -61,7 +60,6 @@ collection_name: accredited-org
   * TUV SUD PSB Pte Ltd (07 May 2019)
 
 #### **2. Suspended Laboratory / Certification Body / Inspection Body**
-{:.has-text-primary}
 
 #### Inspection Body
 {:.has-text-underline .has-equal-vertical-spacing}
@@ -72,7 +70,6 @@ collection_name: accredited-org
   * AJK Engineering Pte Ltd (Suspended 29 March 2019 - 28 June 2019)
 
 #### **3. Withdrawn Laboratory / Certification Body / Inspection Body**
-{:.has-text-primary}
 
 #### Voluntary Withdrawal by CABs
 {:.has-text-underline .has-equal-vertical-spacing}
@@ -163,4 +160,3 @@ collection_name: accredited-org
   * Kalswift Singapore Pte Ltd (07 May 2019)
 
 #### **4. Others - Inoperative**
-{:.has-text-primary}
