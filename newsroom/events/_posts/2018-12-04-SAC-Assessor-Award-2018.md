@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  SAC Assessor Award 2018
 date:   2018-12-04
