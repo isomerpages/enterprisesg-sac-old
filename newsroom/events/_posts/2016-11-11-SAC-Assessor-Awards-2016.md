@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  SAC Assessor Awards 2016
 date:   2016-11-11
