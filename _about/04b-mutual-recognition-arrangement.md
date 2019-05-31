@@ -22,6 +22,16 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 
 ---
 
+| Column 1      | Column 2   | Column 3  | Column 4   |
+|---------------|:-----------|:---------:|:-----------|
+| First Row     | Some value | Another   | 1. yoyo    |
+|               |            |           | 2. baz     |
+|               |            |           | 3. bar     |
+|---------------|------------|-----------|------------|
+| Second row    | hey yo     | I'm cool  | Totally    |
+|---------------|------------|-----------|------------|
+| Third  row    | asdf       | andmore   | sweet      |
+
 <table id="mra-table">
  <tbody>
   <tr>
