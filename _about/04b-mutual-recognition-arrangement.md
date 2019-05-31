@@ -22,6 +22,7 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 
 ---
 
+{:.with-multiple-lines}
 | Column 1      | Column 2   | Column 3  | Column 4   |
 |---------------|:-----------|:---------:|:-----------|
 | First Row     | Some value | Another   | 1. yoyo    |
