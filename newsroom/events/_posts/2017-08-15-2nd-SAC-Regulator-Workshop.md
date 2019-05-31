@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  2nd SAC Regulator Workshop
 date:   2017-08-15
