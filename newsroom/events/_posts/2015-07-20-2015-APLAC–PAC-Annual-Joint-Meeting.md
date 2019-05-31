@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  2015 APLAC – PAC Annual Joint Meeting
 date:   2015-07-20
