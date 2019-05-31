@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  SAC Celebrating 30 Years of Accreditation
 date:   2016-08-25
