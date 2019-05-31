@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Launch of New Online Learning Portal
 date:   2018-01-02
@@ -9,10 +9,10 @@ The Singapore Accreditation Council (SAC) has launched a new [platform](https://
  
 As a start, the portal offers four modules, covering topics on accreditation and SAC:
 These modules include:
-1.       Introduction to Accreditation and SAC
-2.       Understanding Mutual Recognition Arrangements
-3.       Accreditation Process
-4.       Accreditation Requirements
+1. Introduction to Accreditation and SAC
+2. Understanding Mutual Recognition Arrangements
+3. Accreditation Process
+4. Accreditation Requirements
 
 ![elearning screenshot](/images/press-release/documents/elearning screenshot.png)
 *Introductory page for the module on “Introduction to Accreditation and SAC”*
