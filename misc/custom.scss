@@ -645,12 +645,12 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-.is-underline {
+.is-underline-text {
 	text-decoration: underline;
 }
 
-.is-sac-red {
-	color: @primary;
+.is-sac-red-text {
+	color: $primary;
 }
 
 .equal-vertical-spacing-header {
