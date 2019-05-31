@@ -52,8 +52,12 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 
 {:.footnote}
 Note:  
-1. AF MD: IAF Mandatory Documents  
-2. Please see Annex 1 for the list of above-mentioned standards.
+(1) AF MD: IAF Mandatory Documents  
+(2) Please see Annex 1 for the list of above-mentioned standards.
+
+> Note:  
+> (1) AF MD: IAF Mandatory Documents  
+> (2) Please see Annex 1 for the list of above-mentioned standards.
 
 #### (II) Product Certification Body
 
