@@ -186,6 +186,10 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $secondary !important;
 }
 
+.has-text-underline {
+	text-decoration: underline !important;
+}
+
 // Menu/Left-nav
 .bp-menu-list a.is-active {
 	color: $secondary !important;
@@ -372,6 +376,10 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $secondary;
 		strong {
 			color: $secondary;
+		}
+		&.has-equal-vertical-spacing {
+			margin-top: 2rem !imporant;
+			margin-bottom: 2rem !important;
 		}
 	}
 	blockquote {
@@ -643,19 +651,6 @@ $desktop: 960px + (2 * $gap) !default;
 			}
 		}
 	}
-}
-
-.is-underline-text {
-	text-decoration: underline;
-}
-
-.is-sac-red-text {
-	color: $primary;
-}
-
-.equal-vertical-spacing-header {
-	margin-top: 2rem;
-	margin-bottom: 2rem;
 }
 
 .footnote {
