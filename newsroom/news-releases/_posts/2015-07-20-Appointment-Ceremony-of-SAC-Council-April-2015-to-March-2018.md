@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Appointment Ceremony of SAC Council (April 2015 to March 2018)
 date:   2015-07-20
