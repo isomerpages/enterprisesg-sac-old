@@ -7,7 +7,7 @@ collection_name: accredited-org
 
 ### List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
 
-#### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
+#### **1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider**
 {:.has-text-primary}
 
 #### Laboratory
@@ -26,10 +26,14 @@ collection_name: accredited-org
   * PT. A Star & Inspection (14 May 2019)
 
 #### Inspection Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Cargo Inspection**
   * Seahawk Services Pte Ltd (20 March 2019)
    
-#### Certification Body    
+#### Certification Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Auditing Organisation** 
   * ACE EHS Singapore Pte Ltd (05 March 2019)  
   * Team-6 Safety Training & Consultancy (S) Pte Ltd (08 March 2019)
@@ -56,19 +60,26 @@ collection_name: accredited-org
   * Verifavia (Singapore) Pte. Ltd. (03 April 2019)
   * TUV SUD PSB Pte Ltd (07 May 2019)
 
-#### **2. Suspended Laboratory / Certification Body / Inspection Body** 
+#### **2. Suspended Laboratory / Certification Body / Inspection Body**
+{:.has-text-primary}
 
 #### Inspection Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Cargo Inspection**
   * Oil & Ga Maritime Pte Ltd (26 April 2019)
 * **Hook-Lift & Container Inspection**
   * AJK Engineering Pte Ltd (Suspended 29 March 2019 - 28 June 2019)
 
-#### **3. Withdrawn Laboratory / Certification Body / Inspection Body** 
+#### **3. Withdrawn Laboratory / Certification Body / Inspection Body**
+{:.has-text-primary}
 
 #### Voluntary Withdrawal by CABs
+{:.has-text-underline .has-equal-vertical-spacing}
 
 #### Laboratory
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Calibration & Measurement**
   * IKM Testing Asia Pte Ltd (18 February 2019)
 * **Chemical & Biological Testing**
@@ -82,10 +93,14 @@ collection_name: accredited-org
   * Brillion Pte. Ltd. (10 April 2019)
 
 #### Inspection Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Cargo Inspection**
   * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 #### Certification Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Business Continuity Management**
   * Lloyd's Register Quality Assurance Limited (13 March 2019)  
 
@@ -99,11 +114,13 @@ collection_name: accredited-org
 * **Withdrawal by SAC**
 
 #### Inspection Body
+{:.has-text-underline .has-equal-vertical-spacing}
 
 * **Cargo Inspection**
   * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
 
 #### Laboratory
+{:.has-text-underline .has-equal-vertical-spacing}
 
 * **Civil Engineering**
   * ABSK Pte Ltd (05 February 2018)
@@ -112,10 +129,14 @@ collection_name: accredited-org
   * Kalswift Singapore Pte Ltd (07 May 2019)
         
 #### Inspection Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Cargo Inspection**
   * Kuk Min Surveyors & Adjusters Pte Ltd (31 December 2018)
 
 #### Certification Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Business Continuity Management**
   * Lloyd's Register Quality Assurance Limited (13 March 2019)  
 * **Energy Management System**
@@ -124,12 +145,16 @@ collection_name: accredited-org
   * TUV Rheinland Pte Ltd (29 December 2018)
 
 #### Withdrawal by SAC
+{:.has-text-underline .has-equal-vertical-spacing}
 
 #### Inspection Body
+{:.has-text-underline .has-equal-vertical-spacing}
+
 * **Cargo Inspection**
   * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
 
 #### Laboratory
+{:.has-text-underline .has-equal-vertical-spacing}
 
 * **Civil Engineering**
   * ABSK Pte Ltd (05 February 2018)
@@ -137,4 +162,5 @@ collection_name: accredited-org
 * **Calibration & Measurement** 
   * Kalswift Singapore Pte Ltd (07 May 2019)
 
-### **4. Others - Inoperative**
+#### **4. Others - Inoperative**
+{:.has-text-primary}
