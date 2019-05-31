@@ -5,10 +5,10 @@
 ##################################
 
 # Favicon
-favicon: /images/sac-esg-logo.png
+favicon: /images/homepage/sac-esg-logo.png
 
 # Agency logo
-agency-logo: /images/sac-esg-logo.png
+agency-logo: /images/homepage/sac-esg-logo.png
 
 # Hero Banner
 hero-title: Singapore Accreditation Council
