@@ -23,7 +23,7 @@ _Signing of MRA to include PTP
 _Group Picture with other AB signatories who signed the MRA for PTP.  
  (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)_
  
- ![APLACPic4](/images/press-release/photos/APLAC-pic4.jpg)
+![APLACPic4](/images/press-release/photos/APLAC-pic4.jpg)
 _Group Picture with 9 other AB signatories who signed the MLA for FSMS._
  
 They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema)
