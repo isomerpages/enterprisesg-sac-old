@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title:  IAF – ILAC Mid-Year meetings 2015
 date:   2015-05-05
 permalink: /newsroom/events/IAF–ILAC-Mid-Year-meetings-2015
 ---
 
-![iaf-ilac-meeting](/images/IAF2.png)
+![iaf-ilac-meeting](/images/press-release/photos/IAF2.png)
 
 The International Accreditation Forum (IAF) and International Laboratory Accreditation Cooperation (ILAC) held their mid-term committee meetings in Frankfurt, Germany from 9 - 12 April 2015.  As a full member of IAF and ILAC, SAC participated in some of these committee meetings to monitor the accreditation, conformity assessment related issues being discussed and to ensure that Singapore’s interest are taken into account.
  

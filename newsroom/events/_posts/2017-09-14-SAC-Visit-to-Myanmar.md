@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  SAC Visit to Myanmar
 date:   2017-09-14
@@ -9,4 +9,4 @@ Following the Memorandum of Understanding (MOU) signed on 8 June 2019 for the Si
 
 SAC also held a meeting with DRI to discuss the implementation of the MOU which include the joint assessment process, training needs, assessor qualification and promotion of accreditation to stakeholders. SAC also took the opportunity to visit two interested laboratories, the National Analytical Laboratory and the Myanmar Food & Drug Administration.
 
-![sac_myanmar_11sep17](/images/sac_myanmar_11sep17.png)
+![sac_myanmar_11sep17](/images/press-release/photos/sac_myanmar_11sep17.png)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  2nd SAC Regulator Workshop
 date:   2017-08-15
@@ -13,4 +13,4 @@ Mr Md Elfian Harun, Assistant Director, Bunker Services, MPA shared on MPA’s c
 
 The centrepiece of the event is the open dialogue where different agencies candidly shared on challenges they faced and areas where accreditation may help with their regulatory functions.  In his closing remarks, Mr Renny Yeo, SAC Chairman thanked everyone for the collaborative spirit and called for collaboration to transform the challenges to opportunities where accreditation can come in to support the quality and standards of our enterprises.
 
-![regulatorworkshop2017](/images/regulatorworkshop2017.png)
+![regulatorworkshop2017](/images/press-release/photos/regulatorworkshop2017.png)

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title:  IAF-ILAC Mid-Year Meetings 2016
 date:   2016-04-20
 permalink: /newsroom/events/IAF-ILAC-Mid-Year-Meetings-2016
 ---
 
-![IAF-ILAC](/images/ILAC IAF Mid 2016.png)
+![IAF-ILAC](/images/press-release/photos/ILAC IAF Mid 2016.png)
 
 The Joint International Accreditation Forum (IAF) and International Laboratory Accreditation Cooperation (ILAC) Mid-Year technical and committee meetings were held in Frankfurt, Germany, from 30 March to 05 April 2016.
 

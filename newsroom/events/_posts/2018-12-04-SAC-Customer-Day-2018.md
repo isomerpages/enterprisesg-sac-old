@@ -7,4 +7,4 @@ permalink: /newsroom/events/Customer-Day-2018
 
 During the SAC Customer Day held on 14 November 2018, accreditation plaques were presented to our newly accredited conformity assessment bodies (CABs). Congratulations to the achievements of these CABs!
 
-![NewlyAccreditedCABs2018](/images/NewlyAccreditedCABs2018.jpg)
+![NewlyAccreditedCABs2018](/images/press-release/documents/NewlyAccreditedCABs2018.jpg)

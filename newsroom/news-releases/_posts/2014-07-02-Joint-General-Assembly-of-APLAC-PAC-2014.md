@@ -5,7 +5,7 @@ date:   2014-07-02
 permalink: /newsroom/news-releases/Joint-General-Assembly-of-APLAC-PAC-2014
 ---
 
-![APLACPic1](/images/APLAC-pic1.jpg)
+![APLACPic1](/images/press-release/photos/APLAC-pic1.jpg)
 
 The inaugural Joint General Assembly (GA) for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the Pacific Accreditation Cooperation (PAC) was held in Guadalajara, Mexico, from 21 to 27 June 2014.  These joint meetings between the two regional groups are to facilitate closer collaborations and joint activities to achieve the common outcomes of both organisations.
  
@@ -15,15 +15,15 @@ The key highlight for SAC at this Joint Meeting is our signing of the inaugural 
  
 Congratulations to SAC! All these achievements are only possible with the good work of all our volunteers, assessors and staff.
 
-![APLACPic2](/images/APLAC-pic2.jpg)
+![APLACPic2](/images/press-release/photos/APLAC-pic2.jpg)
 _Signing of MRA to include PTP
 (From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)_
 
-![APLACPic3](/images/APLAC-pic3.jpg)
+![APLACPic3](/images/press-release/photos/APLAC-pic3.jpg)
 _Group Picture with other AB signatories who signed the MRA for PTP.  
  (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)_
  
- ![APLACPic4](/images/APLAC-pic4.jpg)
+ ![APLACPic4](/images/press-release/photos/APLAC-pic4.jpg)
 _Group Picture with 9 other AB signatories who signed the MLA for FSMS._
  
 They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema)

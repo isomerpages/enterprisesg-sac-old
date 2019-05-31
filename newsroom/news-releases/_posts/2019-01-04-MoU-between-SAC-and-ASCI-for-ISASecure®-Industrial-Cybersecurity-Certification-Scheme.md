@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  MoU between SAC and ASCI
 date:   2019-01-04
@@ -13,7 +13,5 @@ SAC is pleased to expand our Laboratory Accreditation Scheme to include Robustne
  
 Application for accreditation is now open through the SAC accreditation portal, SACiNet. Please contact your account manager for more information.
 
-<figure>
- <img src="/images/news-releases/MOU-ISA.jpg" alt="MOU-ISA.jpg" style="width:auto;max-width:100%"/>
- <figcaption>Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI</figcaption>
-</figure>
+![MOU-ISA.jpg](/images/press-release/photos/MOU-ISA.jpg)  
+_Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI_

@@ -21,4 +21,4 @@ At the October meeting, ILAC extended its global Mutual Recognition Arrangement 
 
 Another development was on the registration of the ILAC MRA Mark for laboratories and inspection bodies. With the ILAC registration expected to complete in early 2015, SAC accredited laboratories and inspection bodies will be able to use the ILAC MRA Mark together with SAC Accreditation Mark (ie the Combined Mark) in their testing, calibration and inspection reports.  This will demonstrate that the laboratories or inspection bodies are accredited by a signatory of the ILAC arrangement. An example of the Combined Mark for Laboratory is shown below:
 
-![ilac-sac-logo](/images/ilac-sac-Logo.png)
+![ilac-sac-logo](/images/press-release/documents/ilac-sac-Logo.png)
