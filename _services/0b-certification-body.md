@@ -32,7 +32,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 #### (I) Management System Certification Body
 
 | Programme | Accreditation Requirements | Certification Standards |
-|-|-|-
+| --- | --- | --- |
 | Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001 |
 | Quality Management for Bunker Supply Chain (QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524 |
 | Environment Management System (EMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-2<br/>Applicable IAF MDs | ISO 14001 |
@@ -50,16 +50,14 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
 
-> 1. AF MD: IAF Mandatory Documents  
-> 2. Please see Annex 1 for the list of above-mentioned standards.
-
+<span>Note:<br/>1. AF MD: IAF Mandatory Documents <br/>2. Please see Annex 1 for the list of above-mentioned standards.</span>
 <p style="font-size:1rem; margin-top:0;">Note:<br/>1. AF MD: IAF Mandatory Documents <br/>2. Please see Annex 1 for the list of above-mentioned standards.</p>
 
 
 #### (II) Product Certification Body
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
-|-|-|-|
+| --- | --- | --- |
 | British Retailer Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety |
 | Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards |
 | Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards |
