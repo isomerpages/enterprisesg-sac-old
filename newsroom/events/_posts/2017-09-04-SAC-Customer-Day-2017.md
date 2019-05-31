@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  SAC Customer Day 2017
 date:   2017-09-04
