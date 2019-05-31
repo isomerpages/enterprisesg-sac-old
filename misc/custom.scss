@@ -642,6 +642,11 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.footnote {
+	font-size: 1rem;
+	margin-top: 0;
+}
+
 @media screen and (min-width: 1024px) {
 	//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
 	.bp-hero-body .row {  
