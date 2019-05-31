@@ -6,9 +6,10 @@ collection_name: accredited-org
 ---
 
 ### List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
-#### **1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider**
 
-#### Laboratory
+#### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
+
+#### Laboratory{: style="color:red"}
 
 * **Civil Engineering**
   * GBAD Services Pte Ltd (22 March 2019)
