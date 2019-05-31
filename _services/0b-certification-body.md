@@ -55,11 +55,6 @@ Note:
 (1) AF MD: IAF Mandatory Documents  
 (2) Please see Annex 1 for the list of above-mentioned standards.
 
-{:.footnote}
-> Note:  
-> (1) AF MD: IAF Mandatory Documents  
-> (2) Please see Annex 1 for the list of above-mentioned standards.
-
 #### (II) Product Certification Body
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
