@@ -401,6 +401,9 @@ $desktop: 960px + (2 * $gap) !default;
 		height: auto;
 		max-width: 100%;
 	}
+	li > ul {
+    		margin-top: 1rem;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -640,6 +643,14 @@ $desktop: 960px + (2 * $gap) !default;
 			}
 		}
 	}
+}
+
+.is-underline {
+	text-decoration: underline;
+}
+
+.is-sac-red {
+	color: @primary;
 }
 
 .footnote {
