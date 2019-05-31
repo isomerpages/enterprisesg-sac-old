@@ -50,17 +50,10 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
 
-{:footnote_nr}
+{:.footnote}
+Note:  
 1. AF MD: IAF Mandatory Documents  
 2. Please see Annex 1 for the list of above-mentioned standards.
-
-{:.footnote_nr}
-1. AF MD: IAF Mandatory Documents  
-2. Please see Annex 1 for the list of above-mentioned standards.
-
-This is some text.[^1]. Other text.[^footnote].
-
-[^1]: Some *crazy* footnote definition.
 
 #### (II) Product Certification Body
 
