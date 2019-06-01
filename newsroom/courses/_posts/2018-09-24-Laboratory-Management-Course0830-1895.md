@@ -2,7 +2,7 @@
 layout: post
 title: Laboratory Management Course (24-26 Sep 2018)
 category: courses
-permalink: /newsroom/courses/Laboratory-Management-Course0830-1895
+permalink: /courses/Laboratory-Management-Course0830-1895
 ---
 ## Laboratory Management Course
 **24-26 September 2018**
