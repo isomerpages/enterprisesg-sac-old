@@ -2,7 +2,7 @@
 layout: post
 title: Laboratory Management Course (based on ISO/IEC 17025) (6-8 Nov 2017)
 category: courses
-permalink: /newsroom/courses/Laboratory-Management-Course-(based-on-ISOIEC-17025)1002-1333
+permalink: /courses/Laboratory-Management-Course-(based-on-ISOIEC-17025)1002-1333
 ---
 ## Laboratory Management Course (based on ISO/IEC 17025)
 **6 - 8 November 2017**
