@@ -135,6 +135,12 @@ if (titleSections.length > 0) {
 
 {%- if page.layout == 'resources-alt' -%}
 <script>
-    console.log(window.location.pathname);
+    // script to hide resources post category buttons on the 'courses' page
+    if (window.location.pathname == '/courses/') {
+        var resourcesNavButtons = document.getElementsByClassName('bp-buttons');
+        if (resourcesNavButtons.length > 0) {
+            resourcesNavButtons[0].style.display = 'none';
+        }
+    }
 </script>
 {%- endif -%}     
