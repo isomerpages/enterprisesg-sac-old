@@ -2,7 +2,7 @@
 layout: post
 title: Laboratory Management Course (based on ISO/IEC 17025) (26-28 Feb 2018)
 category: courses
-permalink: /newsroom/courses/2018-02-26-laboratory-management-course
+permalink: /courses/2018-02-26-laboratory-management-course
 ---
 ## Laboratory Management Course (based on ISO/IEC 17025)
 **26 - 28 February 2018**
