@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internal Audit Course (7-8 March 2019)
-permalink: /newsroom/courses/internal-audit-course
+permalink: /courses/internal-audit-course
 ---
 ## Internal Audit Course 
 **7-8 March 2019**
