@@ -2,7 +2,7 @@
 layout: post
 title: Inspection Body Course (based on ISO/IEC 17020:2012) (15-16 Nov 2017)
 category: courses
-permalink: /newsroom/courses/Inspection-Body-Course-(based-on-ISOIEC-170202012)1002-185
+permalink: /courses/Inspection-Body-Course-(based-on-ISOIEC-170202012)1002-185
 ---
 ## Inspection Body Course (based on ISO/IEC 17020:2012)
 **15 - 16 November 2017**
