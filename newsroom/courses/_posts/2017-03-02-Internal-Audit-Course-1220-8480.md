@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Internal Audit Course (2-3 March 2017)
-category: courses
-permalink: /newsroom/courses/Internal-Audit-Course-1220-8480
+permalink: /courses/Internal-Audit-Course-1220-8480
 ---
 ## Internal Audit Course
 **2 to 3 March 2017**
