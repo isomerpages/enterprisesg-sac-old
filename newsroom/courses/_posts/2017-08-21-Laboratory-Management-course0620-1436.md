@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Laboratory Management course (21-23 Aug 2017)
-category: courses
 permalink: /courses/Laboratory-Management-course0620-1436
 ---
 ## Laboratory Management course
