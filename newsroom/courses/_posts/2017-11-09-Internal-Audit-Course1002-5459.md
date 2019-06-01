@@ -2,7 +2,7 @@
 layout: post
 title: Internal Audit Course (9-10 Nov 2017)
 category: courses
-permalink: /newsroom/courses/Internal-Audit-Course1002-5459
+permalink: /courses/Internal-Audit-Course1002-5459
 ---
 ## Internal Audit Course
 **9 - 10 November 2017**
