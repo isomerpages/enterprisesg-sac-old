@@ -190,6 +190,11 @@ $desktop: 960px + (2 * $gap) !default;
 	text-decoration: underline !important;
 }
 
+//homepage top nav bar
+.navbar-start {
+	margin: 0 0.5rem;
+}
+
 // Menu/Left-nav
 .bp-menu-list a.is-active {
 	color: $secondary !important;
