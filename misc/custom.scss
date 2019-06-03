@@ -550,6 +550,11 @@ $desktop: 960px + (2 * $gap) !default;
 				display:none;
 			}
 		}
+		&:empty {
+			@include touch() {
+				display:none;
+			}
+		}
 	}
 	a {
 		text-decoration:none;
