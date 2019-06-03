@@ -41,7 +41,23 @@ window.onload = function(){
                 }
             }
         }
-    }  
+    } 
+    
+    //hide empty table cells in bouchures page in mobile view
+    var brochuresTable = document.getElementsByClassName('brochures-table');
+    if (brochuresTable.length > 0) {  
+        for (var i=0; i<brochuresTable.length; i++) {
+            var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
+            console.log(brochuresTableCells.length);
+            for (var j=0; j<brochuresTableCells.length; j++) {
+                console.log(brochuresTableCells[j].style, brochuresTableCells[j].style.width);
+                if (brochuresTableCells[j].style.width == "100%" && brochuresTableCells[j].innerHTML.trim() == ""){
+                        brochuresTableCells[j].innerHTML = "";
+                        brochuresTableCells[j].style.display = "none";
+                }
+            }
+        }
+    }
 };    
 </script>    
 
@@ -115,22 +131,7 @@ if (titleSections.length > 0) {
     }
 }
     
-//hide empty table cells in bouchures page in mobile view
-var brochuresTable = document.getElementsByClassName('brochures-table');
-if (brochuresTable.length > 0) {  
-    for (var i=0; i<brochuresTable.length; i++) {
-        var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
-        console.log(brochuresTableCells.length);
-        for (var j=0; j<brochuresTableCells.length; j++) {
-            console.log(brochuresTableCells[j].innerHTML);
-            console.log(brochuresTableCells[j].style, brochuresTableCells[j].style.width);
-            if (brochuresTableCells[j].style.width == "100%" && brochuresTableCells[j].innerHTML.trim() == ""){
-                    brochuresTableCells[j].innerHTML = "";
-                    brochuresTableCells[j].style.display = "none";
-            }
-        }
-    }
-}
+
 </script>    
 {%- endif -%} 
 
