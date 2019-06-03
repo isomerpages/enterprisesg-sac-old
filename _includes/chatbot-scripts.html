@@ -66,6 +66,17 @@ window.onload = function(){
                 var inner = document.createElement("i");
                 inner.setAttribute("class", "sgds-icon sgds-icon-arrow-up is-size-4");
                 backToTopBtn.appendChild(inner);
+                backToTopBtn.onclick = function(){
+                    document.body.scrollTop = 0; // For Safari
+                    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+                };
+                window.onscroll = function() {
+                    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                        document.getElementById("back-to-top-mobile").style.display = "block";
+                      } else {
+                        document.getElementById("back-to-top-mobile").style.display = "none";
+                      }
+                };
                 
                 //append button to the end of main-content
                 mainContent.appendChild(backToTopBtn);
