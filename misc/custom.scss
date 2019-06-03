@@ -716,9 +716,6 @@ $desktop: 960px + (2 * $gap) !default;
 	.content table.brochures-table td {
 		display:block;		 
 		width: 100%;
-		img {
-			max-width: 316px;
-		}
 		&:empty {
 			display:none;
 		}
