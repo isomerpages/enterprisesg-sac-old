@@ -591,9 +591,9 @@ $desktop: 960px + (2 * $gap) !default;
 	outline: none;
 	background-color: $primary;
 	color: white;
-	opacity: 0.7;
+	opacity: 0.8;
 	padding: 0.5rem;
-	border-radius: 0.1rem;
+	border-radius: 0.2rem;
 }
 
 .bp-dropdown.is-hoverable .bp-dropdown-button span{
