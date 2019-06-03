@@ -538,15 +538,6 @@ $desktop: 960px + (2 * $gap) !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
-		@include touch() {
-			display:block;		 
-		    	width: 100%;
-		}
-		&:empty {
-			@include touch() {
-				display:none;
-			}
-		}
 	}
 	a {
 		text-decoration:none;
@@ -720,5 +711,13 @@ $desktop: 960px + (2 * $gap) !default;
 @media screen and (max-width: 768px) {
 	.display {
 	    font-size: 3rem;
+	}
+	
+	.content table.brochures-table td {
+		display:block;		 
+		width: 100%;
+		&:empty {
+			display:none;
+		}
 	}
 }
