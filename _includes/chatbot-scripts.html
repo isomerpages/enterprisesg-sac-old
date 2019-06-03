@@ -48,7 +48,7 @@ window.onload = function(){
                 for (var i=0; i<brochuresTable.length; i++) {
                     var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
                     for (var j=0; j<brochuresTableCells.length; j++) {
-                        if (brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
+                        if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
                                 brochuresTableCells[j].innerHTML = "";
                                 //brochuresTableCells[j].style.display = "none";
                         }
@@ -70,7 +70,7 @@ window.onload = function(){
                     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
                 };
                 window.onscroll = function() {
-                    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+                    if (document.body.scrollTop > 2000 || document.documentElement.scrollTop > 2000) {
                         backToTopBtn.style.display = "block";
                     } else {
                         backToTopBtn.style.display = "none";
