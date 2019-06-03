@@ -546,7 +546,7 @@ $desktop: 960px + (2 * $gap) !default;
 		@include touch() {
 			display:block;		 
 		    	width: 100%;
-			&:empty {
+			&::empty {
 				display:none;
 			}
 		}
