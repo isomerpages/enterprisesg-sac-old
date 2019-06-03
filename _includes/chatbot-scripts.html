@@ -49,6 +49,7 @@ window.onload = function(){
         for (var i=0; i<brochuresTable.length; i++) {
             var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
             for (var j=0; j<brochuresTableCells.length; j++) {
+                console.log(window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display'));
                 if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.trim() == ""){
                         brochuresTableCells[j].innerHTML = "";
                         brochuresTableCells[j].style.display = "none";
