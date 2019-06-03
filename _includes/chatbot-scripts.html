@@ -50,6 +50,7 @@ window.onload = function(){
             var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
             for (var j=0; j<brochuresTableCells.length; j++) {
                 console.log(window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display'));
+                console.log(brochuresTableCells[j].innerHTML.trim());
                 if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.trim() == ""){
                         brochuresTableCells[j].innerHTML = "";
                         brochuresTableCells[j].style.display = "none";
