@@ -1,9 +1,9 @@
-This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official ![Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/).
+This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official [Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/).
 
 # Table of Contents
 
 * [Introduction - Why Markdown and YAML?](#introduction)
-* Adding / Editing an image
+* [Adding / Editing an image](#edit-image)
 * Adding / Editing a document
 * Changing content in Homepage
 * Changing content in About Page
@@ -28,3 +28,15 @@ We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet an
 
 Please refer to the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/) to learn more about Markdown syntax.
 
+<a name="edit-image"></a>
+## Adding / Editing an image
+
+Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The steps for adding / deleting an image are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+
+In general,
+
+1. Select your “Staging” Branch
+2. Go to the folder that you wish to create a new folder
+3. In your repository, click on “Create new file” button
+4. Under the “Name your file…” section, put in your file name
+5. Click on “Commit new file” button
