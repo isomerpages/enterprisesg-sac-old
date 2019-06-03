@@ -679,9 +679,11 @@ $desktop: 960px + (2 * $gap) !default;
 		padding: 0;
 	}
 	
+	/*
 	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
 		display:none;
 	}
+	*/
 }
 
 @media screen and (min-width: 769px) {
