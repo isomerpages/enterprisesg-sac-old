@@ -11,7 +11,7 @@ window.onload = function(){
         
         //this is used to check that the website is in mobile view because the navbar-burger only appears on mobile site
         if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
-            
+            console.log('mobile');
             //hide navbar dropdown menus on first load
             var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
             for (var i=0; i<navbarDropdowns.length; i++) {
@@ -58,13 +58,14 @@ window.onload = function(){
             }
             
             //add back-to-top button in mobile view
-            var backToTopBtn = document.createElement("BUTTON");
-            backToTopBtn.setAttribute("id", "back-to-top-mobile");
-            backToTopBtn.innerHTML = "Top";
-            console.log(backToTopBtn);
             var mainContent = document.getElementById('main-content');
             console.log(mainContent.length);
+            
             if (mainContent !== null) {
+                var backToTopBtn = document.createElement("BUTTON");
+                backToTopBtn.setAttribute("id", "back-to-top-mobile");
+                backToTopBtn.innerText = "Top";
+                
                 //append button to the end of main-content
                 mainContent.appendChild(backToTopBtn);
             }
