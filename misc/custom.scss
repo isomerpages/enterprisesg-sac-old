@@ -190,11 +190,6 @@ $desktop: 960px + (2 * $gap) !default;
 	text-decoration: underline !important;
 }
 
-//homepage top nav bar
-.navbar-start {
-	margin: 0 0.5rem;
-}
-
 // Menu/Left-nav
 .bp-menu-list a.is-active {
 	color: $secondary !important;
@@ -594,6 +589,9 @@ $desktop: 960px + (2 * $gap) !default;
 	opacity: 0.8;
 	padding: 0.5rem;
 	border-radius: 0.2rem;
+	&:hover{
+		background-color: darken($primary,10%);
+	}
 }
 
 .bp-dropdown.is-hoverable .bp-dropdown-button span{
@@ -684,6 +682,11 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 @media screen and (min-width: 1024px) {
+	//homepage top nav bar (shorten width so that entire length is visible)
+	.navbar-start {
+		margin: 0 0.5rem;
+	}
+	
 	//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
 	.bp-hero-body .row {  
     		min-height: 270px;
