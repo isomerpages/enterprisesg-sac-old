@@ -573,9 +573,27 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .back-to-top {
-    text-align:right;
-    font-size:0.9rem;
-    margin-top:0;
+	text-align:right;
+    	font-size:0.9rem;
+    	margin-top:0;
+	@include touch() {
+		display:none;
+	}
+}
+
+#back-to-top-mobile {
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	border: none;
+	outline: none;
+	background-color: @primary;
+	color: white;
+	opacity: 0.7;
+	padding: 15px;
+	border-radius: 4px;
 }
 
 .bp-dropdown.is-hoverable .bp-dropdown-button span{
