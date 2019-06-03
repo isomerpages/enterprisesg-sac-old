@@ -8,6 +8,7 @@
 //$secondary: #414042; //Very dark grayish violet
 $primary: #ED2E38; //PMS Red 032C
 $secondary: #53565A; //PMS Cool Grey 11C
+$secondary-hover: lighten($primary, 10%);
 
 //esg secondary colors
 //$media-color-one: #0055B8; //esg blue
@@ -590,9 +591,9 @@ $desktop: 960px + (2 * $gap) !default;
 	outline: none;
 	background-color: $primary;
 	color: white;
-	opacity: 0.8;
+	opacity: 0.7;
 	padding: 0.5rem;
-	border-radius: 0.2rem;
+	border-radius: 0.1rem;
 }
 
 .bp-dropdown.is-hoverable .bp-dropdown-button span{
@@ -718,4 +719,3 @@ $desktop: 960px + (2 * $gap) !default;
 	    font-size: 3rem;
 	}
 }
-
