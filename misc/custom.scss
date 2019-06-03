@@ -534,6 +534,7 @@ $desktop: 960px + (2 * $gap) !default;
 .content table.brochures-table {
 	table-layout:fixed;	
 	td {
+		width: 33%;
 		text-align: center;
 		vertical-align:top;
 		padding-left: 2rem;
@@ -542,13 +543,9 @@ $desktop: 960px + (2 * $gap) !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
-    		width: 33%;
 		@include touch() {
 			display:block;		 
 		    	width: 100%;
-			&::empty {
-				display:none;
-			}
 		}
 		&:empty {
 			@include touch() {
