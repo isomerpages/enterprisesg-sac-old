@@ -120,7 +120,9 @@ var brochuresTable = document.getElementsByClassName('brochures-table');
 if (brochuresTable.length > 0) {  
     for (var i=0; i<brochuresTable.length; i++) {
         var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
+        console.log(brochuresTableCells.length);
         for (var j=0; j<brochuresTableCells.length; j++) {
+            console.log(brochuresTableCells[j].style.width);
             if (brochuresTableCells[j].style.width == "100%" && brochuresTableCells[j].innerHTML.trim() == ""){
                     brochuresTableCells[j].innerHTML = "";
                     brochuresTableCells[j].style.display = "none";
