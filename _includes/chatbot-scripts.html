@@ -6,7 +6,7 @@
 <script>  
 window.onload = function(){    
     //script to toggle navbar dropdown menu im mobile view
-    var navbarBurgers = document.getElementsByClassName('navbar-burger');
+    /*var navbarBurgers = document.getElementsByClassName('navbar-burger');
     if (navbarBurgers.length > 0) {
         if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
             
@@ -41,7 +41,7 @@ window.onload = function(){
                 }
             }
         }
-    } 
+    } */
     
     //hide empty table cells in bouchures page in mobile view
     var brochuresTable = document.getElementsByClassName('brochures-table');
@@ -49,11 +49,9 @@ window.onload = function(){
         for (var i=0; i<brochuresTable.length; i++) {
             var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
             for (var j=0; j<brochuresTableCells.length; j++) {
-                console.log(window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display'));
-                console.log(brochuresTableCells[j].innerHTML.trim());
                 if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
                         brochuresTableCells[j].innerHTML = "";
-                        brochuresTableCells[j].style.display = "none";
+                        //brochuresTableCells[j].style.display = "none";
                 }
             }
         }
