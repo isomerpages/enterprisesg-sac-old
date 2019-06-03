@@ -70,13 +70,11 @@ window.onload = function(){
                     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
                 };
                 window.onscroll = function() {
-                    console.log(document.documentElement.scrollTop);
-                    console.log(backToTopBtn.length);
-                    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
                         backToTopBtn.style.display = "block";
-                      } else {
+                    } else {
                         backToTopBtn.style.display = "none";
-                      }
+                    }
                 };
                 
                 //append button to the end of main-content
