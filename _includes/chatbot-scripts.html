@@ -40,19 +40,28 @@ window.onload = function(){
                     });
                 }
             }
-        }
-    } 
-    
-    //hide empty table cells in bouchures page in mobile view
-    var brochuresTable = document.getElementsByClassName('brochures-table');
-    if (brochuresTable.length > 0) {  
-        for (var i=0; i<brochuresTable.length; i++) {
-            var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
-            for (var j=0; j<brochuresTableCells.length; j++) {
-                if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
-                        brochuresTableCells[j].innerHTML = "";
-                        //brochuresTableCells[j].style.display = "none";
+            
+            //hide empty table cells in bouchures page in mobile view
+            var brochuresTable = document.getElementsByClassName('brochures-table');
+            if (brochuresTable.length > 0) {  
+                for (var i=0; i<brochuresTable.length; i++) {
+                    var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
+                    for (var j=0; j<brochuresTableCells.length; j++) {
+                        if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
+                                brochuresTableCells[j].innerHTML = "";
+                                //brochuresTableCells[j].style.display = "none";
+                        }
+                    }
                 }
+            }
+            
+            //add back-to-top button in mobile view
+            var backToTopbtn = document.createElement("BUTTON");
+            backToTopbtn.setAttribute("id", "back-to-top-mobile");
+            var mainContent = document.getElementById('main-content');
+            if (mainContent !== null) {
+                //append button to the end of main-content
+                mainContent.appendChild(backToTopbtn);
             }
         }
     }
