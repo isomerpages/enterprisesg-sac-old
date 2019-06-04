@@ -1,4 +1,4 @@
-﻿---
+---
 layout: leftnav-page-content
 title: Certification Body Accreditation
 permalink: /resources/certification-body-accreditation
