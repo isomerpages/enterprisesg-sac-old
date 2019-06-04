@@ -13,8 +13,8 @@ agency-logo: /images/homepage/sac-esg-logo.png
 # Hero Banner
 hero-title: Singapore Accreditation Council
 hero-subtitle: Your Trusted Partner in Accreditation
-hero-banner: /images/homepage/hero_frontpage.jpg
-hero-banner-mobile: /images/homepage/hero_frontpage_mobile.jpg
+hero-banner: /images/homepage/homepage-banner.jpg
+hero-banner-mobile: /images/homepage/homepage-banner_mobile.jpg
 
 # Key Highlights
 key-highlights:
