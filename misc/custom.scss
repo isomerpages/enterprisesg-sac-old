@@ -660,7 +660,7 @@ $desktop: 960px + (2 * $gap) !default;
 			display: block;
 		}
 		img {
-			width:150px;
+			width: 150px;
 			height: 100%;
 			@include touch() {
 				width: 100%;
