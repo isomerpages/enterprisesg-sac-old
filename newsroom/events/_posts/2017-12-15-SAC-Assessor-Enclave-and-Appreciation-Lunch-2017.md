@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  SAC Assessor Enclave and Appreciation Lunch 2017
 date:   2017-12-15
