@@ -414,6 +414,20 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+#main-content a {
+	color: $primary;
+	text-decoration: none;
+	&:hover {
+		color: $primary;
+		text-decoration: underline;
+	}
+	&:active {
+		color: $primary;
+		text-decoration: underline;
+	}
+}
+
+
 // Media category buttons - not used now but will be used in the future
 
 .media-category-button {
