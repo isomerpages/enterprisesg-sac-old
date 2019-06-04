@@ -652,6 +652,8 @@ $desktop: 960px + (2 * $gap) !default;
 
 .person-info-card > div {
 	@include touch() {
+		margin-right: 0.75rem !important;
+    		margin-left: 0.75rem !important;
 		text-align:center;
 	}
 	.image-col {
