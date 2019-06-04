@@ -7,7 +7,7 @@ permalink: /courses/Inspection-Body-Course-(based-on-ISOIEC-170202012)1003-1061
 ## Inspection Body Course (based on ISO/IEC 17020:2012)
 **12 - 13 November 2018**
 
-<span style="color:#288400;font-style:italic;">This course is applicable for Inspection Bodies only</span>  
+_This course is applicable for Inspection Bodies only_{: style="color:#288400;"}  
 **Fee:** SGD 963.00
 
 **Course Venue:**  
