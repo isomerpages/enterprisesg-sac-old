@@ -26,16 +26,16 @@ Please ensure you have read SAC’s Terms & Conditions and Fee Schedule before a
 
 Please click the links below for the Terms and Conditions for different schemes:
  
-* [SAC-01 Terms and Conditions for Accreditation](/files/sac_documents/SAC%2001%20%2802%20April%202018%29.pdf){:target="_blank"}
-* [Procedures and Conditions for GLP Registration](/files/sac_documents/glp/GLP01%20Procedures%20and%20Conditions%20for%20GLP%20Registration_18%20April%202018.pdf){:target="_blank"}
+* [SAC-01 Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="_blank"}
+* [Procedures and Conditions for GLP Registration](/files/documents/glp/GLP01-Procedures-and-Conditions-for-GLP-Registration-18-April-2018.pdf){:target="_blank"}
  
 Please click the links below for the fee schedule for different schemes: 
  
-* [Good Laboratory Programme Registration](/files/sac_documents/glp/GLP02%20GLP%20Fee%20structure_18%20April%202018.pdf){:target="_blank"}
-* [Inspection Body Accreditation](/files/sac_documents/inspection_body_accreditation/IB%2002%20Fee%20Schedule%20%2809%20July%202018%29.pdf){:target="_blank"}
-* [Laboratory Accreditation (SINGLAS)](/files/sac_documents/laboratory_accreditation/testing_and_calibration_documents/general_requirements/SAC-SINGLAS%20003%2029%20Mar%202019.pdf){:target="_blank"}
-* [Management System Certification Body Accreditation](/files/sac_documents/management_system_and_products_certification/MS-Fees%20Schedule%20%28MSDOC04%29%205%20July%202018.pdf){:target="_blank"}
-* [Medical Laboratory and Medical Imaging Facility](/files/sac_documents/laboratory_accreditation/medical_testing_and_medical_imaging_documents/requirements_for_quality_and_competence/SAC-SINGLAS%20003%20MED%20MI%2029%20Mar%202019.pdf){:target="_blank"}
-* [Product Certification Accreditation](https://isomer-sac-demo-staging.netlify.com/files/sac_documents/management_system_and_products_certification/Pdt-Fees%20Schedule%20%28PDOC04%29%205%20July%202018.pdf){:target="_blank"}
-* [Personnel Certification Accreditation](/files/sac_documents/management_system_and_products_certification/PC-Fees%20Schedule%20%28PCDOC04%29%205%20July%202018.pdf){:target="_blank"}
-* [Proficiency Testing Providers](/files/sac_documents/proficiency_testing_providers/PTP%20002%20(18%20April%202018).pdf){:target="_blank"}
+* [Good Laboratory Programme Registration](/files/documents/glp/GLP02-GLP-Fee-structure-18-April-2018.pdf){:target="_blank"}
+* [Inspection Body Accreditation](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="_blank"}
+* [Laboratory Accreditation (SINGLAS)](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="_blank"}
+* [Management System Certification Body Accreditation](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="_blank"}
+* [Medical Laboratory and Medical Imaging Facility](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="_blank"}
+* [Product Certification Accreditation](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-5-July-2018.pdf){:target="_blank"}
+* [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-5-July-2018.pdf){:target="_blank"}
+* [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf){:target="_blank"}
