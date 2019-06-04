@@ -1,4 +1,4 @@
-﻿---
+---
 layout: leftnav-page-content
 title: Proficiency Testing Providers
 permalink: /resources/proficiency-testing-provider-accreditation
