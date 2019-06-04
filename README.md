@@ -4,8 +4,9 @@ This is a supplementary guide for adding and editing content on the SAC website.
 
 * [Introduction - Why Markdown and YAML?](#introduction)
 * [Adding / Editing an image](#edit-image)
-* Adding / Editing a document
-* Changing content in Homepage
+* [Adding / Deleting a file](#edit-file)
+* [Adding / Editing a link](#edit-link)
+* [Editing content in Homepage](#edit-homepage)
 * Changing content in About Page
 * Changing content in Industries Page
 * Changing Content in Services Page
@@ -31,12 +32,48 @@ Please refer to the [isomer markdown documentation](https://isomer.gov.sg/docume
 <a name="edit-image"></a>
 ## Adding / Editing an image
 
-Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The steps for adding / deleting an image are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
-In general,
+Essentially, the steps are:
 
-1. Select your “Staging” Branch
-2. Go to the folder that you wish to create a new folder
-3. In your repository, click on “Create new file” button
-4. Under the “Name your file…” section, put in your file name
-5. Click on “Commit new file” button
+1. Select your "Staging" Branch.
+2. Go to the "images" folder and then select the folder the that you wish to add or delete an image.
+3. To add an image:  
+  a. Click on "Upload files" button.  
+  b. Choose your image file. Remember to replace the space in the filename with dash (-) for better readability.  
+4. To delete an image:  
+  a. Go to the image file that you wish to delete.  
+  b. Click on "delete" trash button.  
+5. Click on "Commit changes" button.
+
+_Image files have to be deleted and re-uploaded to Github everytime you wish to edit an image._
+
+<a name="edit-document"></a>
+## Adding / Deleting a file
+
+Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+
+Essentially, the steps are:
+
+1. Select your "Staging" Branch
+2. Go to the "files" folder and then select the folder that you wish to add or delete a file.
+3. To add a file:  
+  a. Click on "Upload files" button.  
+  b. Choose your file. It can be of pdf, doc, jpg, png, gif. Remember to replace the space in the filename with dash (-) for better readability.  
+4. To delete a file:  
+  a. Go to the file that you wish to delete.  
+  b. Click on "delete" trash button.  
+5. Click on "Commit changes" button.
+
+<a name="edit-link"></a>
+## Adding / Editing a link
+
+The markdown syntax for a direct link is explained in the isomer markdown documentation. For this website, **most of the links are opened in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
+
+* **Syntax for a link that opens in a new window tab:** [link name](url_link){:target="_blank"}
+* **Syntax for an image link that opens in a new window tab:** [![image_name](image_link)](url_link){:target="_blank"}
+
+<a name="edit-homepage"></a>
+## Editing content in Homepage
+
+The step-by-step guide for editing the content in Homepage is listed in [isomer markdown documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
