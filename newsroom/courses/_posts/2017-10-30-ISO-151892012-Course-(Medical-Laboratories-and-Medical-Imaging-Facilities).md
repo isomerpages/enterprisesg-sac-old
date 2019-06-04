@@ -17,7 +17,7 @@ This 2-day course is to help the participants:
 * Understand and Implement the requirements of ISO 15189 as applied in Medical testing laboratories and Medical Imaging Facilities;
 * Develop a quality system which can improve the laboratory operations to meet the needs of their customers
  
-Please complete the attached [registration form](/files/events/Registration%20form%20-%20ISO%2015189%20(for%20medical%20laboratories).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:angie_ng@spring.gov.sg)
+Please complete the attached [registration form](/files/registration-forms/Registration-form ISO-15189-(for-medical-laboratories).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:angie_ng@spring.gov.sg)
  
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.   
  

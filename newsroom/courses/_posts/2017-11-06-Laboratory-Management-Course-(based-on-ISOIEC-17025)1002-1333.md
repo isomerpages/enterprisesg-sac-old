@@ -19,9 +19,9 @@ calibration laboratories;
 * To provide guidance on implementation & improvement of quality system;
 * To understand the SAC-SINGLAS requirements for accreditation.
  
-For course objectives, please view attached [link](/files/events/Lab%20Management%20Course.pdf){:target="_blank"}.
+For course objectives, please view attached [link](/files/training/Lab-Management-Course.pdf){:target="_blank"}.
  
-Please complete the attached [registration form](/files/events/Registration%20form%20(LM%20and%20IA%20-%20Nov%202017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:)
+Please complete the attached [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:)
  
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.   
  

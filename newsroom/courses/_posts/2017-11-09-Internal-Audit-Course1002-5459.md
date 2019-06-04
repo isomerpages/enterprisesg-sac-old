@@ -17,9 +17,9 @@ This 2-day course is to help the participants:
 * Learn the essentials of auditing, which include the techniques in assessing the effectiveness of quality systems and identifying areas for improvement.
 * Acquire the skills to plan, implement and report on internal quality system audits.
  
-For course objectives, please view attached [link](/files/events/Internal%20Audit%20Course.pdf){:target="_blank"}.
+For course objectives, please view attached [link](/files/training/Internal-Audit-Course.pdf){:target="_blank"}.
  
-Please complete the attached [registration form](/files/events/Registration%20form%20(LM%20and%20IA%20-%20Nov%202017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:angie_ng@spring.gov.sg)
+Please complete the attached [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:angie_ng@spring.gov.sg)
  
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.   
  

@@ -1,4 +1,4 @@
----
+﻿---
 layout: leftnav-page-content
 title: How to use SAC / ILAC / IAF Marks
 permalink: /resources/how-to-use-sac-ilac-iaf-marks
@@ -21,7 +21,7 @@ collection_name: resources
 
 * The accreditation marks must be reproduced in the official colours, red (Pantone 032C) or dark grey (Pantone 432C). Single colour accreditation marks, subjective to SAC’s approval, can be used for limited colour or black and white production but only on light backgrounds. The font used for the certificate number is Univers 65 Bold. When this font is not readily available using software such as Microsoft Office or on platforms such as websites, Arial Bold can be used in its place. When an accredited organisation is accredited for more than 1 programme/field, the accredited organisation can choose to list all certificate numbers under 1 SAC mark after obtaining approval from SAC in writing.
 
-* Please refer to [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/sac_documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"} for more information.
+* Please refer to [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC%2002%20-%20SAC%20and%20MRA%20Marks%20%2802%20April%202018%29.pdf){:target="_blank"} for more information.
 
 ### Use of Accredited CAB Combined ILAC MRA Mark by Accredited Laboratories and Inspection Bodies
 
@@ -58,4 +58,4 @@ MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted 
   iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than
 20mm for printed media and 75 pixels for digital media.
 
-* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/sac_documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"} for more information on the IAF MLA mark and sub-licence agreement.
+* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"} for more information on the IAF MLA mark and sub-licence agreement.

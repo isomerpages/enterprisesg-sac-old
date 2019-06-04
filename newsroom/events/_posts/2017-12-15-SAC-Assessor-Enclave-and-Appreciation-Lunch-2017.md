@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  SAC Assessor Enclave and Appreciation Lunch 2017
 date:   2017-12-15
@@ -16,4 +16,4 @@ _(Above) Breakout Groups for Laboratory and Inspection Body Assessors_
 
 SAC also took the opportunity to recognise our assessors’ contribution and support for our various accreditation programmes. 53 assessors received their awards during the event. We look forward to all the assessors’ support in the years to come.
 
-![SAC Assessor Awards List_2017](/images/press-release/documents/SAC Assessor Awards List_2017.jpg)
+![SAC Assessor Awards List_2017](/images/press-release/documents/SAC-Assessor-Awards-List-2017.jpg)

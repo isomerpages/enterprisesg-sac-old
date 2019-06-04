@@ -16,11 +16,11 @@ Singapore 169633
 Room: Venus II, Level 3 
  
 This 1-day course is to provide the participants with: 
-* An understanding of CT 17 and ISO/IEC 17021-1:2015 requirements; 
-* Their application of the requirements in auditing organisations; 
+* An understanding of CT 17 and ISO/IEC 17021-1:2015 requirements;  
+* Their application of the requirements in auditing organisations;  
 * Some guidance on the implementation of these requirements. 
  
-Please complete the [registration form](/files/events/Registration%20form%20(AO%20-%2030%20Nov%20and%2001%20Dec%202017).docx){:target="_blank"} and email it to Ms Manjit Pal Kaur at Manjit_Pal_KAUR@spring.gov.sg 
+Please complete the [registration form](/files/registration-forms/Registration-form-(AO-30-Nov-and-01-Dec-2017).docx){:target="_blank"} and email it to Ms Manjit Pal Kaur at Manjit_Pal_KAUR@spring.gov.sg 
  
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.    
   

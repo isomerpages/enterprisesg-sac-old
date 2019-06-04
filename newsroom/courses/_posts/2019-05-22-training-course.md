@@ -17,7 +17,7 @@ Mandarin Orchard Singapore
 **Objective:-**  
 This 1.5-day course will help the participants from the certification bodies to understand the interpretation of the standard requirements.
 
-Please complete the attached [registration form](/files/events/Registration%20form%20%28Mgt%20Sys-Jun%202019%29.docx){:target="_blank"} and email it to:
+Please complete the attached [registration form](/files/registration-forms/Registration-form-(Mgt-Sys-Jun-2019).docx){:target="_blank"} and email it to:
  
 Ms Manjit Pal Kaur at [Manjit_Pal_Kaur@enterprisesg.gov.sg](mailto:Manjit_Pal_Kaur@enterprisesg.gov.sg) or  
 Mr Choong Wenlong at [Choong_Wen_Loong@enterprisesg.gov.sg](mailto:Choong_Wen_Loong@enterprisesg.gov.sg)
