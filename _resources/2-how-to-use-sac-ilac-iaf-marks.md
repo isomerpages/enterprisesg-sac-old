@@ -1,11 +1,11 @@
-﻿---
+---
 layout: leftnav-page-content
 title: How to use SAC / ILAC / IAF Marks
 permalink: /resources/how-to-use-sac-ilac-iaf-marks
 collection_name: resources
 ---
-## General Conditions for Use of SAC Accreditation Marks
 
+## General Conditions for Use of SAC Accreditation Marks
 ### Layout
 
 * The SAC Accreditation Marks are illustrated below and the appropriate artwork shall be reproduced accurately without any alteration subject to provisions of this clause.
