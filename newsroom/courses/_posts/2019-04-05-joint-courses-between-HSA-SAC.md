@@ -16,6 +16,8 @@ Please note link for registration:-
 ![QR Code](/images/QR-Code.png){: style="margin-left:0;width:130px;height:130px;"}
 _Note: A participant interested in a MU course should only register for either 3(a) or 3(b)._{: style="color:#288400;font-size:smaller"}
 
+
+
 |---
 | No. | Course Title | Fee (inclusive of GST) |  Dates | Status
 |-|-|-|-|-
