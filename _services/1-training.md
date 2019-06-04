@@ -1,4 +1,4 @@
-﻿---
+---
 layout: leftnav-page-content
 title: Training Services
 permalink: /services/training
