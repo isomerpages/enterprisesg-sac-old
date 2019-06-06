@@ -9,7 +9,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Editing content in Homepage](#edit-homepage)
 * [Editing content in About Page](#edit-about)
 * Changing content in Industries Page
-* Changing Content in Services Page
+* [Editing content in Services Page](#edit-services)
 * Changing Content in Resources Page
 * Changing Content in NewsRoom
 * Changing Content in Accredited Org Page
@@ -63,6 +63,11 @@ Images are displayed in their full width and height in the centre of each page b
 * Multiple attributes can be combined to edit the image:  
 ```
 ![image name](image link){: style="margin-left:0;width:130px;height:130px;"}
+```
+
+* To display 2 images side-by-side, we place them in a table as shown below:  
+```
+| ![image name](image link) | ![image name](image link) |
 ```
 
 <a name="edit-document"></a>
@@ -165,3 +170,12 @@ The carousel portion of the programmes section can be hidden or shown using thes
 
 5. Click on “Commit changes” button to save.
 
+<a name="edit-services"></a>
+## Editing content in Services Page
+The services.md file lists the type of isomerpages layout template used for the about navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'services' pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+	
+> Home / Services / Accreditation Services
+
+The _services folder contains all the webpages in the 'Services' section. The names of the file are preceded with a numbering system  (i.e. '0-overview.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (i.e. '0a-auditing-organisation.md') are second-level inner pages.
+
+Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer markdown documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
