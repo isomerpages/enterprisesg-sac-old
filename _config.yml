@@ -1,8 +1,8 @@
 title: Singapore Accreditation Council
 title-abbreviated: SAC
 description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  The National Accreditation Programme is managed by Enterprise Singapore
+url: "https://www.sac-accreditation.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
