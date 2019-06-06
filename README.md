@@ -3,9 +3,10 @@ This is a supplementary guide for adding and editing content on the SAC website.
 # Table of Contents
 
 * [Introduction - Why Markdown and YAML?](#introduction)
-* [Adding / Editing an image](#edit-image)
 * [Adding / Deleting a file](#edit-file)
 * [Adding / Editing a link](#edit-link)
+* [Adding / Editing an image](#edit-image)
+* [Adding / Editing a table](#edit-table)
 * [Editing content in Homepage](#edit-homepage)
 * [Editing content in About Page](#edit-about)
 * Changing content in Industries Page
@@ -27,6 +28,39 @@ While Markdown is appropriate for writing long segments of text, it alone does n
 We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet another human readable syntax.
 
 Please refer to the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/) to learn more about Markdown syntax.
+
+<a name="edit-document"></a>
+## Adding / Deleting a file
+
+Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+
+Essentially, the steps are:
+
+1. Select your "Staging" Branch
+2. Go to the "files" folder and then select the folder that you wish to add or delete a file.
+3. To add a file:  
+  a. Click on "Upload files" button.  
+  b. Choose your file. It can be of pdf, doc, jpg, png, gif. Remember to replace the space in the filename with dash (-) for better readability.  
+4. To delete a file:  
+  a. Go to the file that you wish to delete.  
+  b. Click on "delete" trash button.  
+5. Click on "Commit changes" button.
+
+<a name="edit-link"></a>
+## Adding / Editing a link
+
+The markdown syntax for a direct link is explained in the isomer markdown documentation. All links (including image links are written relative to the base url, so the full link "https://isomer-sac-demo-staging.netlify.com/about/our-role" can be written as "/about/our-role" in the Github file.  
+
+For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
+
+* **Syntax for a link that opens in a new window tab:** 
+```
+[url-name](url-link){:target="_blank"}
+```
+* **Syntax for an image link that opens in a new window tab:** 
+```
+[![image-name](image-link)](url-link){:target="_blank"}
+```
 
 <a name="edit-image"></a>
 ## Adding / Editing an image
@@ -70,37 +104,37 @@ Images are displayed in their full width and height in the centre of each page b
 | ![image-name](image-link) | ![image-name](image-link) |
 ```
 
-<a name="edit-document"></a>
-## Adding / Deleting a file
+<a name="edit-table"></a>
+## Adding / Editing a table
+The SAC website contains several tables which can be added / edited using markdown. The syntax for writing a markdown table is listed [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
 
-Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
-
-Essentially, the steps are:
-
-1. Select your "Staging" Branch
-2. Go to the "files" folder and then select the folder that you wish to add or delete a file.
-3. To add a file:  
-  a. Click on "Upload files" button.  
-  b. Choose your file. It can be of pdf, doc, jpg, png, gif. Remember to replace the space in the filename with dash (-) for better readability.  
-4. To delete a file:  
-  a. Go to the file that you wish to delete.  
-  b. Click on "delete" trash button.  
-5. Click on "Commit changes" button.
-
-<a name="edit-link"></a>
-## Adding / Editing a link
-
-The markdown syntax for a direct link is explained in the isomer markdown documentation. All links (including image links are written relative to the base url, so the full link "https://isomer-sac-demo-staging.netlify.com/about/our-role" can be written as "/about/our-role" in the Github file.  
-
-For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
-
-* **Syntax for a link that opens in a new window tab:** 
+* Basic table syntax
 ```
-[url-name](url-link){:target="_blank"}
+| row-1/column-1 | row-1/column-2 |
+| row-2/column-1 | row-2/column-2 |
 ```
-* **Syntax for an image link that opens in a new window tab:** 
+* Basic table with header syntax:
 ```
-[![image-name](image-link)](url-link){:target="_blank"}
+| header/column-1 | header/column-2 |
+|-|-|
+| row-1/column-1 | row-1/column-2 |
+| row-2/column-1 | row-2/column-2 |
+```
+* Basic table with footer syntax:
+```
+| row-1/column-1 | row-1/column-2 |
+| row-2/column-1 | row-2/column-2 |
+|===|
+| footer-row |
+```
+
+## Customising a table
+Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) are used in conjunction to style the tables, and are placed in front of the markdown table syntax, e.g.
+
+```
+{: .no-border}
+| row-1/column-1 | row-1/column-2 |
+| row-2/column-1 | row-2/column-2 |
 ```
 
 <a name="edit-homepage"></a>
