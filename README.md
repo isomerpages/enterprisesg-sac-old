@@ -50,17 +50,18 @@ _Image files have to be deleted and re-uploaded to Github everytime you wish to 
 
 ### Customising an image
 Images are displayed in their full width and height in the centre of each page by default. To edit the image size or alignment, additional attributes can be added after the inline image link.
+
+* Change the image or height of the image:  
 ```
-//this is used to change the image or height of the image
 ![image name](iamge link){: style="width:130px;height:130px;"}
 ```
+* Change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image:  
 ```
-//this is used to change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image.
 ![image name](iamge link){: style="margin-left:0;"}
 ```
 
+* Multiple attributes can be combined to edit the image:  
 ```
-//multiple attributes can be combined to edit the image.
 ![image name](iamge link){: style="margin-left:0;width:130px;height:130px;"}
 ```
 
@@ -86,7 +87,10 @@ Essentially, the steps are:
 
 The markdown syntax for a direct link is explained in the isomer markdown documentation. For this website, **most of the links are opened in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
 
-* **Syntax for a link that opens in a new window tab:** "[link name](url_link){:target="_blank"}"
+* **Syntax for a link that opens in a new window tab:** 
+```
+[link name](url_link){:target="_blank"}
+```
 * **Syntax for an image link that opens in a new window tab:** 
 ```
 [![image_name](image_link)](url_link){:target="_blank"}
