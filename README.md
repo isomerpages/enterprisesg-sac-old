@@ -11,9 +11,9 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * Changing content in Industries Page
 * [Editing content in Services Page](#edit-services)
 * [Editing Content in Resources Page](#edit-resources)
-* Changing Content in NewsRoom
-* Changing Content in Accredited Org Page
-* Changing Content in Contact Us
+* [Editing Content in Newsroom Page](#edit-newsroom)
+* [Editing Content in Accredited Org Page](#edit-accredited)
+* [Editing Content in Contact Us Page](#edit-contact)
 
 <a name="introduction"></a>
 ## Introduction - Why Markdown and YAML?
@@ -52,22 +52,22 @@ Images are displayed in their full width and height in the centre of each page b
 
 * Change the image or height of the image:  
 ```
-![image name](image link){: style="width:130px;height:130px;"}
+![image-name](image-link){: style="width:130px;height:130px;"}
 ```
 
 * Change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image:  
 ```
-![image name](image link){: style="margin-left:0;"}
+![image-name](image-link){: style="margin-left:0;"}
 ```
 
 * Multiple attributes can be combined to edit the image:  
 ```
-![image name](image link){: style="margin-left:0;width:130px;height:130px;"}
+![image-name](image-link){: style="margin-left:0;width:130px;height:130px;"}
 ```
 
 * To display 2 images side-by-side, we place them in a table as shown below:  
 ```
-| ![image name](image link) | ![image name](image link) |
+| ![image-name](image-link) | ![image-name](image-link) |
 ```
 
 <a name="edit-document"></a>
@@ -96,11 +96,11 @@ For this website, **most of the links open in a new window tab**. So we add an a
 
 * **Syntax for a link that opens in a new window tab:** 
 ```
-[link name](url_link){:target="_blank"}
+[url-name](url-link){:target="_blank"}
 ```
 * **Syntax for an image link that opens in a new window tab:** 
 ```
-[![image_name](image_link)](url_link){:target="_blank"}
+[![image-name](image-link)](url-link){:target="_blank"}
 ```
 
 <a name="edit-homepage"></a>
@@ -111,6 +111,8 @@ The step-by-step guide for editing the content in Homepage is listed in [isomer 
 The index.md file lists the type of isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's web browser.
 
 To edit the content in homepage, edit the homepage.yml in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Look at the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
+
+_For faster loading speeds, try to keep the image size to a maximum of a few hundred kb._
 
 ### Editing Programmes Section (a.k.a 'About / What is Accreditation?' Section)
 The programmes section of the homepage can be edited similarly by editing the programmes.yml file in the _data folder.
@@ -160,16 +162,10 @@ The carousel portion of the programmes section can be hidden or shown using thes
 ```css
 #board-of-directors::before{
 	background-image: url(/images/about/our-organisation-structure/SAC-Org-Chart-August2018.png); //image path for the chart
-	background-size: contain;
-	background-repeat: no-repeat;
-	display: block;
-	width: 100%;
-	height: 100%;
-	padding-top:50%;
-	content: "";
+	...
+	...
 }
 ```
-
 5. Click on “Commit changes” button to save.
 
 <a name="edit-services"></a>
@@ -201,7 +197,7 @@ Most of the pages follow the isomerpages leftnav-page-content template layout. M
 The Brochures section page contains a table for each brochure category. The table has been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each table, as shown below:
 ```
 {:.no-border .brochures-table}
-| [![brochure1 image name](brochure1 image link) brochure1 Title](brochure1 link){:target="_blank"} | [![brochure2 image name](brochure2 image link) brochure2 Title](brochure2 link){:target="_blank"} |
+| [![brochure1-image-name](brochure1-image-link) brochure1-title](brochure1-url-link){:target="_blank"} | [![brochure2-image-name](brochure2-image-link) brochure2-title](brochure2-url-link){:target="_blank"} |
 ```
 
 Essentially, the 'no-border' customisation removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochures images and titles in each column. More details on the customisation can be viewed in the code blocks under the customisation names or classnames of the custom.scss file inside the 'misc' folder.
@@ -222,3 +218,50 @@ answer:
 
 5. Click on “Commit changes” button.
 
+<a name="edit-newsroom"></a>
+## Editing Content in Newsroom Page
+The 'newsroom' page is referred to as the 'resources' (renamed as 'newsroom' for SAC website) section in the isomerpages template. It is linked to the 'resources' (or 'newsroom' for SAC website) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
+
+The 'newsroom' folder contains the index.html file, which type of isomerpages layout template used for the 'newsroom' navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+
+The 'newsroom' folder also contains different category folders that correspond to the sub-links under the 'newsroom' url, where each category folder contains all the posts or articles for that category. The step-by-step guide for editing the contents in the 'newsroom' page can be viewed in the official [isomer documentation here](https://isomer.gov.sg/documentation/resources/overview/). 
+
+The category names are also listed in the resources.yml of the _data folder for better readability, and can be edited easily.
+```
+categories:
+- category-name: newsroom # This is the Resources name: in the case of SAC, it is NewsRoom
+- category-name: news-releases
+- category-name: events
+- category-name: videos
+- category-name: case-studies
+- category-name: cab-success-stories
+```
+
+<a name="edit-accredited"></a>
+## Editing Content in Accredited Org Page
+The accredited-org.md file lists the type of isomerpages layout template used for the 'accredited org' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'accredited org' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+	
+> Home / Accredited Org / Certified CAB Companies
+
+The _accredited-org folder contains all the sub-links webpages in the 'Resources' section. The name of each file is preceded with a numbering system  (e.g. '1-certified-cab-companies.md') so that the desired order of the pages can be displayed in the left navigation section of each page. 
+
+The 'CAB Status Update' page follows the isomerpages leftnav-page-content template layout. More details for editing this page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+
+### Editing Certified CAB Companies Section
+The Certified CAB Companies Section page follows the customised 'certified-companies' template layout. The data in the page can be edited in the 'certified-companies.yml' file of the '_data' folder.
+
+1. Select your “Staging” Branch
+2. In your repository, go to “_data” folder
+3. Edit certified-companies.yml file
+4. Change the content by amending the section below inside faq.yaml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
+5. Click on “Commit changes” button.
+
+<a name="edit-contact"></a>
+## Editing Content in Contact Us Page
+The 'Contact Us' page uses the isomerpages contact-us template layout. The content for the page can be edited inside the contact-us.yaml file in the _data folder. 
+
+1. Select your “Staging” Branch
+2. In your repository, go to “_data” folder
+3. Edit contact-us.yml file
+4. Change the content by amending the section below inside contact-us.yml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
+5. Click on “Commit changes” button.
