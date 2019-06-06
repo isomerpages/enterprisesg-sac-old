@@ -10,7 +10,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Editing content in About Page](#edit-about)
 * Changing content in Industries Page
 * [Editing content in Services Page](#edit-services)
-* Changing Content in Resources Page
+* [Editing Content in Resources Page](#edit-resources)
 * Changing Content in NewsRoom
 * Changing Content in Accredited Org Page
 * Changing Content in Contact Us
@@ -73,7 +73,7 @@ Images are displayed in their full width and height in the centre of each page b
 <a name="edit-document"></a>
 ## Adding / Deleting a file
 
-Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
 Essentially, the steps are:
 
@@ -90,7 +90,9 @@ Essentially, the steps are:
 <a name="edit-link"></a>
 ## Adding / Editing a link
 
-The markdown syntax for a direct link is explained in the isomer markdown documentation. For this website, **most of the links are opened in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
+The markdown syntax for a direct link is explained in the isomer markdown documentation. All links (including image links are written relative to the base url, so the full link "https://isomer-sac-demo-staging.netlify.com/about/our-role" can be written as "/about/our-role" in the Github file.  
+
+For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
 
 * **Syntax for a link that opens in a new window tab:** 
 ```
@@ -104,7 +106,7 @@ The markdown syntax for a direct link is explained in the isomer markdown docume
 <a name="edit-homepage"></a>
 ## Editing content in Homepage
 
-The step-by-step guide for editing the content in Homepage is listed in [isomer markdown documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
+The step-by-step guide for editing the content in Homepage is listed in [isomer documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
 
 The index.md file lists the type of isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's web browser.
 
@@ -136,13 +138,13 @@ The carousel portion of the programmes section can be hidden or shown using thes
 <a name="edit-about"></a>
 ## Editing content in About Page
 
-The about.md file lists the type of isomerpages layout template used for the about navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'about' pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+The about.md file lists the type of isomerpages layout template used for the 'about' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'about' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 	
 > Home / About / Our Role
 
-The _about folder contains all the webpages in the 'About' section. The names of the file are preceded with a numbering system  (i.e. '00-our-role.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (i.e. '03a-council-committees.md') are second-level inner pages.
+The _about folder contains all the sub-links webpages in the 'About' section. The name of each file is preceded with a numbering system  (e.g. '00-our-role.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (e.g. '03a-council-committees.md') are second-level inner pages.
 
-Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer markdown documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing Our Organisation and Structure Section 
 The 'Our Organisation and Structure' Section uses the isomerpages our-team template layout. The content for the page can be edited by editing the our-team.yml file in the _data folder. 
@@ -172,10 +174,51 @@ The carousel portion of the programmes section can be hidden or shown using thes
 
 <a name="edit-services"></a>
 ## Editing content in Services Page
-The services.md file lists the type of isomerpages layout template used for the about navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'services' pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+The services.md file lists the type of isomerpages layout template used for the 'services' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'services' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 	
 > Home / Services / Accreditation Services
 
-The _services folder contains all the webpages in the 'Services' section. The names of the file are preceded with a numbering system  (i.e. '0-overview.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (i.e. '0a-auditing-organisation.md') are second-level inner pages.
+The _services folder contains all the sub-links webpages in the 'Services' section. The name of each file is preceded with a numbering system  (e.g. '0-overview.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (e.g. '0a-auditing-organisation.md') are second-level inner pages.
 
-Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer markdown documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+
+### Editing Training Services - Recent Courses / Workshops / Seminars Section
+The 'Recent Courses / Workshops / Seminars Section' contains a table detailing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [isomer documentation](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
+
+The link below the table links to a full list of the training courses(i.e. all the files in the newsroom/courses/_posts folder).
+
+<a name="edit-resources"></a>
+## Editing Content in Resources Page
+The resources.md file lists the type of isomerpages layout template used for the 'resources' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'resources' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+	
+> Home / Resources / Brochures
+
+The _resources folder contains all the sub-links webpages in the 'Resources' section. The name of each file is preceded with a numbering system  (e.g. '0-brochures.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (e.g. '1b-certification-body-accreditation.md') are second-level inner pages.
+
+Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+
+### Editing Brochures Section
+The Brochures section page contains a table for each brochure category. The table has been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each table, as shown below:
+```
+{:.no-border .brochures-table}
+| [![brochure1 image name](brochure1 image link) brochure1 Title](brochure1 link){:target="_blank"} | [![brochure2 image name](brochure2 image link) brochure2 Title](brochure2 link){:target="_blank"} |
+```
+
+Essentially, the 'no-border' customisation removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochures images and titles in each column. More details on the customisation can be viewed in the code blocks under the customisation names or classnames of the custom.scss file inside the 'misc' folder.
+
+### Editing FAQ Section
+The FAQ Section page follows the customised 'FAQ' template layout. The data in the FAQ page can be edited in the 'faq.yaml' file of the '_data' folder.
+
+1. Select your “Staging” Branch
+2. In your repository, go to “_data” folder
+3. Edit faq.yaml file
+4. Change the content by amending the section below inside faq.yaml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. Since the .yaml file structure does not provide a lot of support for multiple paragraphs, each new line in the answers section has to be preceded with an indented 'line:' key name, followed by the data enclosed in quotation marks ('' or ""), e.g. 
+```
+answer: 
+	- line: "**This is line 1. Markdown syntax can still be used inside here.**"
+        - line: "**This is line 2.**"
+        - line: '_This is line 3._'
+```
+
+5. Click on “Commit changes” button.
+
