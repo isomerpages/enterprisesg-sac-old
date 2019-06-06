@@ -55,6 +55,7 @@ Images are displayed in their full width and height in the centre of each page b
 ```
 ![image name](iamge link){: style="width:130px;height:130px;"}
 ```
+
 * Change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image:  
 ```
 ![image name](iamge link){: style="margin-left:0;"}
