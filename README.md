@@ -128,7 +128,7 @@ The SAC website contains several tables which can be added / edited using markdo
 | footer-row |
 ```
 
-## Customising a table
+### Customising a table
 Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) are used in conjunction to style the tables, and are placed in front of the markdown table syntax, e.g.
 
 ```
