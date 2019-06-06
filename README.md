@@ -11,9 +11,8 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * Changing content in Industries Page
 * Changing Content in Services Page
 * Changing Content in Resources Page
-* Changing Content in Resources Page
 * Changing Content in NewsRoom
-* Changing Content in Accredited Org
+* Changing Content in Accredited Org Page
 * Changing Content in Contact Us
 
 <a name="introduction"></a>
