@@ -77,3 +77,29 @@ The markdown syntax for a direct link is explained in the isomer markdown docume
 ## Editing content in Homepage
 
 The step-by-step guide for editing the content in Homepage is listed in [isomer markdown documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
+
+The index.md file lists the type of isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's web browser.
+
+To edit the content in homepage, edit the homepage.yml in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Look at the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
+
+### Editing Programmes Section (a.k.a 'About / What is Accreditation?' Section)
+For the programmes section of the website, the carousel portion can be hidden or displayed using these steps:
+
+1. Select your “Staging” Branch in the repository
+2. Go into the “misc” folder
+3. Edit the custom.scss file
+4. Search for the '.programmer-container' section. Change the "display" attribute to "display: block" to display the carousel and "display: none" to hide the carousel. 
+```css
+.programme-container {
+	display:none; //hides the programmes section carousel
+}
+```
+
+```css
+.programme-container {
+	display:block; //displays the programmes section carousel
+}
+```
+
+5. Click on “Commit changes” button to save.
+
