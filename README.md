@@ -7,7 +7,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Adding / Deleting a file](#edit-file)
 * [Adding / Editing a link](#edit-link)
 * [Editing content in Homepage](#edit-homepage)
-* Changing content in About Page
+* [Editing content in About Page](#edit-about)
 * Changing content in Industries Page
 * Changing Content in Services Page
 * Changing Content in Resources Page
@@ -48,6 +48,22 @@ Essentially, the steps are:
 
 _Image files have to be deleted and re-uploaded to Github everytime you wish to edit an image._
 
+### Customising an image
+Images are displayed in their full width and height in the centre of each page by default. To edit the image size or alignment, additional attributes can be added after the inline image link.
+```
+//this is used to change the image or height of the image
+![image name](iamge link){: style="width:130px;height:130px;"}
+```
+```
+//this is used to change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image.
+![image name](iamge link){: style="margin-left:0;"}
+```
+
+```
+//multiple attributes can be combined to edit the image.
+![image name](iamge link){: style="margin-left:0;width:130px;height:130px;"}
+```
+
 <a name="edit-document"></a>
 ## Adding / Deleting a file
 
@@ -70,8 +86,11 @@ Essentially, the steps are:
 
 The markdown syntax for a direct link is explained in the isomer markdown documentation. For this website, **most of the links are opened in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
 
-* **Syntax for a link that opens in a new window tab:** [link name](url_link){:target="_blank"}
-* **Syntax for an image link that opens in a new window tab:** [![image_name](image_link)](url_link){:target="_blank"}
+* **Syntax for a link that opens in a new window tab:** "[link name](url_link){:target="_blank"}"
+* **Syntax for an image link that opens in a new window tab:** 
+```
+[![image_name](image_link)](url_link){:target="_blank"}
+```
 
 <a name="edit-homepage"></a>
 ## Editing content in Homepage
@@ -83,12 +102,14 @@ The index.md file lists the type of isomerpages layout template used for the hom
 To edit the content in homepage, edit the homepage.yml in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Look at the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
 
 ### Editing Programmes Section (a.k.a 'About / What is Accreditation?' Section)
-For the programmes section of the website, the carousel portion can be hidden or displayed using these steps:
+The programmes section of the homepage can be edited similarly by editing the programmes.yml file in the _data folder.
+
+The carousel portion of the programmes section can be hidden or shown using these steps:
 
 1. Select your “Staging” Branch in the repository
 2. Go into the “misc” folder
 3. Edit the custom.scss file
-4. Search for the '.programmer-container' section. Change the "display" attribute to "display: block" to display the carousel and "display: none" to hide the carousel. 
+4. Search for the '.programme-container' code block. Change the "display" attribute to to show or hide the carousel. 
 ```css
 .programme-container {
 	display:none; //hides the programmes section carousel
@@ -98,6 +119,43 @@ For the programmes section of the website, the carousel portion can be hidden or
 ```css
 .programme-container {
 	display:block; //displays the programmes section carousel
+}
+```
+
+5. Click on “Commit changes” button to save.
+
+<a name="edit-about"></a>
+## Editing content in About Page
+
+The about.md file lists the type of isomerpages layout template used for the about navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'about' pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+	
+> Home / About / Our Role
+
+The _about folder contains all the webpages in the 'About' section. The names of the file are preceded with a numbering system  (i.e. '00-our-role.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (i.e. '03a-council-committees.md') are second-level inner pages.
+
+Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer markdown documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+
+### Editing Our Organisation and Structure Section 
+The 'Our Organisation and Structure' Section uses the isomerpages our-team template layout. The content for the page can be edited by editing the our-team.yml file in the _data folder. 
+
+The organisation chart section was customised with specific code. It can be edited using the steps:
+
+The carousel portion of the programmes section can be hidden or shown using these steps:
+
+1. Select your “Staging” Branch in the repository
+2. Go into the “misc” folder
+3. Edit the custom.scss file
+4. Search for the '#board-of-directors::before' code block. Change the "background-image" attribute to to change a new image path for the chart. 
+```css
+#board-of-directors::before{
+	background-image: url(/images/about/our-organisation-structure/SAC-Org-Chart-August2018.png); //image path for the chart
+	background-size: contain;
+	background-repeat: no-repeat;
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding-top:50%;
+	content: "";
 }
 ```
 
