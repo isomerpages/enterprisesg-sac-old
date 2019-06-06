@@ -53,17 +53,17 @@ Images are displayed in their full width and height in the centre of each page b
 
 * Change the image or height of the image:  
 ```
-![image name](iamge link){: style="width:130px;height:130px;"}
+![image name](image link){: style="width:130px;height:130px;"}
 ```
 
 * Change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image:  
 ```
-![image name](iamge link){: style="margin-left:0;"}
+![image name](image link){: style="margin-left:0;"}
 ```
 
 * Multiple attributes can be combined to edit the image:  
 ```
-![image name](iamge link){: style="margin-left:0;width:130px;height:130px;"}
+![image name](image link){: style="margin-left:0;width:130px;height:130px;"}
 ```
 
 <a name="edit-document"></a>
