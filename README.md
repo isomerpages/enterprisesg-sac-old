@@ -308,8 +308,8 @@ Essentially, the 'no-border' customisation or classname removes all visible bord
 
 5. Click on "Commit changes" button to save.
 
-### Editing FAQ Section
-The FAQ Section page follows the customised 'FAQ' template layout. The data in the FAQ page can be edited in the 'faq.yaml' file of the '_data' folder.
+### Editing FAQ Page
+The FAQ page follows the customised 'FAQ' template layout. The data in the FAQ page can be edited in the 'faq.yaml' file of the '_data' folder.
 
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
@@ -327,8 +327,8 @@ answer:
 5. Click on “Commit changes” button.
 
 <a name="edit-newsroom"></a>
-## Editing Content of Newsroom Pages
-The 'Newsroom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
+## Editing Content of NewsRoom Pages
+The 'NewsRoom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 The 'newsroom' folder contains the index.html file, which lists the type of Isomerpages layout template used for the NewsRoom navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 
