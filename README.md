@@ -162,7 +162,7 @@ Tables containing multiple lines (such as lists or paragraphs) require HTML synt
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
-* Table with lists (un-ordered lists in HTML open with <ul> and close with </ul>. Ordered lists in HTML open with <ol> and close with </ol>. Each item in the list opens with <li> and closes with </li>) :
+* Table with lists (un-ordered lists in HTML open with '<ul>' and close with "</ul>". Ordered lists in HTML open with '<ol>' and close with '</ol>'. Each item in the list opens with '<li>' and closes with '</li>') :
 ```
 | row-1/column-1 | {::nomarkdown}<ul><li>item1</li><li>item2</li><li>item3</li></ul>{:/} |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
