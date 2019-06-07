@@ -16,8 +16,8 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Editing Content in Accredited Org Page](#edit-accredited)
 * [Editing Content in Contact Us Page](#edit-contact)
 
-<a name="introduction"></a>
 ## Introduction - Why Markdown and YAML?
+{#introduction}
 
 Traditionally, in order to edit a website, one had to write in pure HTML. This is challenging for website administrators who had limited experience with HTML as it is not immediately readable or intuitive to non-experienced users. 
 
@@ -29,8 +29,8 @@ We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet an
 
 Please refer to the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/) to learn more about Markdown syntax.
 
-<a name="edit-document"></a>
 ## Adding / Deleting a file
+{#edit-document}
 
 Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
@@ -46,8 +46,8 @@ Essentially, the steps are:
   b. Click on "delete" trash button.  
 5. Click on "Commit changes" button.
 
-<a name="edit-link"></a>
 ## Adding / Editing a link
+{#edit-link}
 
 The markdown syntax for a direct link is explained in the isomer markdown documentation. All links (including image links are written relative to the base url, so the full link "https://isomer-sac-demo-staging.netlify.com/about/our-role" can be written as "/about/our-role" in the Github file.  
 
@@ -62,8 +62,9 @@ For this website, **most of the links open in a new window tab**. So we add an a
 [![image-name](image-link)](url-link){:target="_blank"}
 ```
 
-<a name="create-bookmark"></a>
 ### Creating a bookmark link
+{#create-bookmark}
+
 HTML bookmarks are used to allow readers to jump to specific parts of a Web page.
 
 To make a bookmark, you must first create the bookmark, and then add a link to it. When the link is clicked, the page will scroll to the location with the bookmark.
@@ -88,8 +89,8 @@ Or, add a link to the bookmark ("Jump to Header 1"), from another page:
 [Jump to Header 1](/about/our-role#header-1)
 ```
 
-<a name="edit-image"></a>
 ## Adding / Editing an image
+{#edit-image}
 
 Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
@@ -108,6 +109,7 @@ Essentially, the steps are:
 _Image files have to be deleted and re-uploaded to Github everytime you wish to edit an image._
 
 ### Customising an image
+
 Images are displayed in their full width and height in the centre of each page by default. To edit the image size or alignment, additional attributes can be added after the inline image link.
 
 * Change the image or height of the image:  
@@ -130,8 +132,9 @@ Images are displayed in their full width and height in the centre of each page b
 | ![image-name](image-link) | ![image-name](image-link) |
 ```
 
-<a name="edit-table"></a>
 ## Adding / Editing a table
+{#edit-table}
+
 The SAC website contains several tables which can be added / edited using markdown. The syntax for writing a markdown table is listed [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
 
 * Basic table syntax
@@ -177,8 +180,8 @@ Tables are styled according to the default isomerpages template. For certain cus
 | row-2/column-1 | row-2/column-2 |
 ```
 
-<a name="edit-homepage"></a>
 ## Editing content in Homepage
+{#edit-homepage}
 
 The step-by-step guide for editing the content in Homepage is listed in [isomer documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
 
@@ -211,8 +214,8 @@ The carousel portion of the programmes section can be hidden or shown using thes
 
 5. Click on “Commit changes” button to save.
 
-<a name="edit-about"></a>
 ## Editing content in About Page
+{#edit-about}
 
 The about.md file lists the type of isomerpages layout template used for the 'about' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'about' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 	
@@ -248,8 +251,9 @@ The 'Organisational Structure' section contains names and links that can be edit
 
 The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific sections of the page. Please go to ["Adding /Editing a table"](#edit-table) for more information on writing a table in Markdown and ['Creating a bookmark link'](#create-bookmark) for more information on bookmark links.
 
-<a name="edit-services"></a>
 ## Editing content in Services Page
+{#edit-services}
+
 The services.md file lists the type of isomerpages layout template used for the 'services' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'services' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 	
 > Home / Services / Accreditation Services
