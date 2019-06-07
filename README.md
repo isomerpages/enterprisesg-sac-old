@@ -62,13 +62,31 @@ For this website, **most of the links open in a new window tab**. So we add an a
 [![image-name](image-link)](url-link){:target="_blank"}
 ```
 
+<a name="create-bookmark"></a>
 ### Creating a bookmark link
 HTML bookmarks are used to allow readers to jump to specific parts of a Web page.
 
 To make a bookmark, you must first create the bookmark, and then add a link to it. When the link is clicked, the page will scroll to the location with the bookmark.
 
-First, create a bookmark with the id attribute:
+First, create a bookmark with the id attribute {: #custom-id} which is written as an custom ID attribute after the inline header / paragraph / link etc in Markdown:
+```
+## header 1{: #header-1}
 
+this is a paragraph{: #my-paragraph}
+
+[url1-name](url1-link){: #url1}
+
+```
+
+Then, add a link to the bookmark ("Jump to Header 1"), from within the same page:
+```
+[Jump to Header 1](#header-1)
+```
+
+Or, add a link to the bookmark ("Jump to Header 1"), from another page:
+```
+[Jump to Header 1](/about/our-role#header-1)
+```
 
 <a name="edit-image"></a>
 ## Adding / Editing an image
@@ -136,8 +154,22 @@ The SAC website contains several tables which can be added / edited using markdo
 | footer-row |
 ```
 
+Tables containing multiple lines (such as lists or paragraphs) require HTML syntax as Markdown tables do not have support for multiple lines.
+
+* Table with multiple lines:
+```
+| row-1/column-1 | row-1/column-2/line1<br/>row-1/column-2/line2<br/>row-1/column-2/line3 |
+| row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
+```
+
+* Table with lists (un-ordered lists in HTML open with <ul> and close with </ul>. Ordered lists in HTML open with <ol> and close with </ol>. Each item in the list opens with <li> and closes with </li>) :
+```
+| row-1/column-1 | {::nomarkdown}<ul><li>item1</li><li>item2</li><li>item3</li></ul>{:/} |
+| row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
+```
+
 ### Customising a table
-Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) are used in conjunction to style the tables, and are placed in front of the markdown table syntax, e.g.
+Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) are used in conjunction to style the tables, and are placed in front of the markdown table syntax {: .customised-table-name}, e.g.
 
 ```
 {: .no-border}
@@ -190,12 +222,10 @@ The _about folder contains all the sub-links webpages in the 'About' section. Th
 
 Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
-### Editing Our Organisation and Structure Section 
-The 'Our Organisation and Structure' Section uses the isomerpages our-team template layout. The content for the page can be edited by editing the our-team.yml file in the _data folder. 
+### Editing Our Organisation and Structure Page 
+The 'Our Organisation and Structure' page uses the isomerpages our-team template layout. The content for the page can be edited by editing the our-team.yml file in the _data folder. 
 
-The organisation chart section was customised with specific code. It can be edited using the steps:
-
-The carousel portion of the programmes section can be hidden or shown using these steps:
+The 'Organisation Chart' section is referred to as the 'Board-of-Directors' (renamed as 'Organisation Chart' for SAC website) section in the isomerpages template, and was customised with specific code. It can be edited using the steps:
 
 1. Select your “Staging” Branch in the repository
 2. Go into the “misc” folder
@@ -209,6 +239,14 @@ The carousel portion of the programmes section can be hidden or shown using thes
 }
 ```
 5. Click on “Commit changes” button to save.
+
+The 'SAC Council' section contains names, titles, organisations and image-urls that can be edited in our-team.yml (under 'senior-leadership:').
+
+The 'Organisational Structure' section contains names and links that can be edited in our-team.yml (under 'organisational-structure:'). The links are essentially **bookmark links** that allow users to jump to a specific part of the same page or another webpage within the website (See ['Creating a bookmark link'](#create-bookmark) for more details). 
+
+### Editing Committee Pages
+
+The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific sections of the page. Please go to ["Adding /Editing a table"](#edit-table) for more information on writing a table in Markdown and ['Creating a bookmark link'](#create-bookmark) for more information on bookmark links.
 
 <a name="edit-services"></a>
 ## Editing content in Services Page
