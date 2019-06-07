@@ -8,7 +8,7 @@ second_nav_title: "Our Organisation And Structure"
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
 Choose one of the Council Committee group below to view all of its members and chairman:  
-[](){:id="cc-top"}  
+{: #cc-top}
 
 * [Council Committee For Laboratory (CCL)](#ccl)
 * [Council Committee For Inspection (CCI](#cci)
@@ -17,7 +17,8 @@ Choose one of the Council Committee group below to view all of its members and c
 * [Council Committee For Biomedical & Health (CCBH)](#ccbh)
 
 
-## Council Committee For Laboratory (CCL){: #ccl}
+## Council Committee For Laboratory (CCL)
+{: #ccl}
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -42,7 +43,8 @@ Choose one of the Council Committee group below to view all of its members and c
 [↑ Back to top](#cc-top)
 {: .back-to-top}
 
-## Council Committee For Inspection (CCI){: #cci}
+## Council Committee For Inspection (CCI)
+{: #cci}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -58,9 +60,11 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Dr Ho Nyok Yong | Samwoh Innovation Centre Pte Ltd |
 | **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council |
 
-<p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
+[↑ Back to top](#cc-top)
+{: .back-to-top}
 
-## Council Committee for Certification (CCC){: #ccc}
+## Council Committee for Certification (CCC)
+{: #ccc}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -80,9 +84,11 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Mr Stanley Ong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
 | **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council |
 
-<p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
+[↑ Back to top](#cc-top)
+{: .back-to-top}
 
-## Council Committee for Business Development (CCBD){: #ccbd}
+## Council Committee for Business Development (CCBD)
+{: #ccbd}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -98,9 +104,11 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Mr Anthony Tan | UL International – Singapore Pte Ltd |
 | **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
 
-<p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
+[↑ Back to top](#cc-top)
+{: .back-to-top}
 
-## Council Committee for Biomedical & Health (CCBH){: #ccbh}
+## Council Committee for Biomedical & Health (CCBH)
+{: #ccbh}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -118,4 +126,5 @@ Choose one of the Council Committee group below to view all of its members and c
 | | A/Prof Chong Bee Kiang | Tan Tock Seng Hospital |
 | **Secretary** | Ms Lee Jia Juan | SAC Secretariat |
 
-<p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
+[↑ Back to top](#cc-top)
+{: .back-to-top}
