@@ -31,7 +31,7 @@ second_nav_title: "Our Organisation And Structure"
 {: #laboratory-accreditation}
 
 | Name | 	Designation | Email | Phone | Scheme |
-|-|-|-|
+|-|-|-|-|-|
 | Mr Tan Yee Teck | Director | [tan_yee_teck@enterprisesg.gov.sg](mailto:tan_yee_teck@enterprisesg.gov.sg) | (65) 62793101 | Physical Engineering |
 | Ms Lee Jia Juan | Deputy Director | [lee_jia_juan@enterprisesg.gov.sg](mailto:lee_jia_juan@enterprisesg.gov.sg) | (65) 62793672 | Chemical & Biological Sciences, Medical Testing & Imaging |
 | Ms Lim Lee Fang | Deputy Director | [lim_lee_fang@enterprisesg.gov.sg](mailto:lim_lee_fang@enterprisesg.gov.sg) | (65) 62793930 | Calibration & Measurement, Electrical & ICT |
@@ -54,7 +54,7 @@ second_nav_title: "Our Organisation And Structure"
 {: #inspection-body-accreditation}
 
 | Name | 	Designation | Email | Phone | Scheme |
-|-|-|-|
+|-|-|-|-|-|
 | Mr Tan Yee Teck | Director | [tan_yee_teck@enterprisesg.gov.sg](mailto:tan_yee_teck@enterprisesg.gov.sg) | (65) 62793101 | Site Investigation, Structural Steelworks |
 | Ms Lee Jia Juan | Deputy Director | [lee_jia_juan@enterprisesg.gov.sg](mailto:lee_jia_juan@enterprisesg.gov.sg) | (65) 62793672 | Mechanical Engineering |
 | Ms Lim Lee Fang | Deputy Director | [lim_lee_fang@enterprisesg.gov.sg](mailto:lim_lee_fang@enterprisesg.gov.sg) | (65) 62793930 | Cargo Inspection |
@@ -69,7 +69,7 @@ second_nav_title: "Our Organisation And Structure"
 {: #certification-body-accreditation}
 
 | Name | 	Designation | Email | Phone | Scheme |
-|-|-|-|
+|-|-|-|-|-|
 | Ms Lee Ham Eng | Deputy Director | [lee_ham_eng@enterprisesg.gov.sg](mailto:lee_ham_eng@enterprisesg.gov.sg) | (65) 62791860 | All Programmes |
 | Ms Katherine Goh | Senior Accreditation Officer | [katherine_goh@enterprisesg.gov.sg](mailto:katherine_goh@enterprisesg.gov.sg) | (65) 62793989 | Management System, Personnel, AO |
 | Ms Jacqueline Ong | Accreditation Officer | [jacqueline_ong@enterprisesg.gov.sg](mailto:jacqueline_ong@enterprisesg.gov.sg) | (65) 2793190 | Product |
@@ -83,7 +83,7 @@ second_nav_title: "Our Organisation And Structure"
 {: #good-laboratory-compliance-programme}
 
 | Name | 	Designation | Email | Phone | Scheme |
-|-|-|-|
+|-|-|-|-|-|
 | Ms Ho Phuy Bee | Senior Accreditation Officer | [ho_phuy_bee@enterprisesg.gov.sg](mailto:ho_phuy_bee@enterprisesg.gov.sg) | (65) 62791816 | All Areas |
 
 [↑ Back to top](#sec-top)
@@ -93,7 +93,7 @@ second_nav_title: "Our Organisation And Structure"
 {: #proficiency-testing-providers}
 
 | Name | 	Designation | Email | Phone | Scheme |
-|-|-|-|
+|-|-|-|-|-|
 | Ms Lee Jia Juan | Deputy Director | [lee_jia_juan@enterprisesg.gov.sg](mailto:lee_jia_juan@enterprisesg.gov.sg) | (65) 62793672 | All Areas |
 
 [↑ Back to top](#sec-top)
@@ -103,7 +103,7 @@ second_nav_title: "Our Organisation And Structure"
 {: #training}
 
 | Name | 	Designation | Email | Phone | Scheme |
-|-|-|-|
+|-|-|-|-|-|
 | Ms Lim Lee Fang | Deputy Director | [lim_lee_fang@enterprisesg.gov.sg](mailto:lim_lee_fang@enterprisesg.gov.sg) | (65) 62793930 | All |
 | Ms Angie Ng | Executive | [angie_ng@enterprisesg.gov.sg](mailto:angie_ng@enterprisesg.gov.sg) | (65) 6279 1800 | All |
 
