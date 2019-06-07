@@ -17,11 +17,11 @@ Choose one of the Council Committee group below to view all of its members and c
 * [Council Committee For Biomedical & Health (CCBH)](#ccbh)
 
 
-## Council Committee For Laboratory (CCL)]{:id="ccl"}
+## [Council Committee For Laboratory (CCL)]{:id="ccl"}
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|- |
+|-|-|-|
 | **Chairman** | Dr Leslie Retnam | National University of Singapore |
 | **Member** | Dr Paul Chiew | Agri-Food & Veterinary Authority of Singapore |
 | | Dr Lim Ee Meng | A*STAR National Metrology Centre (NMC) |
@@ -39,26 +39,25 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Prof Chew Soon Hoe | The Institute of Engineers, Singapore |
 | **Secretary** | Ms Lim Lee Fang | SAC Secretariat |
 
-[↑ Back to top](#cc-top){: .back-to-top}
+[↑ Back to top](#cc-top)
+{: .back-to-top}
 
 [](){:id="cci"}
 ## Council Committee For Inspection (CCI)
 ### Term: 1 July 2018 - 30 June 2021
 
-|---
-| Designation | Name | Organisation
-|-|-|-
-| **Chairman** | Mr Silas Sng Wee Kiat | Singapore Accreditation Council
-| **Member** | Dr Poh Teoh Yaw | Building & Construction Authority
-| | Mr Adrian Lo | Bureau Veritas Singapore Pte Ltd
-| | Mr Loh Lock Mun | FRP Products Co. Pte Ltd
-| | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd
-| | Er. Yong Fen Leong | KTP Consultants Pte Ltd
-| | Er. Merlyn Thong | Land Transport Authority
-| | A/Prof Leong Eng Choon | Nanyang Technological University
-| | Dr Ho Nyok Yong | Samwoh Innovation Centre Pte Ltd
-| **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council
-|---
+| Designation | Name | Organisation |
+|-|-|-|
+| **Chairman** | Mr Silas Sng Wee Kiat | Singapore Accreditation Council |
+| **Member** | Dr Poh Teoh Yaw | Building & Construction Authority |
+| | Mr Adrian Lo | Bureau Veritas Singapore Pte Ltd |
+| | Mr Loh Lock Mun | FRP Products Co. Pte Ltd |
+| | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd |
+| | Er. Yong Fen Leong | KTP Consultants Pte Ltd |
+| | Er. Merlyn Thong | Land Transport Authority |
+| | A/Prof Leong Eng Choon | Nanyang Technological University |
+| | Dr Ho Nyok Yong | Samwoh Innovation Centre Pte Ltd |
+| **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council |
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
 
@@ -66,24 +65,22 @@ Choose one of the Council Committee group below to view all of its members and c
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2018 - 30 June 2021
 
-|---
-| Designation | Name | Organisation
-|-|-|-
-| **Chairman** | Mr Desmond Hill | Singapore Contractors Association Ltd
-| **Member** | Dr Tan Lee Kim | Singapore Food Agency
-| | Mr Francis Tay | Association of Process Industry
-| | Er Steve Ang | Building and Construction Authority
-| | Mr Sebastian Tan | Ministry of Manpower
-| | Ms Suzanna Yap | National Environment Agency
-| | AC Francis Ng | Singapore Civil Defence Force
-| | Mr Chan Lee Mun | SkillsFuture Singapore 
-| | Er Yvonne Soh | Singapore Green Building Council
-| | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association
-| | Ms Mary Ann de Jesus | Singapore Manufacturing Federation (SMF) - TIC Interest Group
-| | Mrs Chay-Lee Swee Gee | Singapore Manufacturing Federation (SMF) - TIC Interest Group
-| | Mr Stanley Ong | Singapore Manufacturing Federation (SMF) - TIC Interest Group
-| **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council
-|---
+| Designation | Name | Organisation |
+|-|-|-|
+| **Chairman** | Mr Desmond Hill | Singapore Contractors Association Ltd |
+| **Member** | Dr Tan Lee Kim | Singapore Food Agency |
+| | Mr Francis Tay | Association of Process Industry |
+| | Er Steve Ang | Building and Construction Authority |
+| | Mr Sebastian Tan | Ministry of Manpower |
+| | Ms Suzanna Yap | National Environment Agency |
+| | AC Francis Ng | Singapore Civil Defence Force |
+| | Mr Chan Lee Mun | SkillsFuture Singapore |
+| | Er Yvonne Soh | Singapore Green Building Council |
+| | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association |
+| | Ms Mary Ann de Jesus | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+| | Mrs Chay-Lee Swee Gee | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+| | Mr Stanley Ong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+| **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council |
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
 
@@ -91,20 +88,18 @@ Choose one of the Council Committee group below to view all of its members and c
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2018 - 30 June 2021
 
-|---
-| Designation | Name | Organisation
-|-|-|-
-| **Chairman** | A/Prof Raymond Chua | Ministry of Health
-| **Deputy Chairman** | Ms Ong Shwu Hoon | Singapore Business Federation
-| **Member** | A/Prof Loh Yeow Khoon, Lawrence | Centre for Governance (Institution & Organisation, Deputy Head of Department, Strategy & Policy)
-| | Mr Md Sirajuddin Jaleel | Enterprise Singapore
-| | Mr Tan Lin Teck | Ministry of Trade and Industry (Future Economy Program Office)
-| | Dr Thomas Liew | National Metrology Centre, A*STAR
-| | Mr Wong Mong Hong | Singapore Food Manufacturers’ Association
-| | Mr Clement Teo | Singapore Test Services Pte Ltd
-| | Mr Anthony Tan | UL International – Singapore Pte Ltd
-| **Secretary** | Mr Tan Yee Teck | SAC Secretariat
-|---
+| Designation | Name | Organisation |
+|-|-|-|
+| **Chairman** | A/Prof Raymond Chua | Ministry of Health |
+| **Deputy Chairman** | Ms Ong Shwu Hoon | Singapore Business Federation |
+| **Member** | A/Prof Loh Yeow Khoon, Lawrence | Centre for Governance (Institution & Organisation, Deputy Head of Department, Strategy & Policy) |
+| | Mr Md Sirajuddin Jaleel | Enterprise Singapore |
+| | Mr Tan Lin Teck | Ministry of Trade and Industry (Future Economy Program Office) |
+| | Dr Thomas Liew | National Metrology Centre, A*STAR |
+| | Mr Wong Mong Hong | Singapore Food Manufacturers’ Association |
+| | Mr Clement Teo | Singapore Test Services Pte Ltd |
+| | Mr Anthony Tan | UL International – Singapore Pte Ltd |
+| **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
 
@@ -112,21 +107,19 @@ Choose one of the Council Committee group below to view all of its members and c
 ## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2018 - 30 June 2021
 
-|---
-| Designation | Name | Organisation
-|-|-|-
-| **Chairman** | Mr Alok Mishra | Individual Capacity
-| **Member** | Pending | Biomedical Research Council, A*STAR
-| | Dr Liu Jiaming | Ministry of Health (Health Regulations Group)
-| | Dr Tyrone Goh | National Healthcare Group Diagnostics
-| | Ms Lim Soh Har | National Healthcare Group (Central)
-| | A/Prof Raymond Lin | National Public Health Laboratory
-| | A/Prof Ang Bee Leng Sophia | National University Health System (West)
-| | A/Prof Low Chian Ming | National University of Singapore
-| | Prof Tan Puay Hoon | Singapore Health Services (East)
-| | Pending | Singapore Society of Pharmaceutical Industry
-| | A/Prof Chong Bee Kiang | Tan Tock Seng Hospital
-| **Secretary** | Ms Lee Jia Juan | SAC Secretariat
-|---
+| Designation | Name | Organisation |
+|-|-|-|
+| **Chairman** | Mr Alok Mishra | Individual Capacity |
+| **Member** | Pending | Biomedical Research Council, A*STAR |
+| | Dr Liu Jiaming | Ministry of Health (Health Regulations Group) |
+| | Dr Tyrone Goh | National Healthcare Group Diagnostics |
+| | Ms Lim Soh Har | National Healthcare Group (Central) |
+| | A/Prof Raymond Lin | National Public Health Laboratory |
+| | A/Prof Ang Bee Leng Sophia | National University Health System (West) |
+| | A/Prof Low Chian Ming | National University of Singapore |
+| | Prof Tan Puay Hoon | Singapore Health Services (East) |
+| | Pending | Singapore Society of Pharmaceutical Industry |
+| | A/Prof Chong Bee Kiang | Tan Tock Seng Hospital |
+| **Secretary** | Ms Lee Jia Juan | SAC Secretariat |
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
