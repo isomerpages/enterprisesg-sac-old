@@ -8,12 +8,12 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Adding / Editing an image](#edit-image)
 * [Adding / Editing a table](#edit-table)
 * [Editing content in Homepage](#edit-homepage)
-* [Editing content in About Page](#edit-about)
-* Changing content in Industries Page
-* [Editing content in Services Page](#edit-services)
-* [Editing Content in Resources Page](#edit-resources)
-* [Editing Content in Newsroom Page](#edit-newsroom)
-* [Editing Content in Accredited Org Page](#edit-accredited)
+* [Editing content of About Pages](#edit-about)
+* Changing content of Industries Pages
+* [Editing content of Services Pages](#edit-services)
+* [Editing Content of Resources Pages](#edit-resources)
+* [Editing Content of Newsroom Pages](#edit-newsroom)
+* [Editing Content of Accredited Org Pages](#edit-accredited)
 * [Editing Content in Contact Us Page](#edit-contact)
 
 <a name="introduction"></a>
@@ -218,7 +218,7 @@ The carousel portion of the programmes section can be hidden or shown using thes
 The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 <a name="edit-about"></a>
-## Editing content in About Pages
+## Editing content of About Pages
 
 The about.md file lists the type of Isomerpages layout template used for the 'About' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'About' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
@@ -255,7 +255,7 @@ The 'Organisational Structure' section contains names and links of SAC committee
 The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific locations of the same page. Please go to ['Adding /Editing a table'](#edit-table) for more information on writing a table in Markdown and ['Creating a bookmark link'](#create-bookmark) for more information on bookmark links.
 
 <a name="edit-services"></a>
-## Editing content in Services Pages
+## Editing content of Services Pages
 
 The services.md file lists the type of Isomerpages layout template used for the 'Services' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Services' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
@@ -271,7 +271,7 @@ The 'Recent Courses / Workshops / Seminars' page contains a table listing the da
 The link below the table links to a full list of the training courses(i.e. all the files in the newsroom/courses/_posts folder).
 
 <a name="edit-resources"></a>
-## Editing Content in Resources Pages
+## Editing Content of Resources Pages
 
 The resources.md file lists the type of Isomerpages layout template used for the 'Resources' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Resources' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
@@ -327,7 +327,7 @@ answer:
 5. Click on “Commit changes” button.
 
 <a name="edit-newsroom"></a>
-## Editing Content in Newsroom Page
+## Editing Content of Newsroom Pages
 The 'Newsroom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 The 'newsroom' folder contains the index.html file, which lists the type of Isomerpages layout template used for the NewsRoom navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
@@ -346,7 +346,7 @@ categories:
 ```
 
 <a name="edit-accredited"></a>
-## Editing Content in Accredited Org Page
+## Editing Content of Accredited Org Pages
 
 The accredited-org.md file lists the type of Isomerpages layout template used for the 'Accredited Org' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Accredited Org' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
@@ -356,7 +356,7 @@ The _accredited-org folder contains the files of all the sub-links in the 'Servi
 
 The 'CAB Status Update' page follows the Isomerpages leftnav-page-content template layout. More details for editing this page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
-### Editing Certified CAB Companies Section
+### Editing Certified CAB Companies Page
 The Certified CAB Companies Section page follows the customised 'certified-companies' template layout. The data in the page can be edited in the 'certified-companies.yml' file of the '_data' folder.
 
 1. Select your "Staging" Branch
