@@ -159,7 +159,7 @@ The SAC website contains several tables which can be added / edited using markdo
 
 Tables containing multiple lines (such as lists or paragraphs) require HTML syntax as Markdown tables do not have support for multiple lines.
 
-* Table with multiple lines:
+* Table with multiple lines (the `<br/>` HTML tag refers to a line break which essentially creates a new line) :
 ```
 | row-1/column-1 | row-1/column-2/line1<br/>row-1/column-2/line2<br/>row-1/column-2/line3 |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
