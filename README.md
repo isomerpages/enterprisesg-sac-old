@@ -3,7 +3,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 # Table of Contents
 
 * [Introduction - Why Markdown and YAML?](#introduction)
-* [Adding / Deleting a file](#edit-file)
+* [Adding / Deleting a document file](#edit-file)
 * [Adding / Editing a link](#edit-link)
 * [Adding / Editing an image](#edit-image)
 * [Adding / Editing a table](#edit-table)
@@ -30,7 +30,7 @@ We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet an
 Please refer to the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/) to learn more about Markdown syntax.
 
 <a name="edit-file"></a>
-## Adding / Deleting a file
+## Adding / Deleting a document file
 
 Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [Isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
