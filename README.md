@@ -49,7 +49,7 @@ Essentially, the steps are:
 <a name="edit-link"></a>
 ## Adding / Editing a link
 
-The markdown syntax for a direct link is explained in the isomer markdown documentation. All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
+The markdown syntax for a direct link is explained in the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
 
 For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
 
@@ -157,22 +157,22 @@ The SAC website contains several tables which can be added / edited using markdo
 | footer-row |
 ```
 
-Tables containing multiple lines (such as lists or paragraphs) require HTML syntax as Markdown tables do not have support for multiple lines.
+Table cells containing multiple lines (such as lists or paragraphs) require HTML syntax as Markdown tables do not have support for multiple lines.
 
-* Table with multiple lines (the `<br/>` HTML tag refers to a line break which essentially creates a new line) :
+* Table with multiple lines (the `<br/>` HTML tag refers to a line break which essentially creates a new line)
 ```
 | row-1/column-1 | row-1/column-2/line1<br/>row-1/column-2/line2<br/>row-1/column-2/line3 |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
-* Table with lists (un-ordered lists in HTML open with `<ul>` and close with `</ul>`. Ordered lists in HTML open with `<ol>` and close with `</ol>`. Each item in the list opens with `<li>` and closes with `</li>`) :
+* Table with lists require the {::nomarkdown} attribute tag so that any content within the {::nomarkdown}{:/} tags are interpreted as HTML syntax. Un-ordered lists in HTML open with `<ul>` and close with `</ul>`. Ordered lists in HTML open with `<ol>` and close with `</ol>`. Each item in the list opens with `<li>` and closes with `</li>`.
 ```
 | row-1/column-1 | {::nomarkdown}<ul><li>item1</li><li>item2</li><li>item3</li></ul>{:/} |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
 ### Customising a table
-Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) are used in conjunction to style the tables, and are placed in front of the markdown table syntax {: .customised-table-name}, e.g.
+Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) {: .customised-table-name} are used in conjunction to style the tables, and are placed in front of the markdown table syntax
 
 ```
 {: .no-border}
@@ -187,7 +187,7 @@ The step-by-step guide for editing the content in Homepage is listed in [isomer 
 
 The index.md file lists the type of isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's web browser.
 
-To edit the content in homepage, edit the homepage.yml in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Look at the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
+To edit the content in homepage, edit the homepage.yml in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Refer to the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
 
 _For faster loading speeds, try to keep the image size to a maximum of a few hundred kb._
 
