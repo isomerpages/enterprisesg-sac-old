@@ -69,7 +69,7 @@ HTML bookmarks are used to allow readers to jump to specific parts of a Web page
 
 To make a bookmark, you must first create the bookmark, and then add a link to it. When the link is clicked, the page will scroll to the location with the bookmark.
 
-First, create a bookmark with the id attribute {: #custom-id} which is written as an custom ID attribute after the inline header / paragraph / link etc in Markdown:
+First, create a bookmark with the id attribute {: #custom-id} which is written as a custom ID attribute after the inline header / paragraph / link etc in Markdown:
 ```
 ## header 1{: #header-1}
 
