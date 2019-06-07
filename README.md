@@ -32,7 +32,7 @@ Please refer to the [isomer markdown documentation](https://isomer.gov.sg/docume
 <a name="edit-file"></a>
 ## Adding / Deleting a file
 
-Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [Isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
 Essentially, the steps are:
 
@@ -135,21 +135,21 @@ Images are displayed in their full width and height in the centre of each page b
 <a name="edit-table"></a>
 ## Adding / Editing a table
 
-The SAC website contains several tables which can be added / edited using markdown. The syntax for writing a markdown table is listed [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
+The SAC website contains several tables which can be added / edited using Markdown. The syntax for writing a Markdown table is listed [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
 
-* Basic table syntax
+* Basic Markdown table syntax
 ```
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
 ```
-* Basic table with header syntax:
+* Basic Markdown table with header syntax:
 ```
 | header/column-1 | header/column-2 |
 |-|-|
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
 ```
-* Basic table with footer syntax:
+* Basic Markdown table with footer syntax:
 ```
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
@@ -157,9 +157,9 @@ The SAC website contains several tables which can be added / edited using markdo
 | footer-row |
 ```
 
-Table cells containing multiple lines (such as lists or paragraphs) require HTML syntax as Markdown tables do not have support for multiple lines.
+Table cells containing multiple lines (such as lists or paragraphs) require inline HTML syntax as Markdown tables do not have support for multiple lines.
 
-* Table with multiple lines (the `<br/>` HTML tag refers to a line break which essentially creates a new line)
+* Table with multiple lines (the `<br/>` HTML tag refers to a 'line break' which essentially creates a new line)
 ```
 | row-1/column-1 | row-1/column-2/line1<br/>row-1/column-2/line2<br/>row-1/column-2/line3 |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
@@ -172,7 +172,7 @@ Table cells containing multiple lines (such as lists or paragraphs) require HTML
 ```
 
 ### Customising a table
-Tables are styled according to the default isomerpages template. For certain customised tables, customisation names (or HTML classnames) {: .customised-table-name} are used in conjunction to style the tables, and are placed in front of the markdown table syntax
+Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like {: .customised-table-name} are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
 {: .no-border}
@@ -183,11 +183,11 @@ Tables are styled according to the default isomerpages template. For certain cus
 <a name="edit-homepage"></a>
 ## Editing content in Homepage
 
-The step-by-step guide for editing the content in Homepage is listed in [isomer documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
+The step-by-step guide for editing the content in Homepage is listed in [Isomer documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
 
-The index.md file lists the type of isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's web browser.
+The index.md file lists the type of Isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's Web browser.
 
-To edit the content in homepage, edit the homepage.yml in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Refer to the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
+To edit the content in homepage, edit the 'homepage.yml' file in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Refer to the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
 
 _For faster loading speeds, try to keep the image size to a maximum of a few hundred kb._
 
@@ -196,44 +196,47 @@ The programmes section of the homepage can be edited similarly by editing the pr
 
 The carousel portion of the programmes section can be hidden or shown using these steps:
 
-1. Select your “Staging” Branch in the repository
-2. Go into the “misc” folder
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the '.programme-container' code block. Change the "display" attribute to to show or hide the carousel. 
+4. Search for the ".programme-container" code block. Change the "display" attribute to to show or hide the carousel. 
 ```css
 .programme-container {
-	display:none; //hides the programmes section carousel
+	display: none; //hides the programmes section carousel
 }
 ```
 
 ```css
 .programme-container {
-	display:block; //displays the programmes section carousel
+	display: block; //displays the programmes section carousel
 }
 ```
 
-5. Click on “Commit changes” button to save.
+5. Click on "Commit changes" button to save.
+
+### Editing Newsroom Section (a.k.a Resources in the Isomerpages template) in Homepage
+The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 <a name="edit-about"></a>
-## Editing content in About Page
+## Editing content in About Pages
 
-The about.md file lists the type of isomerpages layout template used for the 'about' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'about' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+The about.md file lists the type of Isomerpages layout template used for the 'About' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'About' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
 > Home / About / Our Role
 
-The _about folder contains all the sub-links webpages in the 'About' section. The name of each file is preceded with a numbering system  (e.g. '00-our-role.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (e.g. '03a-council-committees.md') are second-level inner pages.
+The _about folder contains the files of all the sub-links in the 'About' page. The name of each file is preceded with a numbering system  (e.g. '00-our-role.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. Files which have alphabets after the numbers (e.g. '03a-council-committees.md') are second-level inner sub-link pages.
 
-Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing Our Organisation and Structure Page 
-The 'Our Organisation and Structure' page uses the isomerpages our-team template layout. The content for the page can be edited by editing the our-team.yml file in the _data folder. 
+The 'Our Organisation and Structure' page uses the Isomerpages 'our-team' template layout. The content for the page can be edited by editing the 'our-team.yml' file in the _data folder. 
 
-The 'Organisation Chart' section is referred to as the 'Board-of-Directors' (renamed as 'Organisation Chart' for SAC website) section in the isomerpages template, and was customised with specific code. It can be edited using the steps:
+The 'Organisation Chart' section has been renamed from the 'Board-of-Directors' section in the Isomerpages template, and was customised with specific code. It can be edited using the steps:
 
-1. Select your “Staging” Branch in the repository
-2. Go into the “misc” folder
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the '#board-of-directors::before' code block. Change the "background-image" attribute to to change a new image path for the chart. 
+4. Search for the "#board-of-directors::before" code block. Change the "background-image" attribute to to change a new image path for the chart. 
 ```css
 #board-of-directors::before{
 	background-image: url(/images/about/our-organisation-structure/SAC-Org-Chart-August2018.png); //image path for the chart
@@ -241,59 +244,80 @@ The 'Organisation Chart' section is referred to as the 'Board-of-Directors' (ren
 	...
 }
 ```
-5. Click on “Commit changes” button to save.
+5. Click on "Commit changes" button to save.
 
-The 'SAC Council' section contains names, titles, organisations and image-urls that can be edited in our-team.yml (under 'senior-leadership:').
+The 'SAC Council' section lists the names, titles, organisations and image-urls of council members that can be edited inside 'our-team.yml' (under 'senior-leadership:').
 
-The 'Organisational Structure' section contains names and links that can be edited in our-team.yml (under 'organisational-structure:'). The links are essentially **bookmark links** that allow users to jump to a specific part of the same page or another webpage within the website (See ['Creating a bookmark link'](#create-bookmark) for more details). 
+The 'Organisational Structure' section contains names and links of SAC committee members that can be edited in 'our-team.yml' (under 'organisational-structure:'). The links are essentially **bookmark links** that allow users to jump to a specific location of another webpage within the website (See ['Creating a bookmark link'](#create-bookmark) for more details). 
 
 ### Editing Committee Pages
 
-The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific sections of the page. Please go to ["Adding /Editing a table"](#edit-table) for more information on writing a table in Markdown and ['Creating a bookmark link'](#create-bookmark) for more information on bookmark links.
+The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific locations of the same page. Please go to ['Adding /Editing a table'](#edit-table) for more information on writing a table in Markdown and ['Creating a bookmark link'](#create-bookmark) for more information on bookmark links.
 
-## Editing content in Services Page
-{#edit-services}
+<a name="edit-services"></a>
+## Editing content in Services Pages
 
-The services.md file lists the type of isomerpages layout template used for the 'services' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'services' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+The services.md file lists the type of Isomerpages layout template used for the 'Services' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Services' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
 > Home / Services / Accreditation Services
 
-The _services folder contains all the sub-links webpages in the 'Services' section. The name of each file is preceded with a numbering system  (e.g. '0-overview.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (e.g. '0a-auditing-organisation.md') are second-level inner pages.
+The _services folder contains the files of all the sub-links in the 'Services' page. The name of each file is preceded with a numbering system  (e.g. '0-overview.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. Files which have alphabets after the numbers (e.g. '0a-auditing-organisation.md') are second-level inner sub-link pages.
 
-Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
-### Editing Training Services - Recent Courses / Workshops / Seminars Section
-The 'Recent Courses / Workshops / Seminars Section' contains a table detailing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [isomer documentation](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
+### Editing Training Services - Recent Courses / Workshops / Seminars Page
+The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
 
 The link below the table links to a full list of the training courses(i.e. all the files in the newsroom/courses/_posts folder).
 
 <a name="edit-resources"></a>
-## Editing Content in Resources Page
-The resources.md file lists the type of isomerpages layout template used for the 'resources' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'resources' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+## Editing Content in Resources Pages
+
+The resources.md file lists the type of Isomerpages layout template used for the 'Resources' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Resources' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
 > Home / Resources / Brochures
 
-The _resources folder contains all the sub-links webpages in the 'Resources' section. The name of each file is preceded with a numbering system  (e.g. '0-brochures.md') so that the desired order of the pages can be displayed in the left navigation section of each page. Pages which have alphabets after the numbers (e.g. '1b-certification-body-accreditation.md') are second-level inner pages.
+The _resources folder contains the files of all the sub-links in the 'Resources' page. The name of each file is preceded with a numbering system (e.g. '0-brochures.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. Files which have alphabets after the numbers (e.g. '1b-certification-body-accreditation.md') are second-level inner sub-link pages.
 
-Most of the pages follow the isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
-### Editing Brochures Section
-The Brochures section page contains a table for each brochure category. The table has been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each table, as shown below:
+### Editing Brochures Page
+The Brochures page contains a table for each brochure category. The table has been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
 ```
 {:.no-border .brochures-table}
 | [![brochure1-image-name](brochure1-image-link) brochure1-title](brochure1-url-link){:target="_blank"} | [![brochure2-image-name](brochure2-image-link) brochure2-title](brochure2-url-link){:target="_blank"} |
 ```
 
-Essentially, the 'no-border' customisation removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochures images and titles in each column. More details on the customisation can be viewed in the code blocks under the customisation names or classnames of the custom.scss file inside the 'misc' folder.
+Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochures images and titles in each table cell. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the ".no-border" or ".brochures-table" code blocks. Change the attributes by amending the section within the code blocks
+
+```css
+# Sample custom.scss file section for reference
+
+.content table.no-border {
+	border: 0;
+	td {
+		border: 0;
+	}
+}
+```
+
+5. Click on "Commit changes" button to save.
 
 ### Editing FAQ Section
 The FAQ Section page follows the customised 'FAQ' template layout. The data in the FAQ page can be edited in the 'faq.yaml' file of the '_data' folder.
 
-1. Select your “Staging” Branch
-2. In your repository, go to “_data” folder
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
 3. Edit faq.yaml file
-4. Change the content by amending the section below inside faq.yaml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. Since the .yaml file structure does not provide a lot of support for multiple paragraphs, each new line in the answers section has to be preceded with an indented 'line:' key name, followed by the data enclosed in quotation marks ('' or ""), e.g. 
+4. Change the content by amending the section below inside faq.yaml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. Since the .yml file structure does not provide a lot of support for multiple paragraphs, each new line in the answers section has to be preceded with an indented 'line:' key name, followed by the data enclosed in quotation marks ('' or ""), e.g. 
 ```
+# Sample faq.yaml file section for reference
+
 answer: 
 	- line: "**This is line 1. Markdown syntax can still be used inside here.**"
         - line: "**This is line 2.**"
@@ -304,11 +328,11 @@ answer:
 
 <a name="edit-newsroom"></a>
 ## Editing Content in Newsroom Page
-The 'newsroom' page is referred to as the 'resources' (renamed as 'newsroom' for SAC website) section in the isomerpages template. It is linked to the 'resources' (or 'newsroom' for SAC website) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
+The 'Newsroom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
-The 'newsroom' folder contains the index.html file, which type of isomerpages layout template used for the 'newsroom' navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+The 'newsroom' folder contains the index.html file, which lists the type of Isomerpages layout template used for the NewsRoom navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 
-The 'newsroom' folder also contains different category folders that correspond to the sub-links under the 'newsroom' url, where each category folder contains all the posts or articles for that category. The step-by-step guide for editing the contents in the 'newsroom' page can be viewed in the official [isomer documentation here](https://isomer.gov.sg/documentation/resources/overview/). 
+The 'newsroom' folder also contains different category folders that correspond to the category links in the NewsRoom page, where each category folder contains the files of all the posts or articles for that category. The step-by-step guide for editing the contents in the NewsRoom page can be viewed in the official [Isomer documentation](https://isomer.gov.sg/documentation/resources/overview/). 
 
 The category names are also listed in the resources.yml of the _data folder for better readability, and can be edited easily.
 ```
@@ -323,29 +347,28 @@ categories:
 
 <a name="edit-accredited"></a>
 ## Editing Content in Accredited Org Page
-The accredited-org.md file lists the type of isomerpages layout template used for the 'accredited org' navigation/overview page, the title and the page url link that will appear in the user's web browser. The collection_name displays the top name in the left navigation section of subsequent 'accredited org' sub-link pages in the collection, and the breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
+
+The accredited-org.md file lists the type of Isomerpages layout template used for the 'Accredited Org' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Accredited Org' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
 > Home / Accredited Org / Certified CAB Companies
 
-The _accredited-org folder contains all the sub-links webpages in the 'Resources' section. The name of each file is preceded with a numbering system  (e.g. '1-certified-cab-companies.md') so that the desired order of the pages can be displayed in the left navigation section of each page. 
+The _accredited-org folder contains the files of all the sub-links in the 'Services' page. The name of each file is preceded with a numbering system  (e.g. '1-certified-cab-companies.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. 
 
-The 'CAB Status Update' page follows the isomerpages leftnav-page-content template layout. More details for editing this page can be viewed in the official [isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+The 'CAB Status Update' page follows the Isomerpages leftnav-page-content template layout. More details for editing this page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing Certified CAB Companies Section
 The Certified CAB Companies Section page follows the customised 'certified-companies' template layout. The data in the page can be edited in the 'certified-companies.yml' file of the '_data' folder.
 
-1. Select your “Staging” Branch
-2. In your repository, go to “_data” folder
-3. Edit certified-companies.yml file
-4. Change the content by amending the section below inside faq.yaml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
-5. Click on “Commit changes” button.
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit certified-companies.yml file. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
+4. Click on "Commit changes" button.
 
 <a name="edit-contact"></a>
 ## Editing Content in Contact Us Page
-The 'Contact Us' page uses the isomerpages contact-us template layout. The content for the page can be edited inside the contact-us.yaml file in the _data folder. 
+The 'Contact Us' page uses the Isomerpages contact-us template layout. The content for the page can be edited inside the contact-us.yaml file in the _data folder. 
 
-1. Select your “Staging” Branch
-2. In your repository, go to “_data” folder
-3. Edit contact-us.yml file
-4. Change the content by amending the section below inside contact-us.yml. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
-5. Click on “Commit changes” button.
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit contact-us.yml file. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
+4. Click on "Commit changes" button.
