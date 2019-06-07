@@ -17,7 +17,7 @@ Choose one of the Council Committee group below to view all of its members and c
 * [Council Committee For Biomedical & Health (CCBH)](#ccbh)
 
 
-## [Council Committee For Laboratory (CCL)]{:id="ccl"}
+## Council Committee For Laboratory (CCL){: #ccl}
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -42,8 +42,7 @@ Choose one of the Council Committee group below to view all of its members and c
 [↑ Back to top](#cc-top)
 {: .back-to-top}
 
-[](){:id="cci"}
-## Council Committee For Inspection (CCI)
+## Council Committee For Inspection (CCI){: #cci}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -61,8 +60,7 @@ Choose one of the Council Committee group below to view all of its members and c
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
 
-[](){:id="ccc"}
-## Council Committee for Certification (CCC)
+## Council Committee for Certification (CCC){: #ccc}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -84,8 +82,7 @@ Choose one of the Council Committee group below to view all of its members and c
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
 
-[](){:id="ccbd"}
-## Council Committee for Business Development (CCBD)
+## Council Committee for Business Development (CCBD){: #ccbd}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -103,8 +100,7 @@ Choose one of the Council Committee group below to view all of its members and c
 
 <p class="back-to-top"><a href="#cc-top">↑ Back to top</a></p>
 
-[](){:id="ccbh"}
-## Council Committee for Biomedical & Health (CCBH)
+## Council Committee for Biomedical & Health (CCBH){: #ccbh}
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
