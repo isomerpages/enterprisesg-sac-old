@@ -366,7 +366,9 @@ The Certified CAB Companies Section page follows the customised 'certified-compa
 
 <a name="edit-contact"></a>
 ## Editing Content in Contact Us Page
-The 'Contact Us' page uses the Isomerpages contact-us template layout. The content for the page can be edited inside the contact-us.yaml file in the _data folder. 
+The 'Contact Us' page uses the Isomerpages contact-us template layout. The contact-us.md file is located inside the pages folder which lists the type of Isomerpages layout template used for this page, the title and the page url link that will appear in the user's Web browser.
+
+The content for the page can be edited inside the contact-us.yaml file in the _data folder. 
 
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
