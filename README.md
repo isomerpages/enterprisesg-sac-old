@@ -62,6 +62,14 @@ For this website, **most of the links open in a new window tab**. So we add an a
 [![image-name](image-link)](url-link){:target="_blank"}
 ```
 
+### Creating a bookmark link
+HTML bookmarks are used to allow readers to jump to specific parts of a Web page.
+
+To make a bookmark, you must first create the bookmark, and then add a link to it. When the link is clicked, the page will scroll to the location with the bookmark.
+
+First, create a bookmark with the id attribute:
+
+
 <a name="edit-image"></a>
 ## Adding / Editing an image
 
