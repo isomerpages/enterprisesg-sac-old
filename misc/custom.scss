@@ -723,7 +723,7 @@ $tablet: 768px !default;
 
 @media screen and (min-width: 640px) {	
 	.person-info-card {
-		flex-basis: none;
+		flex: none;
 		width: 50%;
 	}
 }
