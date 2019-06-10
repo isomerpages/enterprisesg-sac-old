@@ -708,9 +708,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 @media screen and (max-width: 768px) {
-	.display {
-	    font-size: 3rem;
-	}
+
 	
 	.content table.brochures-table td {
 		display:block;		 
