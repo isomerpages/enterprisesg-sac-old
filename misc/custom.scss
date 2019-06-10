@@ -292,7 +292,10 @@ $tablet: 768px !default;
 
 //h1 header (e.g. in frontpage banner)
 .display {
-    font-size: 4rem;
+    	font-size: 4rem;
+	@include tablet() {
+		font-size: 3rem;
+	}
 }
 
 // Navbar
@@ -697,12 +700,6 @@ $tablet: 768px !default;
 	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
-	
-	/*
-	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
-		display:none;
-	}
-	*/
 }
 
 @media screen and (min-width: 769px) {
@@ -715,11 +712,7 @@ $tablet: 768px !default;
 	}
 }
 
-@media screen and (max-width: 768px) {
-	.display {
-	    font-size: 3rem;
-	}
-	
+@media screen and (max-width: 768px) {	
 	.content table.brochures-table td {
 		display:block;		 
 		width: 100%;
