@@ -28,7 +28,6 @@ $media-color-ten: #ED2E38; //PMS Red 032C
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
-$tablet: 768px !default;
 
 // Mixins
 
@@ -43,13 +42,6 @@ $tablet: 768px !default;
     	@content
 	}
 }
-
-@mixin tablet() {
-	@media screen and (min-width: $tablet){
-    	@content
-	}
-}
-
 
 // Background
 .bg{
@@ -292,10 +284,7 @@ $tablet: 768px !default;
 
 //h1 header (e.g. in frontpage banner)
 .display {
-    	font-size: 4rem;
-	@include tablet() {
-		font-size: 3rem;
-	}
+    font-size: 4rem;
 }
 
 // Navbar
@@ -549,15 +538,6 @@ $tablet: 768px !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
-		@include tablet() {
-			display:block;		 
-			width: 100%;
-		}
-		&:empty {
-			@include tablet() {
-				display:none;
-			}
-		}
 	}
 	a {
 		text-decoration:none;
@@ -709,6 +689,12 @@ $tablet: 768px !default;
 	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
+	
+	/*
+	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
+		display:none;
+	}
+	*/
 }
 
 @media screen and (min-width: 769px) {
@@ -718,5 +704,19 @@ $tablet: 768px !default;
 	
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.display {
+	    font-size: 3rem;
+	}
+	
+	.content table.brochures-table td {
+		display:block;		 
+		width: 100%;
+		&:empty {
+			display:none;
+		}
 	}
 }
