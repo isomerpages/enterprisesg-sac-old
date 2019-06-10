@@ -58,4 +58,4 @@ MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted 
   iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than
 20mm for printed media and 75 pixels for digital media.
 
-* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/documents/management_system_and_products_certification/IAF%20ML2%20%282016%20Issue_3%29.pdf){:target="_blank"} for more information on the IAF MLA mark and sub-licence agreement.
+* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"} for more information on the IAF MLA mark and sub-licence agreement.
