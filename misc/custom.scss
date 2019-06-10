@@ -681,7 +681,7 @@ $tablet: 768px !default;
 }
 
 .person-info-card > div {
-	@include touch() {
+	@include tablet() {
 		margin-right: 0.75rem !important;
     		margin-left: 0.75rem !important;
 		text-align:center;
