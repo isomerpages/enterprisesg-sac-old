@@ -41,7 +41,21 @@ window.onload = function(){
                     });
                 }
             }
-           
+            
+            //hide empty table cells in bouchures page in mobile view
+            var brochuresTable = document.getElementsByClassName('brochures-table');
+            if (brochuresTable.length > 0) {  
+                for (var i=0; i<brochuresTable.length; i++) {
+                    var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
+                    for (var j=0; j<brochuresTableCells.length; j++) {
+                        if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
+                                brochuresTableCells[j].innerHTML = "";
+                                //brochuresTableCells[j].style.display = "none";
+                        }
+                    }
+                }
+            }
+            
             //add back-to-top button in mobile view
             var mainContent = document.getElementById('main-content');
             
@@ -66,44 +80,66 @@ window.onload = function(){
                 //append button to the end of main-content
                 mainContent.appendChild(backToTopBtn);
             }
-            
-            //edit top navigation buttons in 'our-team' layout 
-            var boardOfDirectorButton = document.getElementById('board-of-directors-button');
-            if (boardOfDirectorButton !== null) {
-                var parentContainer = boardOfDirectorButton.parentElement;
-                if (parentContainer !== null) {
-                    if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
-                        var grandParentContainer = parentContainer.parentElement;
-                        if (grandParentContainer !== null) {
-                            grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
-                            grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
-                            grandParentContainer.style.marginBottom = '4rem';
-                            parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
-                        }
-                    }
-                }
-            }
-            
-            //hide empty table cells in bouchures page in mobile view
-            var brochuresTable = document.getElementsByClassName('brochures-table');
-            if (brochuresTable.length > 0) {  
-                for (var i=0; i<brochuresTable.length; i++) {
-                    var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
-                    for (var j=0; j<brochuresTableCells.length; j++) {
-                        if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
-                                brochuresTableCells[j].innerHTML = "";
-                                //brochuresTableCells[j].style.display = "none";
-                        }
-                    }
-                }
-            }
         }
     }
 };    
 </script>    
 
-{%- if page.layout == 'leftnav-page-content'}
+{%- if page.layout == 'leftnav-page-content' or page.layout == 'our-team' -%}
 <script>
+// script to toggle leftnav dropdown menu in mobile view
+var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
+if (mobileDropdownSections.length > 0) {
+    //dropmenu bar is visible in mobile screen
+    if (window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display') == 'block') {
+        /*var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
+        if (dropdownTriggers.length > 0) {
+            var dropdownTrigger = dropdownTriggers[0];    
+            //toggle dropdown menu and dropdown trigger bar icon 
+            dropdownTrigger.addEventListener('click', function (event) {
+                var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
+                var dropdownIcons = dropdownTrigger.getElementsByClassName('sgds-icon');
+                var dropdownIcon;
+                if (dropdownIcons.length > 0) {
+                    dropdownIcon = dropdownIcons[0];
+                }
+                if (dropdownMenus.length > 0) {
+                    var dropdownMenu = dropdownMenus[0];
+                    if (dropdownMenu.style.display == 'block' || window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
+                        dropdownMenu.style.display = 'none';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
+                        }
+                    }
+                    else {
+                        dropdownMenu.style.display = 'block';
+                        if (dropdownIcon !== null) {
+                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
+                        }
+                    }
+                }           
+            });
+        } */
+        
+        //edit top navigation buttons in 'our-team' layout  
+        var boardOfDirectorButton = document.getElementById('board-of-directors-button');
+        if (boardOfDirectorButton !== null) {
+            var parentContainer = boardOfDirectorButton.parentElement;
+            if (parentContainer !== null) {
+                if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
+                    var grandParentContainer = parentContainer.parentElement;
+                    if (grandParentContainer !== null) {
+                        grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
+                        grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
+                        grandParentContainer.style.marginBottom = '4rem';
+                        parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
+                    }
+                }
+            }
+        }
+    }
+}
+    
 //edit nav title for 'overview' pages  
 var titleSections = document.getElementsByClassName('bp-section-pagetitle');
 if (titleSections.length > 0) {
@@ -117,7 +153,9 @@ if (titleSections.length > 0) {
             }
         }
     }
-}   
+}
+    
+
 </script>    
 {%- endif -%} 
 
