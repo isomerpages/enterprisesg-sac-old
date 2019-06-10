@@ -28,6 +28,7 @@ $media-color-ten: #ED2E38; //PMS Red 032C
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
+$tablet: 768px !default;
 
 // Mixins
 
@@ -42,6 +43,20 @@ $desktop: 960px + (2 * $gap) !default;
     	@content
 	}
 }
+
+@mixin tablet() {
+	@media screen and (max-width: $tablet){
+    	@content
+	}
+}
+
+@mixin tablet-larger() {
+	@media screen and (min-width: $tablet + 1px){
+    	@content
+	}
+}
+
+
 
 // Background
 .bg{
@@ -284,7 +299,10 @@ $desktop: 960px + (2 * $gap) !default;
 
 //h1 header (e.g. in frontpage banner)
 .display {
-    font-size: 4rem;
+    	font-size: 4rem;
+	@include tablet(){
+        	font-size: 3rem;
+        }
 }
 
 // Navbar
@@ -689,12 +707,6 @@ $desktop: 960px + (2 * $gap) !default;
 	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
-	
-	/*
-	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
-		display:none;
-	}
-	*/
 }
 
 @media screen and (min-width: 769px) {
