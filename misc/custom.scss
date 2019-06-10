@@ -45,10 +45,11 @@ $tablet: 768px !default;
 }
 
 @mixin tablet() {
-	@media screen and (max-width: $tablet){
+	@media screen and (min-width: $tablet){
     	@content
 	}
 }
+
 
 // Background
 .bg{
@@ -711,7 +712,10 @@ $tablet: 768px !default;
 }
 
 @media screen and (min-width: 769px) {
-	// for the navigation links in the footer at bottom of page
+	.video-iframe {
+		height:400px;
+	}
+	
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
 	}
