@@ -568,7 +568,7 @@ $tablet: 768px !default;
 	}
 	a {
 		text-decoration:none;
-		
+		color:inherit;
 	}
 }
 
@@ -675,7 +675,7 @@ $tablet: 768px !default;
 }
 
 .person-info-card {
-	@include touch() {
+	@include tablet() {
 		flex-basis:auto;
 	}
 }
@@ -687,14 +687,14 @@ $tablet: 768px !default;
 		text-align:center;
 	}
 	.image-col {
-		@include touch() {
+		@include tablet() {
 			width: 100%;
 			display: block;
 		}
 		img {
 			width: 150px;
 			height: 100%;
-			@include touch() {
+			@include tablet() {
 				width: 100%;
 			}
 		}
