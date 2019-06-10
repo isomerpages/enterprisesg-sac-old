@@ -17,8 +17,8 @@ Choose one of the Council Committee group below to view all of its members and c
 * [Council Committee For Biomedical & Health (CCBH)](#ccbh)
 
 
+{: #ccl} 
 ## Council Committee For Laboratory (CCL)
-{: #ccl}
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
