@@ -50,12 +50,6 @@ $tablet: 768px !default;
 	}
 }
 
-@mixin tablet-larger() {
-	@media screen and (min-width: $tablet + 1px){
-    	@content
-	}		
-}
-
 // Background
 .bg{
   &-primary{
@@ -581,9 +575,6 @@ $tablet: 768px !default;
 	width:680px;
 	height:auto;
 	max-width:100%;
-	@include tablet-larger() {
-		height:400px;
-	}
 }
 
 .back-to-top {
