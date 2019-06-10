@@ -7,8 +7,8 @@ second_nav_title: "Our Organisation And Structure"
 ---
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
-Choose one of the Council Committee group below to view all of its members and chairman:  
 {: #cc-top}
+Choose one of the Council Committee group below to view all of its members and chairman:
 
 * [Council Committee For Laboratory (CCL)](#ccl)
 * [Council Committee For Inspection (CCI](#cci)
@@ -43,8 +43,8 @@ Choose one of the Council Committee group below to view all of its members and c
 [↑ Back to top](#cc-top)
 {: .back-to-top}
 
-## Council Committee For Inspection (CCI)
 {: #cci}
+## Council Committee For Inspection (CCI)
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -63,8 +63,8 @@ Choose one of the Council Committee group below to view all of its members and c
 [↑ Back to top](#cc-top)
 {: .back-to-top}
 
-## Council Committee for Certification (CCC)
 {: #ccc}
+## Council Committee for Certification (CCC)
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -87,8 +87,8 @@ Choose one of the Council Committee group below to view all of its members and c
 [↑ Back to top](#cc-top)
 {: .back-to-top}
 
-## Council Committee for Business Development (CCBD)
 {: #ccbd}
+## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -107,8 +107,8 @@ Choose one of the Council Committee group below to view all of its members and c
 [↑ Back to top](#cc-top)
 {: .back-to-top}
 
-## Council Committee for Biomedical & Health (CCBH)
 {: #ccbh}
+## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
