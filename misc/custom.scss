@@ -702,14 +702,14 @@ $tablet: 768px !default;
 	}
 }
 
-@media screen and (max-width: $desktop - 1) {
+@media screen and (max-width: 1023px) {
 	//for the tabs in 'Our Organisation and Structure'
 	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
 }
 
-@media screen and (min-width: $tablet + 1) {
+@media screen and (min-width: 769px) {
 	.video-iframe {
 		height:400px;
 	}
