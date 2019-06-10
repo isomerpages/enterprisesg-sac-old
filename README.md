@@ -49,9 +49,9 @@ Essentially, the steps are:
 <a name="edit-link"></a>
 ## Adding / Editing a link
 
-The markdown syntax for a direct link is explained in the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
+The markdown syntax for a direct link is explained in the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link '<span>https://isomer</span>-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
 
-For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
+For this website, **most of the links open in a new window tab**. So we add an additional link attribute `{:target="_blank"}` after the inline link.
 
 * **Syntax for a link that opens in a new window tab:** 
 ```
