@@ -8,7 +8,6 @@ url: "https://www.sac-accreditation.gov.sg" # the base hostname & protocol for y
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
-exclude: [README.md, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 plugins:
   - jekyll-feed
