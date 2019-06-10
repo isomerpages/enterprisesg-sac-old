@@ -28,6 +28,7 @@ $media-color-ten: #ED2E38; //PMS Red 032C
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
+$tablet: 768px !default;
 
 // Mixins
 
@@ -39,6 +40,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 @mixin desktop() {
 	@media screen and (min-width: $desktop){
+    	@content
+	}
+}
+
+@mixin tablet() {
+	@media screen and (max-width: $tablet){
     	@content
 	}
 }
@@ -284,7 +291,10 @@ $desktop: 960px + (2 * $gap) !default;
 
 //h1 header (e.g. in frontpage banner)
 .display {
-    font-size: 4rem;
+    	font-size: 4rem;
+	@include tablet() {
+		 font-size: 3rem;
+	}
 }
 
 // Navbar
@@ -538,11 +548,19 @@ $desktop: 960px + (2 * $gap) !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
+		@include tablet(){
+			display:block;		 
+			width: 100%;
+			&:empty {
+				display:none;
+			}
+		}
 	}
 	a {
 		text-decoration:none;
 		color:inherit;
 	}
+	
 }
 
 #search-activate
@@ -645,33 +663,33 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .person-info-card {
-	@include touch() {
+	@include tablet() {
 		flex-basis:auto;
 	}
 }
 
 .person-info-card > div {
-	@include touch() {
+	@include tablet() {
 		margin-right: 0.75rem !important;
     		margin-left: 0.75rem !important;
 		text-align:center;
 	}
 	.image-col {
-		@include touch() {
+		@include tablet() {
 			width: 100%;
 			display: block;
 		}
 		img {
 			width: 150px;
 			height: 100%;
-			@include touch() {
+			@include tablet() {
 				width: 100%;
 			}
 		}
 	}
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: $desktop) {
 	//homepage top nav bar (shorten width so that entire length is visible)
 	.navbar-start {
 		margin: 0 0.5rem;
@@ -684,39 +702,21 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: $desktop - 1) {
 	//for the tabs in 'Our Organisation and Structure'
 	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
-	
-	/*
-	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
-		display:none;
-	}
-	*/
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: $tablet + 1) {
 	.video-iframe {
 		height:400px;
 	}
 	
+	//for the navigation links for the footer at the bottom of the page
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
 	}
 }
 
-@media screen and (max-width: 768px) {
-	.display {
-	    font-size: 3rem;
-	}
-	
-	.content table.brochures-table td {
-		display:block;		 
-		width: 100%;
-		&:empty {
-			display:none;
-		}
-	}
-}
