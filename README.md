@@ -1,5 +1,5 @@
 This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official [Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/).
-
+```
 # Table of Contents
 
 * [Introduction - Why Markdown and YAML?](#introduction)
@@ -49,7 +49,7 @@ Essentially, the steps are:
 <a name="edit-link"></a>
 ## Adding / Editing a link
 
-The markdown syntax for a direct link is explained in the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
+The markdown syntax for a direct link is explained in the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
 
 For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
 
@@ -92,7 +92,7 @@ Or, add a link to the bookmark ("Jump to Header 1"), from another page:
 <a name="edit-image"></a>
 ## Adding / Editing an image
 
-Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [Isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
 Essentially, the steps are:
 
@@ -266,7 +266,7 @@ The _services folder contains the files of all the sub-links in the 'Services' p
 Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing Training Services - Recent Courses / Workshops / Seminars Page
-The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
+The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [Isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
 
 The link below the table links to a full list of the training courses(i.e. all the files in the newsroom/courses/_posts folder).
 
@@ -368,7 +368,7 @@ answer:
 
 <a name="edit-newsroom"></a>
 ## Editing Content of NewsRoom Pages
-The 'NewsRoom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
+The 'NewsRoom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 The 'newsroom' folder contains the index.html file, which lists the type of Isomerpages layout template used for the NewsRoom navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 
