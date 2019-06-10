@@ -49,9 +49,9 @@ Essentially, the steps are:
 <a name="edit-link"></a>
 ## Adding / Editing a link
 
-The markdown syntax for a direct link is explained in the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
+The markdown syntax for a direct link is explained in the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
 
-For this website, **most of the links open in a new window tab**. So we add an additional link attribute {:target="_blank"} after the inline link.
+For this website, **most of the links open in a new window tab**. So we add an additional link attribute `{:target="_blank"}` after the inline link.
 
 * **Syntax for a link that opens in a new window tab:** 
 ```
@@ -69,12 +69,15 @@ HTML bookmarks are used to allow readers to jump to specific parts of a Web page
 
 To make a bookmark, you must first create the bookmark, and then add a link to it. When the link is clicked, the page will scroll to the location with the bookmark.
 
-First, create a bookmark with the id attribute {: #custom-id} which is written as a custom ID attribute after the inline header / paragraph / link etc in Markdown:
+First, create a bookmark with the id attribute `{: #custom-id}` which is written as a custom ID attribute before or after the inline header / paragraph / link etc in Markdown:
 ```
-## header 1{: #header-1}
+{: #header-1}
+## header 1
 
-this is a paragraph{: #my-paragraph}
+{: #my-paragraph}
+this is a paragraph
 
+# custom ID can also be added after the inline header / paragraph / link
 [url1-name](url1-link){: #url1}
 
 ```
@@ -92,7 +95,7 @@ Or, add a link to the bookmark ("Jump to Header 1"), from another page:
 <a name="edit-image"></a>
 ## Adding / Editing an image
 
-Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [Isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
 Essentially, the steps are:
 
@@ -165,14 +168,14 @@ Table cells containing multiple lines (such as lists or paragraphs) require inli
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
-* Table with lists require the {::nomarkdown} attribute tag so that any content within the {::nomarkdown}{:/} tags are interpreted as HTML syntax. Un-ordered lists in HTML open with `<ul>` and close with `</ul>`. Ordered lists in HTML open with `<ol>` and close with `</ol>`. Each item in the list opens with `<li>` and closes with `</li>`.
+* Table with lists require the `{::nomarkdown}` attribute tag so that any content within the `{::nomarkdown}{:/}` tags are interpreted as HTML syntax. Un-ordered lists in HTML open with `<ul>` and close with `</ul>`. Ordered lists in HTML open with `<ol>` and close with `</ol>`. Each item in the list opens with `<li>` and closes with `</li>`.
 ```
 | row-1/column-1 | {::nomarkdown}<ul><li>item1</li><li>item2</li><li>item3</li></ul>{:/} |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
 ### Customising a table
-Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like {: .customised-table-name} are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
+Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
 {: .no-border}
@@ -266,7 +269,7 @@ The _services folder contains the files of all the sub-links in the 'Services' p
 Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing Training Services - Recent Courses / Workshops / Seminars Page
-The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
+The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [Isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
 
 The link below the table links to a full list of the training courses(i.e. all the files in the newsroom/courses/_posts folder).
 
@@ -288,7 +291,7 @@ The Brochures page contains a table for each brochure category. The table has be
 | [![brochure1-image-name](brochure1-image-link) brochure1-title](brochure1-url-link){:target="_blank"} | [![brochure2-image-name](brochure2-image-link) brochure2-title](brochure2-url-link){:target="_blank"} |
 ```
 
-Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochures images and titles in each table cell. The customisation can be edited using the steps:
+Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochure images and titles in each table cell. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
@@ -302,6 +305,46 @@ Essentially, the 'no-border' customisation or classname removes all visible bord
 	border: 0;
 	td {
 		border: 0;
+	}
+}
+```
+
+5. Click on "Commit changes" button to save.
+
+### Editing How to use SAC / ILAC / IAF Marks Page
+This page contains tables for some of the images that are aligned side-by-side. In addition, the tables have been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
+```
+{:.no-border .with-image-captions}
+|![SAC-mark1-image-name](SAC-mark1-image-link) | ![SAC-mark2-image-name](SAC-mark2-image-link) |
+| SAC-mark1-caption | SAC-mark2-caption |
+```
+
+Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'with-image-captions' customisation contains styling information for aligning the SAC mark images and captions in each table cell. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the ".no-border" or ".with-image-captions" code blocks. Change the attributes by amending the section within the code blocks
+
+```css
+# Sample custom.scss file section for reference
+
+.content table.with-image-captions {
+	td {
+		text-align: center;
+	}
+	tr:nth-child(even) {
+		td {
+			padding-top: 0;
+			padding-bottom: 1rem;
+			vertical-align:top;
+		}	
+	}
+	tr:nth-child(odd) {
+		td {
+			padding-bottom: 0;
+			vertical-align:bottom;
+		}
 	}
 }
 ```
@@ -328,7 +371,7 @@ answer:
 
 <a name="edit-newsroom"></a>
 ## Editing Content of NewsRoom Pages
-The 'NewsRoom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
+The 'NewsRoom' page in the SAC website has been renamed from the 'resources' page in the Isomerpages website template. It is also linked to the 'newsroom' (or 'resources' section in the Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation here](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 The 'newsroom' folder contains the index.html file, which lists the type of Isomerpages layout template used for the NewsRoom navigation/overview page, the title and the page url link that will appear in the user's web browser. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website.
 
