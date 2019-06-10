@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update
-collection_name: Accredited Org
+collection_name: accredited-org
 ---
 
 ### List of Newly Accredited, Withdrawn and Suspended Laboratories, Inspection Bodies, Certification Bodies, GLP Facilities and Proficiency Testing Providers
