@@ -6,8 +6,8 @@ collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
 
-There are 4 Technical Committees supporting the Inspection Body Accreditation scheme.
 {: #ib-top}
+There are 4 Technical Committees supporting the Inspection Body Accreditation scheme.
 
 * [Technical Committee for Mechanical Engineering Inspection](#tcmei)
 * [Technical Committee for Structural Steelwork Inspection](#tcssi)
@@ -15,8 +15,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 * [Technical Committee for Site Investigation](#tcsi)
 
 
-## Mechanical Engineering Inspection
 {: #tcmei}
+## Mechanical Engineering Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -34,11 +34,11 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Ms Ng Siang Hoon, Michelle | Waste Management & Recycling Association of Singapore |
 | **Secretary** | Mr Sean Teoh | SAC Secretariat |
 
-[↑ Back to top](#ib-top)
 {: .back-to-top}
+[↑ Back to top](#ib-top)
 
-## Structural Steelwork Inspection
 {: #tcssi}
+## Structural Steelwork Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -56,11 +56,11 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Dr Kong Kian Hau | The Institution of Engineers, Singapore |
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
 
-[↑ Back to top](#ib-top)
 {: .back-to-top}
+[↑ Back to top](#ib-top)
 
-## Cargo Inspection
 {: #tcci}
+## Cargo Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -75,11 +75,11 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | 	Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
-[↑ Back to top](#ib-top)
 {: .back-to-top}
+[↑ Back to top](#ib-top)
 
-## Site Investigation
 {: #tcsi}
+## Site Investigation
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
@@ -95,5 +95,5 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Ms Prathipa Devi Sundraju | TIC Interest Group |
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
 
-[↑ Back to top](#ib-top)
 {: .back-to-top}
+[↑ Back to top](#ib-top)
