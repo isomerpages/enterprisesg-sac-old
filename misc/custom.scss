@@ -260,6 +260,12 @@ $tablet: 768px !default;
   background-color: $primary !important;
 }
 
+.bp-footer.top-section .col.is-one-quarter {
+	@include tablet-larger(){
+		width: 16%;
+	}
+}
+
 // Pagination
 .pagination {
 	span {
@@ -674,12 +680,6 @@ $tablet: 768px !default;
 	}
 }
 
-.person-info-card {
-	@include tablet() {
-		flex-basis:auto;
-	}
-}
-
 .person-info-card > div {
 	@include tablet() {
 		margin-right: 0.75rem !important;
@@ -721,8 +721,15 @@ $tablet: 768px !default;
 	}
 }
 
-@media screen and (min-width: 769px) {
-	.bp-footer.top-section .col.is-one-quarter {
-		width: 16%;
+@media screen and (min-width: 640px) {	
+	.person-info-card {
+		flex-basis: none;
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 639px) {
+	.person-info-card {
+		flex-basis:auto;
 	}
 }
