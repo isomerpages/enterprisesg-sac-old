@@ -50,6 +50,11 @@ $tablet: 768px !default;
 	}
 }
 
+@mixin tablet-larger() {
+	@media screen and (min-width: $tablet + 1px){
+    	@content
+	}		
+}
 
 // Background
 .bg{
@@ -576,6 +581,9 @@ $tablet: 768px !default;
 	width:680px;
 	height:auto;
 	max-width:100%;
+	@include tablet-larger() {
+		height:400px;
+	}
 }
 
 .back-to-top {
@@ -712,10 +720,7 @@ $tablet: 768px !default;
 }
 
 @media screen and (min-width: 769px) {
-	.video-iframe {
-		height:400px;
-	}
-	
+	// for the navigation links in the footer at bottom of page
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
 	}
