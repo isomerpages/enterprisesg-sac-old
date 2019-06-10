@@ -45,10 +45,11 @@ $tablet: 768px !default;
 }
 
 @mixin tablet() {
-	@media screen and (max-width: $tablet){
+	@media screen and (min-width: $tablet){
     	@content
 	}
 }
+
 
 // Background
 .bg{
@@ -291,10 +292,7 @@ $tablet: 768px !default;
 
 //h1 header (e.g. in frontpage banner)
 .display {
-    	font-size: 4rem;
-	@include tablet() {
-		 font-size: 3rem;
-	}
+    font-size: 4rem;
 }
 
 // Navbar
@@ -548,19 +546,11 @@ $tablet: 768px !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
-		@include tablet(){
-			display:block;		 
-			width: 100%;
-			&:empty {
-				display:none;
-			}
-		}
 	}
 	a {
 		text-decoration:none;
 		color:inherit;
 	}
-	
 }
 
 #search-activate
@@ -663,33 +653,33 @@ $tablet: 768px !default;
 }
 
 .person-info-card {
-	@include tablet() {
+	@include touch() {
 		flex-basis:auto;
 	}
 }
 
 .person-info-card > div {
-	@include tablet() {
+	@include touch() {
 		margin-right: 0.75rem !important;
     		margin-left: 0.75rem !important;
 		text-align:center;
 	}
 	.image-col {
-		@include tablet() {
+		@include touch() {
 			width: 100%;
 			display: block;
 		}
 		img {
 			width: 150px;
 			height: 100%;
-			@include tablet() {
+			@include touch() {
 				width: 100%;
 			}
 		}
 	}
 }
 
-@media screen and (min-width: $desktop) {
+@media screen and (min-width: 1024px) {
 	//homepage top nav bar (shorten width so that entire length is visible)
 	.navbar-start {
 		margin: 0 0.5rem;
@@ -707,6 +697,12 @@ $tablet: 768px !default;
 	.print-content .col.padding--bottom--xl {
 		padding: 0;
 	}
+	
+	/*
+	.bp-dropdown.is-hoverable:hover .bp-dropdown-menu {
+		display:none;
+	}
+	*/
 }
 
 @media screen and (min-width: 769px) {
@@ -714,9 +710,21 @@ $tablet: 768px !default;
 		height:400px;
 	}
 	
-	//for the navigation links for the footer at the bottom of the page
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
 	}
 }
 
+@media screen and (max-width: 768px) {
+	.display {
+	    font-size: 3rem;
+	}
+	
+	.content table.brochures-table td {
+		display:block;		 
+		width: 100%;
+		&:empty {
+			display:none;
+		}
+	}
+}
