@@ -40,8 +40,8 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Prof Chew Soon Hoe | The Institute of Engineers, Singapore |
 | **Secretary** | Ms Lim Lee Fang | SAC Secretariat |
 
-[↑ Back to top](#cc-top)
 {: .back-to-top}
+[↑ Back to top](#cc-top)
 
 {: #cci}
 ## Council Committee For Inspection (CCI)
@@ -60,8 +60,8 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Dr Ho Nyok Yong | Samwoh Innovation Centre Pte Ltd |
 | **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council |
 
-[↑ Back to top](#cc-top)
 {: .back-to-top}
+[↑ Back to top](#cc-top)
 
 {: #ccc}
 ## Council Committee for Certification (CCC)
@@ -84,8 +84,8 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Mr Stanley Ong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
 | **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council |
 
-[↑ Back to top](#cc-top)
 {: .back-to-top}
+[↑ Back to top](#cc-top)
 
 {: #ccbd}
 ## Council Committee for Business Development (CCBD)
@@ -104,8 +104,8 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Mr Anthony Tan | UL International – Singapore Pte Ltd |
 | **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
 
-[↑ Back to top](#cc-top)
 {: .back-to-top}
+[↑ Back to top](#cc-top)
 
 {: #ccbh}
 ## Council Committee for Biomedical & Health (CCBH)
@@ -126,5 +126,5 @@ Choose one of the Council Committee group below to view all of its members and c
 | | A/Prof Chong Bee Kiang | Tan Tock Seng Hospital |
 | **Secretary** | Ms Lee Jia Juan | SAC Secretariat |
 
-[↑ Back to top](#cc-top)
 {: .back-to-top}
+[↑ Back to top](#cc-top)
