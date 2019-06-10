@@ -556,10 +556,19 @@ $tablet: 768px !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
+		&:empty {
+			@include tablet() {
+				display:none;
+			}		
+		}
+		@include tablet() {
+			display:block;		 
+			width: 100%;			
+		}
 	}
 	a {
 		text-decoration:none;
-		color:inherit;
+		
 	}
 }
 
@@ -574,6 +583,9 @@ $tablet: 768px !default;
 	width:680px;
 	height:auto;
 	max-width:100%;
+	@include tablet-larger() {
+		height:400px;
+	}
 }
 
 .back-to-top {
@@ -710,21 +722,7 @@ $tablet: 768px !default;
 }
 
 @media screen and (min-width: 769px) {
-	.video-iframe {
-		height:400px;
-	}
-	
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
-	}
-}
-
-@media screen and (max-width: 768px) {
-	.content table.brochures-table td {
-		display:block;		 
-		width: 100%;
-		&:empty {
-			display:none;
-		}
 	}
 }
