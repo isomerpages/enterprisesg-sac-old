@@ -288,7 +288,7 @@ The Brochures page contains a table for each brochure category. The table has be
 | [![brochure1-image-name](brochure1-image-link) brochure1-title](brochure1-url-link){:target="_blank"} | [![brochure2-image-name](brochure2-image-link) brochure2-title](brochure2-url-link){:target="_blank"} |
 ```
 
-Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochures images and titles in each table cell. The customisation can be edited using the steps:
+Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochure images and titles in each table cell. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
@@ -302,6 +302,46 @@ Essentially, the 'no-border' customisation or classname removes all visible bord
 	border: 0;
 	td {
 		border: 0;
+	}
+}
+```
+
+5. Click on "Commit changes" button to save.
+
+### Editing How to use SAC / ILAC / IAF Marks Page
+This page contains tables for some of the images that are aligned side-by-side. In addition, the tables have been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
+```
+{:.no-border .with-image-captions}
+|![SAC-mark1-image-name](SAC-mark1-image-link) | ![SAC-mark2-image-name](SAC-mark2-image-link) |
+| SAC-mark1-caption | SAC-mark2-caption |
+```
+
+Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'with-image-captions' customisation contains styling information for aligning the SAC mark images and captions in each table cell. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the ".no-border" or ".with-image-captions" code blocks. Change the attributes by amending the section within the code blocks
+
+```css
+# Sample custom.scss file section for reference
+
+.content table.with-image-captions {
+	td {
+		text-align: center;
+	}
+	tr:nth-child(even) {
+		td {
+			padding-top: 0;
+			padding-bottom: 1rem;
+			vertical-align:top;
+		}	
+	}
+	tr:nth-child(odd) {
+		td {
+			padding-bottom: 0;
+			vertical-align:bottom;
+		}
 	}
 }
 ```
