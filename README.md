@@ -69,7 +69,7 @@ HTML bookmarks are used to allow readers to jump to specific parts of a Web page
 
 To make a bookmark, you must first create the bookmark, and then add a link to it. When the link is clicked, the page will scroll to the location with the bookmark.
 
-First, create a bookmark with the id attribute {: #custom-id} which is written as a custom ID attribute after the inline header / paragraph / link etc in Markdown:
+First, create a bookmark with the id attribute `{: #custom-id}` which is written as a custom ID attribute after the inline header / paragraph / link etc in Markdown:
 ```
 ## header 1{: #header-1}
 
@@ -165,14 +165,14 @@ Table cells containing multiple lines (such as lists or paragraphs) require inli
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
-* Table with lists require the {::nomarkdown} attribute tag so that any content within the {::nomarkdown}{:/} tags are interpreted as HTML syntax. Un-ordered lists in HTML open with `<ul>` and close with `</ul>`. Ordered lists in HTML open with `<ol>` and close with `</ol>`. Each item in the list opens with `<li>` and closes with `</li>`.
+* Table with lists require the `{::nomarkdown}` attribute tag so that any content within the `{::nomarkdown}{:/}` tags are interpreted as HTML syntax. Un-ordered lists in HTML open with `<ul>` and close with `</ul>`. Ordered lists in HTML open with `<ol>` and close with `</ol>`. Each item in the list opens with `<li>` and closes with `</li>`.
 ```
 | row-1/column-1 | {::nomarkdown}<ul><li>item1</li><li>item2</li><li>item3</li></ul>{:/} |
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
 ### Customising a table
-Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like {: .customised-table-name} are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
+Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
 {: .no-border}
