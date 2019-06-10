@@ -549,6 +549,15 @@ $tablet: 768px !default;
 		img {
 			margin-bottom: 0.8rem;
 		}
+		@include tablet() {
+			display:block;		 
+			width: 100%;
+		}
+		&:empty {
+			@include tablet() {
+				display:none;
+			}
+		}
 	}
 	a {
 		text-decoration:none;
@@ -709,15 +718,5 @@ $tablet: 768px !default;
 	
 	.bp-footer.top-section .col.is-one-quarter {
 		width: 16%;
-	}
-}
-
-@media screen and (max-width: 768px) {	
-	.content table.brochures-table td {
-		display:block;		 
-		width: 100%;
-		&:empty {
-			display:none;
-		}
 	}
 }
