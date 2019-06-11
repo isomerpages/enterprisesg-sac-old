@@ -95,7 +95,7 @@ Or, add a link to the bookmark ("Jump to Header 1"), from another page:
 <a name="edit-image"></a>
 ## Adding / Editing an Image
 
-Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [Isomer markdown documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Images for the website are all stored in the 'images' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting an image are listed in [Isomer markdown documentation for Github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
 Essentially, the steps are:
 
