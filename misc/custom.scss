@@ -218,8 +218,15 @@ $tablet: 768px !default;
 	border-bottom: 1px solid $secondary !important;
 }
 
-// Button
+//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
+.bp-hero-body .row {  
+	@include desktop(){
+		min-height: 270px;
+		height: 301px;
+	}
+}
 
+// Button
 .bp-button.is-text span {
   &:hover, &:focus {
     color: $secondary;
@@ -246,6 +253,10 @@ $tablet: 768px !default;
 	}
 }
 
+.bp-section.bp-section-pagetitle {
+  background-color: $primary !important;
+}
+
 // Bottom navigation bar
 .bottom-navigation {
 	a {
@@ -254,10 +265,6 @@ $tablet: 768px !default;
 	      background-color: darken($secondary,10%) !important;
 	    }
 	}
-}
-
-.bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
 }
 
 .bp-footer.top-section .col.is-one-quarter {
@@ -270,18 +277,18 @@ $tablet: 768px !default;
 .pagination {
 	span {
 		&:hover {
-            border-color: $secondary;
-            color: $secondary;
+			border-color: $secondary;
+			color: $secondary;
 		}
-        &.selected-page:hover {
-            background-color: $secondary;
-            border-color: $secondary;
-        }
+		&.selected-page:hover {
+			background-color: $secondary;
+			border-color: $secondary;
+		}
 	}
-    .selected-page {
-        background-color: $secondary;
-        border-color: $secondary;
-    }
+	.selected-page {
+		background-color: $secondary;
+		border-color: $secondary;
+	}
 }
 
 
@@ -306,85 +313,86 @@ $tablet: 768px !default;
 //h1 header (e.g. in frontpage banner)
 .display {
     	font-size: 4rem;
-	@include tablet(){
+		@include tablet(){
         	font-size: 3rem;
         }
 }
 
 // Navbar
 .navbar{
-  &-start{
-    .navbar-item{
-      a{
-        &.active{
-          @include touch(){
-            border-bottom:2px solid $secondary;
-          }
-        }
-      }
-    }
-  }
- &-burger{	//increase the size of the navbar-burger icon on mobile screen  
-    span{   
-      width: 24px;
-      height: 2px;
-      &:nth-child(1){
-        top: calc(50% - 9px);
-      }
-      &:nth-child(3){
-        top: calc(50% + 7px);
-      } 	    
-    }
-    &.is-active{
-       span{
-         &:nth-child(1){
-               transform: translateY(8px) rotate(45deg);
-         }
-         &:nth-child(3){
-               transform: translateY(-8px) rotate(-45deg);
-         } 	    
-       }
-    }	    
-  }
-  .navbar-link{
-     &:hover:after{
-	border-bottom: 1px solid $secondary;
-   	border-left: 1px solid $secondary;
-   	border-right: 0;
-    	border-top:0;
-     }  
-     &.is-active:after{
-        border-bottom: 0;
-    	border-left: 0;
-    	border-right: 1px solid $secondary;
-   	border-top: 1px solid $secondary;
-     }	  
-  }	  
-
-  .navbar-item{
-    .sub-link.is-active{
-      color:$secondary;
-    }
-
-    .selector{
-      &.active{
-        background-color:$secondary;
-      }
-    }
-    &.active{
-      @include desktop(){
-        border-bottom:1px solid $secondary;
-      }
-    }
-  }
-.navbar-item:hover {
-  a {
-    color:$secondary;
-  }
-  .selector {
-      background-color:$secondary;
-    }
-  }
+	&-start{
+		@include desktop(){  //homepage top nav bar (shorten width so that entire length is visible)
+			margin: 0 0.5rem;
+		}
+		.navbar-item{
+			a{
+				&.active{
+					@include touch(){
+						border-bottom:2px solid $secondary;
+					}
+				}
+			}
+		}
+	}
+	&-burger{	//increase the size of the navbar-burger icon on mobile screen  
+		span{   
+			width: 24px;
+			height: 2px;
+			&:nth-child(1){
+				top: calc(50% - 9px);
+			}
+			&:nth-child(3){
+				top: calc(50% + 7px);
+			} 	    
+		}
+		&.is-active{
+			span{
+				&:nth-child(1){
+					transform: translateY(8px) rotate(45deg);
+				}
+				&:nth-child(3){
+					transform: translateY(-8px) rotate(-45deg);
+				} 	    
+			}
+		}	    
+	}
+	.navbar-link{
+		&:hover:after{
+			border-bottom: 1px solid $secondary;
+			border-left: 1px solid $secondary;
+			border-right: 0;
+			border-top:0;
+		}  
+		&.is-active:after{
+			border-bottom: 0;
+			border-left: 0;
+			border-right: 1px solid $secondary;
+			border-top: 1px solid $secondary;
+		}	  
+	}	  
+	.navbar-item{
+		.sub-link.is-active{
+			color:$secondary;
+		}
+		.selector{
+			&.active{
+				background-color:$secondary;
+			}
+		}
+		&.active{
+			@include desktop(){
+				border-bottom:1px solid $secondary;
+			}
+		}
+	}	
+	.navbar-item:hover {
+		a {
+			color:$secondary;
+		}
+		.selector {
+			background-color:$secondary;
+		}
+	}
 }
 
 //increase size of search bar icon for mobile screen
@@ -702,26 +710,6 @@ $tablet: 768px !default;
 				width: 100%;
 			}
 		}
-	}
-}
-
-@media screen and (min-width: 1024px) {
-	//homepage top nav bar (shorten width so that entire length is visible)
-	.navbar-start {
-		margin: 0 0.5rem;
-	}
-	
-	//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
-	.bp-hero-body .row {  
-    		min-height: 270px;
-		height: 301px;
-	}
-}
-
-@media screen and (max-width: 1023px) {
-	//for the tabs in 'Our Organisation and Structure'
-	.print-content .col.padding--bottom--xl {
-		padding: 0;
 	}
 }
 
