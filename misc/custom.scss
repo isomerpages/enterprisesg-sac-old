@@ -584,13 +584,17 @@ $tablet: 768px !default;
     padding-right:0;	
 }
 
-.video-iframe
-{
+.video-container {
+	position:relative;
 	width:680px;
-	height:auto;
 	max-width:100%;
-	@include tablet-larger() {
-		height:400px;
+	padding-top:56%;
+	iframe {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
 	}
 }
 
