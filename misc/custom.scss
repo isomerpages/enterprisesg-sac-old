@@ -57,7 +57,6 @@ $tablet: 768px !default;
 }
 
 
-
 // Background
 .bg{
   &-primary{
@@ -306,6 +305,7 @@ $tablet: 768px !default;
 	}
 }
 
+//show / hide the carousell portion of the Homepage Programmes Section
 .programme-container {
 	display:none;
 }
@@ -384,15 +384,15 @@ $tablet: 768px !default;
 				border-bottom:1px solid $secondary;
 			}
 		}
+		&:hover {
+			a {
+				color:$secondary;
+			}
+			.selector {
+				background-color:$secondary;
+			}
+		}
 	}	
-	.navbar-item:hover {
-		a {
-			color:$secondary;
-		}
-		.selector {
-			background-color:$secondary;
-		}
-	}
 }
 
 //increase size of search bar icon for mobile screen
@@ -446,18 +446,15 @@ $tablet: 768px !default;
 	}
 }
 
-// Media category buttons - not used now but will be used in the future
-
 .media-category-button {
-  text-decoration: none !important;
-  color: #323232;
-  margin-right: 2.5rem;
-  letter-spacing: 0.5px;
-}
-
-.media-category-button:hover, .media-category-button.selected {
-  color: $secondary;
-  border-bottom: 2px solid $secondary;
+	//text-decoration: none !important;
+	color: #323232;
+	margin-right: 2.5rem;
+	letter-spacing: 0.5px;
+	&:hover, &.selected {
+		color: $secondary;
+		border-bottom: 2px solid $secondary;
+	}
 }
 
 // CSS to be refactored
