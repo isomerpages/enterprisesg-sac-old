@@ -246,7 +246,7 @@ The 'Mutual Recognition Arrangement' page contains a table for the list osf MRAs
 | ![mra2-image-name](mra2-image-link){: style=""} mra2-description | {::nomarkdown}<ul><li>mra2 timeline1</li><li>mra2 timeline2</li></ul>{:/} |
 ```
 
-Essentially, the `{:#mra-table}` unique customisation contains aligning information for the MRA logo images, descriptions and ordered timelines in each table cell. The customisation can be edited using the steps:
+Essentially, the `{:#mra-table}` unique customisation contains alignment information for the MRA logo images, descriptions and ordered timelines in each table cell. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
