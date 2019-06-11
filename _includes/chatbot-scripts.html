@@ -56,9 +56,25 @@ window.onload = function(){
                 }
             }
             
-            //add back-to-top button in mobile view
-            var mainContent = document.getElementById('main-content');
+            //edit top navigation buttons in 'our-team' layout  
+            var boardOfDirectorButton = document.getElementById('board-of-directors-button');
+            if (boardOfDirectorButton !== null) {
+                var parentContainer = boardOfDirectorButton.parentElement;
+                if (parentContainer !== null) {
+                    if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
+                        var grandParentContainer = parentContainer.parentElement;
+                        if (grandParentContainer !== null) {
+                            grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
+                            grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
+                            grandParentContainer.style.marginBottom = '4rem';
+                            parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
+                        }
+                    }
+                }
+            }
             
+            //add back-to-top button in mobile view
+            var mainContent = document.getElementById('main-content');            
             if (mainContent !== null) {
                 var backToTopBtn = document.createElement("BUTTON");
                 backToTopBtn.setAttribute("id", "back-to-top-mobile");
@@ -85,77 +101,22 @@ window.onload = function(){
 };    
 </script>    
 
-{%- if page.layout == 'leftnav-page-content' or page.layout == 'our-team' -%}
+{%- if page.layout == 'leftnav-page-content' -%}
 <script>
-// script to toggle leftnav dropdown menu in mobile view
-var mobileDropdownSections = document.getElementsByClassName('bp-section is-hidden-desktop');
-if (mobileDropdownSections.length > 0) {
-    //dropmenu bar is visible in mobile screen
-    if (window.getComputedStyle(mobileDropdownSections[0], null).getPropertyValue('display') == 'block') {
-        /*var dropdownTriggers = mobileDropdownSections[0].getElementsByClassName('bp-dropdown-trigger');
-        if (dropdownTriggers.length > 0) {
-            var dropdownTrigger = dropdownTriggers[0];    
-            //toggle dropdown menu and dropdown trigger bar icon 
-            dropdownTrigger.addEventListener('click', function (event) {
-                var dropdownMenus = document.getElementsByClassName('bp-dropdown-menu');
-                var dropdownIcons = dropdownTrigger.getElementsByClassName('sgds-icon');
-                var dropdownIcon;
-                if (dropdownIcons.length > 0) {
-                    dropdownIcon = dropdownIcons[0];
-                }
-                if (dropdownMenus.length > 0) {
-                    var dropdownMenu = dropdownMenus[0];
-                    if (dropdownMenu.style.display == 'block' || window.getComputedStyle(dropdownMenu, null).getPropertyValue('display') == 'block') {
-                        dropdownMenu.style.display = 'none';
-                        if (dropdownIcon !== null) {
-                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-up', 'sgds-icon-chevron-down');
-                        }
-                    }
-                    else {
-                        dropdownMenu.style.display = 'block';
-                        if (dropdownIcon !== null) {
-                            dropdownIcon.className = dropdownIcon.className.replace('sgds-icon-chevron-down', 'sgds-icon-chevron-up');
-                        }
-                    }
-                }           
-            });
-        } */
-        
-        //edit top navigation buttons in 'our-team' layout  
-        var boardOfDirectorButton = document.getElementById('board-of-directors-button');
-        if (boardOfDirectorButton !== null) {
-            var parentContainer = boardOfDirectorButton.parentElement;
-            if (parentContainer !== null) {
-                if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
-                    var grandParentContainer = parentContainer.parentElement;
-                    if (grandParentContainer !== null) {
-                        grandParentContainer.className = grandParentContainer.className.replace('padding--bottom--xl','').trim();
-                        grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
-                        grandParentContainer.style.marginBottom = '4rem';
-                        parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
-                    }
+    //edit nav title for 'overview' pages  
+    var titleSections = document.getElementsByClassName('bp-section-pagetitle');
+    if (titleSections.length > 0) {
+        var pageTitles = titleSections[0].getElementsByTagName('h1');
+        if (pageTitles.length > 0) {
+            var title = pageTitles[0].textContent;
+            if (title.search(/overview/i) === 0) {
+                var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
+                if (activeSecondLevelNavHeaders.length > 0) {
+                    pageTitles[0].textContent = activeSecondLevelNavHeaders[0].textContent;
                 }
             }
         }
     }
-}
-    
-//edit nav title for 'overview' pages  
-var titleSections = document.getElementsByClassName('bp-section-pagetitle');
-if (titleSections.length > 0) {
-    var pageTitles = titleSections[0].getElementsByTagName('h1');
-    if (pageTitles.length > 0) {
-        var title = pageTitles[0].textContent;
-        if (title.search(/overview/i) === 0) {
-            var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
-            if (activeSecondLevelNavHeaders.length > 0) {
-                pageTitles[0].textContent = activeSecondLevelNavHeaders[0].textContent;
-            }
-        }
-    }
-}
-    
-
 </script>    
 {%- endif -%} 
 
