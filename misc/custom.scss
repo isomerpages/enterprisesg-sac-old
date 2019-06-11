@@ -423,10 +423,18 @@ $tablet: 768px !default;
 	blockquote > ul {
 		color: $secondary;
 	}
-	table li {
-		font-size:inherit;
-		line-height:inherit;
-		margin:0;
+	table {
+		&.no-border {
+			border: 0;
+			td {
+				border: 0;
+			}
+		}
+		li {
+			font-size:inherit;
+			line-height:inherit;
+			margin:0;
+		}
 	}
 	a {
 		color: $primary;
@@ -447,7 +455,7 @@ $tablet: 768px !default;
 }
 
 .media-category-button {
-	//text-decoration: none !important;
+	text-decoration: none !important;
 	color: #323232;
 	margin-right: 2.5rem;
 	letter-spacing: 0.5px;
@@ -457,37 +465,19 @@ $tablet: 768px !default;
 	}
 }
 
-// CSS to be refactored
-.content img.digital-transformation-icon {
-  height: 80px;
-  width: 80px;
-  margin-left: 0;
-}
-
 .news-content {
-  position: relative;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  padding: 2rem;
-  margin-top: -5rem;
-  background-color: white;
-}
-
-.tag {
-  display: block;
-}
-
-#business {
-  display: none;
-}
-#government {
-  display: none;
+	position: relative;
+ 	margin-left: 1rem;
+ 	margin-right: 1rem;
+ 	padding: 2rem;
+ 	margin-top: -5rem;
+ 	background-color: white;
 }
 
 .image-card:hover {
-  .news-content {
-    background-color: darken(#ffffff, 10%);
-  }
+	.news-content {
+		background-color: darken(#ffffff, 10%);
+  	}
 }
 
 .hero-dropdown {
@@ -526,13 +516,6 @@ $tablet: 768px !default;
 		@include touch() {
 			display:block;
 		}
-	}
-}
-
-.content table.no-border {
-	border: 0;
-	td {
-		border: 0;
 	}
 }
 
