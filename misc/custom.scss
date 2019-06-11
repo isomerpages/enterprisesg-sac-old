@@ -59,127 +59,122 @@ $tablet: 768px !default;
 
 // Background
 .bg{
-  &-primary{
-    background-color: $primary !important;
-  }
-  &-secondary {
-    background-color: $secondary !important;
-  }
-  &-media-color {
-  	&-1 {
-  		background-color: $media-color-one;
-  		&:hover {
-  			background-color: darken($media-color-one, 10%);
+	&-primary{
+   		background-color: $primary !important;
+ 	}
+	&-secondary {
+		background-color: $secondary !important;
+	}
+  	&-media-color {
+  		&-1 {
+  			background-color: $media-color-one;
+  			&:hover {
+  				background-color: darken($media-color-one, 10%);
+			}
+  		}
+  		&-2 {
+  			background-color: $media-color-two;
+  			&:hover {
+  				background-color: darken($media-color-two, 10%);
+			}
+  		}
+  		&-3 {
+  			background-color: $media-color-three;
+  			&:hover {
+  				background-color: darken($media-color-three, 10%);
+			}
+  		}
+  		&-4 {
+  			background-color: $media-color-four;
+  			&:hover {
+  				background-color: darken($media-color-four, 10%);
+			}
+  		}
+  		&-5 {
+  			background-color: $media-color-five;
+  			&:hover {
+  				background-color: darken($media-color-five, 10%);
+			}
+  		}
+		&-6 {
+  			background-color: $media-color-six;
+  			&:hover {
+  				background-color: darken($media-color-six, 10%);
+			}
+  		}
+		&-7 {
+  			background-color: $media-color-seven;
+  			&:hover {
+  				background-color: darken($media-color-seven, 10%);
+			}
 		}
-  	}
-  	&-2 {
-  		background-color: $media-color-two;
-  		&:hover {
-  			background-color: darken($media-color-two, 10%);
+		&-8 {
+			background-color: $media-color-eight;
+			&:hover {
+				background-color: darken($media-color-eight, 10%);
+			}
 		}
-  	}
-  	&-3 {
-  		background-color: $media-color-three;
-  		&:hover {
-  			background-color: darken($media-color-three, 10%);
+		&-9 {
+			background-color: $media-color-nine;
+			&:hover {
+				background-color: darken($media-color-nine, 10%);
+			}
 		}
-  	}
-  	&-4 {
-  		background-color: $media-color-four;
-  		&:hover {
-  			background-color: darken($media-color-four, 10%);
+		&-10 {
+			background-color: $media-color-ten;
+			&:hover {
+				background-color: darken($media-color-ten, 10%);
+			}
 		}
+	}
+ 	&-1{
+		background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
+	}
+	&-2{
+		background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
   	}
-  	&-5 {
-  		background-color: $media-color-five;
-  		&:hover {
-  			background-color: darken($media-color-five, 10%);
-		}
+  	&-3{
+		background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
   	}
-	&-6 {
-  		background-color: $media-color-six;
-  		&:hover {
-  			background-color: darken($media-color-six, 10%);
-		}
+  	&-4{
+		background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
   	}
-	&-7 {
-  		background-color: $media-color-seven;
-  		&:hover {
-  			background-color: darken($media-color-seven, 10%);
-		}
+  	&-gradient{
+		background: #b41e8e;
+		background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
+		background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+		background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
   	}
-	&-8 {
-  		background-color: $media-color-eight;
-  		&:hover {
-  			background-color: darken($media-color-eight, 10%);
-		}
+	&-singpass{
+		background: #be2e7d; /* Old browsers */
+		background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
+	}
+  	&-beeline{
+		background: #009d62; /* Old browsers */
+		background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+  	&-parkingsg{
+		background: #0164b6; /* Old browsers */
+		background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   	}
-	&-9 {
-  		background-color: $media-color-nine;
-  		&:hover {
-  			background-color: darken($media-color-nine, 10%);
-		}
-  	}
-	&-10 {
-  		background-color: $media-color-ten;
-  		&:hover {
-  			background-color: darken($media-color-ten, 10%);
-		}
-  	}
-  }
-  &-1{
-    //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-2{
-    //background-color: $info;
-    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-3{
-    //background-color: $warning;
-    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-4{
-    //background-color: $danger;
-    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-gradient{
-    background: #b41e8e;
-    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
-  }
-  &-singpass{
-    background: #be2e7d; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
-  }
-  &-beeline{
-    background: #009d62; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
-  }
-  &-parkingsg{
-    background: #0164b6; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-  }
 }
 
 // Color definitions
@@ -192,29 +187,30 @@ $tablet: 768px !default;
 	}
 }
 
-// Text color
+// Text style
 .has-text-primary {
 	color: $primary !important;
 }
 .has-text-secondary {
 	color: $secondary !important;
 }
-
 .has-text-underline {
 	text-decoration: underline !important;
 }
 
 // Menu/Left-nav
-.bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 2px solid $secondary !important;
-	&:hover {
+.bp-menu-list a {
+	&.is-active {
+		color: $secondary !important;
 		border-bottom: 2px solid $secondary !important;
+		&:hover {
+			border-bottom: 2px solid $secondary !important;
+		}
 	}
-}
-.bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+	&:hover {
+		color: $secondary !important;
+		border-bottom: 1px solid $secondary !important;
+	}
 }
 
 //adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
@@ -226,13 +222,17 @@ $tablet: 768px !default;
 }
 
 // Button
-.bp-button.is-text span {
-  &:hover, &:focus {
-    color: $secondary;
-  }
-}
-.bp-button:hover {
-  color: $secondary;
+.bp-button {
+	&.is-text {
+		span {
+			&:hover, &:focus {
+				color: $secondary;
+			}
+		}
+	}
+	&:hover {
+		color: $secondary;
+	}
 }
 
 // Secondary button
@@ -253,7 +253,11 @@ $tablet: 768px !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+	background-color: $primary !important;
+}
+
+.bp-dropdown.is-hoverable .bp-dropdown-button span{
+    white-space:normal;
 }
 
 // Bottom navigation bar
@@ -266,9 +270,20 @@ $tablet: 768px !default;
 	}
 }
 
-.bp-footer.top-section .col.is-one-quarter {
-	@include tablet-larger(){
-		width: 16%;
+//footer
+.bp-footer {
+	&.top-section {
+		.col.is-one-quarter {
+			@include tablet-larger(){
+				width: 16%;
+			}
+		}
+	}
+	p.is-hidden-mobile {
+		display:none;
+	}
+	.col.is-one-quarter:hover > p.is-hidden-mobile {
+		display:block;
 	}
 }
 
@@ -312,10 +327,10 @@ $tablet: 768px !default;
 
 //h1 header (e.g. in frontpage banner)
 .display {
-    	font-size: 4rem;
-		@include tablet(){
-        	font-size: 3rem;
-        }
+	font-size: 4rem;
+	@include tablet(){
+		font-size: 3rem;
+	}
 }
 
 // Navbar
@@ -584,8 +599,8 @@ $tablet: 768px !default;
 
 .back-to-top {
 	text-align:right;
-    	font-size:0.9rem;
-    	margin-top: 1rem !important;
+    font-size:0.9rem;
+    margin-top: 1rem !important;
 	@include touch() {
 		display:none;
 	}
@@ -607,19 +622,6 @@ $tablet: 768px !default;
 	&:hover{
 		background-color: darken($primary,10%);
 	}
-}
-
-.bp-dropdown.is-hoverable .bp-dropdown-button span{
-    white-space:normal;
-}
-
-.bp-footer p.is-hidden-mobile {
-	display:none;
-}
-
-.bp-footer .col.is-one-quarter:hover > p.is-hidden-mobile
-{
-    display:block;
 }
 
 #board-of-directors-button {
