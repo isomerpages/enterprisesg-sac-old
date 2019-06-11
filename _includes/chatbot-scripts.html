@@ -96,13 +96,14 @@ window.onload = function(){
 };    
 </script>    
 
+{%- comment -%} add Isomer accordion template javascript to FAQ and Certified Companies pages {%- endcomment -%}
 {%- if page.layout == 'faq' or page.layout == 'certified-companies' -%}
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
 
 {%- if page.layout == 'leftnav-page-content' -%}
 <script>
-    //edit nav title for 'overview' pages  
+    //edit nav title for leftnav layout pages with 'overview' titles  
     var titleSections = document.getElementsByClassName('bp-section-pagetitle');
     if (titleSections.length > 0) {
         var pageTitles = titleSections[0].getElementsByTagName('h1');
