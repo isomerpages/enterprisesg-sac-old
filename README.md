@@ -175,7 +175,7 @@ Table cells containing multiple lines (such as lists or paragraphs) require inli
 ```
 
 ### Customising a Table
-Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
+Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` or `{: #customised-table-unique-identifier}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
 {: .no-border}
@@ -203,13 +203,13 @@ The carousel portion of the programmes section can be hidden or shown using thes
 2. Go into the "misc" folder
 3. Edit the custom.scss file
 4. Search for the ".programme-container" code block. Change the "display" attribute to to show or hide the carousel. 
-```css
+```
 .programme-container {
 	display: none; //hides the programmes section carousel
 }
 ```
 
-```css
+```
 .programme-container {
 	display: block; //displays the programmes section carousel
 }
@@ -238,6 +238,34 @@ The 'Collaborations And Recognitions' and 'Working with Regulators' pages contai
   <iframe src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
+### Editing Table in 'Mutual Recognition Arrangement' Page
+The 'Mutual Recognition Arrangement' page contains a table for the list osf MRAs. The table has been customised and the customisation name (which also acts as the unique identifier) has been added before the Markdown table syntax, as shown below:
+```
+{:#mra-table}
+| ![mra1-image-name](mra1-image-link){: style=""} mra1-description | {::nomarkdown}<ul><li>mra1 timeline1</li><li>mra1 timeline2</li></ul>{:/} |
+| ![mra2-image-name](mra2-image-link){: style=""} mra2-description | {::nomarkdown}<ul><li>mra2 timeline1</li><li>mra2 timeline2</li></ul>{:/} |
+```
+
+Essentially, the `{:#mra-table}` unique customisation contains aligning information for the MRA logo images, descriptions and ordered timelines in each table cell. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the "#mra-table" code blocks. Change the attributes by amending the section within the code blocks
+
+```
+# Sample custom.scss file section for reference
+table {
+	#mra-table {
+	//edit code here
+	...
+	}
+}
+```
+		
+5. Click on "Commit changes" button to save.
+
+The `{::nomarkdown}{:/}` tags are used so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
 
 ### Editing 'Our Organisation and Structure' Page 
 The 'Our Organisation and Structure' page uses the Isomerpages 'our-team' template layout. The content for the page can be edited by editing the 'our-team.yml' file in the _data folder. 
@@ -248,7 +276,7 @@ The 'Organisation Chart' section has been renamed from the 'Board-of-Directors' 
 2. Go into the "misc" folder
 3. Edit the custom.scss file
 4. Search for the "#board-of-directors::before" code block. Change the "background-image" attribute to to change a new image path for the chart. 
-```css
+```
 #board-of-directors::before{
 	background-image: url(/images/about/our-organisation-structure/SAC-Org-Chart-August2018.png); //image path for the chart
 	...
@@ -309,12 +337,13 @@ Essentially, the 'no-border' customisation or classname removes all visible bord
 ```css
 # Sample custom.scss file section for reference
 
-.content table.no-border {
-	border: 0;
-	td {
+table {
+	&.no-border {
 		border: 0;
+		td {
+			border: 0;
+		}
 	}
-}
 ```
 
 5. Click on "Commit changes" button to save.
@@ -337,22 +366,10 @@ Essentially, the 'no-border' customisation or classname removes all visible bord
 ```css
 # Sample custom.scss file section for reference
 
-.content table.with-image-captions {
-	td {
-		text-align: center;
-	}
-	tr:nth-child(even) {
-		td {
-			padding-top: 0;
-			padding-bottom: 1rem;
-			vertical-align:top;
-		}	
-	}
-	tr:nth-child(odd) {
-		td {
-			padding-bottom: 0;
-			vertical-align:bottom;
-		}
+table {
+	&.with-image-captions {
+		//edit content here
+		...
 	}
 }
 ```
