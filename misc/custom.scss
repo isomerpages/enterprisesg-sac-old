@@ -430,6 +430,51 @@ $tablet: 768px !default;
 				border: 0;
 			}
 		}
+		&.brochures-table {
+			table-layout:fixed;	
+			td {
+				width: 33%;
+				text-align: center;
+				vertical-align:top;
+				padding-left: 2rem;
+				padding-right: 2rem;
+				padding-bottom: 2rem;
+				img {
+					margin-bottom: 0.8rem;
+				}
+				&:empty {
+					@include tablet() {
+						display:none;
+					}		
+				}
+				@include tablet() {
+					display:block;		 
+					width: 100%;			
+				}
+			}
+			a {
+				text-decoration:none;
+				color:inherit;
+			}
+		}
+		&.with-image-captions {
+			td {
+				text-align: center;
+			}
+			tr:nth-child(even) {
+				td {
+					padding-top: 0;
+					padding-bottom: 1rem;
+					vertical-align:top;
+				}	
+			}
+			tr:nth-child(odd) {
+				td {
+					padding-bottom: 0;
+					vertical-align:bottom;
+				}
+			}
+		}
 		li {
 			font-size:inherit;
 			line-height:inherit;
@@ -516,53 +561,6 @@ $tablet: 768px !default;
 		@include touch() {
 			display:block;
 		}
-	}
-}
-
-.content table.with-image-captions {
-	td {
-		text-align: center;
-	}
-	tr:nth-child(even) {
-		td {
-			padding-top: 0;
-			padding-bottom: 1rem;
-			vertical-align:top;
-		}	
-	}
-	tr:nth-child(odd) {
-		td {
-			padding-bottom: 0;
-			vertical-align:bottom;
-		}
-	}
-}
-
-.content table.brochures-table {
-	table-layout:fixed;	
-	td {
-		width: 33%;
-		text-align: center;
-		vertical-align:top;
-		padding-left: 2rem;
-		padding-right: 2rem;
-		padding-bottom: 2rem;
-		img {
-			margin-bottom: 0.8rem;
-		}
-		&:empty {
-			@include tablet() {
-				display:none;
-			}		
-		}
-		@include tablet() {
-			display:block;		 
-			width: 100%;			
-		}
-	}
-	a {
-		text-decoration:none;
-		color:inherit;
 	}
 }
 
