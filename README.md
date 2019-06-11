@@ -7,14 +7,14 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Adding / Editing a link](#edit-link)
 * [Adding / Editing an image](#edit-image)
 * [Adding / Editing a table](#edit-table)
-* [Editing content in Homepage](#edit-homepage)
-* [Editing content of About Pages](#edit-about)
+* [Editing the content in Homepage](#edit-homepage)
+* [Editing the content of About Pages](#edit-about)
 * Changing content of Industries Pages
-* [Editing content of Services Pages](#edit-services)
-* [Editing Content of Resources Pages](#edit-resources)
-* [Editing Content of Newsroom Pages](#edit-newsroom)
-* [Editing Content of Accredited Org Pages](#edit-accredited)
-* [Editing Content in Contact Us Page](#edit-contact)
+* [Editing the content of Services Pages](#edit-services)
+* [Editing the Content of Resources Pages](#edit-resources)
+* [Editing the Content of Newsroom Pages](#edit-newsroom)
+* [Editing the Content of Accredited Org Pages](#edit-accredited)
+* [Editing the Content in Contact Us Page](#edit-contact)
 
 <a name="introduction"></a>
 ## Introduction - Why Markdown and YAML?
@@ -184,7 +184,7 @@ Tables are styled according to the default Isomerpages template. For certain cus
 ```
 
 <a name="edit-homepage"></a>
-## Editing content in Homepage
+## Editing the content in Homepage
 
 The step-by-step guide for editing the content in Homepage is listed in [Isomer documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
 
@@ -221,7 +221,7 @@ The carousel portion of the programmes section can be hidden or shown using thes
 The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 <a name="edit-about"></a>
-## Editing content of About Pages
+## Editing the Content of About Pages
 
 The about.md file lists the type of Isomerpages layout template used for the 'About' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'About' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
 	
@@ -230,6 +230,14 @@ The about.md file lists the type of Isomerpages layout template used for the 'Ab
 The _about folder contains the files of all the sub-links in the 'About' page. The name of each file is preceded with a numbering system  (e.g. '00-our-role.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. Files which have alphabets after the numbers (e.g. '03a-council-committees.md') are second-level inner sub-link pages.
 
 Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+
+### Editing Videos in 'Collaborations And Recognitions' / 'Working with Regulators' Page
+The 'Collaborations And Recognitions' and 'Working with Regulators' pages contain videos which use HTML syntax and a customised name ('video-container') for styling purposes. To edit the video link, change the 'src' attribute within the `<iframe></iframe>` tags as shown below.
+```
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
+</div>
+```
 
 ### Editing Our Organisation and Structure Page 
 The 'Our Organisation and Structure' page uses the Isomerpages 'our-team' template layout. The content for the page can be edited by editing the 'our-team.yml' file in the _data folder. 
