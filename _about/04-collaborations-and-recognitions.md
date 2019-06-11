@@ -6,8 +6,8 @@ collection_name: about
 second_nav_title: "Collaborations And Recognitions"
 ---
 
-<div stlye="width:680px;max-width:100%;height:56%">
-  <iframe src="https://www.youtube.com/embed/rN9M7aJ85LU" frameborder="0" allowfullscreen></iframe>
+<div style="padding-top:56%;background-color:yellow;">
+  <iframe src="https://www.youtube.com/embed/rN9M7aJ85LU" frameborder="0" allowfullscreen style="width:100%;height:100%;"></iframe>
 </div>
 
 
