@@ -287,6 +287,12 @@ $tablet: 768px !default;
 	}
 }
 
+.padding--top--lg {
+	@include touch(){
+		padding-top: 0 !important;
+	}
+}
+
 // Pagination
 .pagination {
 	span {
@@ -427,6 +433,11 @@ $tablet: 768px !default;
 		&.has-equal-vertical-spacing {
 			margin-top: 2rem !important;
 			margin-bottom: 2rem !important;
+		}
+	}
+	h2 {
+		@include touch() {
+			line-height: 3rem !important;
 		}
 	}
 	blockquote {
