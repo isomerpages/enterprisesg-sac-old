@@ -5,7 +5,7 @@ permalink: /about/our-role
 collection_name: about
 ---
 
-## About
+## About Singapore Accreditation Council (SAC)
 
 ![our role](/images/about/our-role.jpg)
 
