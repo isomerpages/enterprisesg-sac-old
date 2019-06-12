@@ -1,11 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Certification Body
-permalink: /services/certifcation-body
+permalink: /services/certification-body
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
 ## ABOUT
+![Certification Body Accreditation](/images/services/certification-body-accreditation-services,jpg)
 
 Accreditation is an endorsement of a certification body’s independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
 
