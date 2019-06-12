@@ -32,7 +32,7 @@ The accreditation programme for Energy Management System was launched in July 20
 The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification, by providing third-party assuance of the competency and impartiality of accredited Personnel Certification Bodies.
 
 {:.with-image-captions}
-| ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg)) |
+| ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg) |
 | _Accreditation Scheme for Personnel Certification_ |
  
 In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 201. A new accreditation scheme on Auditing Organisation was also launched in 2017.
@@ -61,7 +61,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16 | ISO 55001 |
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
-|===|
+|=|
 | Note:<br/>(1) AF MD: IAF Mandatory Documents<br/>(2) Please see Annex 1 for the list of above-mentioned standards.|
 
 #### (II) Product Certification Body
