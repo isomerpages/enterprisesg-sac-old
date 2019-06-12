@@ -37,6 +37,8 @@ _For other types of conformity assessment services currently not offered by SAC,
 
 Using accredited CABs offers multiple benefits for companies. Besides providing a marketing opportunity, it also boosts the company’s image – having been tried and certified by reliable CABs, the company’s products and services are endorsed with the highest assurance. This, in turn, instils confidence in the company’s customers and stakeholders alike.
 
+![working with businesses](/images/about/working-with-businesses.jpg)
+
 ## How Do You Identify a SAC Accredited Conformity Assessment Body?
 
 You can identify a SAC accredited conformity assessment body (CAB) by SAC accreditation marks as proof of accreditation. Accredited reports or certificates carry the SAC mark, along with the unique SAC accreditation certificate number. 
