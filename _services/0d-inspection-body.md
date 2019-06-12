@@ -10,6 +10,8 @@ second_nav_title: "Accreditation Services"
 Inspection is the examination of a product design, product service or process/plant. It also involves determining its conformity, either against specific requirements or on the basis of professional judgment. This broad definition indicates that there exists a wide variety of inspection activities. 
 
 ### The Scheme
+![Accreditation Scheme for Inspection Bodies](/images/services/inspection-bodies-accreditation-services.jpg)
+
 The Accreditation Scheme for Inspection Bodies provides official recognition of the integrity and reliability of an inspection body’s services. Achieving effective inspection is important in maintaining the safety of plant machinery, equipment, structures and systems in operation. 
 
 Launched in April 2011, the Accreditation Scheme for Inspection Bodies aims to upgrade the standard of inspection activities to support sound decision-making with regard to safety, health, performance and reliability. 
