@@ -20,7 +20,9 @@ The Accreditation Scheme for Environmental Management System Certification Bodie
 {:.with-image-captions}
 |![Product Certification](/images/services/product-certification-accreditation.jpg) _Accreditation Scheme for Product Certification_|
 
-|![Product Certification](/images/services/product-certification-accreditation.jpg) _Accreditation Scheme for Product Certification_|
+{:.with-image-captions}
+| ![Product Certification](/images/services/product-certification-accreditation.jpg) |
+| _Accreditation Scheme for Product Certification_ |
 
 In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) Management System was launched, followed by the Accreditation Scheme for HACCP based Food Management System in September 2005. The accreditation scheme for food safety management system (ISO 22000) was launched in October 2006 while the accreditation scheme for business continuity management (BCM) was launched in April 2010.
 ![Food Safety Management System](/images/services/food-management-accreditation.jpg) 
