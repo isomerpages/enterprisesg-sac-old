@@ -20,8 +20,7 @@ With accreditation, you save cost from the removal or reduction of:
   * Re-auditing  
   
 * **Facilitates global trade**:  
-Overseas markets will be more ready to accept  the reports of an accredited CAB, hence minimising technical barriers to trade.
- 
+Overseas markets will be more ready to accept  the reports of an accredited CAB, hence minimising technical barriers to trade.  
 As SAC is a signatory to many regional and international arrangements, this means that products and services that are tested and/or certified by accredited CABs in Singapore will also be more readily accepted in these signatory countries. By engaging a SAC accredited CAB, you will open more doors to business opportunities worldwide.
 
 ![benefits of accreditation for businesses](/images/about/benefits-of-accreditation.jpg)
