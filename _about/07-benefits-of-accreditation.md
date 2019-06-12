@@ -25,7 +25,7 @@ Overseas markets will be more ready to accept  the reports of an accredited CAB,
 As SAC is a signatory to many regional and international arrangements, this means that products and services that are tested and/or certified by accredited CABs in Singapore will also be more readily accepted in these signatory countries. By engaging a SAC accredited CAB, you will open more doors to business opportunities worldwide.
 
 
-## For Regulators/Specifiers
+## For Regulators/ Specifiers
 ![benefits of accreditation for Regulators](/images/about/benefits-of-accreditation-1.jpg)
 
 Accreditation gives regulators/specifiers greater confidence and trust in the services provided by CABs. This helps regulators/specifiers better evaluate for compliance, as part of fulfilling their obligations in policy setting and regulation. Accreditation also builds and reinforces public confidence in regulators/specifiers’ commitment in assuring public safety, health and environment protection.
