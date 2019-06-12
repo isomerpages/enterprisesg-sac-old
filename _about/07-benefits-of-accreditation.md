@@ -5,12 +5,12 @@ permalink: /about/benefits-of-accreditation
 collection_name: about
 ---
 
-### For Businesses
+## For Businesses
 
 Accreditation offers assurance in the integrity of conformity assessment reports and certificates of your products or services – instilling confidence in stakeholders and promoting differentiated products and services to your customers. 
 
 * **Reduced risk and higher level of quality assurance**:  
-Take the guesswork out of choosing a CAB. SACaccredited CABs have been assessed according to internationally recognised conformity assessment frameworks, thereby ensuring that you get the quality service that best fulfils your requirements.  
+Take the guesswork out of choosing a CAB. SAC accredited CABs have been assessed according to internationally recognised conformity assessment frameworks, thereby ensuring that you get the quality service that best fulfils your requirements.  
 
 * **Reduced costs**:  
 With accreditation, you save cost from the removal or reduction of: 
@@ -26,7 +26,7 @@ As SAC is a signatory to many regional and international arrangements, this mean
 
 ![benefits of accreditation for businesses](/images/about/benefits-of-accreditation.jpg)
 
-### For Regulators/Specifiers
+## For Regulators/Specifiers
 
 Accreditation gives regulators/specifiers greater confidence and trust in the services provided by CABs. This helps regulators/specifiers better evaluate for compliance, as part of fulfilling their obligations in policy setting and regulation. Accreditation also builds and reinforces public confidence in regulators/specifiers’ commitment in assuring public safety, health and environment protection.
 
@@ -34,7 +34,7 @@ Additionally, accreditation helps to improve efficiency by eliminating the need 
 
 ![benefits of accreditation for Regulators](/images/about/benefits-of-accreditation-1.jpg)
 
-### For Conformity Assessment Bodies
+## For Conformity Assessment Bodies
 
 Increase confidence in the integrity of your certifications and reports with accreditation. You can be assured that the results of your conformity assessments meet prevailing industry standards and best practices. Besides enhanced transparency, fair competition and service quality, the accreditation process also reveals any gaps in non-conformity to help you improve your operational performance.
 
