@@ -18,21 +18,22 @@ Launched in October 1996, the Accreditation Scheme for Quality Management System
 The Accreditation Scheme for Environmental Management System Certification Bodies and the Accreditation Scheme for Product Certification Bodies were launched in November 1999 and November 2001 respectively. The latter was extended in April 2009 to cover the certification of ready-mixed concrete in a bid to support the Building and Construction Authority’s initiative to ensure high quality of ready-mixed concrete.
 
 {:.with-image-captions}
-|![Product Certification](/images/services/product-certification-accreditation.jpg) _Accreditation Scheme for Product Certification_|
-
-{:.with-image-captions}
 | ![Product Certification](/images/services/product-certification-accreditation.jpg) |
 | _Accreditation Scheme for Product Certification_ |
 
 In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) Management System was launched, followed by the Accreditation Scheme for HACCP based Food Management System in September 2005. The accreditation scheme for food safety management system (ISO 22000) was launched in October 2006 while the accreditation scheme for business continuity management (BCM) was launched in April 2010.
-![Food Safety Management System](/images/services/food-management-accreditation.jpg) 
-_Accreditation Scheme for Food Safety Management System_
+
+{:.with-image-captions}
+| ![Food Safety Management System](/images/services/food-management-accreditation.jpg) |
+| _Accreditation Scheme for Food Safety Management System_ |
  
 The accreditation programme for Energy Management System was launched in July 2012, followed by Water Efficiency Management System in June 2013. These programmes were launched to support the increasing demand and need to optimize our limited resources and the "Green" movement.
  
 The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification, by providing third-party assuance of the competency and impartiality of accredited Personnel Certification Bodies.
-![Personnel Certification](/images/services/personnel-certification-accreditation.jpg) 
-_Accreditation Scheme for Personnel Certification_
+
+{:.with-image-captions}
+| ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg)) |
+| _Accreditation Scheme for Personnel Certification_ |
  
 In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 201. A new accreditation scheme on Auditing Organisation was also launched in 2017.
 
