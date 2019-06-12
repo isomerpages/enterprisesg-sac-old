@@ -16,8 +16,11 @@ The accreditation programmes under Certification includes Product Certification,
 Launched in October 1996, the Accreditation Scheme for Quality Management System Certification Bodies aims to uphold the standards of certification activities in Singapore. The scheme was extended in August 2003 to cover the certification of bunker suppliers, in a show of support for the Maritime and Port Authority of Singapore’s initiative to highlight Singapore’s status as a bunkering hub. In April 2008, the scheme was further extended to cover the certification of good distribution practice of medical devices (GDPMDS). This was an effort to support the Health Sciences Authority’s initiative to ensure the quality and integrity of medical devices throughout the distribution process.
  
 The Accreditation Scheme for Environmental Management System Certification Bodies and the Accreditation Scheme for Product Certification Bodies were launched in November 1999 and November 2001 respectively. The latter was extended in April 2009 to cover the certification of ready-mixed concrete in a bid to support the Building and Construction Authority’s initiative to ensure high quality of ready-mixed concrete.
-![Product Certification](/images/services/product-certification-accreditation.jpg) 
-_Accreditation Scheme for Product Certification_
+
+{:.with-image-captions}
+|![Product Certification](/images/services/product-certification-accreditation.jpg) _Accreditation Scheme for Product Certification_|
+
+|![Product Certification](/images/services/product-certification-accreditation.jpg) _Accreditation Scheme for Product Certification_|
 
 In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) Management System was launched, followed by the Accreditation Scheme for HACCP based Food Management System in September 2005. The accreditation scheme for food safety management system (ISO 22000) was launched in October 2006 while the accreditation scheme for business continuity management (BCM) was launched in April 2010.
 ![Food Safety Management System](/images/services/food-management-accreditation.jpg) 
