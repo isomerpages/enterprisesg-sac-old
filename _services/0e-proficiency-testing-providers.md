@@ -6,6 +6,8 @@ collection_name: services
 second_nav_title: "Accreditation Services"
 ---
 ## ABOUT
+![Accreditation of Proficiency Testing Providers](/images/services/proficiency-testing-accreditation-services.jpg)
+
 Proficiency testing involves the use of inter-laboratory comparisons for the determination of laboratory performance. The need for ongoing confidence in laboratory performance is not only essential for laboratories and their customers but also for other interested parties such as regulators and accreditation bodies. 
 
 Proficiency testing providers play an important role in the value chain for assurance of products and services. Their proficiency testing programmes should be properly designed and statistically robust so that the benchmarking of participants’ performance is properly conducted and the participants can monitor trend and identify gaps in their performance for corrective actions and improvements.
