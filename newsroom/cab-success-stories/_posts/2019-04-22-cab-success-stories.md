@@ -6,6 +6,7 @@ permalink: /newsroom/cab-success-stories/success-stories-1
 ---
 
 ## Thumbs up from the Industry
+![Success Stories](/images/press-release/documents/success-stories.jpg)
 
 Often during the accreditation process, organisations that embrace quality will find ways to continually streamline and improve their operations, thus becoming more efficient and effective at managing their resources. Their ability to meet rigorous international standards and processes shows that they have proper systems in place. This ensures better record keeping and higher competency so that the data is reliable and credible. Ultimately, this enhances their reputation and the quality of services provided, propelling them to greater heights in operational excellence as well as in gaining new business.
 
