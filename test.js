@@ -30,3 +30,6 @@ var passportexpiryContainers = document.getElementsByClassName('passportexpiry-c
 for (var i=0; i<passportexpiryContainers.length; i++) {
   passportexpiryContainers[i].style.display = '';
 }
+
+document.getElementById('txtPassengerIcHelpBlock_2').style.display = 'none';
+document.getElementById('txtPassengerIcHelpBlock_3').style.display = 'none';
