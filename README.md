@@ -277,7 +277,7 @@ The 'Organisation Chart' section has been renamed from the 'Board-of-Directors' 
 3. Edit the custom.scss file
 4. Search for the "#board-of-directors::before" code block. Change the "background-image" attribute to to change a new image path for the chart. 
 ```
-#board-of-directors::before{
+#board-of-directors{
 	background-image: url(/images/about/our-organisation-structure/SAC-Org-Chart-August2018.png); //image path for the chart
 	...
 	...
@@ -285,13 +285,13 @@ The 'Organisation Chart' section has been renamed from the 'Board-of-Directors' 
 ```
 5. Click on "Commit changes" button to save.
 
-The 'SAC Council' section lists the names, titles, organisations and image-urls of council members that can be edited inside 'our-team.yml' (under 'senior-leadership:').
+The 'SAC Council' section has been renamed from the 'Senior-Leadership' section in the Isomerpages template. It lists the names, titles, organisations and image-urls of council members that can be edited inside 'our-team.yml' (under 'senior-leadership:').
 
-The 'Organisational Structure' section contains names and links of SAC committee members that can be edited in 'our-team.yml' (under 'organisational-structure:'). The links are essentially **bookmark links** that allow users to jump to a specific location of another webpage within the website (See ['Creating a bookmark link'](#create-bookmark) for more details). 
+The 'Organisational Structure' section contains names and links of SAC committee members that can be edited in 'our-team.yml' (under 'organisational-structure:'). The links are essentially **bookmark links** that allow users to jump to a specific location of another webpage within the website (See ['Creating a Bookmark Link'](#create-bookmark) for more details). 
 
 ### Editing Committee Pages
 
-The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific locations of the same page. Please go to ['Adding /Editing a table'](#edit-table) for more information on writing a table in Markdown and ['Creating a bookmark link'](#create-bookmark) for more information on bookmark links.
+The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific locations of the same page. Please go to ['Adding /Editing a table'](#edit-table) for more information on writing a table in Markdown and ['Creating a Bookmark Link'](#create-bookmark) for more information on bookmark links.
 
 <a name="edit-services"></a>
 ## Editing the Content of Services Pages
@@ -302,7 +302,7 @@ The services.md file lists the type of Isomerpages layout template used for the 
 
 The _services folder contains the files of all the sub-links in the 'Services' page. The name of each file is preceded with a numbering system  (e.g. '0-overview.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. Files which have alphabets after the numbers (e.g. '0a-auditing-organisation.md') are second-level inner sub-link pages.
 
-Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+Most of the pages follow the Isomerpages 'leftnav-page-content' template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing 'Training Services - Recent Courses / Workshops / Seminars' Page
 The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [Isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
