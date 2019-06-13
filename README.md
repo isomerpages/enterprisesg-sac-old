@@ -8,6 +8,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Adding / Editing an Image](#edit-image)
 * [Adding / Editing a Table](#edit-table)
 * [Editing the Content in Homepage](#edit-homepage)
+* [Editing the Navigation Bar](#edit-nav)
 * [Editing the Content of About Pages](#edit-about)
 * Changing content of Industries Pages
 * [Editing the Content of Services Pages](#edit-services)
@@ -219,6 +220,10 @@ The carousel portion of the programmes section can be hidden or shown using thes
 
 ### Editing Newsroom Section (a.k.a Resources in the Isomerpages template) in Homepage
 The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
+
+<a name="edit-nav"></a>
+## Editing the Navigation Bar
+The step-by-step guide for editing the top navigation bar is listed in [Isomer documentation for Navbar and Footer](https://isomer.gov.sg/documentation/navbar-and-footer/overview/).
 
 <a name="edit-about"></a>
 ## Editing the Content of About Pages
