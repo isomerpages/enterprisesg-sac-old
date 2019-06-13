@@ -20,3 +20,13 @@ document.getElementById('ddlPassengerNationality_3').value = "SG";
 document.getElementById('txtPassengerIcOrPassport_3').value = "K0849845A";
 document.getElementById('txtPassengerPassportExpiry_3').value = "04/12/2024";
 document.getElementById('ddlPassengerType_3').value = "ADULT";
+
+var icpassportContainers = document.getElementsByClassName('icpassport-container');
+for (var i=0; i<icpassportContainers.length; i++) {
+  icpassportContainers[i].style.display = '';
+}
+
+var passportexpiryContainers = document.getElementsByClassName('passportexpiry-container');
+for (var i=0; i<passportexpiryContainers.length; i++) {
+  passportexpiryContainers[i].style.display = '';
+}
