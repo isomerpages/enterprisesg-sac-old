@@ -7,7 +7,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Adding / Editing a Link](#edit-link)
 * [Adding / Editing an Image](#edit-image)
 * [Adding / Editing a Table](#edit-table)
-* [Editing the Content in Homepage](#edit-homepage)
+* [Editing the Homepage](#edit-homepage)
 * [Editing the Navigation Bar](#edit-nav)
 * [Editing the Content of About Pages](#edit-about)
 * Changing content of Industries Pages
@@ -185,7 +185,7 @@ Tables are styled according to the default Isomerpages template. For certain cus
 ```
 
 <a name="edit-homepage"></a>
-## Editing the Content in Homepage
+## Editing the Homepage
 
 The step-by-step guide for editing the content in Homepage is listed in [Isomer documentation for homepage](https://isomer.gov.sg/documentation/homepage/overview/).
 
@@ -222,7 +222,11 @@ The carousel portion of the programmes section can be hidden or shown using thes
 The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 <a name="edit-nav"></a>
-## Editing the Navigation Bar
+## Overview of the Navigation Bar
+Each navigation link in the top navigation bar has a corresponding markdown file in the main folder of the Github Repository (e.g. about.md links to the 'About' navigation link) **except for the Newsroom navigation link**. The Github Repository also contains seperate folders that contain the files for each of the sub-links under the top navigation links. 
+
+The _navigation.yml file in the _date folder of the Github Repository lists the full list of the titles and urls of the top navigation links and sub-links, and the _config.yml file lists the 'collection name' for each of the top navigation link (under the section 'collections:'), which has to be consistent in the top header code snippet for all the sub-link pages.
+
 The step-by-step guide for editing the top navigation bar is listed in [Isomer documentation for Navbar and Footer](https://isomer.gov.sg/documentation/navbar-and-footer/overview/).
 
 <a name="edit-about"></a>
