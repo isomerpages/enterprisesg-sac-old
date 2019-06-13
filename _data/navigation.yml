@@ -32,42 +32,34 @@
 - title: Industries
   url: /industries/
   sub-links:
-  - title: Testing Inspection Certification
+  - title: Testing, Inspection, Certification (TIC)
     url: /industries/testing-inspection-certification
-  - title: Air Transport
-    url: /industries/air-transport
-  - title: Built Environment
-    url: /industries/built-environment
+  - title: Aviation & Aerospace
+    url: /industries/aviation-and-aerospace
+  - title: Construction & Built Environment
+    url: /industries/construction-and-built-environment
   - title: Digital/ICT
     url: /industries/digital-ict
-  - title: Electronics
-    url: /industries/electronics
+  - title: Electrical & Electronics Engineering
+    url: /industries/electrical-and-electronics-engineering
   - title: Energy & Chemicals
     url: /industries/energy-and-chemicals
-  - title: Food Manufacturing
-    url: /industries/food-manufacturing
-  - title: Food Services
-    url: /industries/food-services
-  - title: Healthcare & Biomedical
-    url: /industries/healthcare-and-biomedical
+  - title: Environment & Sustainability
+    url: /industries/environment-and-sustainability
+  - title: Food
+    url: /industries/food
+  - title: Healthcare & Biomedical Engineering
+    url: /industries/healthcare-and-biomedical-engineering
   - title: Land Transport
     url: /industries/land-transport
   - title: Logistics
     url: /industries/logistics
   - title: Marine & Offshore Engineering
     url: /industries/marine-and-offshore-engineering
-  - title: Precision Engineering
-    url: /industries/precision-engineering
-  - title: Retail
-    url: /industries/retail
-  - title: Sea Transport
-    url: /industries/sea-transport
-  - title: Urban Solutions
-    url: /industries/urban-solutions
-  - title: Wholesale Trade
-    url: /industries/wholesale-trade
-  - title: Others
-    url: /industries/others
+  - title: Precision Engineering & Industry 4.0
+    url: /industries/precision-engineering-and-industry-4
+  - title: Retail / Wholesale Trade
+    url: /industries/retail-wholesale-trade
 - title: Services
   url: /services/
   sub-links:
