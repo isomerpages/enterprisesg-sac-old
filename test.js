@@ -1,1 +1,22 @@
-alert("Hello World");
+document.getElementById('txtPassengerName_1').value = "Tan Kee Seng";
+document.getElementById('ddlPassengerGender_1').value = "Male";
+document.getElementById('ddlPassengerNationality_1').value = "Singapore";
+document.getElementById('txtPassengerIcOrPassport_1').value = "K0849851Z";
+document.getElementById('txtPassengerPassportExpiry_1').value = "04/12/2024";
+document.getElementById('ddlPassengerType_1').value = "Adult";
+document.getElementById('txtPassengerContact_1').value = "6598168517";
+
+document.getElementById('txtPassengerName_2').value = "Lim Lai Hoi";
+document.getElementById('ddlPassengerGender_2').value = "Female";
+document.getElementById('ddlPassengerNationality_2').value = "Singapore";
+document.getElementById('txtPassengerIcOrPassport_2').value = "K0850280R";
+document.getElementById('txtPassengerPassportExpiry_2').value = "04/12/2024";
+document.getElementById('ddlPassengerType_2').value = "Adult";
+document.getElementById('txtPassengerContact_2').value = "91852485";
+
+document.getElementById('txtPassengerName_3').value = "Tan Yee Ping Sharon";
+document.getElementById('ddlPassengerGender_3').value = "Female";
+document.getElementById('ddlPassengerNationality_3').value = "Singapore";
+document.getElementById('txtPassengerIcOrPassport_3').value = "K0849845A";
+document.getElementById('txtPassengerPassportExpiry_3').value = "04/12/2024";
+document.getElementById('ddlPassengerType_3').value = "Adult";
