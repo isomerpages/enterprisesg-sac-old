@@ -440,6 +440,11 @@ $tablet: 768px !default;
 			line-height: 3rem !important;
 		}
 	}
+	h4 {
+		@include desktop() {
+			line-height: 2.5rem !important;
+		}
+	}
 	blockquote {
 		border-left-color: $secondary;
 	}
