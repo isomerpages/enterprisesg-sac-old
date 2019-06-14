@@ -1,5 +1,6 @@
 ---
 layout: simple-page
+title: README
 permalink: /readme
 ---
 
@@ -15,7 +16,6 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Editing the Homepage](#edit-homepage)
 * [Editing the Navigation Bar](#edit-nav)
 * [Editing the Content of About Pages](#edit-about)
-* Changing content of Industries Pages
 * [Editing the Content of Services Pages](#edit-services)
 * [Editing the Content of Resources Pages](#edit-resources)
 * [Editing the Content of Newsroom Pages](#edit-newsroom)
