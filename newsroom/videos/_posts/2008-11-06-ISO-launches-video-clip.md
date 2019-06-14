@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ISO launches video clip: 'The ISO 9000 Family – Global Management Standards'
+title:  ISO launches video clip
 date:   2008-11-06
 permalink: /newsroom/videos/ISO-launches-video-clip
 ---
