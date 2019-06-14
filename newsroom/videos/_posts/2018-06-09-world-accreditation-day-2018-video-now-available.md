@@ -6,7 +6,7 @@ permalink: /newsroom/news-releases/world-accreditation-day-2018-video-now-availa
 ---
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/watch?v=douGB7pLlYc" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/douGB7pLlYc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 World Accreditation Day 2018 focuses on how accreditation delivers a safer world. To support the day, a video has been created to help celebrate the day.
