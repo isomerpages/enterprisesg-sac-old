@@ -2,7 +2,7 @@
 layout: post
 title:  World Accreditation Day 2019 Video Now Available
 date:   2019-06-09
-permalink: /newsroom/news-releases/world-accreditation-day-2019-video-now-available
+permalink: /newsroom/videos/world-accreditation-day-2019-video-now-available
 ---
 
 <div class="video-container">
