@@ -175,6 +175,9 @@ $tablet: 768px !default;
 		background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   	}
+	&-contact{
+		background-position: center !important; 
+	}
 }
 
 // Color definitions
