@@ -33,7 +33,7 @@ While Markdown is appropriate for writing long segments of text, it alone does n
 
 We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet another human readable syntax.
 
-Please refer to the [isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/) to learn more about Markdown syntax.
+Please refer to the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/) to learn more about Markdown syntax.
 
 <a name="edit-file"></a>
 ## Adding / Deleting a Document File
