@@ -16,7 +16,7 @@ In Singapore, different industries are regulated by a governing body such as an 
 ### Relevant SAC Accreditation Programmes
 
 {: .groups}
-| Field | Scheme
+| Scheme | Field |
 |---
 | Management Systems Certification Bodies | Anti-bribery Management System |
 || Asset Management |
