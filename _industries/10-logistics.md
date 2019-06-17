@@ -19,9 +19,9 @@ SAC has accreditation schemes for conformity assessment bodies (CABs) providing 
 
 | Laboratories<br/>(SAC-SINGLAS)          | Calibration & Measurement                      |
 |                                         | Mechanical Testing                             |
-|-----------------------------------------+------------------------------------------------|
+|------------------------------------------------------------------------------------------|
 | Inspection Bodies                       | Cargo Inspection                               |
-|-----------------------------------------+------------------------------------------------|
+|------------------------------------------------------------------------------------------|
 | Management Systems Certification Bodies | Business Continuity Management                 |
 |                                         | Environmental Management System                |
 |                                         | Learning Service Providers                     |
