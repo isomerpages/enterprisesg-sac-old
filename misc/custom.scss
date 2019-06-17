@@ -530,12 +530,20 @@ $tablet: 768px !default;
 			}
 		}
 		&.groups {
-			tbody tr {
-				td {
-					border-bottom-width: 0;
+			tbody {
+				tr {
+					td {
+						border-bottom-width: 0;
+					}
+					&:last-child td {
+						border-bottom-width: 1px;
+					}
 				}
-				&:last-child td {
-					border-bottom-width: 1px;
+			}
+			&:last-child {
+				tr > td {
+					border-width: 0 0 2px;
+    					color: #323232;
 				}
 			}
 		}
