@@ -18,7 +18,7 @@ SAC has accreditation schemes for both laboratories as well as certification bod
 ### Relevant SAC Accreditation Programmes
 
 {: .groups}
-| Field | Scheme
+| Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
 || Environmental Testing |
