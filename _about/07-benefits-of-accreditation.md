@@ -8,7 +8,7 @@ collection_name: about
 ## For Businesses
 ![benefits of accreditation for businesses](/images/about/benefits-of-accreditation.jpg)
 
-Accreditation offers assurance in the integrity of conformity assessment reports and certificates of your products or services – instilling confidence in stakeholders and promoting differentiated products and services to your customers. 
+Accreditation offers assurance in the integrity of conformity assessment reports and certificates of your products or services, thereby instilling confidence in stakeholders and promoting differentiated products and services to your customers. 
 
 * **Reduced risk and higher level of quality assurance**:  
 Take the guesswork out of choosing a CAB. SAC accredited CABs have been assessed according to internationally recognised conformity assessment frameworks, thereby ensuring that you get the quality service that best fulfils your requirements.  
