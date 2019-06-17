@@ -16,6 +16,7 @@ This is a supplementary guide for adding and editing content on the SAC website.
 * [Editing the Homepage](#edit-homepage)
 * [Editing the Navigation Bar](#edit-nav)
 * [Editing the Content of About Pages](#edit-about)
+* [Editing the Content of Industries Pages](#edit-industries)
 * [Editing the Content of Services Pages](#edit-services)
 * [Editing the Content of Resources Pages](#edit-resources)
 * [Editing the Content of Newsroom Pages](#edit-newsroom)
@@ -306,6 +307,49 @@ The 'Organisational Structure' section contains names and links of SAC committee
 ### Editing Committee Pages
 
 The various committee pages contain several tables listing the details of the committee members, as well as bookmark links that allow users to jump to specific locations of the same page. Please go to ['Adding /Editing a table'](#edit-table) for more information on writing a table in Markdown and ['Creating a Bookmark Link'](#create-bookmark) for more information on bookmark links.
+
+<a name="edit-industries"></a>
+## Editing the Content of Industries Pages
+
+The industries.md file lists the type of Isomerpages layout template used for the 'Industries' navigation/overview page, the title and the page url link that will appear in the user's Web browser. The collection_name displays the top name in the left navigation section of each subsequent 'Industries' sub-link page in the collection. The breadcrumb navigation provides the name of the previous page link the user navigated through, and shows the user's current location in a website, like this:
+	
+> Home / Industries / Food
+
+The _industries folder contains the files of all the sub-links in the 'Industries' page. The name of each file is preceded with a numbering system  (e.g. '01-aviation-and-aerospace.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page.
+
+Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
+
+### Editing Table in Each Industry Page
+Each page in the Industries category contains a Markdown table that lists the relevant accreditation schemes and their related fields. The table has been customised and the customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
+```
+{:.groups}
+| Scheme  | Field          |
+|---
+| scheme1 | scheme1-field1 |
+|         | scheme1-field2 |
+|---
+| scheme2 | scheme2-field1 |
+|         | scheme2-field1 |
+```
+
+The '|---' syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'groups' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the ".groups". Change the attributes by amending the section within the code blocks
+
+```css
+# Sample custom.scss file section for reference
+
+table {
+	&.groups {
+			//edit attributes here
+			...
+		}
+```
+
+5. Click on "Commit changes" button to save.
 
 <a name="edit-services"></a>
 ## Editing the Content of Services Pages
