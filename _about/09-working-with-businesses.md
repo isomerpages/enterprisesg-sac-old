@@ -27,7 +27,7 @@ Quality management system, environmental management system, occupational safety 
 * **Product certification bodies**
 
 * **Good Laboratory Practice (GLP) scheme:**  
-Ensure that certified facilities performing non-clinical safety testing in Singapore comply with the Organisation for Economic Co-operation and Development (OECD) Principles of GLP.
+Ensures that certified facilities performing non-clinical safety testing in Singapore comply with the Organisation for Economic Co-operation and Development (OECD) Principles of GLP.
 
 Please click [here](/services/accreditation-services){:target="_blank"} for the detailed requirements of all the accreditation schemes.
 
@@ -38,15 +38,13 @@ _For other types of conformity assessment services currently not offered by SAC,
 
 Using accredited CABs offers multiple benefits for companies. Besides providing a marketing opportunity, it also boosts the company’s image – having been tried and certified by reliable CABs, the company’s products and services are endorsed with the highest assurance. This, in turn, instils confidence in the company’s customers and stakeholders alike.
 
-
-
 ## How Do You Identify a SAC Accredited Conformity Assessment Body?
 
 You can identify a SAC accredited conformity assessment body (CAB) by SAC accreditation marks as proof of accreditation. Accredited reports or certificates carry the SAC mark, along with the unique SAC accreditation certificate number. 
 
 In addition, an accredited test or inspection report will include the following statement:
 
-_"The results reported herein have been performed in accordance with the terms of accreditation under the Singapore Accreditation Council."_
+> _"The results reported herein have been performed in accordance with the terms of accreditation under the Singapore Accreditation Council."_
 
 Accreditation is granted for a specific scope of activities and not for all activities undertaken by the CABs. Thus, accredited CABs are only allowed to issue accredited reports for those tests, calibrations or inspections, or issue accredited certificates for the specific certification scopes which they have been accredited.
 
