@@ -540,7 +540,7 @@ $tablet: 768px !default;
 					}
 				}
 				&:last-child {
-					tr > td {
+					tr:last-child > td {
 						border-width: 0 0 2px;
 						color: #323232;
 					}
