@@ -32,5 +32,6 @@ In Singapore, the Health Sciences Authority is the regulatory body governing the
 | Good Laboratory Practices (GLP) | Toxicity Studies |
 || Physical Chemical Testing |
 || Analytical and Clinical Associated with Non-clinical Studies |
+|===
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
