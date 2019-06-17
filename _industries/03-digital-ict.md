@@ -14,3 +14,18 @@ The Singapore Standard SS 584:2015 is set out specifically for multi-tiered clou
 Other conformity assessment services relevant to ICT include quality management system certifications, which enable firms to continuously manage quality and identify areas for improvement. Certification for management of end-of-life ICT equipment may also be relevant to your business, and demonstrates an organisation’s efforts to manage end-of-life equipment in environmentally sustainable ways. 
 
 In Singapore, the Cyber Security Agency of Singapore and Infocomm Media Development Agency are the government bodies which regulate the industry, laying out specific requirements with regard to conformity assessment.
+
+### Relevant SAC Accreditation Programmes
+
+{: .groups}
+| Scheme | Field |
+|---
+| Laboratories (SAC-SINGLAS) | Calibration & Measurement |
+|| IT Security Testing |
+|---
+| Management Systems Certification Bodies | End-of-life ICT Equipment |
+|| Information Security Management System |
+|| Multi-tiered Cloud Computing Security |
+|| Quality Management System |
+
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
