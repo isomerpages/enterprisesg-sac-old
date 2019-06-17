@@ -329,10 +329,10 @@ Each page in the Industries category contains a Markdown table that lists the re
 |         | scheme1-field2 |
 |---
 | scheme2 | scheme2-field1 |
-|         | scheme2-field1 |
+|         | scheme2-field2 |
 ```
 
-The '|---' syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'groups' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
+The `|---` syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'groups' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
