@@ -18,7 +18,7 @@ SAC has accreditation schemes for conformity assessment bodies (CABs) providing 
 ### Relevant SAC Accreditation Programmes
 
 {: .groups}
-| Field | Scheme
+| Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
 | | Mechanical Testing |
