@@ -529,6 +529,13 @@ $tablet: 768px !default;
 				}
 			}
 		}
+		&.groups {
+			tbody tr {
+				&:last-child td {
+					border-bottom-width: inherit;
+				}
+			}
+		}
 		li {
 			font-size:inherit;
 			line-height:inherit;
