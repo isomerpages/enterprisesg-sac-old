@@ -530,7 +530,7 @@ $tablet: 768px !default;
 			}
 		}
 		&.groups {
-			tbody {
+			tbody{
 				tr {
 					td {
 						border-bottom-width: 0;
@@ -539,11 +539,11 @@ $tablet: 768px !default;
 						border-bottom-width: 1px;
 					}
 				}
-			}
-			&:last-child {
-				tr > td {
-					border-width: 0 0 2px;
-    					color: #323232;
+				&:last-child {
+					tr > td {
+						border-width: 0 0 2px;
+						color: #323232;
+					}
 				}
 			}
 		}
