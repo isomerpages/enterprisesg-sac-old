@@ -17,7 +17,6 @@ SAC has accreditation schemes for conformity assessment bodies (CABs) providing 
 
 ### Relevant SAC Accreditation Programmes
 
-|------------------------------------------------------------------------------------------|
 | Laboratories<br/>(SAC-SINGLAS)          | Calibration & Measurement                      |
 |                                         | Mechanical Testing                             |
 |-----------------------------------------+------------------------------------------------|
@@ -28,4 +27,3 @@ SAC has accreditation schemes for conformity assessment bodies (CABs) providing 
 |                                         | Learning Service Providers                     |
 |                                         | Occupational Safety & Health Management System |
 |                                         | Quality Management System                      |
-|------------------------------------------------------------------------------------------|
