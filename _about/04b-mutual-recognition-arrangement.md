@@ -28,7 +28,7 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 | ![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"} **International Accreditation Forum for Quality Management System and Product Certification** <br/>[IAF MLA](http://www.iaf.nu/){:target="_blank"} | {::nomarkdown}<ul><li>Signed in 1999 (QMS)</li><li>Signed in 2007 (Product)</li><li>Signed in 2015 (FSMS)</li><li>Signed in 2017 (EMS)</li></ul>{:/} |
 
 ---
-Note: To facilitate recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
+Note: To facilitate the recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
 Please click below for the respective MRA listings.
 
 * [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
