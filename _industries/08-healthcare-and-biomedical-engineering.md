@@ -18,6 +18,7 @@ SAC has accreditation schemes for laboratories as well as inspection and certifi
 In Singapore, the Health Sciences Authority is the regulatory body governing the healthcare and biomedical industry, and it lays out specific requirements with regard to conformity assessment.
 
 ### Relevant SAC Accreditation Programmes
+
 {: .groups}
 | Scheme | Field |
 |---
