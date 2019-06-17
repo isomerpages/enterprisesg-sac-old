@@ -337,7 +337,7 @@ The `|---` syntax is used to denote a separator line, which splits the table bod
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the ".groups". Change the attributes by amending the section within the code blocks
+4. Search for the ".groups" code block. Change the attributes by amending the section within the code block:
 
 ```css
 # Sample custom.scss file section for reference
