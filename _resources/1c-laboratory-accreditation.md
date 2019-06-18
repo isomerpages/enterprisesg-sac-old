@@ -64,10 +64,10 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [FFT 01 - Mar 2019: General Criteria for Testing of Health-Related Properties of Foods](/files/documents/laboratory-accreditation/testing-and-calibration-documents/functional-food-testing/FFT-01-29-Mar-2019.pdf){:target="_blank"}
 
 **Gaming Testing Field**
-* [GT 001 - Mar 2019: Specific Requirements for Gaming Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/gaming-testing-field/GT-001-29-Mar-2019.pdf.pdf){:target="_blank"}
+* [GT 001 - Mar 2019: Specific Requirements for Gaming Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/gaming-testing-field/GT-001-29-Mar-2019.pdf){:target="_blank"}
 
 **Information Technology Security Testing**
-* [IT 001 - 2 April 2018: General Requirements for the Accreditation of Information Technology Security Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf.pdf){:target="_blank"}
+* [IT 001 - 2 April 2018: General Requirements for the Accreditation of Information Technology Security Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf){:target="_blank"}
 
 **Mechanical Testing Field**
 * [MECH 001 - Mar 2019: Specific Requirements for Mechanical Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/mechanical-testing-field/MECH-001-29-Mar-2019.pdf){:target="_blank"}
