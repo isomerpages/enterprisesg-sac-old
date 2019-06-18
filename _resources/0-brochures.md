@@ -5,9 +5,9 @@ permalink: /resources/brochures
 collection_name: resources
 ---
 
-#### Commemorative Booklet: 50 Years of Quality and Standards
-
 {:.no-border .brochures-table}
+| Commemorative Booklet: 50 Years of Quality and Standards |
+|---
 | [![Commemorative Book 2016](/images/brochures/Comm-Book-2016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"} |||
 
 ---
