@@ -70,11 +70,11 @@
       - question: What information is required for submission to SAC?
         answer: 
            - line: "A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :"
-           - line: "  a. Management structure"
-           - line: "  b. Key responsibilities of the personnel and units"
-           - line: "  c. Information on names of Study Director, Study Sponsor"
-           - line: "  d. Persons in charge of Quality Assurance and the Archive"
-           - line: "  e. Quality Manual and Standard Operation Procedures Structure, Master Schedule etc."
+           - line: "a. Management structure"
+           - line: "b. Key responsibilities of the personnel and units"
+           - line: "c. Information on names of Study Director, Study Sponsor"
+           - line: "d. Persons in charge of Quality Assurance and the Archive"
+           - line: "e. Quality Manual and Standard Operation Procedures Structure, Master Schedule etc."
       - question: What are the criteria that a facility must follow?
         answer: 
            - line: "The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:"
