@@ -4,14 +4,15 @@ title: Brochures
 permalink: /resources/brochures
 collection_name: resources
 ---
-Please refer to the link for the latest SAC brochures.
 
 #### Commemorative Booklet: 50 Years of Quality and Standards
+---
 
 {:.no-border .brochures-table}
 | [![Commemorative Book 2016](/images/brochures/Comm-Book-2016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"} |||
 
 #### SAC Brochures
+---
 
 {:.no-border .brochures-table}
 | [![SAC Booklet](/images/brochures/SAC-Booklet.jpg) SAC Booklet](/files/brochures/SAC-Booklet.pdf){:target="_blank"}  | [![Laboratories Scheme](/images/brochures/SAC-Brochures-LA.jpg) Accreditation Scheme for Laboratories](/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf){:target="_blank"} | [![Inspection Bodies Scheme](/images/brochures/SAC-Brochures-IB.jpg) Accreditation Scheme for Inspection Bodies](/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Inspection-Bodies.pdf){:target="_blank"} |
@@ -20,11 +21,14 @@ Please refer to the link for the latest SAC brochures.
 | [![SAC-Brochures-Building_Construction](/images/brochures/SAC-Brochures-Building_Construction.PNG) SAC Accreditation Programmes for the Building and Construction Industry](/files/brochures/SAC-Accreditation-Programmes-for-the-Building-and-Construction-Industry.pdf){:target="_blank"} |||
 
 #### SAC Directory
+---
 
 {:.no-border .brochures-table}
 | [![SAC Directory 16-17](/images/brochures/SAC-Directory-Cover-1617.png)](/files/brochures/SAC-Directory-16-17-Final.pdf){:target="_blank"} |||
 
 #### Other Brochures
+---
+
 * [World Accreditation Day 2018](http://ilac.org/news-and-events/world-accreditation-day/){:target="_blank"}
 * [ILAC brochures](https://ilac.org/publications-and-resources/ilac-promotional-brochures/){:target="_blank"}
 * [IAF brochures](https://www.iaf.nu/articles/Promotional_Documents/300){:target="_blank"}
