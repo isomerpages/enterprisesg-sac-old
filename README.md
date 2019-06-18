@@ -155,7 +155,7 @@ The SAC website contains several tables which can be added / edited using Markdo
 * Basic Markdown table with header syntax:
 ```
 | header/column-1 | header/column-2 |
-|-|-|
+|--
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
 ```
@@ -163,7 +163,7 @@ The SAC website contains several tables which can be added / edited using Markdo
 ```
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
-|==|
+|==
 | footer-row |
 ```
 
