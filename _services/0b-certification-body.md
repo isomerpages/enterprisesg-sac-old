@@ -89,7 +89,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43 |
 | Other Programmes {::nomarkdown}<ul><li>Signed in 1997 (Testing and Calibration)</li><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul>{:/} | ISO/IEC 17024 | Various applicable standards |
 
-#### BENEFITS
+### Benefits
 Accreditation will:
 
 * **Increase confidence**:  
@@ -98,7 +98,7 @@ Widely recognised by regulators and the industry, SAC accredited certificates in
 * **International recognition**:  
 As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System, Food Safety Management System, Environmental Management System and Product Certification of the Pacific Accreditation Cooperation (PAC) and the International Accreditation Forum (IAF), certificates issued by SAC-accredited certification bodies are globally recognised by MLA members that span across 38 economies. 
 
-#### PROCESS
+### Process
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body's office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process.  
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Services Chart](/images/services/accreditation_process.png)
