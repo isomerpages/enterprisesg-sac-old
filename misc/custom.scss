@@ -56,6 +56,16 @@ $tablet: 768px !default;
 	}
 }
 
+#main-content {
+	a {
+		color: $primary;
+		text-decoration: none;
+	}
+	a:hover, a:active{
+		color: $primary;
+		text-decoration: underline;
+	}
+}
 
 // Background
 .bg{
