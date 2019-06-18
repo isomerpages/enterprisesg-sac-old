@@ -1,6 +1,4 @@
 ---
-layout: simple-page
-title: README
 permalink: /readme
 ---
 
