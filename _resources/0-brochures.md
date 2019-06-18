@@ -5,7 +5,7 @@ permalink: /resources/brochures
 collection_name: resources
 ---
 
-{. style="padding-left:1rem;"}
+{: style="padding-left:1rem;"}
 #### Commemorative Booklet: 50 Years of Quality and Standards
 ---
 
@@ -13,9 +13,8 @@ collection_name: resources
 | [![Commemorative Book 2016](/images/brochures/Comm-Book-2016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"} |||
 
 
-
+{: style="padding-left:1rem;"}
 #### SAC Brochures
-{. style="padding-left:1rem;"}
 ---
 
 {:.no-border .brochures-table}
@@ -26,7 +25,7 @@ collection_name: resources
 
 
 
-{.style="padding-left:1rem;"}
+{: style="padding-left:1rem;"}
 #### SAC Directory
 ---
 
@@ -34,7 +33,7 @@ collection_name: resources
 | [![SAC Directory 16-17](/images/brochures/SAC-Directory-Cover-1617.png)](/files/brochures/SAC-Directory-16-17-Final.pdf){:target="_blank"} |||
 
 
-{.style="padding-left:1rem;"}
+{: style="padding-left:1rem;"}
 #### Other Brochures
 ---
 
