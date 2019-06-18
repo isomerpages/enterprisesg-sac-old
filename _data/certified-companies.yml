@@ -1,7 +1,7 @@
 - title: Management System Certification
   company-list:
     - name: ACE International Certification Pte Ltd
-      link: http://www.aceintlcert.com/
+      link: http://www.aicpl.com.sg/index.php?lang=en
     - name: BSI Group Pte Ltd
       link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
     - name: Building and Construction Authority
@@ -37,23 +37,23 @@
     - name: SGS International Certification Services Pte Ltd
       link: http://www.sgs.sg/en/Our-Company/Certified-Clients-and-Products/Certified-Client-Directory.aspx
     - name: Singapore Test Services Pte Ltd
-      link: https://www.isc-global.net/our-clients/
+      link: https://singaporetestservices.com/customer-result/?_sft_category=management-system
     - name: Singapore ISC Pte Ltd
-      link: http://www.test.com.sg/services_certification.aspx?st=Management%20Systems&sid=9#
+      link: http://www.isc-global.net/our-clients/
     - name: TQCSI Certification Pte Ltd
-      link: http://www.tqcsi.com/v2.0/cert_org_search.asp 
+      link: http://www.tqcsi.com/certified-organisations
     - name: Transpacific Certification Singapore Pte Ltd
       link: http://tcspl.com.sg/?page_id=471
     - name: TÜV Rheinland Singapore Pte Ltd
       link: https://www.certipedia.com/?locale=en#system-search
     - name: TÜV SÜD PSB Pte Ltd
-      link: http://www.tuv-sud-psb.sg/sg-en/resource-centre/certificate-finder/directory-of-management-system-certified-companies
+      link: https://www.tuv-sud-psb.sg/sg-en/resource-centre/certificate-finder/directory-of-management-system-certified-companies
     - name: URS Far East Pte Ltd
-      link: http://www.acbworld.org/index.nsf/xpClientSearch.xsp 
-- title: Personnel Certification
+      link: http://www.urs-holdings.com/verify-the-validity-of-a-certificate
+- title: Product Certification
   company-list:
     - name: Admaterials Technologies Pte Ltd
-      link: http://www.admaterials.com.sg/service_cert_companies.php
+      link: https://www.admaterials.com.sg/services/certification/index.html
     - name: CAST Laboratories Pte Ltd
       link: http://www.castlab.com.sg/our-services/certification-body-for-ready-mixed-concrete/
     - name: Centre Testing International Pte Ltd
@@ -71,16 +71,16 @@
     - name: Singapore Laboratory Services Pte Ltd
       link: http://sls-singapore.sg/certification/
     - name: Singapore Test Services Pte Ltd
-      link: ttp://www.test.com.sg/services_certification.aspx?st=Fire%20Safety%20Product&sid=21
+      link: https://singaporetestservices.com/customer-result/?_sft_category=fire-safety-products
     - name: TÜV Rheinland Singapore Pte Ltd
       link: https://www.certipedia.com/?locale=en#product-search
     - name: TÜV SÜD PSB Pte Ltd - Product Listing Scheme (PLS)
-      link: http://www.tuv-sud-psb.sg/sg-en
+      link: https://www.tuv-sud-psb.sg/sg-en/activity/testing-product-certification/product-listing-scheme
     - name: TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme
       link: http://www.tuv-sud-psb.sg/sg-en/activity/testing-product-certification/ready-mixed-concrete-certification-scheme
     - name: UL International-Singapore Pte Ltd
       link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html    
-- title: Product Certification
+- title: Personnel Certification
   company-list:
     - name: Institute of Management Consultants (Singapore)
       link: http://rmcsingapore.org/images/PDF/Register-of-RMC.pdf
@@ -91,4 +91,4 @@
     - name: Singapore Rope Access Association Limited
       link: http://sraa.asia/members/cert/
     - name: TÜV SÜD PSB Pte Ltd
-      link: https://www.tuv-sud-psb.sg/sg-en/activity/auditing-system-certification/scmc
+      link: https://www.tuv-sud-psb.sg/sg-en/activity/certification-of-persons/singapore-certified-management-consultants-scmc
