@@ -6,12 +6,14 @@
           - line: "Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification."
       - question: What is the difference between accreditation and certification?
         answer: 
-          - line: "**Accreditation**: Accreditation is the formal recognition by an accreditation authority to the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation."
+          - line: "**Accreditation**: Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation."
           - line: "**Certification**: Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements."
           - line: 'ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="_blank"} in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.'
       - question: What are the benefits of being accredited?
         answer: 
-          - line: "Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/inspections if you are an accredited laboratory or inspection body."
+          - line: "These are some of the key benefits of being accredited."
+          - line: "**Building Trust:** In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of your products and services. This will enable you to build trust between you and your customers."
+          - line: "**International Recognition:** Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body, or accept your test results/inspections if you are an accredited laboratory or inspection body."
           - line: "**Minimises Risk:** Accredited organisations reduce the risk of providing unreliable test results, services and products, and are able to meet the customers' expectations."
           - line: "**Reduce Costs**: Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc."
           - line: "**Demonstrate Credibility**: No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel."
@@ -21,7 +23,7 @@
           - line: "**Accreditation Scheme for Laboratories (SAC-SINGLAS)**: This scheme  evaluates the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189."
           - line: "**Accreditation Scheme for Inspection Bodies**: This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field."
           - line: "**Accreditation Scheme for Management Systems Certification Bodies**:"
-          - line: "* **Quality Management System (QMS)**: This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS)."
+          - line: "* **Quality Management System (QMS)**: This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS)."
           - line: "* **Business Continuity Management System (BCM)**: This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM)."
           - line: "* **Energy Management System (ENMS)**: This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements of ISO/IEC 17021 and CT 10 - SAC Criteria for Certification Bodies (ENMS)."
           - line: "* **Environmental Management System (EMS)**: This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents."
@@ -61,18 +63,18 @@
           - line: "Product registration in overseas markets are typically referred to the US FDA for pharmaceuticals and the European authority (EMEA). In Singapore, the relevant registration authorities are Health Sciences Authority (HSA for pharmaceuticals), Agri-Food & Veterinary Authority (AVA for biologics and agricultural chemicals) and National Environment Agency (NEA for pesticides and industrial chemicals). With the MAD adherence, the Singapore GLP Compliance programme will provide greater assurance of test data for non-clinical studies. These regulators will be able to accept the test data with confidence in the assessment of health and safety for product approvals."
       - question: What are the OECD Principles?
         answer: 
-          - line: "The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target='_blank'}."
+          - line: "The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD's Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target='_blank'}."
       - question: Where do I apply the GLP studies?
         answer: 
            - line: "The Principles of GLP are applied to the conduct of non-clinical health and environmental safety studies of test items contained in various chemical products. A study covers work done in a laboratory, in an animal house, in greenhouses, and in the field. Non-clinical studies may cover physical-chemical testing, toxicity studies, mutagenicity studies, environmental toxicity, bioaccumulation, residue studies, studies on effects of mesocosms and ecosystems and the analytical chemistry associated with such studies."
       - question: What information is required for submission to SAC?
         answer: 
            - line: "A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :"
-           - line: "a. Management structure"
-           - line: "b. Key responsibilities of the personnel and units"
-           - line: "c. Information on names of Study Director, Study Sponsor"
-           - line: "d. Persons in charge of Quality Assurance and the Archive"
-           - line: "e. Quality Manual and Standard Operation Procedures Structure, Master Schedule etc."
+           - line: "  a. Management structure"
+           - line: "  b. Key responsibilities of the personnel and units"
+           - line: "  c. Information on names of Study Director, Study Sponsor"
+           - line: "  d. Persons in charge of Quality Assurance and the Archive"
+           - line: "  e. Quality Manual and Standard Operation Procedures Structure, Master Schedule etc."
       - question: What are the criteria that a facility must follow?
         answer: 
            - line: "The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:"
