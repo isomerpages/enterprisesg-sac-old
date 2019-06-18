@@ -9,6 +9,7 @@ collection_name: resources
 
 {:.no-border .brochures-table}
 | [![Commemorative Book 2016](/images/brochures/Comm-Book-2016.png)](https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html){:target="_blank"} |||
+
 ---
 
 #### SAC Brochures
@@ -18,12 +19,14 @@ collection_name: resources
 | [![MS Certification Bodies](/images/brochures/SAC-Brochures-MS.jpg) Accreditation Scheme for Management System Certification Bodies](/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Managament-System-Certification-Bodies.pdf){:target="_blank"} | [![Product Certification Bodies](/images/brochures/SAC-Brochures-PC.PNG) Accreditation Scheme for Product Certification Bodies](/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Product-Certification-Bodies.pdf){:target="_blank"} | [![GLP Compliance](/images/brochures/SAC-Brochures-GLP.jpg) Good Laboratory Practice Compliance Programme](/files/brochures/SAC-Brochure-Good-Laboratory-Practice-Compliance-Programme.pdf){:target="_blank"} |
 | [![Personnel Certification Bodies](/images/brochures/SAC-Brochures-PCB.jpg) Accreditation Scheme for Personnel Certification Bodies](/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Personnel-Certification-Bodies.pdf){:target="_blank"} |  [![Proficiency Testing Providers](/images/brochures/SAC-Brochures-PTP.jpg) Accreditation Scheme for Proficiency Testing Providers](/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Proficiency-Testing-Providers.pdf){:target="_blank"} | [![SAC Accreditation Marks](/images/brochures/SAC-Brochures-SAC-Accreditation Marks.jpg) SAC Accreditation Marks](/files/brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf){:target="_blank"} |
 | [![SAC-Brochures-Building_Construction](/images/brochures/SAC-Brochures-Building_Construction.PNG) SAC Accreditation Programmes for the Building and Construction Industry](/files/brochures/SAC-Accreditation-Programmes-for-the-Building-and-Construction-Industry.pdf){:target="_blank"} |||
+
 ---
 
 #### SAC Directory
 
 {:.no-border .brochures-table}
 | [![SAC Directory 16-17](/images/brochures/SAC-Directory-Cover-1617.png)](/files/brochures/SAC-Directory-16-17-Final.pdf){:target="_blank"} |||
+
 ---
 
 #### Other Brochures
