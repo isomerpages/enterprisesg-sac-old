@@ -5,7 +5,7 @@ permalink: /resources/brochures
 collection_name: resources
 ---
 
-{.style="padding-left:1rem;"}
+{. style="padding-left:1rem;"}
 #### Commemorative Booklet: 50 Years of Quality and Standards
 ---
 
@@ -14,8 +14,8 @@ collection_name: resources
 
 
 
-{.style="padding-left:1rem;"}
 #### SAC Brochures
+{. style="padding-left:1rem;"}
 ---
 
 {:.no-border .brochures-table}
