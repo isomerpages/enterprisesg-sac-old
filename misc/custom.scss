@@ -292,6 +292,11 @@ $tablet: 768px !default;
 	.col.is-one-quarter:hover > p.is-hidden-mobile {
 		display:block;
 	}
+	&.bottom-section {
+		.col.is-two-thirds::after {
+			content: "The National Accreditation Programme is managed by Enterprise Singapore";
+		}
+	}
 }
 
 .padding--top--lg {
