@@ -14,7 +14,7 @@ These modules include:
 3. Accreditation Process  
 4. Accreditation Requirements
 
-{: .no-border .with-image-captions}
+{: .with-image-captions}
 | ![elearning screenshot](/images/press-release/documents/elearning-screenshot.png) |
 | _Introductory page for the module on "Introduction to Accreditation and SAC"_ |
 
