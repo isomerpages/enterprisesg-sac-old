@@ -27,4 +27,4 @@ Singapore 237994
 **Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}  
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (_Closed on Saturdays, Sundays and Public Holidays_)
 
-In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APLAC](http://www.aplac.org/){:target="_blank"}, [PAC](http://www.apec-pac.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="_blank"} websites.
+In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="_blank"} websites.
