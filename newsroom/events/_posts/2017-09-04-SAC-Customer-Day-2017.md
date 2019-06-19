@@ -21,4 +21,4 @@ The discussion forum allowed the participants to talk about topics such as growt
 
 At the event, accreditation plaques were presented to SAC newly accredited conformity assessment bodies (CABs). Our heartiest congratulations to the achievements of these CABs!
 
-![customerday2017_6](/images/press-release/photos/customerday2017_6.png)
+![customerday2017_6](/images/press-release/documents/customerday2017_6.png)
