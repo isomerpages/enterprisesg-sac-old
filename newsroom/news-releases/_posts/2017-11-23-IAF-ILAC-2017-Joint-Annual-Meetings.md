@@ -19,7 +19,7 @@ All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three
 **Mandatory issuance of accredited personnel certifications:**  
 IAF accreditation body members shall have legally enforceable arrangements with their accredited certification bodies for personnel certification to ISO/IEC 17024 that prevents the certification bodies from issuing non-accredited persons certificates in scopes for which they are accredited, and shall require full implementation within 3 years from 30 October 2017.
  
-SAC will keep accredited certification bodies informed on any IAF updates regularly. More information on the IAF resolutions can be found [here](http://www.iaf.nu/upFiles/VancouverGAResolutions_Final.pdf).
+SAC will keep accredited certification bodies informed on any IAF updates regularly. More information on the IAF resolutions can be found [here](http://www.iaf.nu/upFiles/VancouverGAResolutions_Final.pdf){:target="_blank"}.
 
 **New signatories into ILAC Mutual Recognition Arrangement:**  
 * Egypt (EGAC) and Botswana (SADCAS) for medical testing (ISO 15189) and inspection body (ISO/IEC 17020);
