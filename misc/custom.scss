@@ -293,6 +293,7 @@ $tablet: 768px !default;
 		display:block;
 	}
 	&.bottom-section {
+		color: #767676;
 		.col.is-two-thirds::after {
 			content: "The National Accreditation Programme is managed by Enterprise Singapore";
 		}
