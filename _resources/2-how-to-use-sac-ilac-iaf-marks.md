@@ -10,7 +10,7 @@ collection_name: resources
 
 * The SAC Accreditation Marks are illustrated below and the appropriate artwork shall be reproduced accurately without any alteration subject to provisions of this clause.
 
-{:.no-border .with-image-captions}
+{:.with-image-captions}
 |![SAC Accreditation Mark for Inspection Bodies](/images/how-to-use-marks/sac-accreditation-mark-inspection-bodies.jpg){: style="width: 300px"}  | ![SAC Accreditation Mark for Laboratories](/images/how-to-use-marks/sac-accreditation-mark-laboratories.jpg){: style="width: 300px"} |
 | _for Inspection Bodies_ | _for Laboratories_ |
 | ![SAC Accreditation Mark for Certification Bodies](/images/how-to-use-marks/sac-accreditation-mark-certification-bodies.jpg){: style="width: 300px"} |  ![SAC Accreditation Mark for Other Schemes](/images/how-to-use-marks/sac-accreditation-mark-other-schemes.jpg){: style="width: 300px"} |
@@ -28,7 +28,7 @@ collection_name: resources
 * An accredited laboratory or inspection body is encouraged to use the Accredited CAB Combined ILAC MRA Mark to demonstrate that the
 laboratory or inspection body is accredited by a signatory of the International Laboratory Accreditation Cooperation (ILAC) Mutual Recognition Arrangement. The ILAC MRA Mark shall only be used in combination with the SAC accreditation mark which is then known as the "Accredited CAB Combined ILAC MRA Mark". 
 
-{:.no-border .with-image-captions}
+{:.with-image-captions}
 |![Combined ILAC MRA Mark for Accredited Laboratory](/images/how-to-use-marks/ilac-mra-mark-laboratory.jpg){: style="width: 300px"}  | ![Combined ILAC MRA Mark for Accredited Inspection Body](/images/how-to-use-marks/ilac-mra-mark-inspection-body.jpg){: style="width: 300px"} |
 | _for Accredited Laboratory_ | _for Accredited Inspection Body_ |
 
@@ -55,7 +55,6 @@ MRA mark shall be within 5%. It shall not have a 'similar' typeface substituted 
 * The IAF MLA Mark shall be printed according to the following specifications:  
   i. In black and white or in the colours Pantone 2747 (dark blue) Pantone 299 (light blue);  
   ii. On a clearly contrasting background; and  
-  iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than
-20mm for printed media and 75 pixels for digital media.
+  iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than 20mm for printed media and 75 pixels for digital media.
 
 * Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"} for more information on the IAF MLA mark and sub-licence agreement.
