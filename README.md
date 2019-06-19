@@ -362,6 +362,36 @@ The _services folder contains the files of all the sub-links in the 'Services' p
 
 Most of the pages follow the Isomerpages 'leftnav-page-content' template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
+### Editing Tables in 'Accreditation Services -> Certification Body' Inner Page
+Some of the images have been placed in tables with image captions below for better alignment. The tables used have been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
+```
+{:.no-border .with-image-captions}
+| ![Product Certification](/images/services/product-certification-accreditation.jpg) |
+| _Accreditation Scheme for Product Certification_ |
+```
+
+Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'with-image-captions' customisation contains styling information for aligning the image and caption in each table cell. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the ".no-border" or ".with-image-captions" code blocks. Change the attributes by amending the section within the code blocks
+
+```css
+# Sample custom.scss file section for reference
+
+table {
+	&.with-image-captions {
+		//edit content here
+		...
+	}
+}
+```
+
+5. Click on "Commit changes" button to save.
+
+Additionally, the page also contains standards tables listing the programme details of the accreditation services available for creditation bodies. Tables which contain bulleted lists must make use of the `{::nomarkdown}{:/}` tags so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
+
 ### Editing 'Training Services - Recent Courses / Workshops / Seminars' Page
 The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [Isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
 
@@ -483,7 +513,7 @@ The _accredited-org folder contains the files of all the sub-links in the 'Servi
 The 'CAB Status Update' page follows the Isomerpages leftnav-page-content template layout. More details for editing this page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing 'Certified CAB Companies' Page
-The Certified CAB Companies Section page follows the customised 'certified-companies' template layout. The data in the page can be edited in the 'certified-companies.yml' file of the '_data' folder.
+The Certified CAB Companies Section page follows the customised 'certified-companies' template layout. The data in the page can be edited in the 'certified-companies.yml' file inside the '_data' folder.
 
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
@@ -492,11 +522,6 @@ The Certified CAB Companies Section page follows the customised 'certified-compa
 
 <a name="edit-contact"></a>
 ## Editing the Content in Contact Us Page
-The 'Contact Us' page uses the Isomerpages contact-us template layout. The contact-us.md file is located inside the pages folder which lists the type of Isomerpages layout template used for this page, the title and the page url link that will appear in the user's Web browser.
+The 'Contact Us' page uses the Isomerpages contact-us template layout. The contact-us.md file is located inside the pages folder which lists the type of Isomerpages layout template used for this page, the title and the page url link that will appear in the user's Web browser. The data in the page can be edited in the 'contact-us.yml' file inside the '_data' folder.
 
-The content for the page can be edited inside the contact-us.yaml file in the _data folder. 
-
-1. Select your "Staging" Branch
-2. In your repository, go to "_data" folder
-3. Edit contact-us.yml file. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
-4. Click on "Commit changes" button.
+More details for editing this page can be viewed in the official [Isomer documentation for Contact Us page](https://isomer.gov.sg/documentation/contact-us/overview/).
