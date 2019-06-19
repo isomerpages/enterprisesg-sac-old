@@ -4,12 +4,25 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
 
-#### **General Legal Information**
+1. ### Agreement - Terms  
+All access of any area of our website at www.sac-accreditation.gov.sg is governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms , we would advise you to exit. Please continue only if you can accept these Terms.
+In these Terms, the words "we", "our" and "us" refers to Singapore Accreditation Council.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+2. ### Access To SAC  
+The accessibility and operation of our website relies on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+3. ### Relying On Information  
+We provide our website as a general information source only. Do note that we are not involved in giving professional advice here. The website may not cover all information available on a particular issue. We would advise that you conduct your own checks or obtain professional advice relevant to your particular circumstances, outside of our website.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+4. ### Security  
+Where appropriate, we use available technology to protect the security of communications made through our website. Do note that we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through our website.
+Internet communications may be susceptible to interference or interception by third parties. We will do our best but we cannot make any warranties that our website is free of infection by computer viruses or other unauthorised software.
+
+5. ### Hyperlinks  
+We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from our website. Access to any other Internet site is at your own risk. If you create a link or frame to our website, you do so at your own risk.
+We reserve the right to object or disable any link or frame to or from our website.
+
+6. ### Video and Audio Contents  
+Do take note that you may not copy, reproduce, edit, adapt, alter, republish, post, broadcast, transmit, make available to the public, or otherwise use the audio or video on our website in any way except for your own personal, non-commercial use.
+You may not download, or use our files for the purpose of promoting, advertising, endorsing or implying a connection with you (or any third party) and Singapore Accreditation Council, its agents or employees.
