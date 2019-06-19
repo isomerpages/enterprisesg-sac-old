@@ -15,5 +15,6 @@ Application for accreditation is now open through the SAC accreditation portal, 
 
 | ![MOU-ISA.jpg](/images/press-release/photos/MOU-ISA.jpg) _Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI_|
 
-{: .with-image-captions}
-| ![MOU-ISA.jpg](/images/press-release/photos/MOU-ISA.jpg) _Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI_ |
+{:.with-image-captions}
+| ![MOU-ISA.jpg](/images/press-release/photos/MOU-ISA.jpg) |
+| _Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI_ |
