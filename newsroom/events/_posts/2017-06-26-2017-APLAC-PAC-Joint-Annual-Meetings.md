@@ -13,11 +13,11 @@ One of the key highlights of the meetings was the various peer evaluation outcom
 
 In APLAC, the new signatories are RusAccreditation (Russia) and NCA (Kazakhstan) for testing and calibration. Signatories that extended their recognition scope are KAN (Indonesia) and AAC Analitica (Russia) for proficiency testing providers.
 
-In PAC, Mongolia joined as a new multi-lateral arrangement (MLA) signatory.  Members that expanded their MLA scope includes ema (Mexico) for Information Security Management Systems (ISMS), Hong Kong Accreditation Service (Hong Kong) for Food Safety Management System (FSMS), PNAC (Pakistan) for product certification, and NACI (Iran) for Environmental Management System (EMS) and FSMS.
+In PAC, Mongolia joined as a new multi-lateral arrangement (MLA) signatory. Members that expanded their MLA scope includes ema (Mexico) for Information Security Management Systems (ISMS), Hong Kong Accreditation Service (Hong Kong) for Food Safety Management System (FSMS), PNAC (Pakistan) for product certification, and NACI (Iran) for Environmental Management System (EMS) and FSMS.
 
 PAC has also endorsed the development of two new MLA programmes for certification of Medical Devices Quality Management System Certification (ISO 13485), and Occupational Safety and Health Management Systems (OSHMS).
 
-Another significant outcome of these meetings was the endorsement from both APLAC and PAC membership to proceed with the merger.  A new entity, Asia Pacific Accreditation Cooperation (APAC) will be established with effect from 1 January 2019.  At the meetings, several issues including the constitution, governance structure, membership categories and voting rights were discussed.
+Another significant outcome of these meetings was the endorsement from both APLAC and PAC membership to proceed with the merger. A new entity, Asia Pacific Accreditation Cooperation (APAC) will be established with effect from 1 January 2019. At the meetings, several issues including the constitution, governance structure, membership categories and voting rights were discussed.
 
 SAC is part of the APLAC and PAC MRA network for accreditation of testing, calibration and medical laboratories, inspection bodies, proficiency testing providers, and certification bodies for quality management system, food safety management system, energy management system, environmental management system, and product.
 
