@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Launch of New Online Learning Portal
 date:   2018-01-02
@@ -9,18 +9,19 @@ The Singapore Accreditation Council (SAC) has launched a new [platform](https://
  
 As a start, the portal offers four modules, covering topics on accreditation and SAC:
 These modules include:
-1. Introduction to Accreditation and SAC
-2. Understanding Mutual Recognition Arrangements
-3. Accreditation Process
+1. Introduction to Accreditation and SAC  
+2. Understanding Mutual Recognition Arrangements  
+3. Accreditation Process  
 4. Accreditation Requirements
 
-![elearning screenshot](/images/press-release/documents/elearning-screenshot.png)
-*Introductory page for the module on “Introduction to Accreditation and SAC”*
+{: .no-border .with-image-caption}
+| ![elearning screenshot](/images/press-release/documents/elearning-screenshot.png) |
+| _Introductory page for the module on "Introduction to Accreditation and SAC"_ |
 
-Learners who go through these four modules will be equipped with basic knowledge and concepts important to accreditation and SAC. For example, the “Accreditation Process” module will allow learners to appreciate the process of obtaining accreditation from the start to the end. The SAC eLearning Portal will also provide learning materials from events and workshops as well as supplementary documents from international fora.
+Learners who go through these four modules will be equipped with basic knowledge and concepts important to accreditation and SAC. For example, the "Accreditation Process" module will allow learners to appreciate the process of obtaining accreditation from the start to the end. The SAC eLearning Portal will also provide learning materials from events and workshops as well as supplementary documents from international fora.
  
 Although access to this e-learning portal is currently only for SAC volunteers, it will eventually be extended to SAC-accredited conformity assessment bodies in future.
  
-To visit the SAC eLearning Portal, please visit [https://lms.wizlearn.com/saclearning](https://lms.wizlearn.com/saclearning){:target="_blank"}.
+To visit the SAC eLearning Portal, please visit <https://lms.wizlearn.com/saclearning>{:target="_blank"}.
  
-The web-based portal is compatible with major internet browsers.
+_The web-based portal is compatible with major internet browsers._
