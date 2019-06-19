@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MoU between SAC and ASCI
+title:  MoU between SAC and ASCI for ISASecure® Industrial Cybersecurity Certification Scheme
 date:   2019-01-04
 permalink: /newsroom/news-releases/MoU-between-SAC-and-ASCI-for-ISASecure®-Industrial-Cybersecurity-Certification-Scheme
 ---
@@ -13,5 +13,5 @@ SAC is pleased to expand our Laboratory Accreditation Scheme to include Robustne
  
 Application for accreditation is now open through the SAC accreditation portal, SACiNet. Please contact your account manager for more information.
 
-![MOU-ISA.jpg](/images/press-release/photos/MOU-ISA.jpg)
-_Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI_
+| ![MOU-ISA.jpg](/images/press-release/photos/MOU-ISA.jpg) _Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI_|
+
