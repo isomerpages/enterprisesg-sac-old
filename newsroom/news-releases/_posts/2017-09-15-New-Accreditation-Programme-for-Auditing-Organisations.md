@@ -9,7 +9,7 @@ The Singapore Accreditation Council (SAC) has launched a new accreditation progr
  
 To raise the quality of Workplace Safety and Health (WSH) audits in the WSH management system for the industry, the Ministry of Manpower (MOM) has collaborated with SAC to establish a new regulatory regime to be established for WSH auditing organisations (WSHAOs). Under the new regime, the WSHAOs have to be accredited by SAC to be registered with MOM for performing WSH audit services. The SAC accreditation programme for auditing organisations was developed with close collaboration with MOM and industry stakeholders. The accreditation criteria will be based on [SAC CT 17](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="_blank"} - _Criteria for Accreditation of Auditing Organisations_.
 
-{: .no-border .with-image-captions}
+{: .with-image-captions}
 | ![AOProgrammeLaunch2017](/images/press-release/photos/AOProgrammeLaunch2017.png) |
 | _(Left) Mr Desmond Hill, Chairman of SAC's Council Committee for Management Systems & Product (CCMP) announced the launch of the new accreditation programme on 15 September 2017 at a briefing session for WSHAOs organised by the Ministry of Manpower (MOM)._ <br/> _(Right) Representatives from SAC and MOM were present to address queries from the WSHAOs about the new accreditation programme._ |
 
