@@ -13,8 +13,8 @@ The International Accreditation Forum (IAF) - International Laboratory Accredita
 
 Some key developments and resolutions made at the meetings are:
 
-#### Expiry of ISO 9001:2008 and ISO 14001:2004 certificates
-All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). [Click here](https://www.sac-accreditation.gov.sg/news/pressrelease/Documents/IAF_communique__Important_information_for_Certification_Bodies.pdf){:target="_blank"} for more details on the IAF Communique.
+**Expiry of ISO 9001:2008 and ISO 14001:2004 certificates:**  
+All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). [Click here](/images/press-release/documents/IAF_communique__Important_information_for_Certification_Bodies.pdf){:target="_blank"} for more details on the IAF Communique.
  
 **Mandatory issuance of accredited personnel certifications**
 
@@ -32,6 +32,6 @@ Arab Accreditation Cooperation (ARAC) was recognized as a new regional cooperati
  
 **IAF database of accredited management systems certificates**
 
-A database of management system certificates provided by accredited certification bodies will be established.  The database presents a unique opportunity for organisations with accredited certificates to be able to reach out to potential buyers looking for suppliers that hold authentic certificates. Accredited certification bodies and their certified clients are strongly encouraged to participate in the database once the database project is launched.
+A database of management system certificates provided by accredited certification bodies will be established. The database presents a unique opportunity for organisations with accredited certificates to be able to reach out to potential buyers looking for suppliers that hold authentic certificates. Accredited certification bodies and their certified clients are strongly encouraged to participate in the database once the database project is launched.
  
 The next mid-year IAF/ILAC meeting will be held in Frankfurt, Germany from 04 to 12 April 2018 and the next Joint IAF/ILAC Annual Meetings 2018 will be held in Singapore from 22 to 31 October 2018.
