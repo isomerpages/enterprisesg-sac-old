@@ -519,6 +519,7 @@ hr {
 		&.with-image-captions {
 			td {
 				text-align: center;
+				border: 0;
 			}
 			tr:nth-child(even) {
 				td {
