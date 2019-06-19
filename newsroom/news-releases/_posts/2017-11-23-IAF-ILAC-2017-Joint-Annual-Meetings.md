@@ -5,15 +5,15 @@ date:   2017-11-23
 permalink: /newsroom/news-releases/IAF-ILAC-2017-Joint-Annual-Meetings
 ---
 
-![IAF Certificate 14001](/images/press-release/documents/IAF-Certificate-14001.jpg)
-(Above) IAF Chairman, Mr Xiao Jianhua, presenting the certificate to SAC Director, Ms Chang Kwei Fern, to accept SAC into IAF multilateral recognition arrangement (MLA) for ISO 14001 which was officially recognized from 27 July 2017.
+{: .no-border .with-image-captions}
+| ![IAF Certificate 14001](/images/press-release/photos/IAF-Certificate-14001.jpg) |
+| _(Above) IAF Chairman, Mr Xiao Jianhua, presenting the certificate to SAC Director, Ms Chang Kwei Fern, to accept SAC into IAF multilateral recognition arrangement (MLA) for ISO 14001 which was officially recognized from 27 July 2017._ |
 
 The International Accreditation Forum (IAF) - International Laboratory Accreditation Cooperation (ILAC) Joint Annual Meeting 2017 was held in Vancouver, Canada from 21 to 30 October 2017. Singapore Accreditation Council (SAC) participated as a full member of both ILAC and IAF with the aims to achieve mutual acceptance of accreditation at the international level, thus facilitating market access of Singapore goods and services to overseas markets.
 
 Some key developments and resolutions made at the meetings are:
 
-**Expiry of ISO 9001:2008 and ISO 14001:2004 certificates**
-
+#### Expiry of ISO 9001:2008 and ISO 14001:2004 certificates
 All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). [Click here](https://www.sac-accreditation.gov.sg/news/pressrelease/Documents/IAF_communique__Important_information_for_Certification_Bodies.pdf){:target="_blank"} for more details on the IAF Communique.
  
 **Mandatory issuance of accredited personnel certifications**
