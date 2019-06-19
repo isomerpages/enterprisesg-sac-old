@@ -18,13 +18,13 @@ Launched in October 1996, the Accreditation Scheme for Quality Management System
  
 The Accreditation Scheme for Environmental Management System Certification Bodies and the Accreditation Scheme for Product Certification Bodies were launched in November 1999 and November 2001 respectively. The latter was extended in April 2009 to cover the certification of ready-mixed concrete in a bid to support the Building and Construction Authority's initiative to ensure high quality of ready-mixed concrete.
 
-{:.no-border .with-image-captions}
+{:.with-image-captions}
 | ![Product Certification](/images/services/product-certification-accreditation.jpg) |
 | _Accreditation Scheme for Product Certification_ |
 
 In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) Management System was launched, followed by the Accreditation Scheme for HACCP based Food Management System in September 2005. The accreditation scheme for food safety management system (ISO 22000) was launched in October 2006 while the accreditation scheme for business continuity management (BCM) was launched in April 2010.
 
-{:.no-border .with-image-captions}
+{:.with-image-captions}
 | ![Food Safety Management System](/images/services/food-management-accreditation.jpg) |
 | _Accreditation Scheme for Food Safety Management System_ |
  
@@ -32,7 +32,7 @@ The accreditation programme for Energy Management System was launched in July 20
  
 The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification by providing third-party assuance of the competency and impartiality of accredited Personnel Certification Bodies.
 
-{:.no-border .with-image-captions}
+{:.with-image-captions}
 | ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg) |
 | _Accreditation Scheme for Personnel Certification_ |
  
