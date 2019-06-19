@@ -294,8 +294,15 @@ $tablet: 768px !default;
 	}
 	&.bottom-section {
 		color: #767676;
-		.col.is-two-thirds::after {
-			content: "The National Accreditation Programme is managed by Enterprise Singapore";
+		.col.is-two-thirds {
+			ul {
+				@include tablet() {
+					margin-bottom: 15px;
+				}
+			}
+			&::after {
+				content: "The National Accreditation Programme is managed by Enterprise Singapore";
+			}
 		}
 	}
 }
