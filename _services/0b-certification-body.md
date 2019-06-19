@@ -18,8 +18,6 @@ Launched in October 1996, the Accreditation Scheme for Quality Management System
  
 The Accreditation Scheme for Environmental Management System Certification Bodies and the Accreditation Scheme for Product Certification Bodies were launched in November 1999 and November 2001 respectively. The latter was extended in April 2009 to cover the certification of ready-mixed concrete in a bid to support the Building and Construction Authority's initiative to ensure high quality of ready-mixed concrete.
 
-| ![Product Certification](/images/services/product-certification-accreditation.jpg)  _Accreditation Scheme for Product Certification_ |
-
 {:.with-image-captions}
 | ![Product Certification](/images/services/product-certification-accreditation.jpg) |
 | _Accreditation Scheme for Product Certification_ |
