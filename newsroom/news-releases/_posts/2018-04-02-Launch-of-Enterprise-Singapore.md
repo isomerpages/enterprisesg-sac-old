@@ -11,7 +11,7 @@ As Enterprise Singapore, we will work with a large base of companies who require
 
 The Singapore Accreditation Council (SAC) will continue to be managed under Enterprise Singapore as the national authority for accreditation of conformity assessment bodies. In general, there is no change to SAC's operations and it will continue to function as before the merger.
 
-With immediate effect, SAC secretariat’s email addresses will be changed from XXX@spring.gov.sg to XXX@enterprisesg.gov.sg, with the front part (“XXX”) of the email address unchanged. Our general SAC email address will now be <sac@enterprisesg.gov.sg>.
+With immediate effect, SAC secretariat's email addresses will be changed from XXX@spring.gov.sg to XXX@enterprisesg.gov.sg, with the front part ("XXX") of the email address unchanged. Our general SAC email address will now be <sac@enterprisesg.gov.sg>.
 
 To build on the strong SAC identity, as well as draw stronger linkage to Enterprise Singapore, the SAC logo and its accreditation marks will be amended. More information regarding these changes will be released soon.
 
