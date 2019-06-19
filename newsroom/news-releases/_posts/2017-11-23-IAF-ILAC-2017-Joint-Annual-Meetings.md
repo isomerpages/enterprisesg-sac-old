@@ -5,7 +5,7 @@ date:   2017-11-23
 permalink: /newsroom/news-releases/IAF-ILAC-2017-Joint-Annual-Meetings
 ---
 
-{: .no-border .with-image-captions}
+{: .with-image-captions}
 | ![IAF Certificate 14001](/images/press-release/photos/IAF-Certificate-14001.jpg){: style="max-width:300px;"} |
 | _(Above) IAF Chairman, Mr Xiao Jianhua, presenting the certificate to SAC Director, Ms Chang Kwei Fern, to accept SAC into IAF multilateral recognition arrangement (MLA) for ISO 14001 which was officially recognized from 27 July 2017._ |
 
