@@ -17,6 +17,6 @@ The main changes include:
 
 Please visit the [ISO news page](https://www.iso.org/news/ref2212.html){:target="_blank"} for more details about the revision process and other key changes introduced in the new standard.
 
-In view of this upcoming publication, SAC has prepared a transition policy. Following ILAC’s recommendation, SAC will give accredited laboratories **3 years to migrate** to the revised standard after it is published. Laboratories who are not accredited to the revised ISO/IEC 17025 standard after the deadline will not be allowed to issue SAC-accredited reports or certificates.
+In view of this upcoming publication, SAC has prepared a transition policy. Following ILAC's recommendation, SAC will give accredited laboratories **3 years to migrate** to the revised standard after it is published. Laboratories who are not accredited to the revised ISO/IEC 17025 standard after the deadline will not be allowed to issue SAC-accredited reports or certificates.
 
 SAC will provide more information on the transition activities once the revised standard is published.
