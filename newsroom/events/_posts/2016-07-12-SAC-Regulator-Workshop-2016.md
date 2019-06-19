@@ -15,4 +15,4 @@ At the open dialogue session, positive feedbacks, improvement and clarification 
 
 ![sacregulator3](/images/press-release/photos/SAC-Regulator-Workshop-2016-3.png)
 
-Mr Renny Yeo, SAC Chairman closed the workshop with a call for collaboration between SAC and the regulators.  SAC is happy to work with various government agencies to explore areas where accreditation can come in to support as well as to co-create solutions to support the quality and standards of our enterprises.
+Mr Renny Yeo, SAC Chairman closed the workshop with a call for collaboration between SAC and the regulators. SAC is happy to work with various government agencies to explore areas where accreditation can come in to support as well as to co-create solutions to support the quality and standards of our enterprises.
