@@ -11,4 +11,4 @@ permalink: /newsroom/news-releases/SAC-Unveils-30th-Anniversary-Logo
 
 The sphere is made up of polygons representing how accreditation regulates the world towards order and connectivity, and facilitates acceptance globally.
 
-The ‘3’ in bold brush stroke represents the determination and decisiveness of  the efforts and perseverance in 30 years of pressing on in accrediting businesses and agencies in Singapore so as to compete in the global arena.
+The '3' in bold brush stroke represents the determination and decisiveness of the efforts and perseverance in 30 years of pressing on in accrediting businesses and agencies in Singapore so as to compete in the global arena.
