@@ -21,7 +21,7 @@ calibration laboratories;
  
 For course objectives, please view attached [link](/files/training/Lab-Management-Course.pdf){:target="_blank"}.
  
-Please complete the attached [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:)
+Please complete the attached [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
  
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.   
  
