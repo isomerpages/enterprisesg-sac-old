@@ -17,17 +17,12 @@ Congratulations to SAC! All these achievements are only possible with the good w
 
 {: .image-caption}
 ![APLACPic2](/images/press-release/photos/APLAC-pic2.jpg)
-Signing of MRA to include PTP
+Signing of MRA to include PTP  
 (From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)
 
 {: .image-caption}
 ![APLACPic3](/images/press-release/photos/APLAC-pic3.jpg)
-Group Picture with other AB signatories who signed the MRA for PTP.
-(From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)
-
-![APLACPic3](/images/press-release/photos/APLAC-pic3.jpg)
-{: .image-caption}
-Group Picture with other AB signatories who signed the MRA for PTP.
+Group Picture with other AB signatories who signed the MRA for PTP.  
 (From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)
 
 {: .image-caption}
@@ -36,4 +31,4 @@ Group Picture with 9 other AB signatories who signed the MLA for FSMS.
 
 They are Indonesia (KAN), Sri Lanka (SLAB), India (NABCB), Vietnam (BOA), Australia/New Zealand (JAS-ANZ), Chinese Taipei (TAF), Japan (JAB), Singapore (SAC) and Mexico (ema).
  
-PAC is now ready to accept MLA application for Certification of Persons. At the meeting, the development of MLA for Energy Management System (EnMS) was approved.  SAC can look forward to entry into these new MLAs in the near future.
+PAC is now ready to accept MLA application for Certification of Persons. At the meeting, the development of MLA for Energy Management System (EnMS) was approved. SAC can look forward to entry into these new MLAs in the near future.
