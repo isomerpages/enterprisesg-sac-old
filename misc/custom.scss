@@ -483,15 +483,11 @@ hr {
 		color: $secondary;
 	}
 	table {
-		&.no-border {
-			border: 0;
-			td {
-				border: 0;
-			}
-		}
+		border: 0;
 		&.brochures-table {
 			table-layout:fixed;	
 			td {
+				border: 0;
 				width: 33%;
 				text-align: center;
 				vertical-align:top;
