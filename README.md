@@ -1,9 +1,3 @@
----
-layout: simple-page
-title: README
-permalink: /readme
----
-
 This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official [Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/).
 
 # Table of Contents
@@ -140,6 +134,13 @@ Images are displayed in their full width and height in the centre of each page b
 * To display 2 images side-by-side, we place them in a table as shown below:  
 ```
 | ![image-name](image-link) | ![image-name](image-link) |
+```
+
+* To add an image caption below the image, we add a customisation name (or HTML classname) 'image-caption' as an additonal attribute before or after the image and caption.
+```
+{: .image-caption}
+![image-name](image-link)
+Image Caption
 ```
 
 <a name="edit-table"></a>
@@ -362,33 +363,14 @@ The _services folder contains the files of all the sub-links in the 'Services' p
 
 Most of the pages follow the Isomerpages 'leftnav-page-content' template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
-### Editing Tables in 'Accreditation Services -> Certification Body' Inner Page
-Some of the images have been placed in tables with image captions below for better alignment. The tables used have been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
+### Editing Images and Tables in 'Accreditation Services -> Certification Body' Inner Page
+Some of the images have image captions below them. For better alignment and styling of the image captions, we add the customisation name 'image-caption' before each Markdown image syntax, as shown below:
+
 ```
-{:.with-image-captions}
-| ![Product Certification](/images/services/product-certification-accreditation.jpg) |
-| _Accreditation Scheme for Product Certification_ |
+{: .image-caption}
+![Product Certification](/images/services/product-certification-accreditation.jpg)
+Accreditation Scheme for Product Certification
 ```
-
-Essentially, the 'with-image-captions' customisation contains styling information for aligning the image and caption in each table cell. The customisation can be edited using the steps:
-
-1. Select your "Staging" Branch in the repository
-2. Go into the "misc" folder
-3. Edit the custom.scss file
-4. Search for the ".with-image-captions" code blockf. Change the attributes by amending the section within the code blocks
-
-```css
-# Sample custom.scss file section for reference
-
-table {
-	&.with-image-captions {
-		//edit content here
-		...
-	}
-}
-```
-
-5. Click on "Commit changes" button to save.
 
 Additionally, the page also contains standards tables listing the programme details of the accreditation services available for creditation bodies. Tables which contain bulleted lists must make use of the `{::nomarkdown}{:/}` tags so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
 
@@ -434,25 +416,25 @@ table {
 5. Click on "Commit changes" button to save.
 
 ### Editing 'How to use SAC / ILAC / IAF Marks' Page
-This page contains tables for some of the images that are aligned side-by-side. In addition, the tables have been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
+This page contains tables for some of the images that are aligned side-by-side. In addition, the tables have been customised and the 'image-caption-table' customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
 ```
-{:.with-image-captions}
+{: .image-caption-table}
 |![SAC-mark1-image-name](SAC-mark1-image-link) | ![SAC-mark2-image-name](SAC-mark2-image-link) |
 | SAC-mark1-caption | SAC-mark2-caption |
 ```
 
-Essentially, the 'with-image-captions' customisation contains styling information for aligning the SAC mark images and captions in each table cell. The customisation can be edited using the steps:
+Essentially, the 'image-caption-table' customisation contains styling information for aligning the SAC mark images and captions in each table cell. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the ".with-image-captions" code block. Change the attributes by amending the section within the code blocks
+4. Search for the ".image-caption-table" code block. Change the attributes by amending the section within the code blocks
 
 ```css
 # Sample custom.scss file section for reference
 
 table {
-	&.with-image-captions {
+	&.image-caption-table {
 		//edit content here
 		...
 	}
