@@ -140,7 +140,7 @@ Images are displayed in their full width and height in the centre of each page b
 ```
 {: .image-caption}
 ![image-name](image-link)
-Image Caption
+Image Caption Text
 ```
 
 <a name="edit-table"></a>
