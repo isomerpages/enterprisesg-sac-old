@@ -9,7 +9,7 @@ permalink: /courses/joint-courses-between-HSA-SAC
 
 Click [here](/files/training/Course-brochure-2019.pdf){:target="_blank"} to download the course brochure.
  
-Please email Ms Thang Jia Sui at [HSA_CML@hsa.gov.sg](mailto:HSA_CML@hsa.gov.sg) or contact her at **(65) 6775 1605** ext 125
+Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6775 1605** ext 125
  
 Please note link for registration:-  
 [https://bit.ly/2GygoWl](https://bit.ly/2GygoWl)  
