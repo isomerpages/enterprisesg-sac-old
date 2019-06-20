@@ -185,7 +185,7 @@ Table cells containing multiple lines (such as lists or paragraphs) require inli
 Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` or `{: #customised-table-unique-identifier}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
-{: .no-border}
+{: .groups}
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
 ```
@@ -411,26 +411,23 @@ Most of the pages follow the Isomerpages leftnav-page-content template layout. M
 ### Editing 'Brochures' Page
 The Brochures page contains a table for each brochure category. The table has been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
 ```
-{:.no-border .brochures-table}
+{:.brochures-table}
 | [![brochure1-image-name](brochure1-image-link) brochure1-title](brochure1-url-link){:target="_blank"} | [![brochure2-image-name](brochure2-image-link) brochure2-title](brochure2-url-link){:target="_blank"} |
 ```
 
-Essentially, the 'no-border' customisation or classname removes all visible borders / lines in the table and the 'brochures-table' customisation contains styling information for aligning the brochure images and titles in each table cell. The customisation can be edited using the steps:
+Essentially, the 'brochures-table' customisation contains styling information for aligning the brochure images and titles in each table cell. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the ".no-border" or ".brochures-table" code blocks. Change the attributes by amending the section within the code blocks
+4. Search for the ".brochures-table" code block. Change the attributes by amending the section within the code blocks
 
 ```css
 # Sample custom.scss file section for reference
 
 table {
-	&.no-border {
-		border: 0;
-		td {
-			border: 0;
-		}
+	&.brochures-table {
+		//edit attributes here
 	}
 ```
 
