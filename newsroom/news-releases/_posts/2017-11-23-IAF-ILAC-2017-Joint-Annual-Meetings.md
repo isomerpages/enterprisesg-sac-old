@@ -5,9 +5,9 @@ date:   2017-11-23
 permalink: /newsroom/news-releases/IAF-ILAC-2017-Joint-Annual-Meetings
 ---
 
-{: .with-image-captions}
-| ![IAF Certificate 14001](/images/press-release/photos/IAF-Certificate-14001.jpg){: style="max-width:300px;"} |
-| _(Above) IAF Chairman, Mr Xiao Jianhua, presenting the certificate to SAC Director, Ms Chang Kwei Fern, to accept SAC into IAF multilateral recognition arrangement (MLA) for ISO 14001 which was officially recognized from 27 July 2017._ |
+{: .image-caption}
+![IAF Certificate 14001](/images/press-release/photos/IAF-Certificate-14001.jpg){: style="max-width:300px;"}
+(Above) IAF Chairman, Mr Xiao Jianhua, presenting the certificate to SAC Director, Ms Chang Kwei Fern, to accept SAC into IAF multilateral recognition arrangement (MLA) for ISO 14001 which was officially recognized from 27 July 2017.
 
 The International Accreditation Forum (IAF) - International Laboratory Accreditation Cooperation (ILAC) Joint Annual Meeting 2017 was held in Vancouver, Canada from 21 to 30 October 2017. Singapore Accreditation Council (SAC) participated as a full member of both ILAC and IAF with the aims to achieve mutual acceptance of accreditation at the international level, thus facilitating market access of Singapore goods and services to overseas markets.
 
