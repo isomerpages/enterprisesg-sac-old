@@ -22,7 +22,7 @@ This 1.5-day course is to provide the participants with:
  
 For course objectives, please view attached [link](/files/training/ISO-17020-Course.pdf){:target="_blank"}.
  
-Please complete the [registration form](/files/registration-forms/Registration-form-(IB-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:angie_ng@spring.gov.sg)
+Please complete the [registration form](/files/registration-forms/Registration-form-(IB-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
  
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.   
  
