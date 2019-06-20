@@ -248,12 +248,14 @@ The _about folder contains the files of all the sub-links in the 'About' page. T
 Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
 ### Editing Videos in 'Collaborations And Recognitions' / 'Working with Regulators' Page
-The 'Collaborations And Recognitions' and 'Working with Regulators' pages contain videos which use HTML syntax and a customised name ('video-container') for styling purposes. To edit the video link, change the 'src' attribute within the `<iframe></iframe>` tags as shown below.
+The 'Collaborations And Recognitions' and 'Working with Regulators' pages contain videos which use HTML syntax and a customised name ('bp-youtube') for styling purposes. To edit the video link, change the 'src' attribute within the `<iframe></iframe>` tags as shown below.
 ```
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allowfullscreen></iframe>
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 ```
+More information on adding a youtube video can be found in the [Isomer documentation here](https://isomer.gov.sg/documentation/markdown/markdown-helper/).
+
 ### Editing Table in 'Mutual Recognition Arrangement' Page
 The 'Mutual Recognition Arrangement' page contains a table for the list osf MRAs. The table has been customised and the customisation name (which also acts as the unique identifier) has been added before the Markdown table syntax, as shown below:
 ```
