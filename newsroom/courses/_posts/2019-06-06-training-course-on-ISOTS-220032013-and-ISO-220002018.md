@@ -24,8 +24,8 @@ Participants are to provide questions on the application of the standards prior 
 
 Please complete the attached [registration form](/files/registration-forms/Registration-form-ISO-TS-22003-2013,ISO-22000-2018.docx){:target="_blank"} and email it to:
  
-Ms Manjit Pal Kaur at [Manjit_Pal_Kaur@enterprisesg.gov.sg](mailto:Manjit_Pal_Kaur@enterprisesg.gov.sg) or  
-Mr Choong Wenlong at [Choong_Wen_Loong@enterprisesg.gov.sg](mailto:Choong_Wen_Loong@enterprisesg.gov.sg)
+Ms Manjit Pal Kaur at <Manjit_Pal_Kaur@enterprisesg.gov.sg> or  
+Mr Choong Wenlong at <Choong_Wen_Loong@enterprisesg.gov.sg>
 
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.  
  
