@@ -643,20 +643,6 @@ p.image-caption {
 	padding-right:0;	
 }
 
-.video-container {
-	position:relative;
-	width:680px;
-	max-width:100%;
-	padding-top:56%;
-	iframe {
-		position:absolute;
-		top:0;
-		left:0;
-		width:100%;
-		height:100%;
-	}
-}
-
 .back-to-top {
 	text-align:right;
     	font-size:0.9rem;
