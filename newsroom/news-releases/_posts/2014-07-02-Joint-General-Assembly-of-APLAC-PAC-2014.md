@@ -19,15 +19,7 @@ Congratulations to SAC! All these achievements are only possible with the good w
 | ![APLACPic2](/images/press-release/photos/APLAC-pic2.jpg) |
 | _Signing of MRA to include PTP<br/>(From L to R) Mr Nigel Jou (APLAC Chair), Ms Choy SK (SAC/SPRING Singapore), Ms Roxanne Robinson (APLAC MRA Council Chair)_|
 
-{: .with-image-captions}
-| ![APLACPic3](/images/press-release/photos/APLAC-pic3.jpg) |
-| _Group Picture with other AB signatories who signed the MRA for PTP.<br/>(From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)_ |
-
-![APLACPic3](/images/press-release/photos/APLAC-pic3.jpg)
-_Group Picture with other AB signatories who signed the MRA for PTP.<br/>(From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)_
-{: style="font-size:1rem; font-height:1.5; text-align:center;"}
-
-{: style="font-size:1rem; font-height:1.5; text-align:center;"}
+{: style="font-size:1rem; line-height:1.5; text-align:center;"}
 ![APLACPic3](/images/press-release/photos/APLAC-pic3.jpg)
 _Group Picture with other AB signatories who signed the MRA for PTP.<br/>(From L to R) Mr Nigel Jou (APLAC Chair), Ms Maribel Lopez (ema), Mr. Keith Greenaway (ANSI-ASQ), Mr Yoshinobu Uematsu (JAB), Ms Roxanne Robinson (APLAC MRA Council Chair / A2LA), Mr Chen JS (TAF), Mr Wong WW (HKAS), Ms Choy SK (SAC/SPRING Singapore)_
 
