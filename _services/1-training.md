@@ -35,4 +35,4 @@ For more information on the course details, please click on the options below:
 * [Method Validation in Chemical Analysis Workshop](/files/training/MV-(chemical)-workshop.pdf){:target="_blank"}
 * [Measurement Uncertainty in Chemical Analysis Workshop](/files/training/MU-(chemical)-workshop.pdf){:target="_blank"}
 
-For general enquiries on training course, please contact Ms Angie Ng at DID: 62791800 or email: [angie_ng@enterprisesg.gov.sg](mailto:angie_ng@enterprisesg.gov.sg)
+For general enquiries on training course, please contact Ms Angie Ng at DID: 62791800 or email: <angie_ng@enterprisesg.gov.sg>
