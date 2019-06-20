@@ -19,8 +19,8 @@ This 2-day course is to help the participants:
  
 For course objectives, please view attached [link](/files/training/Internal-Audit-Course.pdf){:target="_blank"}.
  
-Please complete the attached [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at [angie_ng@spring.gov.sg](mailto:angie_ng@spring.gov.sg)
- 
+Please complete the attached [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Nov-2017).docx){:target="_blank"} and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
+
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.   
  
 All cheques should be crossed and made payable to "SPRING Singapore". No invoices will be issued. A tax receipt will be issued upon clearance of cheques. 
