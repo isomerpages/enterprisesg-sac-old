@@ -25,7 +25,7 @@
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 160px;
+  min-width: 200px;
   overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -45,38 +45,82 @@
 </head>
 <body>
 
-<h2>Admin Guide for SAC Website</h2>
+  <h2>Admin Guide for SAC Website</h2>
 
-<div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">I want to ▾</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Add a new training course</a>
-    <a href="#">Add a new press release</a>
-    <a href="#">Add a new event</a>
-    <a href="#">Edit list of Certified Companies</a>
+  <div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">I want to ▾</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a href="#add-training-course">Add a new training course</a>
+      <a href="#">Add a new press release</a>
+      <a href="#">Add a new event</a>
+      <a href="#">Edit list of Certified Companies</a>
+    </div>
   </div>
-</div>
-
+  <a class="admin-content-section" id="create-header-code-snippet">
+    
+  </a>
+  <a class="admin-content-section" name="add-training-course">
+    <h2>Add a new Training Course</h2>  
+    <h3>Add new post for training course</h3>
+    <ol>
+      <li>
+        <input type="text" id="page-course-title" class="page-title" placeholder="Enter title of course" val=""/>
+      </li>
+      <li>In Github repository, click 'Create new file' button.</li>
+      <li>In the 'Name your file...' input of the Github file editor, enter <span>'newsroom/courses/_posts/</span><span class='page-date'></span>-training-course.md'</li>
+      <li>Copy and paste the header code snippet below into the text editor.
+        <pre>
+          <code>
+            ---
+            layout: post
+            title: <span id="page-course-title-header"></span>
+            permalink: /courses/<span class='page-date'></span>-training-course
+            ---
+          </code>
+        </pre>
+      </li>
+      <li>Add course content in the text editor below the header code. You can follow the format using this <a href="https://github.com/isomerpages/enterprisesg-sac/edit/staging/newsroom/courses/_posts/2019-05-22-training-course.md" target="_blank">sample post</a></li>
+      <li>Click on "Commit changes" button when you have finished.</li>
+    </ol>
+    <h3>Update table of training courses</h3>
+  </a>  
 <script>
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
+  /* When the user clicks on the button, 
+  toggle between hiding and showing the dropdown content */
+  function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+  }
 
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
+  // Close the dropdown if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropbtn')) {
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      var i;
+      for (i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
       }
     }
   }
-}
+  
+  var today = new Date();
+  var dd = today.getDate();
+  var mm = today.getMonth()+1; //January is 0!
+  var yyyy = today.getFullYear();
+  var pageDateSpans = document.getElementByClassName("page-date");
+  for (var i=0; i<pageDateSpans.length; i++) {
+    pageDateSpans[0].innerHTML = yyyy+'-'+mm+'-'+dd;
+  }
+  
+  var pageTitleInputs = document.getElementByClassName("page-title");
+  for (var i=0; i<pageTitleInputs.length; i++) {
+    pageTitleInputs[i].addEventListener("change", function(event){
+      console.log(this.id, this.id+'-header');
+    });
+  }
+  
 </script>
 
 </body>
