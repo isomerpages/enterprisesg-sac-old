@@ -1,8 +1,4 @@
-This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official <a href="https://isomer.gov.sg/documentation/training-materials/" target="_blank">Isomer Documentation Guide</a>.
-
-<a href="https://isomer.gov.sg/documentation/training-materials/" rel="nofollow&quot; target=&quot;_blank">Isomer Documentation Guide</a>
-
-[Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/){: target="_blank"}
+This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official [Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/).
 
 # Table of Contents
 
