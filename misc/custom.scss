@@ -637,6 +637,13 @@ p.image-caption {
 	text-align: center;
 }
 
+img + em {
+	display: block;
+	font-size: 1rem;
+	line-height: 1.5;
+	text-align: center;
+}
+
 #search-activate
 {
 	padding-left:0;
