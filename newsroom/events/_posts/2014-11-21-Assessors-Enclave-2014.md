@@ -10,7 +10,7 @@ SAC held its Assessors Enclave on 5 November 2014 at the Holiday Inn Orchard Cit
 ![group1](/images/press-release/photos/Group1.JPG)
 *Happy gathering of SAC assessors and staff*
 
-In the first session, SAC updated the assessors on the various changes within SAC and at the international front.  Updates were provided on changes in the Accreditation Management System (SACiNet), Traceability of Measurement (SAC-SINGLAS 006) and Policy and Requirements for Proficiency Testing Programmes (PROF-001).
+In the first session, SAC updated the assessors on the various changes within SAC and at the international front. Updates were provided on changes in the Accreditation Management System (SACiNet), Traceability of Measurement (SAC-SINGLAS 006) and Policy and Requirements for Proficiency Testing Programmes (PROF-001).
  
 For the second half of the session, the assessors were grouped into specific areas for discussion and sharing on common assessment findings.
 
