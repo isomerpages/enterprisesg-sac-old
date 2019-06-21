@@ -637,7 +637,9 @@ p.image-caption {
 	text-align: center;
 }
 
+//image caption 
 img + em {
+	display:block;
 	font-size: 1rem;
 	line-height: 1.5;
 	text-align: center;
