@@ -136,17 +136,19 @@ Images are displayed in their full width and height in the centre of each page b
 | ![image-name](image-link) | ![image-name](image-link) |
 ```
 
-* To add an image caption below the image, we add a customisation name (or HTML classname) 'image-caption' as an additonal attribute before or after the image and caption.
+* To add an image caption below the image, we enclose the caption text with asterisk (*) as an italic text as shown below:
 ```
-{: .image-caption}
 ![image-name](image-link)
-Image Caption Text
+*Image Caption Text*
 ```
 
 <a name="edit-table"></a>
 ## Adding / Editing a Table
 
-The SAC website contains several tables which can be added / edited using Markdown. The syntax for writing a Markdown table is listed [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
+The SAC website contains several tables which can be added / edited using Markdown. Alternatively, the tables can be created using conventional HTML syntax as demonstrated in the [Isomer documentation guide here](https://isomer.gov.sg/documentation/markdown/markdown-helper/).
+
+### Using Markdown Tables
+If using markdown syntax to create the table, the markdown guide can be found [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
 
 * Basic Markdown table syntax
 ```
@@ -182,7 +184,6 @@ Table cells containing multiple lines (such as lists or paragraphs) require inli
 | row-2/column-1 | row-2/column-2/line1<br/>row-2/column-2/line2 |
 ```
 
-### Customising a Table
 Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` or `{: #customised-table-unique-identifier}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
@@ -365,16 +366,8 @@ The _services folder contains the files of all the sub-links in the 'Services' p
 
 Most of the pages follow the Isomerpages 'leftnav-page-content' template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
-### Editing Images and Tables in 'Accreditation Services -> Certification Body' Inner Page
-Some of the images have image captions below them. For better alignment and styling of the image captions, we add the customisation name 'image-caption' before each Markdown image syntax, as shown below:
-
-```
-{: .image-caption}
-![Product Certification](/images/services/product-certification-accreditation.jpg)
-Accreditation Scheme for Product Certification
-```
-
-Additionally, the page also contains standards tables listing the programme details of the accreditation services available for creditation bodies. Tables which contain bulleted lists must make use of the `{::nomarkdown}{:/}` tags so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
+### Editing Tables in 'Accreditation Services -> Certification Body' Inner Page
+The page contains standards tables listing the programme details of the accreditation services available for creditation bodies. If using markdown syntax for tables (instead of the conventional HTML syntax), markdown tables which contain bulleted lists must make use of the `{::nomarkdown}{:/}` tags so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
 
 ### Editing 'Training Services - Recent Courses / Workshops / Seminars' Page
 The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [Isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
