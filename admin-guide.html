@@ -56,9 +56,6 @@
       <a href="#">Edit list of Certified Companies</a>
     </div>
   </div>
-  <a class="admin-content-section" id="create-header-code-snippet">
-    
-  </a>
   <a class="admin-content-section" name="add-training-course">
     <h2>Add a new Training Course</h2>  
     <h3>Add new post for training course</h3>
@@ -109,12 +106,12 @@
   var dd = today.getDate();
   var mm = today.getMonth()+1; //January is 0!
   var yyyy = today.getFullYear();
-  var pageDateSpans = document.getElementByClassName("page-date");
+  var pageDateSpans = document.getElementsByClassName("page-date");
   for (var i=0; i<pageDateSpans.length; i++) {
     pageDateSpans[0].innerHTML = yyyy+'-'+mm+'-'+dd;
   }
   
-  var pageTitleInputs = document.getElementByClassName("page-title");
+  var pageTitleInputs = document.getElementsByClassName("page-title");
   for (var i=0; i<pageTitleInputs.length; i++) {
     pageTitleInputs[i].addEventListener("change", function(event){
       console.log(this.id, this.id+'-header');
