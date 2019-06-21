@@ -4,6 +4,8 @@ This is a supplementary guide for adding and editing content on the SAC website.
 
 <a href="https://isomer.gov.sg/documentation/training-materials/" target=&quot;_blank">Isomer Documentation Guide</a>
 
+<a href=&quot;https://example.org/&quot; target=&quot;_blank&quot;>Link</a>
+
 [Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/){: target="_blank"}
 
 # Table of Contents
