@@ -106,6 +106,8 @@
   var dd = today.getDate();
   var mm = today.getMonth()+1; //January is 0!
   var yyyy = today.getFullYear();
+  if (mm.length < 2) month = '0' + month;
+  if (dd.length < 2) day = '0' + day;
   var pageDateSpans = document.getElementsByClassName("page-date");
   for (var i=0; i<pageDateSpans.length; i++) {
     pageDateSpans[0].innerHTML = yyyy+'-'+mm+'-'+dd;
@@ -114,7 +116,9 @@
   var pageTitleInputs = document.getElementsByClassName("page-title");
   for (var i=0; i<pageTitleInputs.length; i++) {
     pageTitleInputs[i].addEventListener("change", function(event){
-      console.log(this.id, this.id+'-header');
+      var titleInHeaderCodeID = this.id+'-header';
+      var titleInHeaderCode = document.getElementById(titleInHeaderCodeID);
+      titleInHeaderCode.innerText = this.value;
     });
   }
   
