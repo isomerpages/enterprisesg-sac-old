@@ -12,7 +12,7 @@ permalink: /courses/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016
 **Course Venue:**  
 Mandarin Orchard Singapore  
 333 Orchard Road, Singapore 238867  
-(Training room:  Room 606, Level 6 Orchard Wing)
+(Training room: Room 606, Level 6 Orchard Wing)
  
 **Objective:-**  
 This 1.5-day course will help the participants from the certification bodies to understand the interpretation of the standard requirements.
