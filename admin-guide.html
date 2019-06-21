@@ -61,8 +61,7 @@
     <h3>Add new post for training course</h3>
     <ol>
       <li>
-        Enter title of course and press 'Enter' on keyboard.<br/>
-        <input type="text" id="page-course-title" class="page-title" placeholder="Enter title of course" val=""/>
+        <input type="text" id="page-course-title" class="page-title" size="50" placeholder="Enter title of course" val=""/>
       </li>
       <li>In Github repository, click 'Create new file' button.</li>
       <li>In the 'Name your file...' input of the Github file editor, enter <span>'newsroom/courses/_posts/</span><span class='page-date'></span>-training-course.md'</li>
@@ -107,8 +106,8 @@
   var dd = today.getDate();
   var mm = today.getMonth()+1; //January is 0!
   var yyyy = today.getFullYear();
-  if (mm.length < 2) month = '0' + mm;
-  if (dd.length < 2) day = '0' + dd;
+  if (mm.length < 2) mm = '0' + mm;
+  if (dd.length < 2) dd = '0' + dd;
   var pageDateSpans = document.getElementsByClassName("page-date");
   for (var i=0; i<pageDateSpans.length; i++) {
     pageDateSpans[i].innerHTML = yyyy+'-'+mm+'-'+dd;
