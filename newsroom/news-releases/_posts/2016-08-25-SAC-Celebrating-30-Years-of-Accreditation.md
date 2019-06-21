@@ -11,9 +11,8 @@ Over the past 50 years, the Singapore's Quality and Standards (Q&S) initiative h
  
 In conjunction with the anniversary celebration, the Q&S Gala Dinner and Conference were held on 26 and 27 July 2016 at Resorts World Sentosa Convention Centre. The Gala Dinner was graced by Mr Tharman Shanmugaratnam, Deputy Prime Minister and Coordinating Minister for Economic and Social Policies, who envisioned quality and standards as a key pillar of the future economy.
 
-{: .image-caption}
 ![qualityandstandardsdinner](/images/press-release/photos/Quality-and-Standards-Dinner.jpg)
-A celebratory toast and cake-cutting to mark the golden jubilee of the Singapore’s Quality & Standards journey
+*A celebratory toast and cake-cutting to mark the golden jubilee of the Singapore’s Quality & Standards journey*
 
 More than 500 guests attended the gala dinner including foreign dignitaries, key government agencies, institutes of higher learning, trade associations, enterprises, accredited conformity assessment bodies, and partners of the standardisation and accreditation programmes.
  
