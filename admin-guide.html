@@ -89,7 +89,7 @@
 
         | Date | Title |
         |--
-        // Insert the new table row here
+        <span style="color:red; font-style:bold">// Insert the new table row here</span>
         | 24-25 June 2019 | [Training course on ISO/TS 22003:2013 and ISO 22000:2018](/courses/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} |
         </code>
         </pre>
@@ -118,9 +118,10 @@
   }
   
   var today = new Date();
-  var dd = today.getDate();
-  var mm = today.getMonth()+1; //January is 0!
+  var dd = today.getDate()+'';
+  var mm = (today.getMonth()+1)+''; //January is 0!
   var yyyy = today.getFullYear();
+  console.log(mm.length);
   if (mm.length < 2) mm = '0' + mm;
   if (dd.length < 2) dd = '0' + dd;
   var pageDateSpans = document.getElementsByClassName("page-date");
