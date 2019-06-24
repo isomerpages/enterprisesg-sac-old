@@ -42,12 +42,19 @@
 
   .show {display: block;}
 
+  code {
+    padding: 1px 5px;
+    white-space: pre-wrap;
+    background-color: #eff0f1;
+  }
+  
   li {
     line-height:2;
+    opacity:0.2;
   }
 
-  ol li:not(:first-child) {
-    opacity: 0.6;
+  ol:first-child > li:first-child {
+    opacity: 1.0;
   }
 </style>
 </head>
@@ -69,17 +76,19 @@
     <h3>Add new post for training course</h3>
     <ol>
       <li>
-        <input type="text" id="page-course-title" class="page-title" size="50" placeholder="Enter title of course" val=""/>
+        <input type="text" id="input-title" size="50" placeholder="Enter title of course" val=""/>
+        <input type="text" id="input-date" size="20" placeholder="Enter date of course" val=""/>
       </li>
       <li>In Github repository, click 'Create new file' button.</li>
-      <li>In the 'Name your file...' input of the Github file editor, enter <span>'newsroom/courses/_posts/</span><span class='page-date'></span>-training-course.md'</li>
+      <li>In the 'Name your file...' input of the Github file editor, enter <span>'newsroom/courses/_posts/</span><span class="page-url-date"></span>-<span class="page-url-path"></span>.md'</li>
       <li>Copy and paste the header code snippet below into the text editor.
         <pre>
           <code>
             ---
             layout: post
-            title: <span id="page-course-title-header"></span>
-            permalink: /courses/<span class='page-date'></span>-training-course
+            title: <span id="page-title"></span>
+            date: <span class="page-url-date"></span>
+            permalink: /courses/<span class="page-url-path"></span>
             ---
           </code>
         </pre>
@@ -90,9 +99,11 @@
     <h3>Update table of training courses</h3>
     <ol>
       <li>Inside Github repository, go to '_services' folder and then go to '1-training.md' file. Click on the 'Edit this file' button. (Alternatively go straight to this link <a href="https://github.com/isomerpages/enterprisesg-sac/edit/staging/_services/1-training.md" target="_blank">https://github.com/isomerpages/enterprisesg-sac/edit/staging/_services/1-training.md</a></li>
-      <li>Edit the section under 'Recent Courses / Workshops / Seminars'. 
+      <li>Edit the section under 'Recent Courses / Workshops / Seminars'.<br/>Insert this table row <code></code> in the section as shown below:
         <pre>
         <code>
+        //section of code for reference
+        
         ### Recent Courses / Workshops / Seminars
 
         | Date | Title |
@@ -124,32 +135,45 @@
       }
     }
   }
-  
-  var today = new Date();
-  var dd = today.getDate()+'';
-  var mm = (today.getMonth()+1)+''; //January is 0!
-  var yyyy = today.getFullYear();
-  console.log(mm.length);
-  if (mm.length < 2) mm = '0' + mm;
-  if (dd.length < 2) dd = '0' + dd;
-  var pageDateSpans = document.getElementsByClassName("page-date");
-  for (var i=0; i<pageDateSpans.length; i++) {
-    pageDateSpans[i].innerHTML = yyyy+'-'+mm+'-'+dd;
-  }
-  
-  var pageTitleInputs = document.getElementsByClassName("page-title");
-  for (var i=0; i<pageTitleInputs.length; i++) {
-    pageTitleInputs[i].addEventListener("change", function(event){
-      var titleInHeaderCodeID = this.id+'-header';
-      var titleInHeaderCode = document.getElementById(titleInHeaderCodeID);
-      titleInHeaderCode.innerText = this.value;
+ 
+  function populateTitleAndDate(titleInput, dateInput) {
+    if (titleInput.value.length > 0 && dateInput.value.length > 0) {
+      var pageTitle = document.getElementById("page-title");
+      pageTitle.innerHTML = titleInput.value + "(" + dateInput.value + ")";
       
-      var listItems = document.getElementsByTagName("li");
-      for var(j=0; j<listItems.length;j++) {
-        listItems[j].style.opacity = 1;
+      var today = new Date();
+      var dd = today.getDate()+'';
+      var mm = (today.getMonth()+1)+''; //January is 0!
+      var yyyy = today.getFullYear();
+      console.log(mm.length);
+      if (mm.length < 2) mm = '0' + mm;
+      if (dd.length < 2) dd = '0' + dd;
+      var pageUrlDates = document.getElementsByClassName("page-url-date");
+      for (var i=0; i<pageUrlDates.length; i++) {
+        pageUrlDates[i].innerHTML = yyyy+'-'+mm+'-'+dd;
       }
+      
+      var pageUrlPathText = titleInput.value.replace(/ /g,"-").replace(":","").replace("/","");
+      var pageUrlPaths = document.getElementsByClassName("page-url-path");
+      for (var i=0; i<pageUrlPaths.length; i++) {
+        pageUrlPaths[i].innerHTML = pageUrlPathText; 
+      }
+      
+      var listItems = document.getElementByTagName("li");
+      for (var i=0; i<listItems.length; i++) {
+        listItems[i].style.opacity = 1.0;
+      }
+    }
   }
   
+  var titleInput = document.getElementById("input-title");
+  var dateInput = document.getElementById("input-date");
+  titleInput.addEventListener("change", function(event){
+    populateTitleAndDate(titleInput, dateInput);
+  });
+  dateInput.addEventListener("change", function(event){
+    populateTitleAndDate(titleInput, dateInput);
+  });
 </script>
 
 </body>
