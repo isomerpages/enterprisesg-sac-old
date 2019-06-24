@@ -42,19 +42,22 @@
 
   .show {display: block;}
 
-  code {
-    white-space: pre-wrap;
-  }
-  
-  pre {
-    background-color: #eff0f1;
-  }
-  
   li {
     line-height:2;
     opacity: 0.2;
   }
-
+  
+  code {
+    white-space: pre-wrap;
+    background-color: #eff0f1;
+    padding:1px 5px;
+  }
+  
+  pre {
+    background-color: #eff0f1;
+    line-height:1.2;
+  }
+ 
   .input-list-item {
     opacity: 1.0;
   }
@@ -80,6 +83,7 @@
     <h3>Add new post for training course</h3>
     <ol>
       <li class="input-list-item">
+        Enter the title and date of the training course and press 'enter'.
         <input type="text" id="input-title" size="50" placeholder="Enter title of course" val=""/><br/>
         <input type="text" id="input-date" size="20" placeholder="Enter date of course" val=""/>
       </li>
@@ -88,12 +92,12 @@
       <li>Copy and paste the header code snippet below into the text editor.
         <pre>
           <code>
----
-layout: post
-title: <span class="page-title"></span>
-date: <span class="page-url-date"></span>
-permalink: /courses/<span class="page-url-path"></span>
----
+          ---
+          layout: post
+          title: <span class="page-title"></span>
+          date: <span class="page-url-date"></span>
+          permalink: /courses/<span class="page-url-path"></span>
+          ---
           </code>
         </pre>
       </li>
