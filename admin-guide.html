@@ -50,7 +50,6 @@
   
   li {
     line-height:2;
-    opacity:0.2;
   }
 
   ol:first-child li:first-child {
@@ -71,6 +70,7 @@
       <a href="#">Edit list of Certified Companies</a>
     </div>
   </div>
+  
   <a class="admin-content-section" name="add-training-course">
     <h2>Add a new Training Course</h2>  
     <h3>Add new post for training course</h3>
@@ -86,7 +86,7 @@
           <code>
             ---
             layout: post
-            title: <span id="page-title"></span>
+            title: <span class="page-title"></span>
             date: <span class="page-url-date"></span>
             permalink: /courses/<span class="page-url-path"></span>
             ---
@@ -96,10 +96,11 @@
       <li>Add course content in the text editor below the header code. You can follow the format using this <a href="https://raw.githubusercontent.com/isomerpages/enterprisesg-sac/staging/newsroom/courses/_posts/2019-05-22-training-course.md" target="_blank">sample post</a></li>
       <li>Click on "Commit changes" button when you have finished.</li>
     </ol>
+    
     <h3>Update table of training courses</h3>
     <ol>
       <li>Inside Github repository, go to '_services' folder and then go to '1-training.md' file. Click on the 'Edit this file' button. (Alternatively go straight to this link <a href="https://github.com/isomerpages/enterprisesg-sac/edit/staging/_services/1-training.md" target="_blank">https://github.com/isomerpages/enterprisesg-sac/edit/staging/_services/1-training.md</a></li>
-      <li>Edit the section under 'Recent Courses / Workshops / Seminars'.<br/>Insert this table row <code></code> in the section as shown below:
+      <li>Edit the section under 'Recent Courses / Workshops / Seminars'.<br/>Insert this table row <code>| <span class="page-url-date"></span> | <span class="page-title"></span> |</code> in the section as shown below:
         <pre>
         <code>
         //section of code for reference
@@ -138,8 +139,10 @@
  
   function populateTitleAndDate(titleInput, dateInput) {
     if (titleInput.value.length > 0 && dateInput.value.length > 0) {
-      var pageTitle = document.getElementById("page-title");
-      pageTitle.innerHTML = titleInput.value + "(" + dateInput.value + ")";
+      var pageTitles = document.getElementsByClassName("page-title");
+      for (var i=0; i<pageTitles.length; i++) {
+        pageTitles[i].innerHTML = titleInput.value + " (" + dateInput.value + ")";
+      }
       
       var today = new Date();
       var dd = today.getDate()+'';
@@ -159,7 +162,7 @@
         pageUrlPaths[i].innerHTML = pageUrlPathText; 
       }
       
-      var listItems = document.getElementByTagName("li");
+      var listItems = document.getElementsByTagName("li");
       for (var i=0; i<listItems.length; i++) {
         listItems[i].style.opacity = 1.0;
       }
