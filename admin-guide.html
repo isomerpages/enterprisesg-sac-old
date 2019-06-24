@@ -80,16 +80,16 @@
   <div class="admin-content-section">
     <a name="add-training-course"></a>
     <h2>Add a new Training Course</h2>  
-    <h3>Add new post for training course</h3>
+    <h3>A. Add new post for training course</h3>
     <ol>
       <li class="input-list-item">
-        Enter the title and date of the training course and press 'enter'.
+        Enter the title and date of the training course and press 'Enter'.<br/>
         <input type="text" id="input-title" size="50" placeholder="Enter title of course" val=""/><br/>
         <input type="text" id="input-date" size="20" placeholder="Enter date of course" val=""/>
       </li>
       <li>In Github repository, click 'Create new file' button.</li>
       <li>In the 'Name your file...' input of the Github file editor, enter <span>'newsroom/courses/_posts/</span><span class="page-url-date"></span>-<span class="page-url-path"></span>.md'</li>
-      <li>Copy and paste the header code snippet below into the text editor.
+      <li>Copy and paste the header code snippet below into the Github text editor.
         <pre>
           <code>
           ---
@@ -105,10 +105,10 @@
       <li>Click on "Commit changes" button when you have finished.</li>
     </ol>
     
-    <h3>Update table of training courses</h3>
+    <h3>B. Update table of training courses</h3>
     <ol>
       <li>Inside Github repository, go to '_services' folder and then go to '1-training.md' file. Click on the 'Edit this file' button. (Alternatively go straight to this link <a href="https://github.com/isomerpages/enterprisesg-sac/edit/staging/_services/1-training.md" target="_blank">https://github.com/isomerpages/enterprisesg-sac/edit/staging/_services/1-training.md</a></li>
-      <li>Edit the section under 'Recent Courses / Workshops / Seminars'.<br/>Insert this table row <code>| <span class="page-url-date"></span> | <span class="page-title"></span> |</code> in the section as shown below:
+      <li>Edit the section under 'Recent Courses / Workshops / Seminars'.<br/>Insert this table row <code>| <span class="page-date"></span> | [<span class="page-title"></span>](/courses/<span class="page-url-path"></span>){:target="_blank"} |</code> in the section as shown below:
         <pre>
         <code>
         //section of code for reference
@@ -150,6 +150,11 @@
       var pageTitles = document.getElementsByClassName("page-title");
       for (var i=0; i<pageTitles.length; i++) {
         pageTitles[i].innerHTML = titleInput.value + " (" + dateInput.value + ")";
+      }
+      
+      var pageDates = document.getElementsByClassName("page-date");
+      for (var i=0; i<pageDates.length; i++) {
+        pageDates[i].innerHTML = dateInput.value;
       }
       
       var today = new Date();
