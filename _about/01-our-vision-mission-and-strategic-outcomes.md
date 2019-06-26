@@ -5,8 +5,6 @@ permalink: /about/our-vision-mission-and-strategic-outcomes
 collection_name: about
 ---
 
-Testing 123
-
 ## Vision
 To be the trusted partner for assurance of quality products and services locally and globally
 
