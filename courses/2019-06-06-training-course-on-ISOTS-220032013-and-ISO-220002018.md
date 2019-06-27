@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training course on ISO/TS 22003:2013 and ISO 22000:2018 (24 - 25 June 2019)
-permalink: /courses/training-course-on-ISOTS-220032013-and-ISO-220002018
+permalink: /courses/training-course-on-ISOTS-220032013-and-ISO-220002018-1
 ---
 
 ## Training course on ISO/TS 22003:2013 and ISO 22000:2018
