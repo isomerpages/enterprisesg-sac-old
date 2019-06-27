@@ -5,4 +5,4 @@ permalink: /industries/precision-engineering-and-industry-4
 collection_name: industries
 ---
 
-Sample Page for Precision Engineering & Industry 4.0
+This page will be updated soon.
