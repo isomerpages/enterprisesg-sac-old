@@ -5,4 +5,4 @@ permalink: /industries/precision-engineering-and-industry-4
 collection_name: industries
 ---
 
-This page will be updated soon.
+*This page will be updated soon.*
