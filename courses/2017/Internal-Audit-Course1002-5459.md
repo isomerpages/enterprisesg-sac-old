@@ -5,7 +5,7 @@ permalink: /services/training-courses-2017/Internal-Audit-Course1002-5459
 breadcrumb: services
 ---
 
-## Internal Audit Course
+## Course Details
 **9 - 10 November 2017**
 
 **Fee:** SGD 802.50 (inclusive of GST) 
