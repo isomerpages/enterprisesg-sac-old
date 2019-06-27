@@ -154,15 +154,3 @@ window.onload = function(){
     }
 </script>
 {%- endif -%} 
-
-{%- if page.layout == 'resources-alt' -%}
-<script>
-    // script to hide resources post category buttons on the 'courses' page
-    if (window.location.pathname == '/courses/') {
-        var resourcesNavButtons = document.getElementsByClassName('bp-buttons');
-        if (resourcesNavButtons.length > 0) {
-            resourcesNavButtons[0].style.display = 'none';
-        }
-    }
-</script>
-{%- endif -%}     
