@@ -5,4 +5,4 @@ permalink: /industries/electrical-and-electronics-engineering
 collection_name: industries
 ---
 
-Sample Page for Electrical & Electronics Engineering Industries
+This page will be updated soon.
