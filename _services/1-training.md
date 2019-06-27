@@ -1,8 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Training Services
+title: Overview
 permalink: /services/training
 collection_name: services
+second_nav_title: "Training Services"
 ---
 
 ## Training Courses and Seminars
