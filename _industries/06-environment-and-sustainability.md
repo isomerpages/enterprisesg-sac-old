@@ -5,4 +5,4 @@ permalink: /industries/environment-and-sustainability
 collection_name: industries
 ---
 
-This page will be updated soon.
+*This page will be updated soon.*
