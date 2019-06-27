@@ -2,7 +2,6 @@
 layout: simple-page
 title: ISO 15189:2012 Course (Medical Laboratories) (30-31 Oct 2017)
 permalink: /services/training-courses-2017/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)
-breadcrumb: services
 ---
 
 ## Course Details
