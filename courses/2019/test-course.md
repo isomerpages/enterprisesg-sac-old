@@ -1,7 +1,7 @@
 --- 
 layout: simple-page
-title: Fill in your own title description 
-permalink: /services/training-courses-2019/fill-in-your-own-title-description/  
+title: Test Course (4 July 2019)
+permalink: /services/training-courses-2019/test-course  
 --- 
 
 ## Course Details
