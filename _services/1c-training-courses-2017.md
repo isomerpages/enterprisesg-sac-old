@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Training Courses 2017
-permalink: /services/training-courses-2017
-breadcrumb: "training services"
+permalink: /services/training-courses-2017/
 collection_name: services
 second_nav_title: "Training Services"
 ---
