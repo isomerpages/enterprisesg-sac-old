@@ -35,6 +35,14 @@ key-highlights:
     description: Find a SAC Course
     url: /services/training-courses-2019
 
+info-sections:
+  - section-title: About
+    section-subtitle: What is Accreditation?
+    section-description: Accreditation enhances the credibility of laboratory tests, inspection, certification reports and certificates by providing reliable third party assurance that these services are conducted professionally and meet globally-recognised standards. Conformity Assessment Bodies (CABs) – such as testing and calibration laboratories, as well as certification and inspection bodies – are benchmarked against international standards. This ensures the competency, impartiality and performance capability of their services.
+    section-more-button: More about SAC
+    section-more-button-url: /about/our-role
+    section-image-path: /images/homepage/about-sac-2.png
+    
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 programmes-title: About
