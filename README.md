@@ -114,26 +114,26 @@ _Image files have to be deleted and re-uploaded to Github everytime you wish to 
 
 ### Customising an Image
 
-Images are displayed in their full width and height in the centre of each page by default. To edit the image size or alignment, additional attributes can be added after the inline image link.
+Images are displayed in their full width and height in the centre of each page by default. To edit the image size or alignment, additional attributes can be added after the inline Markdown image.
 
 * Change the image or height of the image:  
 ```
-![image-name](image-link){: style="width:130px;height:130px;"}
+![Image Title](image-path){: style="width:130px;height:130px;"}
 ```
 
 * Change the alignment (add 'margin-left:0' to align left or 'margin-right:0' to align right ) of the image:  
 ```
-![image-name](image-link){: style="margin-left:0;"}
+![Image Title](image-path){: style="margin-left:0;"}
 ```
 
 * Multiple attributes can be combined to edit the image:  
 ```
-![image-name](image-link){: style="margin-left:0;width:130px;height:130px;"}
+![Image Title](image-path){: style="margin-left:0;width:130px;height:130px;"}
 ```
 
 * To display 2 images side-by-side, we place them in a table as shown below:  
 ```
-| ![image-name](image-link) | ![image-name](image-link) |
+| ![Image Title 1](image-path-1) | ![Image Title 2](image-path-2) |
 ```
 
 * To add an image caption below the image, we enclose the caption text with asterisk (*) as an italic text as shown below:
