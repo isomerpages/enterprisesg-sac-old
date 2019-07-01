@@ -4,13 +4,15 @@ permalink: /table-test
 title: "Test Tables"
 ---
 
-| Basic  | Table | Syntax |
-| Tables | are   | cool   |
+| Basic  | Markdown | Table |
+| Tables | are      | cool  |
+
 
 | Basic Table | with | Header |
-| --- | --- |
+| --- | --- | --- |
 | Table Cell widths can vary | the rendered table will still look the same | text |
-| Basic | Table | Syntax |
+| Basic  | Markdown | Table |
+
 
 | Table | with | alignment |
 | :--- | :----: | ---: |
@@ -18,7 +20,8 @@ title: "Test Tables"
 | Col 2 is | Centered | $20 |
 | Col 3 is | right-aligned | $1 |
 
-| row-1/column-1 | row-1/column-2 |
-| row-2/column-1 | row-2/column-2 |
+
+| Table | with | footer |
+| Basic  | Markdown | Table |
 |=========|
 | footer-row |
