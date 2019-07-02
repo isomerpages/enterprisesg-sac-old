@@ -5,7 +5,7 @@ permalink: /industries/digital-ict
 collection_name: industries
 ---
 
-![Digital/ICT Industries](/images/industries/digital-ict.jpg)
+![Digital/ICT Industry](/images/industries/digital-ict.jpg)
 
 ICT is an all-encompassing term used to refer to communication networks, the internet, computing services and media, amongst others. The fourth industrial revolution, otherwise known as the Internet of Things, is impacting and driving digitisation across industries. There are particular implications for businesses involved in manufacturing, with the possibility of autonomous communication between machines and systems quickly becoming reality. Elsewhere in the industry, technology is also increasing network connectivity, driving developments in cloud computing, internet businesses and telecommunications. 
 
