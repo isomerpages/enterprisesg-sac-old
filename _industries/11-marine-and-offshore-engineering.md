@@ -5,6 +5,8 @@ permalink: /industries/marine-and-offshore-engineering
 collection_name: industries
 ---
 
+![Marine and Offshore Engineering Industry](/images/industries/marine.jpg)
+
 Singapore's marine and offshore (M&O) engineering industry is growing steadily, supported by Singapore's status as a global offshore and marine hub. Businesses based here service worldwide demand for ship repair, shipbuilding, rig-building and offshore engineering, as well as oilfield equipment manufacturing, and the building and chartering of offshore supply vessels. 
 
 Demand for liquefied natural gas (LNG) as a fuel has also been growing, and Singapore is well-placed to become Asia’s LNG hub. CABs are able to assist companies involved in LNG, with services such as offshore non-destructive testing (NDT) and structural inspection. 
