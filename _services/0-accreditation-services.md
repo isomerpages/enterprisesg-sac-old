@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About Accreditation Services
+title: Overview (Accreditation Services)
 permalink: /services/accreditation-services
 collection_name: services
 second_nav_title: "Accreditation Services"
