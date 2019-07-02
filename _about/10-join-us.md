@@ -5,7 +5,7 @@ permalink: /about/join-us
 collection_name: about
 ---
 ## Career with SAC
-![join us](/images/about/join-us.jpg)
+![Career with SAC](/images/about/career-with-sac.jpg)
 
 As a key member of the Singapore Accreditation Council (SAC), you will work closely with industry partners from government agencies, tertiary institutions, professional bodies and industry associations to accredit conformance assessment bodies (CABs), so as to enhance the competitiveness of Singapore-based enterprises. You will develop, manage and conduct assessments of CABs across a wide range of disciplines for different accreditation schemes. You will also play a crucial role in actively promoting the benefits of accreditation to the regulators and users of conformity assessment services. 
 
