@@ -5,6 +5,8 @@ permalink: /industries/aviation-and-aerospace
 collection_name: industries
 ---
 
+![Aviation & Aerospace Industries](/images/industries/aviation.jpg)
+
 The Singapore aerospace industry has been growing steadily along with the rise in global air travel and technological advancements. Majority of the local industry players are involved in manufacturing of metal-related parts, and maintenance, repair and overhaul (MRO) work. In particular, Singapore’s aerospace industry accounts for a quarter of Asia’s MRO output, and is also one of the continent’s largest cargo airports. Much of this is possible because of the infrastructure in place, such as Changi Airport and Seletar Aerospace Park, which strengthen Singapore’s position as a leading aerospace hub equipped with R&D and manufacturing capabilities. 
 
 The aerospace industry is strictly regulated, and this is necessary because failure to comply could result in significant repercussions, as evidenced from recent aviation accidents. Conformity assessment plays a key role in assuring the safety, quality and performance of aircraft and aviation components, and accreditation by the SAC helps to increase confidence in the quality of services provided by conformity assessment bodies. 
