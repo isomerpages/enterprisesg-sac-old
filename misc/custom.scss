@@ -370,8 +370,10 @@ hr {
 		}
 		.navbar-item{
 			a{
-				@include desktop(){
-					pointer-events: none !important;
+				&:first-child {
+					@include desktop(){
+						pointer-events: none !important;
+					}
 				}
 				&.active{
 					@include touch(){
