@@ -34,4 +34,4 @@ Additionally, accreditation helps to improve efficiency by eliminating the need 
 
 Increase confidence in the integrity of your certifications and reports with accreditation. You can be assured that the results of your conformity assessments meet prevailing industry standards and best practices. Besides enhanced transparency, fair competition and service quality, the accreditation process also reveals any gaps in non-conformity to help you improve your operational performance.
 
-![benefits of accreditation for CABs](/images/about/benefits-of-accreditation-2.jpg)
+![Certificate of Accreditation](/images/about/certificate-of-accreditation.jpg)
