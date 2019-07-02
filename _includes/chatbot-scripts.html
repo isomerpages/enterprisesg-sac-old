@@ -131,7 +131,7 @@ window.onload = function(){
             if (title.search(/overview/i) === 0) {
                 var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
                 if (activeSecondLevelNavHeaders.length > 0) {
-                    pageTitles[0].textContent += "(" + activeSecondLevelNavHeaders[0].textContent + ")";
+                    pageTitles[0].textContent += " (" + activeSecondLevelNavHeaders[0].textContent + ")";
                 }
             }
         }
