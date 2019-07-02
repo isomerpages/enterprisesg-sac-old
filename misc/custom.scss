@@ -382,6 +382,13 @@ hr {
 				}
 			}
 		}
+		&.has-dropdown {
+			a.navbar-link{
+				@include desktop(){
+					pointer-events: none !important;
+				}
+			}
+		}
 	}
 	&-burger{	//increase the size of the navbar-burger icon on mobile screen  
 		span{   
