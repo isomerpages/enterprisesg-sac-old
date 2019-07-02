@@ -33,7 +33,7 @@ Please refer to the [Isomer markdown documentation](https://isomer.gov.sg/docume
 <a name="edit-file"></a>
 ## Adding / Deleting a Document File
 
-Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [Isomer documentation for github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
+Document files (PDF, Doc files) for the website are all stored in the 'files' folder of the Github repository and are organized in their respective folders. The step-by-step guide for adding / deleting a document file are listed in [Isomer documentation for Github repository](https://isomer.gov.sg/documentation/github-repository/overview/).
 
 Essentially, the steps are:
 
@@ -50,17 +50,17 @@ Essentially, the steps are:
 <a name="edit-link"></a>
 ## Adding / Editing a link
 
-The markdown syntax for a direct link is explained in the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
+The markdown syntax for a direct link is explained in the [Isomer markdown documentation](https://isomer.gov.sg/documentation/markdown/markdown-usage/). All links (including image links) to other parts of the same SAC website are written relative to the base url, so the full link 'https://isomer-sac-demo-staging.netlify.com/about/our-role' can be written as '/about/our-role' in the Github file.  
 
-For this website, **most of the links open in a new window tab**. So we add an additional link attribute `{:target="_blank"}` after the inline link.
+For this website, **most of the links open in a new window**. So we add an additional link attribute `{:target="_blank"}` after the inline Markdown link.
 
-* **Syntax for a link that opens in a new window tab:** 
+* **Syntax for a link that opens in a new window:** 
 ```
-[url-name](url-link){:target="_blank"}
+[Website name](website-link){:target="_blank"}
 ```
-* **Syntax for an image link that opens in a new window tab:** 
+* **Syntax for an image link that opens in a new window:** 
 ```
-[![image-name](image-link)](url-link){:target="_blank"}
+[![image name](image-path)](website-link){:target="_blank"}
 ```
 
 <a name="create-bookmark"></a>
@@ -79,7 +79,7 @@ First, create a bookmark with the id attribute `{: #custom-id}` which is written
 this is a paragraph
 
 # custom ID can also be added after the inline header / paragraph / link
-[url1-name](url1-link){: #url1}
+[url1 name](url1-link){: #url1}
 
 ```
 
@@ -138,17 +138,17 @@ Images are displayed in their full width and height in the centre of each page b
 
 * To add an image caption below the image, we enclose the caption text with asterisk (*) as an italic text as shown below:
 ```
-![image-name](image-link)
+![Image Title](image-path)
 *Image Caption Text*
 ```
 
 <a name="edit-table"></a>
 ## Adding / Editing a Table
 
-The SAC website contains several tables which can be added / edited using Markdown. Alternatively, the tables can be created using conventional HTML syntax as demonstrated in the [Isomer documentation guide here](https://isomer.gov.sg/documentation/markdown/markdown-helper/).
+The SAC website contains several tables which can be added / edited using Markdown. Alternatively, the tables can be created using conventional HTML syntax using the online [HTML Table Generator](https://www.tablesgenerator.com/html_tables). It is best to use HTML tables for more complicated tables.
 
 ### Using Markdown Tables
-If using markdown syntax to create the table, the markdown guide can be found [here](https://kramdown.gettalong.org/syntax.html#tables). In general, the basic syntax for a markdown table is show below:  
+The online [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) can be used to create simple tables in Markdown. In general, the basic syntax for a Markdown table is show below:  
 
 * Basic Markdown table syntax
 ```
@@ -199,41 +199,18 @@ The step-by-step guide for editing the content in Homepage is listed in [Isomer 
 
 The index.md file lists the type of Isomerpages layout template used for the homepage, the homepage title and the homepage url link that will appear in the user's Web browser.
 
-To edit the content in homepage, edit the 'homepage.yml' file in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Refer to the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) and its [staging website homepage](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
+To edit the content in homepage, edit the 'homepage.yml' file in the _data folder of the repository. Other sections can be added and deleted from the homepage. (Refer to the [homepage.yml](https://github.com/isomerpages/isomerpages-template/blob/master/_data/homepage.yml) of isomerpages-template for an example).
 
 _For faster loading speeds, try to keep the image size to a maximum of a few hundred kb._
-
-### Editing Programmes Section (a.k.a 'About / What is Accreditation?' Section)
-The programmes section of the homepage can be edited similarly by editing the programmes.yml file in the _data folder.
-
-The carousel portion of the programmes section can be hidden or shown using these steps:
-
-1. Select your "Staging" Branch in the repository
-2. Go into the "misc" folder
-3. Edit the custom.scss file
-4. Search for the ".programme-container" code block. Change the "display" attribute to to show or hide the carousel. 
-```
-.programme-container {
-	display: none; //hides the programmes section carousel
-}
-```
-
-```
-.programme-container {
-	display: block; //displays the programmes section carousel
-}
-```
-
-5. Click on "Commit changes" button to save.
 
 ### Editing Newsroom Section (a.k.a Resources in the Isomerpages template) in Homepage
 The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 <a name="edit-nav"></a>
 ## Overview of the Navigation Bar
-Each navigation link in the top navigation bar has a corresponding markdown file in the main folder of the Github Repository (e.g. about.md links to the 'About' navigation link) **except for the Newsroom navigation link**. The Github Repository also contains seperate folders that contain the files for each of the sub-links under the top navigation links. 
+Each tab in the top navigation bar has a corresponding markdown file in the main folder of the Github repository (e.g. about.md links to the 'About' navigation link) **except for the Newsroom tab**. The Github Repository also contains seperate folders that contain the files for each of the sub-links under the top navigation bar tabs. 
 
-The _navigation.yml file in the _date folder of the Github Repository lists the full list of the titles and urls of the top navigation links and sub-links, and the _config.yml file lists the 'collection name' for each of the top navigation link (under the section 'collections:'), which has to be consistent in the top header code snippet for all the sub-link pages.
+The _navigation.yml file in the _date folder of the Github Repository lists the full list of the titles and urls of the top navigation bar tabs and sub-links, and the _config.yml file lists the 'collection name' for each of the top navigation link (under the section 'collections:'), which has to be consistent in the top header code snippet for all the sub-link pages.
 
 The step-by-step guide for editing the top navigation bar is listed in [Isomer documentation for Navbar and Footer](https://isomer.gov.sg/documentation/navbar-and-footer/overview/).
 
@@ -244,7 +221,7 @@ The about.md file lists the type of Isomerpages layout template used for the 'Ab
 	
 > Home / About / Our Role
 
-The _about folder contains the files of all the sub-links in the 'About' page. The name of each file is preceded with a numbering system  (e.g. '00-our-role.md') so that the desired order of the sub-link pages can be displayed in the left navigation section of each page. Files which have alphabets after the numbers (e.g. '03a-council-committees.md') are second-level inner sub-link pages.
+The _about folder contains the files of all the sub-links in the 'About' page. The name of each file is preceded with a numbering system  (e.g. '00-our-role.md') so that the desired order of the sub-link pages can be displayed in the left navigation bar of each page. Files which have alphabets after the numbers (e.g. '03a-council-committees.md') are second-level inner sub-link pages.
 
 Most of the pages follow the Isomerpages leftnav-page-content template layout. More details for editing each page can be viewed in the official [Isomer documentation for inner page](https://isomer.gov.sg/documentation/inner-page/overview/).
 
@@ -261,8 +238,8 @@ More information on adding a youtube video can be found in the [Isomer documenta
 The 'Mutual Recognition Arrangement' page contains a table for the list osf MRAs. The table has been customised and the customisation name (which also acts as the unique identifier) has been added before the Markdown table syntax, as shown below:
 ```
 {:#mra-table}
-| ![mra1-image-name](mra1-image-link){: style=""} mra1-description | {::nomarkdown}<ul><li>mra1 timeline1</li><li>mra1 timeline2</li></ul>{:/} |
-| ![mra2-image-name](mra2-image-link){: style=""} mra2-description | {::nomarkdown}<ul><li>mra2 timeline1</li><li>mra2 timeline2</li></ul>{:/} |
+| ![mra1 image name](mra1-image-link){: style=""} mra1-description | {::nomarkdown}<ul><li>mra1 timeline1</li><li>mra1 timeline2</li></ul>{:/} |
+| ![mra2 image name](mra2-image-link){: style=""} mra2-description | {::nomarkdown}<ul><li>mra2 timeline1</li><li>mra2 timeline2</li></ul>{:/} |
 ```
 
 Essentially, the `{:#mra-table}` unique customisation contains alignment information for the MRA logo images, descriptions and ordered timelines in each table cell. The customisation can be edited using the steps:
@@ -369,10 +346,13 @@ Most of the pages follow the Isomerpages 'leftnav-page-content' template layout.
 ### Editing Tables in 'Accreditation Services -> Certification Body' Inner Page
 The page contains standards tables listing the programme details of the accreditation services available for creditation bodies. If using markdown syntax for tables (instead of the conventional HTML syntax), markdown tables which contain bulleted lists must make use of the `{::nomarkdown}{:/}` tags so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
 
-### Editing 'Training Services - Recent Courses / Workshops / Seminars' Page
-The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the newsroom/courses/_posts folder. New courses can be added by creating a new file in that folder (see the [Isomer documentation on creating a new post](https://isomer.gov.sg/documentation/resources/creating-a-new-post/) for more details).
+### Editing Table in 'Training Services - Recent Courses / Workshops / Seminars' Page
+The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the corresponding year category folder of the 'courses' directory. New courses can be added by creating a new file in the relevant 'year' category folder (e.g. '2019' folder contains all the files of the training courses for year 2019).
 
-The link below the table links to a full list of the training courses(i.e. all the files in the newsroom/courses/_posts folder).
+See the [Isomer documentation on creating a new simple page](https://isomer.gov.sg/documentation/inner-page/creating-a-new-simple-page/) for more details.
+
+### Editing 'Training Courses' Pages
+The 'Training Courses 2019/2018/2017' pages each contain a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the corresponding year category folder of the 'courses' directory. New courses can be added by creating a new file in the relevant 'year' category folder (e.g. '2019' folder contains all the files of the training courses for year 2019). 
 
 <a name="edit-resources"></a>
 ## Editing the Content of Resources Pages
@@ -389,7 +369,7 @@ Most of the pages follow the Isomerpages leftnav-page-content template layout. M
 The Brochures page contains a table for each brochure category. The table has been customised and an attribute list of the customisation names (or HTML 'classnames') are added before each Markdown table syntax, as shown below:
 ```
 {:.brochures-table}
-| [![brochure1-image-name](brochure1-image-link) brochure1-title](brochure1-url-link){:target="_blank"} | [![brochure2-image-name](brochure2-image-link) brochure2-title](brochure2-url-link){:target="_blank"} |
+| [![brochure1 image name](brochure1-image-link) brochure1 title](brochure1-url-link){:target="_blank"} | [![brochure2 image name](brochure2-image-link) brochure2 title](brochure2-url-link){:target="_blank"} |
 ```
 
 Essentially, the 'brochures-table' customisation contains styling information for aligning the brochure images and titles in each table cell. The customisation can be edited using the steps:
@@ -414,8 +394,8 @@ table {
 This page contains tables for some of the images that are aligned side-by-side. In addition, the tables have been customised and the 'image-caption-table' customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
 ```
 {: .image-caption-table}
-|![SAC-mark1-image-name](SAC-mark1-image-link) | ![SAC-mark2-image-name](SAC-mark2-image-link) |
-| SAC-mark1-caption | SAC-mark2-caption |
+|![SAC Mark 1 image name](SAC-mark1-image-link) | ![SAC Mark 2 image name](SAC-mark2-image-link) |
+| SAC Mark 1 caption | SAC Mark 2 caption |
 ```
 
 Essentially, the 'image-caption-table' customisation contains styling information for aligning the SAC mark images and captions in each table cell. The customisation can be edited using the steps:
