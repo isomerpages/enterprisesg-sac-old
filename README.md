@@ -207,12 +207,12 @@ _For faster loading speeds, try to keep the image size to a maximum of a few hun
 The 'Newsroom' page in the SAC website is linked to the 'newsroom' (which has been renamed from 'resources' under Isomerpages template) portion in the homepage. The steps for editing this portion in the homepage  is listed in the official [Isomer documentation](https://isomer.gov.sg/documentation/homepage/changing-resources-section/).
 
 <a name="edit-nav"></a>
-## Overview of the Navigation Bar
-Each tab in the top navigation bar has a corresponding markdown file in the main folder of the Github repository (e.g. about.md links to the 'About' navigation link) **except for the Newsroom tab**. The Github Repository also contains seperate folders that contain the files for each of the sub-links under the top navigation bar tabs. 
+## Overview of the Main Navigation Bar
+Each tab in the main navigation bar has a corresponding markdown file in the main folder of the Github repository (e.g. about.md links to the 'About' navigation tab) **except for the Newsroom tab**. The Github Repository also contains seperate folders that contain the files for each of the sub-links under the main navigation bar tabs. 
 
-The _navigation.yml file in the _date folder of the Github Repository lists the full list of the titles and urls of the top navigation bar tabs and sub-links, and the _config.yml file lists the 'collection name' for each of the top navigation link (under the section 'collections:'), which has to be consistent in the top header code snippet for all the sub-link pages.
+The _navigation.yml file in the _data folder of the Github Repository lists the full list of the titles and urls of the main navigation bar tabs and sub-links, and the _config.yml file lists the 'collection group name' for each of the main navigation bar tab (under the section 'collections:'), which has to be consistent in the top header code snippet for all the sub-link pages.
 
-The step-by-step guide for editing the top navigation bar is listed in [Isomer documentation for Navbar and Footer](https://isomer.gov.sg/documentation/navbar-and-footer/overview/).
+The step-by-step guide for editing the main navigation bar is listed in [Isomer documentation for Navbar and Footer](https://isomer.gov.sg/documentation/navbar-and-footer/overview/).
 
 <a name="edit-about"></a>
 ## Editing the Content of About Pages
