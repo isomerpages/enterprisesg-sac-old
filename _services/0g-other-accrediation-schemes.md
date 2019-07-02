@@ -5,8 +5,8 @@ permalink: /services/other-accreditation-schemes
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
+
 ## About
-![Other Accreditation Schemes](/images/services/other-accreditation-schemes.jpg)
 
 SAC will develop accreditation programmes that are required to support Singapore's strategic initiatives such as market access, security, and safety and health. Some of the programmes being considered include Greenhouse Gas Validation & Verification and Information Security Management system.
  
