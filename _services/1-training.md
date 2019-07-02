@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Overview (Training)
+title: Overview
 permalink: /services/training
 collection_name: services
 second_nav_title: "Training Services"
