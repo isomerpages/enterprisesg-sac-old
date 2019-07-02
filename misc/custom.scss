@@ -284,6 +284,9 @@ $tablet: 768px !default;
 			@include tablet-larger(){
 				width: 16%;
 			}
+			p.sub-header a {
+				pointer-events: none !important;
+			}
 		}
 	}
 	p.is-hidden-mobile {
