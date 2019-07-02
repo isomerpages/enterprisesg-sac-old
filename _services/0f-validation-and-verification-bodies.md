@@ -10,7 +10,7 @@ second_nav_title: "Accreditation Services"
 Accreditation is an endorsement of a validation/verification body's independence, integrity and technical competence. Most importantly, accreditation provides a validation/verification body (V/VB) with a trust mark and confidence to offer its services nationally and globally.
 
 ### About the Schemes
-![Accreditation Scheme for Greenhouse Gas Validation & Verification Body](/images/services/validation-and-verification-accreditation-services.jpg)
+![Carbon Offsetting and Reduction Scheme for International Aviation](/images/services/validation-and-verification-accreditation.jpg)
 
 The Accreditation Scheme for Greenhouse Gas Validation & Verification Body was launched on 24 August 2018 for organisations providing third-party validation/verification services for the reduction and removal of greenhouse gases (GHG). This new accreditation scheme was developed in response to the increasing demand for sustainability and to support the aviation industry for the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) initiated by the International Civil Aviation Organization (ICAO). CORSIA is a global voluntary market-based measure scheme to address any annual increase in total CO2 emissions from international civil aviation.
 
