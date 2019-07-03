@@ -363,6 +363,12 @@ hr {
 	@include tablet(){
 		font-size: 2.8rem;
 	}
+	b {
+		text-shadow: 2px 2px 4px $secondary;
+	}
+	& + p {
+		text-shadow: 2px 2px 4px $secondary;
+	}
 }
 
 // Navbar
