@@ -1,7 +1,7 @@
 ---
 layout: navpage_overview
 title: Industries
-file_url: /industries/
+permalink: /industries/
 breadcrumb: industries
 collection_name: industries
 ---
