@@ -187,7 +187,7 @@ Table cells containing multiple lines (such as lists or paragraphs) require inli
 Tables are styled according to the default Isomerpages template. For certain customised tables in the SAC website, customisation names (or HTML classnames) like `{: .customised-table-name}` or `{: #customised-table-unique-identifier}` are used in conjunction to style the tables, and are placed in front of the Markdown table syntax.
 
 ```
-{: .groups}
+{: .customised-table-name}
 | row-1/column-1 | row-1/column-2 |
 | row-2/column-1 | row-2/column-2 |
 ```
@@ -303,7 +303,7 @@ Most of the pages follow the Isomerpages leftnav-page-content template layout. M
 ### Editing Table in Each Industry Page
 Each page in the Industries category contains a Markdown table that lists the relevant accreditation schemes and their related fields. The table has been customised and the customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
 ```
-{:.groups}
+{:.customised-industries-table}
 | Scheme  | Field          |
 |---
 | scheme1 | scheme1-field1 |
@@ -313,18 +313,18 @@ Each page in the Industries category contains a Markdown table that lists the re
 |         | scheme2-field2 |
 ```
 
-The `|---` syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'groups' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
+The `|---` syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'customised-industries-table' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the ".groups" code block. Change the attributes by amending the section within the code block:
+4. Search for the ".customised-industries-table" code block. Change the attributes by amending the section within the code block:
 
 ```css
 # Sample custom.scss file section for reference
 
 table {
-	&.groups {
+	&.customised-industries-table {
 			//edit attributes here
 			...
 		}
