@@ -19,7 +19,7 @@ The Civil Aviation Authority of Singapore is the regulatory body governing the a
 
 ### Relevant SAC Accreditation Programmes
 
-{: .groups}
+{: .customised-industries-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
