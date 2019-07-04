@@ -19,7 +19,7 @@ In Singapore, the Cyber Security Agency of Singapore and Infocomm Media Developm
 
 ### Relevant SAC Accreditation Programmes
 
-{: .groups}
+{: .customised-industries-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
