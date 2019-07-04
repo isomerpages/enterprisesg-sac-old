@@ -17,7 +17,7 @@ Management systems certifications which apply across industries are also relevan
 
 ### Relevant SAC Accreditation Programmes
 
-{: .groups}
+{: .customised-industries-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
