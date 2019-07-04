@@ -19,7 +19,7 @@ In Singapore, the Health Sciences Authority is the regulatory body governing the
 
 ### Relevant SAC Accreditation Programmes
 
-{: .groups}
+{: .customised-industries-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
