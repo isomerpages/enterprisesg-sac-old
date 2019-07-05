@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Laboratory Accreditation
-permalink: /resources/laboratory-accreditation
+permalink: /resources/publications/laboratory-accreditation
 collection_name: resources
 second_nav_title: "Publications"
 ---
