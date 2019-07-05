@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Inspection Body Accreditation
-permalink: /resources/inspection-body-accreditation
+permalink: /resources/publications/inspection-body-accreditation
 collection_name: resources
 second_nav_title: "Publications"
 ---
