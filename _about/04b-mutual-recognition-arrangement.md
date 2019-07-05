@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Mutual Recognition Arrangement (MRA)
-permalink: /about/mutual-recognition-arrangement
+permalink: /about/collaborations-and-recognitions/mutual-recognition-arrangement
 collection_name: about
 second_nav_title: "Collaborations And Recognitions"
 ---
