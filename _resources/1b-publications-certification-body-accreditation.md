@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Certification Body Accreditation
-permalink: /resources/certification-body-accreditation
+permalink: /resources/publications/certification-body-accreditation
 collection_name: resources
 second_nav_title: "Publications"
 ---
