@@ -10,7 +10,7 @@ Accreditation is the endorsement of an organisation’s competence, credibility,
 
 SAC is a Mutual Recognition Arrangement (MRA) Signatory to various international organisations including ILAC, IAF, APLAC, PAC. The SAC’s mark on test, calibration, inspection reports and certificates will mean that the report is recognised among the MRA partners. Thus, if your services are accredited by SAC, your accredited services will be recognised by the importing countries who are members signatory of the MRA.
 
-For more information about MRA, please click [here](mutual-recognition-arrangement){:target="_blank"}.
+For more information about MRA, please click [here](/about/collaborations-and-recognitions/mutual-recognition-arrangement){:target="_blank"}.
 
 ## Types of Accreditation
 SAC currently operates the following accreditation schemes* -
