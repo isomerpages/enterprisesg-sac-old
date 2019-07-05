@@ -24,6 +24,7 @@ Choose one of the Council Committee group below to view all of its members and c
 | Designation | Name | Organisation |
 |-|-|-|
 | **Chairman** | Dr Leslie Retnam | National University of Singapore |
+| **Deputy Chariman** | Helen Tan | Singapore Accreditation COuncil |
 | **Member** | Dr Paul Chiew | Agri-Food & Veterinary Authority of Singapore |
 | | Dr Lim Ee Meng | A*STAR National Metrology Centre (NMC) |
 | | Pending | A*STAR Singapore Institute of Manufacturing Technology (SIMTech) |
