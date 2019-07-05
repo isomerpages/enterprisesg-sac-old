@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Letter of Understanding / Memorandum of Understanding
-permalink: /about/loumou
+permalink: /about/collaborations-and-recognitions/loumou
 collection_name: about
 second_nav_title: "Collaborations And Recognitions"
 ---
