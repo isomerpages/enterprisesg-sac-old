@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Internal Audit Course (9-10 Nov 2017)
-permalink: /services/training-courses-2017/Internal-Audit-Course1002-5459
+permalink: /services/training/training-courses-2017/Internal-Audit-Course1002-5459
 ---
 
 ## Course Details
