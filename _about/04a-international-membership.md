@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: International Membership
-permalink: /about/international-membership
+permalink: /about/collaborations-and-recognitions/international-membership
 collection_name: about
 second_nav_title: "Collaborations And Recognitions"
 ---
