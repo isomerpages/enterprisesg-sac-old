@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Secretariat
-permalink: /about/secretariat
+permalink: /about/our-organisation-and-structure/secretariat
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
