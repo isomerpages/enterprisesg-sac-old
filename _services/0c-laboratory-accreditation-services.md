@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Laboratory
-permalink: /services/laboratory
+permalink: /services/accreditation-services/laboratory
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
