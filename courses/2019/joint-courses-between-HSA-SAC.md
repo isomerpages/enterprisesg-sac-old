@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: 2019 Joint courses between HSA-SAC (April, May, July and August 2019)
-permalink: /services/training-courses-2019/joint-courses-between-HSA-SAC
+permalink: /services/training/training-courses-2019/joint-courses-between-HSA-SAC
 ---
 
 ## Course Details
