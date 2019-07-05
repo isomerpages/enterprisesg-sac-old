@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Proficiency Testing Providers
-permalink: /resources/proficiency-testing-provider-accreditation
+permalink: /resources/publications/proficiency-testing-provider-accreditation
 collection_name: resources
 second_nav_title: "Publications"
 ---
