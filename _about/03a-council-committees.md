@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Council Committees
-permalink: /about/council-committees
+permalink: 	/about/our-organisation-and-structure/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
