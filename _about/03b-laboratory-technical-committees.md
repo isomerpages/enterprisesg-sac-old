@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Laboratory Technical Committees
-permalink: /about/laboratory-technical-committees
+permalink: /about/our-organisation-and-structure/laboratory-technical-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
