@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Good Laboratory Practice Registration Scheme
-permalink: /resources/good-laboratory-practice-registration
+permalink: /resources/publications/good-laboratory-practice-registration
 collection_name: resources
 second_nav_title: "Publications"
 ---
