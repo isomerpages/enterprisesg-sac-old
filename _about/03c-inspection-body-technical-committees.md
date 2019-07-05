@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Inspection Body Technical Committees
-permalink: /about/inspection-body-technical-committees
+permalink: /about/our-organisation-and-structure/inspection-body-technical-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
