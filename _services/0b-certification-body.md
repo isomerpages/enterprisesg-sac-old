@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Certification Body
-permalink: /services/certification-body
+permalink: /services/accreditation-services/certification-body
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
