@@ -26,62 +26,50 @@
 - year: 2018
   annual-quarter:
     - quarter: 1
-      courselist:
-        - title: Laboratory Management Course (based on ISO/IEC 17025)
-          date: 26-28 Feb 2018
-          link: /services/training/training-courses-2018/laboratory-management-course-ISO-IEC-17025
-        - title: Internal Audit Course
-          date: 1-2 March 2018
-          link: /services/training/training-courses-2018/Internal-Audit-Course0102-5356  
-    - quarter: 2
-      courselist:  
-        - title: Product Certification (based on ISO/IEC 17065)
-          date: 17-18 May 2018
-          link: /services/training/training-courses-2018/Internal-Audit-Course0102-5356  
-    - quarter: 3
-      courselist:       
+      course-list:
         - title: Laboratory Management Course
-          date: 24-26 September 2018	
-          link: /services/training/training-courses-2018/Laboratory-Management-Course0830-1895
+          date: 4-6 March 2019
+          link: /services/training/training-courses-2019/laboratory-management-course
         - title: Internal Audit Course
-          date: 27-28 September 2018
-          link: /services/training/training-courses-2018/Internal-Audit-Course0830-2507
+          date: 7-8 March 2019
+          link: /services/training/training-courses-2019/internal-audit-course 
+    - quarter: 2
+      course-list:   
+        - title: 2019 Joint courses between HSA-SAC
+          date: April, May, July and August 2019
+          link: /services/training/training-courses-2019/joint-courses-between-HSA-SAC
+        - title: Training course on ISO/TS 22003:2013 and ISO 22000:2018
+          date: 24-25 June 2019
+          link: /services/training/training-courses-2019/training-course-on-isots-220032013-and-iso-220002018
+        - title: Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
+          date: 17 Jun (pm) to 18 Jun 2019
+          link: /services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016         
+    - quarter: 3
+      course-list: 
     - quarter: 4
-      courselist:      
-        - title: Laboratory Management Course (based on ISO/IEC 17025:2017)
-          date: 7-9 November 2018
-          link: /services/training/training-courses-2018/Laboratory-Management-Course-(based-on-ISOIEC-170252017)
-        - title: Inspection Body Course (based on ISO/IEC 17020:2012)
-          date: 12-13 November 2018	
-          link: /services/training/training-courses-2018/Inspection-Body-Course-(based-on-ISOIEC-170202012)1003-1061
-        - title: Training on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations
-          date: 22 November 2018
-          link: /services/training/training-courses-2018/SAC-CT-17-%E2%80%93-SAC-Criteria-for-Accreditation-of-Auditing-Organisations
+      course-list: 
 - year: 2017
   annual-quarter:
     - quarter: 1
-      course-list: 
-    - quarter: 2
-      course-list: 
-    - quarter: 3
-      courselist:       
-        - title: ISO/IEC 17024 course
-          date: 30-31 August 2017	
-          link: /services/training/training-courses-2017/ISOIEC-17024-course0718-5116
-    - quarter: 4
-      courselist:  
-        - title: ISO 15189:2012 Course (Medical Laboratories)
-          date: 30-31 October 2017
-          link: /services/training/training-courses-2017/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)
-        - title: Laboratory Management Course (based on ISO/IEC 17025)
-          date: 6-8 November 2017	
-          link: /services/training/training-courses-2017/Laboratory-Management-Course-(based-on-ISOIEC-17025)1002-1333
+      course-list:
+        - title: Laboratory Management Course
+          date: 4-6 March 2019
+          link: /services/training/training-courses-2019/laboratory-management-course
         - title: Internal Audit Course
-          date: 9-10 November 2017
-          link: /services/training/training-courses-2017/Internal-Audit-Course1002-5459
-        - title: Inspection Body Course (based on ISO/IEC 17020:2012)
-          date: 15-16 November 2017
-          link: /services/training/training-courses-2017/Inspection-Body-Course-(based-on-ISOIEC-170202012)1002-185
-        - title: Auditing Organisations Course (30 Nov 2017, 1 Dec 2017)
-          date: 30 Nov 2017 & 1 Dec 2017
-          link: /services/training/training-courses-2017/Audit-Organisations-Course--30-November---01-December-2017
+          date: 7-8 March 2019
+          link: /services/training/training-courses-2019/internal-audit-course 
+    - quarter: 2
+      course-list:   
+        - title: 2019 Joint courses between HSA-SAC
+          date: April, May, July and August 2019
+          link: /services/training/training-courses-2019/joint-courses-between-HSA-SAC
+        - title: Training course on ISO/TS 22003:2013 and ISO 22000:2018
+          date: 24-25 June 2019
+          link: /services/training/training-courses-2019/training-course-on-isots-220032013-and-iso-220002018
+        - title: Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
+          date: 17 Jun (pm) to 18 Jun 2019
+          link: /services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016         
+    - quarter: 3
+      course-list: 
+    - quarter: 4
+      course-list:       
