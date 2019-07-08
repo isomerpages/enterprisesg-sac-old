@@ -14,7 +14,7 @@ layout: leftnav-page-content
 			<th>Q4</th>
 		</tr>
 		<tr>
-			{%- for annual-quarter-courses in annual-courses -%}
+			{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
 			<td>
 			{%- for course in annual-quarter-courses.course-list -%}
 			{{- course.title -}}<br/>{{- course.date -}}<br/><br/>
