@@ -1,20 +1,76 @@
-- title: Frequently Asked Questions on SAC Accreditation Programmes
-  description: Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
-  faqs:
-      - question: What is accreditation?
-        answer: 
-          - line: "Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification."
-      - question: What is the difference between accreditation and certification?
-        answer: 
-          - line: "**Accreditation**: Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation."
-          - line: "**Certification**: Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements."
-          - line: 'ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="_blank"} in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.'
-      - question: What are the benefits of being accredited?
-        answer: 
-          - line: "These are some of the key benefits of being accredited."
-          - line: "**Building Trust:** In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of your products and services. This will enable you to build trust between you and your customers."
-          - line: "**International Recognition:** Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body, or accept your test results/inspections if you are an accredited laboratory or inspection body."
-          - line: "**Minimises Risk:** Accredited organisations reduce the risk of providing unreliable test results, services and products, and are able to meet the customers' expectations."
-          - line: "**Reduce Costs**: Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc."
-          - line: "**Demonstrate Credibility**: No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel."
-      
+- year: 2019
+  quarter: 1
+  course-list:
+    - title: Laboratory Management Course
+      date: 4-6 March 2019
+      link: /services/training/training-courses-2019/laboratory-management-course
+    - title: Internal Audit Course
+      date: 7-8 March 2019
+      link: /services/training/training-courses-2019/internal-audit-course 
+  quarter: 2
+  course-list:   
+    - title: 2019 Joint courses between HSA-SAC
+      date: April, May, July and August 2019
+      link: /services/training/training-courses-2019/joint-courses-between-HSA-SAC
+    - title: Training course on ISO/TS 22003:2013 and ISO 22000:2018
+      date: 24-25 June 2019
+      link: /services/training/training-courses-2019/training-course-on-isots-220032013-and-iso-220002018
+    - title: Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
+      date: 17 Jun (pm) to 18 Jun 2019
+      link: /services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016         
+- year: 2018
+  quarter: 1
+  courselist:
+    - title: Laboratory Management Course (based on ISO/IEC 17025)
+      date: 26-28 Feb 2018
+      link: /services/training/training-courses-2018/laboratory-management-course-ISO-IEC-17025
+    - title: Internal Audit Course
+      date: 1-2 March 2018
+      link: /services/training/training-courses-2018/Internal-Audit-Course0102-5356  
+  quarter: 2
+  courselist:  
+    - title: Product Certification (based on ISO/IEC 17065)
+      date: 17-18 May 2018
+      link: /services/training/training-courses-2018/Internal-Audit-Course0102-5356  
+  quarter: 3
+  courselist:       
+    - title: Laboratory Management Course
+      date: 24-26 September 2018	
+      link: /services/training/training-courses-2018/Laboratory-Management-Course0830-1895
+    - title: Internal Audit Course
+      date: 27-28 September 2018
+      link: /services/training/training-courses-2018/Internal-Audit-Course0830-2507
+  quarter: 4
+  courselist:      
+    - title: Laboratory Management Course (based on ISO/IEC 17025:2017)
+      date: 7-9 November 2018
+      link: /services/training/training-courses-2018/Laboratory-Management-Course-(based-on-ISOIEC-170252017)
+    - title: Inspection Body Course (based on ISO/IEC 17020:2012)
+      date: 12-13 November 2018	
+      link: /services/training/training-courses-2018/Inspection-Body-Course-(based-on-ISOIEC-170202012)1003-1061
+    - title: Training on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations
+      date: 22 November 2018
+      link: /services/training/training-courses-2018/SAC-CT-17-%E2%80%93-SAC-Criteria-for-Accreditation-of-Auditing-Organisations
+- year: 2017
+  quarter: 3
+  courselist:       
+    - title: ISO/IEC 17024 course
+      date: 30-31 August 2017	
+      link: /services/training/training-courses-2017/ISOIEC-17024-course0718-5116
+  quarter: 4
+  courselist:  
+    - title: ISO 15189:2012 Course (Medical Laboratories)
+      date: 30-31 October 2017
+      link: /services/training/training-courses-2017/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)
+    - title: Laboratory Management Course (based on ISO/IEC 17025)
+      date: 6-8 November 2017	
+      link: /services/training/training-courses-2017/Laboratory-Management-Course-(based-on-ISOIEC-17025)1002-1333
+    - title: Internal Audit Course
+      date: 9-10 November 2017
+      link: /services/training/training-courses-2017/Internal-Audit-Course1002-5459
+    - title: Inspection Body Course (based on ISO/IEC 17020:2012)
+      date: 15-16 November 2017
+      link: /services/training/training-courses-2017/Inspection-Body-Course-(based-on-ISOIEC-170202012)1002-185
+    - title: Auditing Organisations Course (30 Nov 2017, 1 Dec 2017)
+      date: 30 Nov 2017 & 1 Dec 2017
+      link: /services/training/training-courses-2017/Audit-Organisations-Course--30-November---01-December-2017
