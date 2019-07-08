@@ -2,10 +2,11 @@
 layout: leftnav-page-content
 ---
 
+<h2>Training Courses and Seminars</h2>
 {%- assign training = site.data.training -%}
 <div class="content">		
 	{%- for annual-courses in training -%}
-	<h2>Training Calendar {{- annual-courses.year -}}</h2>
+	<h3>Training Calendar {{- annual-courses.year -}}</h3>
 	<table>
 		<tr>
 			<th>Q1</th>
