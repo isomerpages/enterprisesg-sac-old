@@ -766,18 +766,10 @@ img + em {
 }
 
 .trainingCoursesTable {
-	border-bottom: 1px dashed #d6d6d6;
 	background:url('/images/services/mainbg.jpg') no-repeat center;
 	tr {
 		th {
 			border:0;
-		}
-		td {
-			border-right:1px dashed #d6d6d6;
-			font-size:0.9rem;
-			&:last-child {
-				border-right:0;
-			}
 		}
 		.trainingCoursesTableHeaderBar {
 			background-color:#53565A;
@@ -785,11 +777,17 @@ img + em {
 			text-align:center;
 			font-size:1.5rem;
 		}
-	}
-	& + div {
-		margin-top:1rem;
-		padding-bottom:1rem;
-		position:relative;
+		td {
+			border-right:1px dashed #d6d6d6;
+			font-size:0.9rem;
+			
+			&:last-child {
+				border-right:0;
+			}
+			.trainingCoursesTableHeaderBar {
+				display:none;
+			}
+		}
 	}
 }
 
