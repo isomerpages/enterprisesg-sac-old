@@ -783,6 +783,7 @@ img + em {
 			@include tablet() {
 				display:block;
 				width: 100%;
+				font-size:1.0625rem;
 				border-right:0;
 				border-bottom: 1px dashed #d6d6d6;
 			}
