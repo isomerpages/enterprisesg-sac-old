@@ -158,9 +158,9 @@ window.onload = function(){
 {%- if page.layout == 'training' -%}
 <script>
     var trainingAdditionalInfo = document.getElementById('training-additional-info');
+    var marginTopHeight = 0;
     if (trainingAdditionalInfo != null) {
         var trainingCoursesHolders = document.getElementsByClassName('trainingCoursesHolder');
-        var marginTopHeight = 0;
         if (trainingCoursesHolders.length > 0) {
             marginTopHeight = trainingCoursesHolders[0].offsetHeight;
             marginTopHeight += 1.2 * 16 + 20;
@@ -183,6 +183,12 @@ window.onload = function(){
                 var refTrainingCoursesHolder = document.getElementById(refTrainingCoursesHolderID);
                 if (refTrainingCoursesHolder != null) {
                     refTrainingCoursesHolder.style.display = "block";
+                    
+                    marginTopHeight = refTrainingCoursesHolder.offsetHeight;
+                    marginTopHeight += 1.2 * 16 + 20;
+                    if (trainingAdditionalInfo != null) {
+                        trainingAdditionalInfo.style.marginTop = marginTopHeight + "px";
+                    }
                 }
             });
         }
