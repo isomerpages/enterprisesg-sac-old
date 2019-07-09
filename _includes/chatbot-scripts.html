@@ -179,10 +179,10 @@ window.onload = function(){
                     currTrainingCoursesHolder.style.display = "none";
                 }
             
-                var nextTrainingCoursesHolderID = "training-courses-holder-" + this.textContent;
-                var nextTrainingCoursesHolder = document.getElementById(nextTrainingCoursesHolderID);
-                if (nextTrainingCoursesHolder != null) {
-                    nextTrainingCoursesHolder.style.display = "block";
+                var refTrainingCoursesHolderID = "training-courses-holder-" + this.getAttribute("data-refYear");
+                var refTrainingCoursesHolder = document.getElementById(refTrainingCoursesHolderID);
+                if (refTrainingCoursesHolder != null) {
+                    refTrainingCoursesHolder.style.display = "block";
                 }
             });
         }
