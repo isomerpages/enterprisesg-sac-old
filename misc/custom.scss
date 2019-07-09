@@ -780,11 +780,25 @@ img + em {
 		td {
 			border-right:1px dashed #d6d6d6;
 			font-size:0.9rem;
-			
+			@include tablet() {
+				display:block;
+				width: 100%;
+				border-right:0;
+				border-bottom: 1px dashed #d6d6d6;
+			}
 			&:last-child {
 				border-right:0;
+				border-bottom:0;
 			}
 			.trainingCoursesTableHeaderBar {
+				display:none;
+				@include tablet() {
+					display:block;
+				}
+			}
+		}
+		&:first-child {
+			@include tablet() {
 				display:none;
 			}
 		}
