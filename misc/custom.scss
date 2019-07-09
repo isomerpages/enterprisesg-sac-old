@@ -753,6 +753,52 @@ img + em {
 	}
 }
 
+.trainingCoursesHolder {
+	display:none;
+	position:absolute;
+	background: white;
+	top: 0;
+	left: 0; 
+	width:100%;
+	&:first-child {
+		display:block;
+	}
+}
+
+.trainingCoursesTable {
+	border-bottom: 1px dashed #d6d6d6;
+	background:url('/images/services/mainbg.jpg') no-repeat center;
+	tr {
+		th {
+			border:0;
+		}
+		td {
+			border-right:1px dashed #d6d6d6;
+			font-size:0.9rem;
+			&:last-child {
+				border-right:0;
+			}
+		}
+		.trainingCoursesTableHeaderBar {
+			background-color:#53565A;
+			color:white;
+			text-align:center;
+			font-size:1.5rem;
+		}
+	}
+	& + div {
+		margin-top:1rem;
+		padding-bottom:1rem;
+		position:relative;
+	}
+}
+
+.trainingYearSelect {
+	position:absolute;
+	font-size:1.2rem;
+	font-weight:bold;
+}
+
 @media screen and (min-width: 640px) {	
 	.person-info-card {
 		flex: none;
