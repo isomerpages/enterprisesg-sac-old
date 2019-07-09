@@ -7,7 +7,6 @@ layout: leftnav-page-content
 {%- assign training = site.data.training -%}
 <div class="content" style="position:relative;margin-bottom:50%;">
 	{%- for annual-courses in training -%}
-	{{forloop.index0}}
 	<div id="training-courses-holder-{{- annual-courses.year -}}" class="trainingCoursesHolder" style="{%- if forloop.first == false -%}display:none;{%- endif -%}position:absolute;background: white;top: 0;left: 0; width:100%;">
 		<h3 style="color: #ED2E38;">TRAINING COURSES&nbsp;{{- annual-courses.year -}}</h3>
 		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
@@ -30,14 +29,14 @@ layout: leftnav-page-content
 			</tr>		
 		</table>
 		<hr/>
-		<div style="margin-top:1rem;position:relative;">
+		<div style="margin-top:1rem;margin-bottom:2rem;position:relative;">
 			{%- if forloop.first == false -%}
 			{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
-			<a style="font-size:1.2;font-weight:bold;">&lt;&nbsp;{{- previousYear -}}</a>
+			<a style="position:absolute;left:0;font-size:1.2rem;font-weight:bold;">&lt;&nbsp;{{- nextYear -}}</a>
 			{%- endif -%}
 			{%- if forloop.last == false -%}
 			{%- capture previousYear -%}{{- annual-courses.year | minus:1 -}}{%- endcapture -%}
-			<a style="position:absolute;right:0;font-size:1.2;font-weight:bold;">{{- previousYear -}}&nbsp;&gt;</a>
+			<a style="position:absolute;right:0;font-size:1.2rem;font-weight:bold;">{{- previousYear -}}&nbsp;&gt;</a>
 			{%- endif -%}
 		</div>
 	</div>
