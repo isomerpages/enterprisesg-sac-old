@@ -5,12 +5,12 @@ layout: leftnav-page-content
 <h2>Training Courses and Seminars</h2>
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 {%- assign training = site.data.training -%}
-<div class="content" style="position:relative;margin-bottom:50%;">
+<div style="position:relative;margin-bottom:50%;">
 	{%- for annual-courses in training -%}
 	<div id="training-courses-holder-{{- annual-courses.year -}}" class="trainingCoursesHolder" style="{%- if forloop.first == false -%}display:none;{%- endif -%}position:absolute;background: white;top: 0;left: 0; width:100%;">
 		<h3>TRAINING CALENDAR&nbsp;{{- annual-courses.year -}}</h3>
 		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
-		<table class="trainingCoursesTable">
+		<table class="trainingCoursesTable" style="border-bottom: 1px solid #d6d6d6">
 			<tr>
 				<th style="border:0;"><p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q1</p></th>
 				<th style="border:0;"><p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q2</p></th>
@@ -28,17 +28,17 @@ layout: leftnav-page-content
 				{%- endfor -%}
 			</tr>		
 		</table>
-		<hr/>
 		<div style="margin-top:1rem;margin-bottom:2rem;position:relative;">
 			{%- if forloop.first == false -%}
 			{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
-			<a style="position:absolute;left:0;font-size:1.2rem;font-weight:bold;">&lt;&nbsp;{{- nextYear -}}</a>
+			<a class="trainingYearSelect" style="position:absolute;left:0;font-size:1.2rem;font-weight:bold;">&lt;&nbsp;{{- nextYear -}}</a>
 			{%- endif -%}
 			{%- if forloop.last == false -%}
 			{%- capture previousYear -%}{{- annual-courses.year | minus:1 -}}{%- endcapture -%}
-			<a style="position:absolute;right:0;font-size:1.2rem;font-weight:bold;">{{- previousYear -}}&nbsp;&gt;</a>
+			<a class="trainingYearSelect" style="position:absolute;right:0;font-size:1.2rem;font-weight:bold;">{{- previousYear -}}&nbsp;&gt;</a>
 			{%- endif -%}
 		</div>
+		<hr/>
 	</div>
 	{%- endfor -%}
 </div>
