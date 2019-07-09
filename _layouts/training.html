@@ -30,13 +30,13 @@ layout: leftnav-page-content
 			</tr>		
 		</table>
 		<div style="margin-top:1rem;padding-bottom:1rem;position:relative;">
-			{%- if forloop.first == false -%}
-			{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
-			<a class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- nextYear -}}" style="left:0;">&lt;&nbsp;{{- nextYear -}}</a>
-			{%- endif -%}
 			{%- if forloop.last == false -%}
 			{%- capture previousYear -%}{{- annual-courses.year | minus:1 -}}{%- endcapture -%}
-			<a class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- previousYear -}}" style="right:0;">{{- previousYear -}}&nbsp;&gt;</a>
+			<a class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
+			{%- endif -%}
+			{%- if forloop.first == false -%}
+			{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
+			<a class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
 			{%- endif -%}
 		</div>
 		<hr/>
