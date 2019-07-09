@@ -20,6 +20,7 @@ layout: leftnav-page-content
 			<tr>
 				{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
 				<td style="{%- if forloop.last == false -%}border-right:1px dashed #d6d6d6;{%- endif -%}font-size:0.9rem;">
+					<p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q{{- forloop.index -}}</p>
 				{%- for course in annual-quarter-courses.course-list -%}
 					<a href="{{- course.link -}}" target="_blank">{{- course.title -}}<br/>{{- course.date -}}</a>
 					<br/><br/>
