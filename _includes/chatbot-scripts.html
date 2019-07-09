@@ -154,3 +154,18 @@ window.onload = function(){
     }
 </script>
 {%- endif -%} 
+
+{%- if page.layout == 'training' -%}
+<script>
+    var trainingAdditionalInfo = document.getElementById('training-additional-info');
+    if (trainingAdditionalInfo != null) {
+        var trainingCoursesHolders = document.getElementsByClassName('trainingCoursesHolder');
+        var marginTopHeight = 0;
+        if (trainingCoursesHolders.length > 0) {
+            marginTopHeight = trainingCoursesHolders[0].offsetHeight;
+            marginTopHeight += 1.2 * 16 + 20;
+        }
+        trainingAdditionalInfo.style.marginTop = marginTopHeight + "px";
+    } 
+</script>
+{%- endif -%} 
