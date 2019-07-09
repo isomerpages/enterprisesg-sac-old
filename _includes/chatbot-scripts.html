@@ -167,5 +167,25 @@ window.onload = function(){
         }
         trainingAdditionalInfo.style.marginTop = marginTopHeight + "px";
     } 
+    
+    var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
+    if (trainingYearSelects.length > 0) {
+        for (var i=0; i<trainingYearSelects.length; i++) {
+            trainingYearSelects[i].addEventListener('click', function (event) {
+                event.preventDefault();
+                var currTrainingCoursesHolderID = "training-courses-holder-" + this.getAttribute("data-currYear");
+                var currTrainingCoursesHolder = document.getElementById(currTrainingCoursesHolderID);
+                if (currTrainingCoursesHolder != null) {
+                    currTrainingCoursesHolder.style.display = "none";
+                }
+            
+                var nextTrainingCoursesHolderID = "training-courses-holder-" + this.textContent;
+                var nextTrainingCoursesHolder = document.getElementById(nextTrainingCoursesHolderID);
+                if (nextTrainingCoursesHolder != null) {
+                    nextTrainingCoursesHolder.style.display = "block";
+                }
+            });
+        }
+    }
 </script>
 {%- endif -%} 
