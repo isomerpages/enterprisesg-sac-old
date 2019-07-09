@@ -29,12 +29,15 @@ layout: leftnav-page-content
 				{%- endfor -%}
 			</tr>		
 		</table>
-		<div style="margin-top:1rem;">
+		<hr/>
+		<div style="margin-top:1rem;position:relative;">
 			{%- if forloop.first == false -%}
-			<span>&lt;{{- annual-courses.year -}}</span>
+			{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
+			<a style="font-size:1.2;font-weight:bold;">&lt;&nbsp;{{- previousYear -}}</a>
 			{%- endif -%}
 			{%- if forloop.last == false -%}
-			<span>&gt;{{- annual-courses.year -}}</span>
+			{%- capture previousYear -%}{{- annual-courses.year | minus:1 -}}{%- endcapture -%}
+			<a style="position:absolute;right:0;font-size:1.2;font-weight:bold;">{{- previousYear -}}&nbsp;&gt;</a>
 			{%- endif -%}
 		</div>
 	</div>
