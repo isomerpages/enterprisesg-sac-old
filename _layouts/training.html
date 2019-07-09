@@ -28,13 +28,12 @@ layout: leftnav-page-content
 				{%- endfor -%}
 			</tr>		
 		</table>
-		
 	</div>
 	{%- endfor -%}
+	{%- for annual-courses in training -%}
+		<a>{{- annual-courses.year -}}</a>&nbsp;|&nbsp;
+	{%- endfor -%}
 </div>
-{%- for annual-courses in training -%}
-<a>{{- annual-courses.year -}}</a>&nbsp;|&nbsp;
-{%- endfor -%}
 <div class="content">	
 	{{- content -}}
 </div>	
