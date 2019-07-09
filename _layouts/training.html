@@ -4,27 +4,29 @@ layout: leftnav-page-content
 
 <h2>Training Courses and Seminars</h2>
 {%- assign training = site.data.training -%}
-<div class="content" style="position:relative;">		
+<div class="content" style="position:relative;">	
 	{%- for annual-courses in training -%}
-	<h3 style="color: #ED2E38;">TRAINING COLOR&nbsp;{{- annual-courses.year -}}</h3>
-	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
-	<table style="position: absolute;background: white;top: 0;left: 0;">
-		<tr>
-			<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q1</th>
-			<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q2</th>
-			<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q3</th>
-			<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q4</th>
-		</tr>
-		<tr>
-			{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
-			<td style="border-right:1px dashed #d6d6d6;">
-			{%- for course in annual-quarter-courses.course-list -%}
-			{{- course.title -}}<br/>{{- course.date -}}<br/><br/>
-			{%- endfor -%}
-			</td>
-			{%- endfor -%}
-		</tr>		
-	</table>
+	<div style="display:block;position: absolute;background: white;top: 0;left: 0;">
+		<h3 style="color: #ED2E38;">TRAINING COLOR&nbsp;{{- annual-courses.year -}}</h3>
+		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
+		<table>
+			<tr>
+				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q1</th>
+				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q2</th>
+				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q3</th>
+				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q4</th>
+			</tr>
+			<tr>
+				{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
+				<td style="border-right:1px dashed #d6d6d6;">
+				{%- for course in annual-quarter-courses.course-list -%}
+				{{- course.title -}}<br/>{{- course.date -}}<br/><br/>
+				{%- endfor -%}
+				</td>
+				{%- endfor -%}
+			</tr>		
+		</table>
+	</div>
 	{%- endfor -%}
 	{{- content -}}
 <div>
