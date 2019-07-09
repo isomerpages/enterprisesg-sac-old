@@ -7,10 +7,10 @@ layout: leftnav-page-content
 {%- assign training = site.data.training -%}
 <div class="content" style="position:relative;margin-bottom:50%;">
 	{%- for annual-courses in training -%}
-	<div style="display:block;position: absolute;background: white;top: 0;left: 0; width:100%;">
+	<div id="training-courses-holder-{{- annual-courses.year -}}" class="trainingCoursesHolder" style="display:none;position: absolute;background: white;top: 0;left: 0; width:100%;">
 		<h3 style="color: #ED2E38;">TRAINING COURSES&nbsp;{{- annual-courses.year -}}</h3>
 		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
-		<table id="training-courses-table-{{- annual-courses.year -}}" class="trainingCoursesTable">
+		<table class="trainingCoursesTable">
 			<tr>
 				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q1</p></th>
 				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q2</p></th>
@@ -28,15 +28,16 @@ layout: leftnav-page-content
 				{%- endfor -%}
 			</tr>		
 		</table>
+		<div style="margin-top:1rem;">Select course year:&nbsp;
+		{%- for annual-courses1 in training -%}
+			<a class="trainingCoursesSelect">{{- annual-courses1.year -}}</a>&nbsp;|&nbsp;
+		{%- endfor -%}
+		</div>
 	</div>
 	{%- endfor -%}
 </div>
 <div class="content">	
-	<div>Select course year:&nbsp;
-	{%- for annual-courses in training -%}
-		<a id="training-select-{{- annual-courses.year -}}" class="trainingCoursesSelect">{{- annual-courses.year -}}</a>&nbsp;|&nbsp;
-	{%- endfor -%}
-	</div>
+	
 	{{- content -}}
 </div>	
 
