@@ -6,15 +6,15 @@ layout: leftnav-page-content
 {%- assign training = site.data.training -%}
 <div class="content" style="position:relative;">	
 	{%- for annual-courses in training -%}
-	<div style="display:block;position: absolute;background: white;top: 0;left: 0;">
+	<div style="display:block;position: absolute;background: white;top: 0;left: 0; width:100%;">
 		<h3 style="color: #ED2E38;">TRAINING COLOR&nbsp;{{- annual-courses.year -}}</h3>
 		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
 		<table>
 			<tr>
-				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q1</th>
-				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q2</th>
-				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q3</th>
-				<th style="display: block;border:0;background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem; padding:0;margin: 0 10px;">Q4</th>
+				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q1</p></th>
+				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q2</p></th>
+				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q3</p></th>
+				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q4</p></th>
 			</tr>
 			<tr>
 				{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
