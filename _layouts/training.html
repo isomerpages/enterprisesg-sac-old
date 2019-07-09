@@ -6,7 +6,7 @@ layout: leftnav-page-content
 {%- assign training = site.data.training -%}
 <div class="content" style="position:relative;">	
 	{%- for annual-courses in training -%}
-	<div style="display:block;position: absolute;background: white;top: 0;left: 0; width:100%;">
+	<div style="display:block;position: absolute;background: white;top: 0;left: 0; width:100%;margin-top:1rem;margin-bottom:1rem;">
 		<h3 style="color: #ED2E38;">TRAINING COLOR&nbsp;{{- annual-courses.year -}}</h3>
 		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
 		<table>
@@ -18,7 +18,7 @@ layout: leftnav-page-content
 			</tr>
 			<tr>
 				{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
-				<td style="border-right:1px dashed #d6d6d6;">
+				<td style="border-right:1px dashed #d6d6d6;font-size:0.7rem;">
 				{%- for course in annual-quarter-courses.course-list -%}
 				{{- course.title -}}<br/>{{- course.date -}}<br/><br/>
 				{%- endfor -%}
