@@ -8,18 +8,18 @@ layout: leftnav-page-content
 <div class="content" style="position:relative;margin-bottom:50%;">
 	{%- for annual-courses in training -%}
 	<div id="training-courses-holder-{{- annual-courses.year -}}" class="trainingCoursesHolder" style="{%- if forloop.first == false -%}display:none;{%- endif -%}position:absolute;background: white;top: 0;left: 0; width:100%;">
-		<h3 style="color: #ED2E38;">TRAINING COURSES&nbsp;{{- annual-courses.year -}}</h3>
+		<h3>TRAINING CALENDAR&nbsp;{{- annual-courses.year -}}</h3>
 		<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</div>
 		<table class="trainingCoursesTable">
 			<tr>
-				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q1</p></th>
-				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q2</p></th>
-				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q3</p></th>
-				<th style="border:0;"><p style="background-color:#ED2E38;color:white;text-align:center;font-size:1.5rem;">Q4</p></th>
+				<th style="border:0;"><p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q1</p></th>
+				<th style="border:0;"><p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q2</p></th>
+				<th style="border:0;"><p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q3</p></th>
+				<th style="border:0;"><p style="background-color:#53565A;color:white;text-align:center;font-size:1.5rem;">Q4</p></th>
 			</tr>
 			<tr>
 				{%- for annual-quarter-courses in annual-courses.annual-quarter -%}
-				<td style="border-right:1px dashed #d6d6d6;font-size:0.8rem;">
+				<td style="border-right:1px dashed #d6d6d6;font-size:0.9rem;">
 				{%- for course in annual-quarter-courses.course-list -%}
 					<a href="{{- course.link -}}" target="_blank">{{- course.title -}}<br/>{{- course.date -}}</a>
 					<br/><br/>
