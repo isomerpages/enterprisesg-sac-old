@@ -6,7 +6,7 @@ layout: leftnav-page-content
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 <hr/>
 {%- assign training = site.data.training -%}
-<div style="position:relative;margin-bottom:50%;">
+<div id="training-calendar" style="position:relative;margin-bottom:50%;">
 	{%- for annual-courses in training -%}
 	<div id="training-courses-holder-{{- annual-courses.year -}}" class="trainingCoursesHolder">
 		<h3>TRAINING CALENDAR&nbsp;{{- annual-courses.year -}}</h3>
@@ -33,11 +33,11 @@ layout: leftnav-page-content
 		<div style="margin-top:1rem;padding-bottom:1rem;position:relative;">
 			{%- if forloop.last == false -%}
 			{%- capture previousYear -%}{{- annual-courses.year | minus:1 -}}{%- endcapture -%}
-			<a class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
+			<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
 			{%- endif -%}
 			{%- if forloop.first == false -%}
 			{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
-			<a class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
+			<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
 			{%- endif -%}
 		</div>
 		<hr/>
