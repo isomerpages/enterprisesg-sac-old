@@ -766,7 +766,8 @@ img + em {
 }
 
 .trainingCoursesTable {
-	background:url('/images/services/mainbg.jpg') no-repeat center;
+	background:url('/images/services/training-table-bg.jpg') no-repeat center;
+	background-size: cover;
 	tr {
 		th {
 			border:0;
