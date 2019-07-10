@@ -172,7 +172,7 @@ window.onload = function(){
     if (trainingYearSelects.length > 0) {
         for (var i=0; i<trainingYearSelects.length; i++) {
             trainingYearSelects[i].addEventListener('click', function (event) {
-                event.preventDefault();
+                //event.preventDefault();
                 var currTrainingCoursesHolderID = "training-courses-holder-" + this.getAttribute("data-currYear");
                 var currTrainingCoursesHolder = document.getElementById(currTrainingCoursesHolderID);
                 if (currTrainingCoursesHolder != null) {
