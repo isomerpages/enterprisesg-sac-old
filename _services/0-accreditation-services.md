@@ -20,6 +20,6 @@ Our accreditation schemes provide independent third-party attestation of
 * [Product Certification Bodies](/services/accreditation-services/certification-body)
 * [Proficiency Testing Providers](/services/accreditation-services/proficiency-testing-providers)
 
-We also administer the [Singapore Good Laboratory Practice (GLP) Compliance Programme](glp-compliance-monitoring).
+We also administer the [Singapore Good Laboratory Practice (GLP) Compliance Programme](/services/accreditation-services/glp-compliance-monitoring).
 
 We organise accreditation-related training courses such as scheme-specific conformity requirements, technical and management skillsets as well as updates on international requirements. 
