@@ -812,10 +812,10 @@ img + em {
 	position:absolute;
 	font-size:1.2rem;
 	font-weight:bold;
-	color: $secondary;
+	color: $secondary !important;
 	&:hover {
-		color: $secondary;
-		text-decoration:none;
+		color: $secondary !important;
+		text-decoration:none !important;
 	}
 }
 
