@@ -25,8 +25,9 @@ layout: leftnav-page-content
 				<td>
 					<p class="trainingCoursesTableHeaderBar">Q{{- i -}}</p>
 					{%- capture j -%}{{- i | minus:1 -}}{%- endcapture -%}
+					{{- j -}}&nbsp;{{- i -}}
 					{%- if annual-courses.annual-quarter[j].quarter == i -%}
-						{%- for course in annual-quarter-courses[j].course-list -%}
+						{%- for course in annual-courses.annual-quarter[j].course-list -%}
 						<a href="{{- course.link -}}" target="_blank">
 							<span style="font-weight:bold;">{{- course.title -}}</span>
 							<br/>{{- course.date -}}
