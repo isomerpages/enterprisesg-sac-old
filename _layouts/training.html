@@ -21,22 +21,8 @@ layout: leftnav-page-content
 				{%- endfor -%}
 			</tr>
 			<tr>
-				{%- assign annual-course-quarter = annual-courses.annual-quarter -%}
-				{%- for i in (1..4) -%}
-				<td>
-					<p class="trainingCoursesTableHeaderBar">Q{{- i -}}</p>
-					{%- capture j -%}{{- i | minus:1 -}}{%- endcapture -%}
-					{{- j -}}&nbsp;{{- annual-course-quarter[j].quarter -}}
-					{%- if annual-course-quarter[j].quarter == i -%}
-						{%- for course in annual-course-quarter[j].course-list -%}
-						<a href="{{- course.link -}}" target="_blank">
-							<span style="font-weight:bold;">{{- course.title -}}</span>
-							<br/>{{- course.date -}}
-						</a>
-						<br/><br/>
-						{%- endfor -%}
-					{%- endif -%}
-				</td>	
+				{%- for annual-course-quarter in annual-courses.annual-quarter -%}
+				{{- annual-course-quarter.quarter -}}&nbsp;
 				{%- endfor -%}
 			</tr>		
 		</table>
