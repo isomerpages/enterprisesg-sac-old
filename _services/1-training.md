@@ -1,6 +1,6 @@
 ---
 layout: training
-title: Overview
+title: Training Services
 permalink: /services/training
 collection_name: services
 ---
