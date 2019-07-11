@@ -23,7 +23,10 @@ layout: leftnav-page-content
 				<td>
 					<p class="trainingCoursesTableHeaderBar">Q{{- forloop.index -}}</p>
 				{%- for course in annual-quarter-courses.course-list -%}
-					<a href="{{- course.link -}}" target="_blank">{{- course.title -}}<br/>{{- course.date -}}</a>
+					<a href="{{- course.link -}}" target="_blank">
+						<span style="font-weight:bold;">{{- course.title -}}</span>
+						<br/>{{- course.date -}}
+					</a>
 					<br/><br/>
 				{%- endfor -%}
 				</td>
