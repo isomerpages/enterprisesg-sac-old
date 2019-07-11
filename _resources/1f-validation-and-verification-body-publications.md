@@ -13,7 +13,7 @@ A validation/verification body must be fully conversant and comply with the rele
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="_blank"}
-* [CT 01 - Accreditation Process for Certification Bodies](/files/documents/management-system-and-products-certification/CT-01-(29-March-2019).pdf){:target="_blank"}
+* [CT 01, 14 June 2019 - Accreditation Process for Certification Bodies and Validation & Verification](/files/documents/management-system-and-products-certification/CT-01,14-June-2019.pdf){:target="_blank"}
 
 ### Standards and Criteria Document for Validation & Verification
 * ISO 14065:2013 Greenhouse Gases - Requirements for use in Accreditation or other forms of recognition
