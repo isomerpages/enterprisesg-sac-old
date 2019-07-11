@@ -18,7 +18,11 @@
           link: /services/training/training-courses-2019/training-course-on-isots-220032013-and-iso-220002018
         - title: Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018
           date: 17 Jun (pm) to 18 Jun 2019
-          link: /services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016        
+          link: /services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016  
+    - quarter: 3
+      course-list:
+    - quarter: 4
+      course-list:
 - year: 2018
   annual-quarter:
     - quarter: 1
@@ -55,6 +59,10 @@
           link: /services/training/training-courses-2018/SAC-CT-17-%E2%80%93-SAC-Criteria-for-Accreditation-of-Auditing-Organisations
 - year: 2017
   annual-quarter:
+    - quarter: 1
+      course-list:
+    - quarter: 2
+      course-list:
     - quarter: 3
       course-list:       
         - title: ISO/IEC 17024 course
