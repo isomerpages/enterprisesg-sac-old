@@ -14,6 +14,9 @@ layout: leftnav-page-content
 			<span style="display:inline-block;max-width:85%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 			<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 		</div>
+		{% assign variable = 1 %}
+		{%- capture j -%}{{- variable | minus:1 -}}{%- endcapture -%}
+		{{- annual-courses.annual-quarter[j].quarter -}}
 		<table class="trainingCoursesTable" style="border-bottom: 1px dashed #d6d6d6;">
 			<tr>
 				{%- for i in (1..4) -%}
