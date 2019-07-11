@@ -812,6 +812,11 @@ img + em {
 	position:absolute;
 	font-size:1.2rem;
 	font-weight:bold;
+	color: $secondary;
+	&:hover {
+		color: $secondary;
+		text-decoration:none;
+	}
 }
 
 @media screen and (min-width: 640px) {	
