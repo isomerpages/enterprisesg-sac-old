@@ -3,7 +3,6 @@ layout: training
 title: Overview
 permalink: /services/training
 collection_name: services
-second_nav_title: "Training Services"
 ---
 
 ### Our Trainers
