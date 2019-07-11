@@ -55,10 +55,6 @@
           link: /services/training/training-courses-2018/SAC-CT-17-%E2%80%93-SAC-Criteria-for-Accreditation-of-Auditing-Organisations
 - year: 2017
   annual-quarter:
-    - quarter: 1
-      course-list: 
-    - quarter: 2
-      course-list: 
     - quarter: 3
       course-list:       
         - title: ISO/IEC 17024 course
