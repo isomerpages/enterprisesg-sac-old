@@ -22,7 +22,16 @@ layout: leftnav-page-content
 			</tr>
 			<tr>
 				{%- for annual-course-quarter in annual-courses.annual-quarter -%}
-				{{- annual-course-quarter.quarter -}}&nbsp;
+				<td>
+					<p class="trainingCoursesTableHeaderBar">Q{{- annual-course-quarter.quarter -}}</p>
+					{%- for course in annual-course-quarter.course-list -%}
+						<a href="{{- course.link -}}" target="_blank">
+							<span style="font-weight:bold;">{{- course.title -}}</span>
+							<br/>{{- course.date -}}
+						</a>
+						<br/><br/>
+					{%- endfor -%}
+				</td>	
 				{%- endfor -%}
 			</tr>		
 		</table>
