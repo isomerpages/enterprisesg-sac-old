@@ -9,7 +9,7 @@ The second Joint General Assembly (GA) for the Asia Pacific Laboratory Accredita
  
 The key highlight of the meetings is the outcomes for the APLAC and PAC peer evaluations for entry of new multilateral mutual recognition arrangement (MRA) members as well as for continuation of recognition for some existing MRA members. In APLAC, the members that expanded their recognition scope are Thailand (BLQS, DMSc and BLA-DSS) for reference material producers (RMP), New Zealand (IANZ) for RMP and proficiency testing providers, and Standards Malaysia for inspection.  In PAC, the members that expanded their recognition scope are India (NABCB) for Information Security Management System (ISMS), Hong Kong (HKAS) for Greenhouse Gas verification (GHG) and United States (IAS) for quality and environmental management system.
 
-![aplac](/images/press-release/photos/APLAC_PAC 2015.png)
+![aplac](/images/press-release/photos/APLAC_PAC_2015.png)
 
 Currently APLAC has 37 signatories from 23 economies. Currently APLAC has 37 signatories from 23 economies. At the meeting, the Gulf (Gulf Accreditation Council) and Russia (Rus Accreditation) has become full member of APLAC. PAC has 18 signatories for Quality Management Systems (QMS), 16 signatories for Environmental Management Systems (EMS), 18 signatories for Product Certification Programs, 10 signatories for Food Safety Management Systems (FSMS), 5 signatories for GHG and 3 signatories for Information Security Management System Certification Bodies (ISMS).
  
