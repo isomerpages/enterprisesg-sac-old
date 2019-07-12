@@ -11,6 +11,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 
 ---
 
+{: #training-calendar}
 ### TRAINING CALENDAR 2019
 
 <div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
@@ -23,7 +24,10 @@ SAC has more than 20 years of experience in providing training to assist organis
 |-|-|-|-|
 | [**Laboratory Management Course** 4-6 March 2019](/services/training/training-courses-2019/laboratory-management-course){:target="_blank"} [**Internal Audit Course** 7-8 March 2019](/services/training/training-courses-2019/internal-audit-course){:target="_blank"} | [**Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018** 17 Jun (pm) to 18 Jun 2019](/services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016){:target="_blank"} [**Training course on ISO/TS 22003:2013 and ISO 22000:2018** 24-25 June 2019](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} [**2019 Joint courses between HSA-SAC** April, May, July and August 2019](/services/training/training-courses-2019/joint-courses-between-HSA-SAC){:target="_blank"} | | |
 
-
+<div style="margin-top:1rem;padding-bottom:1rem;position:relative;">
+	<a href="#training-calendar" class="trainingYearSelect" data-currYear="2019" data-refYear="2018" style="right:0;">2018 &gt;</a>
+</div>
+		
 | Date | Title |
 |-|-|
 | 24-25 June 2019 | [Training course on ISO/TS 22003:2013 and ISO 22000:2018](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} |
