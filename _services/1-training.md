@@ -13,6 +13,16 @@ SAC has more than 20 years of experience in providing training to assist organis
 
 ### TRAINING CALENDAR 2019
 
+<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
+			<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
+			<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
+</div>
+    
+{: .trainingCoursesTable}
+| #### Q1 | #### Q2 | #### Q3 | #### Q4 |
+|-|-|-|-|
+| [**Laboratory Management Course**](/services/training/training-courses-2019/laboratory-management-course){:target="_blank"} 4-6 March 2019 <br/><br/>[**Internal Audit Course**](/services/training/training-courses-2019/internal-audit-course){:target="_blank"} 7-8 March 2019 | [**Training course on ISO/TS 22003:2013 and ISO 22000:2018**](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} 24-25 June 2019<br/><br/>[**Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018**](/services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016){:target="_blank"} 17 Jun (pm) to 18 Jun 2019<br/><br/>[**2019 Joint courses between HSA-SAC**](/services/training/training-courses-2019/joint-courses-between-HSA-SAC){:target="_blank"} | | |
+
 | Date | Title |
 |-|-|
 | 24-25 June 2019 | [Training course on ISO/TS 22003:2013 and ISO 22000:2018](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} |
