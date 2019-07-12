@@ -159,7 +159,17 @@ window.onload = function(){
     var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
     if (trainingCoursesTables.length > 0) {
         trainingCoursesTables[0].style.display = 'block';
+        var trainingCourseSelectBar = document.getElementById('training-course-select-bar');
+        if (trainingCourseSelectBar != null) {
+            var currYear = parseInt(trainingCoursesTables[0].className.replace("trainingCoursesTable", "").trim()); 
+            console.log(currYear);
+            var prevYear = currYear - 1;
+            var selectYears = trainingCourseSelectBar.getElementsByTagName('a');
+            selectYears[0].innerHTML = "";
+            selectYears[1].innerHTML = prevYear + " " + "&gt;";
+        }
     }
+    
 </script>
 {%- endif -%} 
 
