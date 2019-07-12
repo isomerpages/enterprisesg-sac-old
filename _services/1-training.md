@@ -11,6 +11,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 
 ---
 
+{: #training-calendar}
 ### TRAINING CALENDAR 2019
 
 <div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
