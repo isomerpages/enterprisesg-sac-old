@@ -802,31 +802,29 @@ img + em {
 		td:not(:first-child) {
 			display:none;
 		}
-	}
-}
-
-#training-course-select-bar {
-	margin-top:1rem;
-	padding-bottom:1rem;
-	position:relative;
-	a {
-		position:absolute;
-		font-size:1.2rem;
-		font-weight:bold;
-		color: $secondary !important;
-		&:first-child {
-			left: 0;
+		td {
+			position: relative;
+			padding-top:2.4rem;
 		}
-		&:last-child {
-			right: 0;
-		}
-		&:hover {
+		a {
+			position:absolute;
+			top:1rem;
+			font-size:1.2rem;
+			font-weight:bold;
 			color: $secondary !important;
-			text-decoration:none !important;
+			&:first-child {
+				left: 0;
+			}
+			&:last-child {
+				right: 0;
+			}
+			&:hover {
+				color: $secondary !important;
+				text-decoration:none !important;
+			}
 		}
 	}
 }
-
 
 @media screen and (min-width: 640px) {	
 	.person-info-card {
