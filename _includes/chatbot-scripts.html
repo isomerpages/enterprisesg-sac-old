@@ -154,6 +154,15 @@ window.onload = function(){
 </script>
 {%- endif -%} 
 
+{%- if page.collection_name == 'services' and page.permalink contains 'services/training'-%}
+<script>
+    var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
+    if (trainingCoursesTables.length > 0) {
+        trainingCoursesTables[0].style.display = 'block';
+    }
+</script>
+{%- endif -%} 
+
 {%- if page.layout == 'training' -%}
 <script>
     var trainingAdditionalInfo = document.getElementById('training-additional-info');
