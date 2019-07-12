@@ -30,11 +30,15 @@ SAC has more than 20 years of experience in providing training to assist organis
 | **Q1** | **Q2** | **Q3** | **Q4** |
 |-|-|-|-|
 | [**Laboratory Management Course (based on ISO/IEC 17025)** 26-28 Feb 2018](/services/training/training-courses-2018/laboratory-management-course-ISO-IEC-17025){:target="_blank"} [**Internal Audit Course** 1-2 March 2018](/services/training/training-courses-2018/Internal-Audit-Course0102-5356){:target="_blank"} | [**Product Certification (based on ISO/IEC 17065)** 17-18 May 2018](/services/training/training-courses-2018/product-certification-ISO-IEC-17065){:target="_blank"} | [**Laboratory Management Course** 24-26 September 2018](/services/training/training-courses-2018/Laboratory-Management-Course0830-1895){:target="_blank"}  [**Internal Audit Course** 27-28 September 2018](/services/training/training-courses-2018/Internal-Audit-Course0830-2507){:target="_blank"} | [**Laboratory Management Course (based on ISO/IEC 17025:2017)** 7-9 November 2018](/services/training-courses-2018/Laboratory-Management-Course-(based-on-ISOIEC-170252017)){:target="_blank"} [**Inspection Body Course (based on ISO/IEC 17020:2012)** 12-13 November 2018](/services/training/training-courses-2018/Inspection-Body-Course-(based-on-ISOIEC-170202012)1003-1061){:target="_blank"} [**Training on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations** 22 November 2018](/services/training/training-courses-2018/SAC-CT-17-–-SAC-Criteria-for-Accreditation-of-Auditing-Organisations){:target="_blank"} |
+|====|
+| [< 2019](#training-calendar) [2017 >](#training-calendar)|
 
 {: .trainingCoursesTable.2017}
 | **Q1** | **Q2** | **Q3** | **Q4** |
 |-|-|-|-|
 | | |  [**ISO/IEC 17024 course** 30-31 August 2017](/services/training/training-courses-2017/ISOIEC-17024-course0718-5116){:target="_blank"} [**ISO 15189:2012 Course (Medical Laboratories)** 30-31 October 2017](/services/training/training-courses-2017/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)){:target="_blank"} | [**Laboratory Management Course (based on ISO/IEC 17025)** 6-8 November 2017](/services/training/training-courses-2017/Laboratory-Management-Course-(based-on-ISOIEC-17025)1002-1333){:target="_blank"} [**Internal Audit Course** 9-10 November 2017](/services/training/training-courses-2017/Internal-Audit-Course1002-5459){:target="_blank"} [**Inspection Body Course (based on ISO/IEC 17020:2012)** 15-16 November 2017](/services/training/training-courses-2017/Inspection-Body-Course-(based-on-ISOIEC-170202012)1002-185){:target="_blank"} [**Auditing Organisations Course** 30 Nov 2017 & 1 Dec 2017](/services/training/training-courses-2017/Audit-Organisations-Course--30-November---01-December-2017){:target="_blank"} |
+|====|
+| [< 2018](#training-calendar) |
 
 {:#training-course-select-bar}
 [](#training-calendar) [](#training-calendar)
