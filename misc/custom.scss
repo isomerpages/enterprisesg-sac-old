@@ -771,12 +771,13 @@ img + em {
 	tr {
 		th {
 			border:0;
-		}
-		.trainingCoursesTableHeaderBar {
-			background-color:#53565A;
-			color:white;
 			text-align:center;
-			font-size:1.5rem;
+			font-size:1.4rem;
+			strong {
+				display:block;
+				background-color:#53565A;
+				color:white;
+			}
 		}
 		td {
 			border-right:1px dashed #d6d6d6;
@@ -792,6 +793,10 @@ img + em {
 				@include tablet() {
 					border-right:1px;
 				}
+			}
+			strong {
+				display:block;
+				color: inherit;
 			}
 			.trainingCoursesTableHeaderBar {
 				display:none;
