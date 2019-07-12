@@ -768,6 +768,7 @@ img + em {
 .trainingCoursesTable {
 	background:url('/images/services/training-table-bg.jpg') no-repeat center;
 	background-size: cover;
+	display:none;
 	tr {
 		th {
 			border:0;
@@ -814,6 +815,9 @@ img + em {
 				display:none;
 			}
 		}
+	}
+	&:first-child {
+		display:none;
 	}
 }
 
