@@ -755,6 +755,7 @@ img + em {
 
 .trainingCoursesTable {
 	display:none;
+	overflow-y:hidden;
 	background:url('/images/services/training-table-bg.jpg') no-repeat center;
 	background-size: cover;
 	tr {
@@ -807,6 +808,8 @@ img + em {
 			padding-top:2.4rem;
 		}
 		a {
+			display:inline-block;
+			margin-bottom:0;
 			position:absolute;
 			top:1rem;
 			font-size:1.2rem;
