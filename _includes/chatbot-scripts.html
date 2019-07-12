@@ -156,18 +156,41 @@ window.onload = function(){
 
 {%- if page.collection_name == 'services' and page.permalink contains 'services/training'-%}
 <script>
+    function setYearLink(btn, currYear, addNum, refYear){
+        if (addNum > 0 ) {
+            if (currYear + addNum < refYear) {
+                
+            }
+        }
+        else {
+        }
+    }
+    
     var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
     if (trainingCoursesTables.length > 0) {
         trainingCoursesTables[0].style.display = 'block';
-        var trainingCourseSelectBar = document.getElementById('training-course-select-bar');
+        for (var i=0; i<trainingCoursesTables.length; i++) {
+            var tfoots = trainingCoursesTables[i].getElementsByTagName('tfoot');
+            if (tfoots.length > 0) {
+                tfoots[0].getElementsByTagName("td")[0].setAttribute("colspan", "4");
+           
+            }
+        }
+        /*var trainingCourseSelectBar = document.getElementById('training-course-select-bar');
         if (trainingCourseSelectBar != null) {
             var currYear = parseInt(trainingCoursesTables[0].className.replace("trainingCoursesTable", "").trim()); 
-            console.log(currYear);
-            var prevYear = currYear - 1;
+            var maxYear = currYear;
+            var minYear = parseInt(trainingCoursesTables[trainingCoursesTables.length-1].className.replace("trainingCoursesTable", "").trim());  
             var selectYears = trainingCourseSelectBar.getElementsByTagName('a');
             selectYears[0].innerHTML = "";
             selectYears[1].innerHTML = prevYear + " " + "&gt;";
-        }
+            selectYears[0].addEventListener('click', function (event) {
+                currYear = setYearLink(this, currYear, 1, maxYear);
+            });
+            selectYears[1].addEventListener('click', function (event) {
+                currYear = setYearLinnk(this, currYear, -1, minYear);
+            });
+        }*/
     }
     
 </script>
