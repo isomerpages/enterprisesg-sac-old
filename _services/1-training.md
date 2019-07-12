@@ -11,7 +11,8 @@ SAC has more than 20 years of experience in providing training to assist organis
 
 ---
 
-{: #training-calendar}
+<div id="training-calendar">
+
 ### TRAINING CALENDAR 2019
 
 <div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
@@ -27,7 +28,9 @@ SAC has more than 20 years of experience in providing training to assist organis
 <div style="margin-top:1rem;padding-bottom:1rem;position:relative;">
 	<a href="#training-calendar" class="trainingYearSelect" data-currYear="2019" data-refYear="2018" style="right:0;">2018 &gt;</a>
 </div>
-		
+
+</div>
+
 | Date | Title |
 |-|-|
 | 24-25 June 2019 | [Training course on ISO/TS 22003:2013 and ISO 22000:2018](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} |
