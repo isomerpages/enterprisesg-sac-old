@@ -97,7 +97,7 @@ window.onload = function(){
 </script>    
 
 {%- comment -%} add Isomer accordion template javascript to FAQ and Certified Companies pages {%- endcomment -%}
-{%- if page.layout == 'faq' or page.layout == 'certified-companies' -%}
+{%- if page.layout == 'faq' or page.layout == 'certified-companies' or page.layout == 'training' -%}
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
 
@@ -105,7 +105,6 @@ window.onload = function(){
 <script>
     //add html attribute to open links under the 'organisation structure' section in new tab
     var accordionBodies = document.querySelectorAll('[id^=accordion-body]');
-    console.log(accordionBodies.length);
     if (accordionBodies.length > 0) {
         for (var i=0; i<accordionBodies.length; i++) {
             var committeeLinks = accordionBodies[i].getElementsByTagName('a');
@@ -155,4 +154,43 @@ window.onload = function(){
 </script>
 {%- endif -%} 
 
-
+{%- if page.layout == 'training' -%}
+<script>
+    var trainingAdditionalInfo = document.getElementById('training-additional-info');
+    var marginTopHeight = 0;
+    if (trainingAdditionalInfo != null) {
+        var trainingCoursesHolders = document.getElementsByClassName('trainingCoursesHolder');
+        if (trainingCoursesHolders.length > 0) {
+            marginTopHeight = trainingCoursesHolders[0].offsetHeight;
+            marginTopHeight += 1.2 * 16 + 20;
+        }
+        trainingAdditionalInfo.style.marginTop = marginTopHeight + "px";
+    } 
+    
+    var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
+    if (trainingYearSelects.length > 0) {
+        for (var i=0; i<trainingYearSelects.length; i++) {
+            trainingYearSelects[i].addEventListener('click', function (event) {
+                //event.preventDefault();
+                var currTrainingCoursesHolderID = "training-courses-holder-" + this.getAttribute("data-currYear");
+                var currTrainingCoursesHolder = document.getElementById(currTrainingCoursesHolderID);
+                if (currTrainingCoursesHolder != null) {
+                    currTrainingCoursesHolder.style.display = "none";
+                }
+            
+                var refTrainingCoursesHolderID = "training-courses-holder-" + this.getAttribute("data-refYear");
+                var refTrainingCoursesHolder = document.getElementById(refTrainingCoursesHolderID);
+                if (refTrainingCoursesHolder != null) {
+                    refTrainingCoursesHolder.style.display = "block";
+                    
+                    marginTopHeight = refTrainingCoursesHolder.offsetHeight;
+                    marginTopHeight += 1.2 * 16 + 20;
+                    if (trainingAdditionalInfo != null) {
+                        trainingAdditionalInfo.style.marginTop = marginTopHeight + "px";
+                    }
+                }
+            });
+        }
+    }
+</script>
+{%- endif -%} 
