@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Training Services
-permalink: /services/training
+permalink: /services/training/
 collection_name: services
 ---
 
@@ -12,6 +12,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 ---
 
 ### TRAINING CALENDAR 2019
+
 | Date | Title |
 |-|-|
 | 24-25 June 2019 | [Training course on ISO/TS 22003:2013 and ISO 22000:2018](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} |
@@ -21,6 +22,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 | 7-8 March 2019 | [Internal Audit Course](/services/training/training-courses-2019/internal-audit-course){:target="_blank"} |
 
 ### TRAINING CALENDAR 2018
+
 | Date | Title |
 |-|-|
 | 22 November 2018 | [Training on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations](/services/training/training-courses-2018/SAC-CT-17-–-SAC-Criteria-for-Accreditation-of-Auditing-Organisations){:target="_blank"} |
@@ -33,6 +35,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 | 26-28 Feb 2018 | [Laboratory Management Course (based on ISO/IEC 17025)](/services/training/training-courses-2018/laboratory-management-course-ISO-IEC-17025){:target="_blank"} |
 
 ### TRAINING CALENDAR 2017
+
 | Date | Title |
 |-|-|
 | 30 Nov 2017 & 1 Dec 2017 | [Auditing Organisations Course (30 Nov 2017, 1 Dec 2017)](/services/training/training-courses-2017/Audit-Organisations-Course--30-November---01-December-2017){:target="_blank"} |
