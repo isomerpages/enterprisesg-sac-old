@@ -794,10 +794,14 @@ img + em {
 					border-right:1px;
 				}
 			}
-			strong {
+			a {
 				display:block;
-				color: inherit;
-			}
+				margin-bottom: 2rem;
+				strong {
+					display:block;
+					color: inherit;
+				}
+			}			
 			.trainingCoursesTableHeaderBar {
 				display:none;
 				@include tablet() {
