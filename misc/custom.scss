@@ -753,18 +753,6 @@ img + em {
 	}
 }
 
-.trainingCoursesHolder {
-	display:none;
-	position:absolute;
-	background: white;
-	top: 0;
-	left: 0; 
-	width:100%;
-	&:first-child {
-		display:block;
-	}
-}
-
 .trainingCoursesTable {
 	display:none;
 	background:url('/images/services/training-table-bg.jpg') no-repeat center;
@@ -803,11 +791,10 @@ img + em {
 					color: inherit;
 				}
 			}			
-			.trainingCoursesTableHeaderBar {
+		}
+		tfoot > tr {
+			td:not(:first-child) {
 				display:none;
-				@include tablet() {
-					display:block;
-				}
 			}
 		}
 		&:first-child {
