@@ -23,6 +23,8 @@ SAC has more than 20 years of experience in providing training to assist organis
 | **Q1** | **Q2** | **Q3** | **Q4** |
 |-|-|-|-|
 | [**Laboratory Management Course** 4-6 March 2019](/services/training/training-courses-2019/laboratory-management-course){:target="_blank"} [**Internal Audit Course** 7-8 March 2019](/services/training/training-courses-2019/internal-audit-course){:target="_blank"} | [**Training course on ISO/IEC 17021-1:2015, ISO/IEC 17021-2:2016, ISO/IEC 17021-3:2017, ISO/IEC 17021-10:2018** 17 Jun (pm) to 18 Jun 2019](/services/training/training-courses-2019/training-course-ISOIEC-17021-12015,-ISOIEC-17021-22016){:target="_blank"} [**Training course on ISO/TS 22003:2013 and ISO 22000:2018** 24-25 June 2019](/services/training/training-courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018){:target="_blank"} [**2019 Joint courses between HSA-SAC** April, May, July and August 2019](/services/training/training-courses-2019/joint-courses-between-HSA-SAC){:target="_blank"} | | |
+|====|
+| [](#training-calendar) [2018 >](#training-calendar)|
 
 {: .trainingCoursesTable.2018}
 | **Q1** | **Q2** | **Q3** | **Q4** |
@@ -35,7 +37,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 | | |  [**ISO/IEC 17024 course** 30-31 August 2017](/services/training/training-courses-2017/ISOIEC-17024-course0718-5116){:target="_blank"} [**ISO 15189:2012 Course (Medical Laboratories)** 30-31 October 2017](/services/training/training-courses-2017/ISO-151892012-Course-(Medical-Laboratories-and-Medical-Imaging-Facilities)){:target="_blank"} | [**Laboratory Management Course (based on ISO/IEC 17025)** 6-8 November 2017](/services/training/training-courses-2017/Laboratory-Management-Course-(based-on-ISOIEC-17025)1002-1333){:target="_blank"} [**Internal Audit Course** 9-10 November 2017](/services/training/training-courses-2017/Internal-Audit-Course1002-5459){:target="_blank"} [**Inspection Body Course (based on ISO/IEC 17020:2012)** 15-16 November 2017](/services/training/training-courses-2017/Inspection-Body-Course-(based-on-ISOIEC-170202012)1002-185){:target="_blank"} [**Auditing Organisations Course** 30 Nov 2017 & 1 Dec 2017](/services/training/training-courses-2017/Audit-Organisations-Course--30-November---01-December-2017){:target="_blank"} |
 
 {:#training-course-select-bar}
-[](#training-calendar) [2018 >](#training-calendar)
+[](#training-calendar) [](#training-calendar)
 
 ---
 
