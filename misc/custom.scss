@@ -818,16 +818,22 @@ img + em {
 	}
 }
 
-.trainingYearSelect {
-	position:absolute;
-	font-size:1.2rem;
-	font-weight:bold;
-	color: $secondary !important;
-	&:hover {
+.trainingCoursesSelectBar {
+	margin-top:1rem;
+	padding-bottom:1rem;
+	position:relative;
+	a {
+		position:absolute;
+		font-size:1.2rem;
+		font-weight:bold;
 		color: $secondary !important;
-		text-decoration:none !important;
+		&:hover {
+			color: $secondary !important;
+			text-decoration:none !important;
+		}
 	}
 }
+
 
 @media screen and (min-width: 640px) {	
 	.person-info-card {
