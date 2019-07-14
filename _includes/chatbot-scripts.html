@@ -173,24 +173,11 @@ window.onload = function(){
             var tfoots = trainingCoursesTables[i].getElementsByTagName('tfoot');
             if (tfoots.length > 0) {
                 tfoots[0].getElementsByTagName("td")[0].setAttribute("colspan", "4");
-           
+                var yearSelectLinks = tfoots[0].getElementsByTagName("a");
+                if (yearSelectLinks.length > 0) {
+                }
             }
         }
-        /*var trainingCourseSelectBar = document.getElementById('training-course-select-bar');
-        if (trainingCourseSelectBar != null) {
-            var currYear = parseInt(trainingCoursesTables[0].className.replace("trainingCoursesTable", "").trim()); 
-            var maxYear = currYear;
-            var minYear = parseInt(trainingCoursesTables[trainingCoursesTables.length-1].className.replace("trainingCoursesTable", "").trim());  
-            var selectYears = trainingCourseSelectBar.getElementsByTagName('a');
-            selectYears[0].innerHTML = "";
-            selectYears[1].innerHTML = prevYear + " " + "&gt;";
-            selectYears[0].addEventListener('click', function (event) {
-                currYear = setYearLink(this, currYear, 1, maxYear);
-            });
-            selectYears[1].addEventListener('click', function (event) {
-                currYear = setYearLinnk(this, currYear, -1, minYear);
-            });
-        }*/
     }
     
 </script>
