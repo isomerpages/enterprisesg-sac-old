@@ -9,8 +9,8 @@ layout: default
 
 {%- assign courses_name = "courses1" -%}
 {%- assign current-courses = site[courses_name] -%}
-{%- for course in current-courses -%}
-	<p>{{- course.title -}}</p>
+{%- for course-document in current-courses -%}
+	<p>{{- course-document.permalink -}}</p>
 {%- endfor -%}
 
 <div class="content">	
