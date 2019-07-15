@@ -161,25 +161,6 @@ window.onload = function(){
 </script>
 {%- endif -%} 
 
-{%- if page.collection_name == 'services' and page.permalink contains 'services/training'-%}
-<script>    
-    var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
-    if (trainingCoursesTables.length > 0) {
-        trainingCoursesTables[0].style.display = 'block';
-        for (var i=0; i<trainingCoursesTables.length; i++) {
-            var tfoots = trainingCoursesTables[i].getElementsByTagName('tfoot');
-            if (tfoots.length > 0) {
-                tfoots[0].getElementsByTagName("td")[0].setAttribute("colspan", "4");
-                var yearSelectLinks = tfoots[0].getElementsByTagName("a");
-                if (yearSelectLinks.length > 1) {
-                    
-                }
-            }
-        }
-    }
-</script>
-{%- endif -%} 
-
 {%- if page.layout == 'training' -%}
 <script>    
     var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
@@ -192,9 +173,11 @@ window.onload = function(){
                     currTrainingTable.style.display = "none";
                 }
             
-                var refTrainingTableID = "training-table-" + this.getAttribute("data-refYear");
+                var refYear = this.getAttribute("data-refYear");
+                var refTrainingTableID = "training-table-" + refYear;
                 var refTrainingTable = document.getElementById(refTrainingTableID);
                 if (refTrainingTable != null) {
+                    document.getElementById('training-calendar-year-title').textContent = refYear;
                     refTrainingTable.style.display = "block";
                 }
             });
