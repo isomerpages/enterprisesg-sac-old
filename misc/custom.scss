@@ -755,11 +755,12 @@ img + em {
 
 .trainingCoursesTable {
 	display:none;
-	overflow-y:hidden;
 	background:url('/images/services/training-table-bg.jpg') no-repeat center;
 	background-size: cover;
-	th {
-		border:0;
+	thead {
+		@include tablet() {
+			display:none;
+		}
 	}
 	tbody > tr {
 		.trainingCoursesTableHeaderBar {
