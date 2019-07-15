@@ -791,11 +791,6 @@ img + em {
 				}
 			}			
 		}
-		&:first-child {
-			@include tablet() {
-				display:none;
-			}
-		}
 	}
 	tfoot > tr {
 		td {
