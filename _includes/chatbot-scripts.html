@@ -184,7 +184,6 @@ window.onload = function(){
 <script>    
     var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
     if (trainingYearSelects.length > 0) {
-        var trainingTables = document.getElementsByClassName('trainingYearSelect');
         for (var i=0; i<trainingYearSelects.length; i++) {
             trainingYearSelects[i].addEventListener('click', function (event) {
                 var currTrainingTableID = "training-table-" + this.getAttribute("data-currYear");
