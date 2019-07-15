@@ -163,6 +163,11 @@ window.onload = function(){
 
 {%- if page.layout == 'training' -%}
 <script>    
+    var trainingYearTitle = document.getElementById('training-calendar-year-title');
+    var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
+    if (trainingCoursesTables.length > 0) {
+        trainingYearTitle.textContent = trainingCoursesTables[0].id.replace('training-table-','');
+    }
     var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
     if (trainingYearSelects.length > 0) {
         for (var i=0; i<trainingYearSelects.length; i++) {
@@ -177,7 +182,7 @@ window.onload = function(){
                 var refTrainingTableID = "training-table-" + refYear;
                 var refTrainingTable = document.getElementById(refTrainingTableID);
                 if (refTrainingTable != null) {
-                    document.getElementById('training-calendar-year-title').textContent = refYear;
+                    trainingYearTitle.textContent = refYear;
                     refTrainingTable.style.display = "block";
                 }
             });
