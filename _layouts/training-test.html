@@ -6,7 +6,8 @@ layout: default
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 <hr/>
 
-{%- assign current-courses = site["courses1"] -%}
+{%- assign courses_name = "courses1" -%}
+{%- assign current-courses = site[courses_name] -%}
 {%- for course in current-courses -%}
  	<p>{{- course.title -}}</p>
 {%- endfor -%}
