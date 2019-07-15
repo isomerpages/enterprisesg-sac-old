@@ -811,12 +811,6 @@ img + em {
 			font-size:1.2rem;
 			font-weight:bold;
 			color: $secondary !important;
-			&:first-child {
-				left: 0;
-			}
-			&:last-child {
-				right: 0;
-			}
 			&:hover {
 				color: $secondary !important;
 				text-decoration:none !important;
