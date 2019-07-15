@@ -14,12 +14,14 @@ layout: leftnav-page-content
 	</div>
 	{%- for annual-courses in training -%}
 	<table id="training-table-{{- annual-courses.year -}}" class="trainingCoursesTable" {%- if forloop.first == true -%}style="display:block;"{%- endif -%}>
-		<tbody>
+		<thead>
 			<tr>
 				{%- for i in (1..4) -%}
 				<th><p class="trainingCoursesTableHeaderBar">Q{{- i -}}</p></th>
 				{%- endfor -%}
 			</tr>
+		</thead>	
+		<tbody>
 			<tr>
 				{%- for annual-course-quarter in annual-courses.annual-quarter -%}
 				<td>
