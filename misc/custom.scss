@@ -776,12 +776,10 @@ img + em {
 				display:block;
 				width: 100%;
 				font-size:1.0625rem;
-				border: 1px dashed #d6d6d6;
 			}
 			&:last-child {
-				border-right:0;
-				@include tablet() {
-					border-right:1px;
+				@include tablet-larger() {
+					border-right:0;
 				}
 			}
 			.trainingCoursesTableHeaderBar {
