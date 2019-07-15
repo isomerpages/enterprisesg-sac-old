@@ -39,7 +39,7 @@ collections:
     output: true
   accredited-org:
     output: true
-  courses:
+  courses1:
     output: false
 
 # Resource Room and Pagination
