@@ -7,7 +7,7 @@ layout: default
 <hr/>
 {%- for annual_courses in site.courses -%}
   {%- for course in annual_courses -%}
-    <p>{{- course title -}}</p>
+    <p>{{- course.title -}}</p>
   {%- endfor -%}
 {%- endfor -%}
 
