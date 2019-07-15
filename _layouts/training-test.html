@@ -5,10 +5,9 @@ layout: default
 <h2>Training Courses and Seminars</h2>
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 <hr/>
-{%- for annual_courses in site.courses -%}
-  {%- for course in annual_courses -%}
-    <p>{{- course.title -}}</p>
-  {%- endfor -%}
+
+{%- for course in site.courses1 -%}
+ 	<p>{{- course.title -}}</p>
 {%- endfor -%}
 
 <div class="content">	
