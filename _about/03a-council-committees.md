@@ -52,7 +52,6 @@ Choose one of the Council Committee group below to view all of its members and c
 | **Chairman** | Mr Silas Sng Wee Kiat | Singapore Accreditation Council |
 | **Member** | Dr Poh Teoh Yaw | Building & Construction Authority |
 | | Mr Adrian Lo | Bureau Veritas Singapore Pte Ltd |
-| | Ms Helen TAN | Enterprise Singapore Pte Ltd |
 | | Mr Loh Lock Mun | FRP Products Co. Pte Ltd |
 | | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd |
 | | Er. Yong Fen Leong | KTP Consultants Pte Ltd |
