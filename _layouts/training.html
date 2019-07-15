@@ -13,7 +13,7 @@ layout: leftnav-page-content
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
 	{%- for annual-courses in training -%}
-	<table id="training-table-{{- annual-courses.year -}}" class="trainingCoursesTable">
+	<table id="training-table-{{- annual-courses.year -}}" class="trainingCoursesTable" {%- if forloop.first == true -%}style="display:block;"{%- endif -%}>
 		<tbody>
 			<tr>
 				{%- for i in (1..4) -%}
