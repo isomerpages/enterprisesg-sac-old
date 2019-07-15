@@ -758,10 +758,10 @@ img + em {
 	overflow-y:hidden;
 	background:url('/images/services/training-table-bg.jpg') no-repeat center;
 	background-size: cover;
-	tr {
-		th {
-			border:0;
-		}
+	th {
+		border:0;
+	}
+	tbody > tr {
 		.trainingCoursesTableHeaderBar {
 			background-color:#53565A;
 			color:white;
@@ -797,9 +797,6 @@ img + em {
 		}
 	}
 	tfoot > tr {
-		td:not(:first-child) {
-			display:none;
-		}
 		td {
 			position: relative;
 			padding-top:2.4rem;
@@ -825,17 +822,6 @@ img + em {
 				text-decoration:none !important;
 			}
 		}
-	}
-}
-
-.trainingYearSelect {
-	position:absolute;
-	font-size:1.2rem;
-	font-weight:bold;
-	color: $secondary !important;
-	&:hover {
-		color: $secondary !important;
-		text-decoration:none !important;
 	}
 }
 
