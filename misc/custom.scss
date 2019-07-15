@@ -761,13 +761,12 @@ img + em {
 	tr {
 		th {
 			border:0;
+		}
+		.trainingCoursesTableHeaderBar {
+			background-color:#53565A;
+			color:white;
 			text-align:center;
 			font-size:1.4rem;
-			strong {
-				display:block;
-				background-color:#53565A;
-				color:white;
-			}
 		}
 		td {
 			border-right:1px dashed #d6d6d6;
@@ -784,12 +783,10 @@ img + em {
 					border-right:1px;
 				}
 			}
-			a {
-				display:block;
-				margin-bottom: 2rem;
-				strong {
+			.trainingCoursesTableHeaderBar {
+				display:none;
+				@include tablet() {
 					display:block;
-					color: inherit;
 				}
 			}			
 		}
@@ -828,6 +825,17 @@ img + em {
 				text-decoration:none !important;
 			}
 		}
+	}
+}
+
+.trainingYearSelect {
+	position:absolute;
+	font-size:1.2rem;
+	font-weight:bold;
+	color: $secondary !important;
+	&:hover {
+		color: $secondary !important;
+		text-decoration:none !important;
 	}
 }
 
