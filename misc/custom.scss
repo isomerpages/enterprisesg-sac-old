@@ -757,18 +757,18 @@ img + em {
 	display:none;
 	background:url('/images/services/training-table-bg.jpg') no-repeat center;
 	background-size: cover;
-	thead {
+	.trainingCoursesTableHeaderBar {
+		background-color:#53565A;
+		color:white;
+		text-align:center;
+		font-size:1.4rem;
+	}
+	thead {	
 		@include tablet() {
 			display:none;
 		}
 	}
-	tbody > tr {
-		.trainingCoursesTableHeaderBar {
-			background-color:#53565A;
-			color:white;
-			text-align:center;
-			font-size:1.4rem;
-		}
+	tbody > tr {	
 		td {
 			border-right:1px dashed #d6d6d6;
 			font-size:0.9rem;
