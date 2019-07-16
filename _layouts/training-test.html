@@ -9,7 +9,12 @@ layout: default
 {% assign latestCourse = site.courses | last %}
 {% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:0 %}
 {% assign minCourseYear = latestCourseYear | minus:5 %}
-<p>{{- latestCourseYear -}} {{- minCourseYear -}}</p>	
+<p>{{- latestCourseYear -}} {{- minCourseYear -}}</p>
+<p>
+{% for i in (minCourseYear..latestCourseYear) %}
+  {{ i }}&nbsp;&nbsp;
+{% endfor %}
+</p>
 {% assign sorted-courses = site.courses | reverse %}
 {% for course in sorted-courses %}
  	<h3>{{- course.title -}}&nbsp;-&nbsp;{{- course.course_date -}}</h3>
