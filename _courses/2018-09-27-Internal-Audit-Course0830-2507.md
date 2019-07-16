@@ -1,6 +1,7 @@
 ---
 layout: simple-page
-title: Internal Audit Course (27-28 Sep 2018)
+title: Internal Audit Course
+course_date: 27-28 Sep 2018
 permalink: /services/training/training-courses-2018/Internal-Audit-Course0830-2507
 ---
 
