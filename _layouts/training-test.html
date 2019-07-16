@@ -7,27 +7,14 @@ layout: default
 <hr/>
 
 {% assign latestCourse = site.courses | last %}
-{% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:0 %}
+{% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:1 %}
 {% assign minCourseYear = latestCourseYear | minus:5 %}
 <p>{{- latestCourseYear -}} {{- minCourseYear -}}</p>
-<p>
-{% for i in (minCourseYear..latestCourseYear) %}
-  {{ i }}&nbsp;&nbsp;
-{% endfor %}
-</p>
 {% assign sorted-courses = site.courses | reverse %}
-{% for course in sorted-courses %}
- 	<h3>{{- course.title -}}&nbsp;-&nbsp;{{- course.course_date -}}</h3>
-	{% assign courseMonthNum = course.date | date: '%m' | plus:0 %}
-	<p>{{- courseMonthNum -}}</p>		
-	<p>
-		{% if courseMonthNum >= 1 and courseMonthNum <= 3 %}Q1
-		{% elsif courseMonthNum >= 4 and courseMonthNum <= 6 %}Q2
-		{% elsif courseMonthNum >= 7 and courseMonthNum <= 9 %}Q3
-		{% else %}Q4						   
-		{% endif %}
-	</p>	
-{% endfor %}
+{{ site.courses | where_exp:"item", "item.date >= 2019-01-01" }}
+
+
+
 
 <div class="content">	
 	{{- content -}}
