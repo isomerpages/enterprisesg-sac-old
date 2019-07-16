@@ -11,9 +11,11 @@ layout: default
 	<p>{{ course.date }}<br/>{{ course.url }}</p>
 {% endfor %}
 
-{% for course in site.courses %}
- 	<h3 style="color:blue;">{{ course.title }}</h3>
-	<p>{{ course.url }}</p>
+{% for annual-courses in site.courses %}
+	{% for course in annual-courses %}
+ 		<h3 style="color:blue;">{{ course.title }}</h3>
+		<p>{{ course.url }}</p>
+	{% endfor %}
 {% endfor %}
 
 <div class="content">	
