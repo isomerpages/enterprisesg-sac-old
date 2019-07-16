@@ -6,7 +6,11 @@ layout: default
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 <hr/>
 
-{% assign sorted-courses = (site.courses1 | sort: 'name') | reverse %}
+{% assign latestCourse = site.courses | last %}
+{% assign latestCourseYear = latestCourse.course_date | date: '%Y' | plus:0 %}
+{% assign minCourseYear = latestCourseYear | minus:5 %}
+<p>{{- latestCourseYear -}} {{- minCourseYear -}}</p>	
+{% assign sorted-courses = site.courses | reverse %}
 {% for course in sorted-courses %}
  	<h3>{{- course.title -}} - {{- course.course_date -}}</h3>
 	{% assign courseMonthNum = course.course_date | date: '%m' | plus:0 %}
