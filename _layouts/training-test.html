@@ -9,19 +9,7 @@ layout: default
 {% assign sorted-courses = (site.courses1 | sort: 'name') | reverse %}
 {% for course in sorted-courses %}
  	<h3>{{- course.title -}} - {{- course.course_date -}}</h3>
-	<p>{{- course.course_date | date: "%m %b" -}}</p>
-	<p>
-	{% capture course-month-num %}{{course.course_date | date: '%m' | plus: 0 %}}{% endcapture %}	
-	{%- if course-month-num > 0 and course-month-num < 4 -%}
-		Q1					    
-	{%- elsif course-month-num > 3 and course-month-num < 7 -%}
-		Q2
-	{%- elsif course-month-num > 6 and course-month-num < 10 -%}
-		Q3					       
-	{%- else -%}	
-		Q4					       
-	{%- endif -%}
-	</p>						       	
+	<p>{{- course.course_date | date: "%m %b" -}}</p>					       	
 {% endfor %}
 
 <div class="content">	
