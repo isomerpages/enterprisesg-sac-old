@@ -39,6 +39,8 @@ collections:
     output: true
   accredited-org:
     output: true
+  courses1:
+    output: true
 
 # Resource Room and Pagination
 resources_name: "newsroom"
