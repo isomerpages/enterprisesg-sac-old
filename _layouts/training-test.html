@@ -9,13 +9,10 @@ layout: default
 {% assign sorted-courses = (site.courses1 | sort: 'name') | reverse %}
 {% for course in sorted-courses %}
  	<h3>{{- course.title -}} - {{- course.course_date -}}</h3>
-	<p>{{- course.course_date | date: "%m %b" -}}</p>		
+	{%- capture courseMonthNum -%}{{- (course.course_date | date: '%m') | plus:0 -}}{%- endcapture -%}
+	<p>{{- courseMonthNum -}}</p>		
 	<p>
-		{%- capture courseMonthNum -%}{{- (course.course_date | date: '%m') | plus:0 -}}{%- endcapture -%}	
-		{{- courseMonthNum -}}<br/>
-		{%- if courseMonthNum > 0 -%}
-		Q1					    				       				       
-		{%- endif -%}
+		{%- if courseMonthNum > 0 -%} Q1 {%- endif -%}
 	</p>	
 {% endfor %}
 
