@@ -9,7 +9,7 @@ layout: default
 {% for course in site.courses1 %}
  	<h3>{{ course.title }} - {{ course.course_date }}</h3>
 	<p>{{ course.date }}<br/>{{ course.url }}</p>
-	<p>{{ course.course_date | date: "%Y" }}</p>
+	<p>{{ course.course_date | date: "%m %Y" }}</p>
 {% endfor %}
 
 <div class="content">	
