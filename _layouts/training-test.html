@@ -12,8 +12,11 @@ layout: default
 	<p>{{- course.course_date | date: "%m %b" -}}</p>		
 	<p>
 		{%- capture courseMonthNum -%}{{- course.course_date | date: '%m' | plus:0 -}}{%- endcapture -%}	
-		{%- if courseMonthNum > 0 and courseMonthNum < 4 -%} Q1					    				       
-		{%- else -%} Q4					       
+		{{- courseMonthNum -}}&nbsp;&nbsp;
+		{%- if courseMonthNum > 0 -%}
+		Q1					    				       
+		{%- else -%} 
+		Q4					       
 		{%- endif -%}
 	</p>	
 {% endfor %}
