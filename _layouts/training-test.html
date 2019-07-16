@@ -5,13 +5,10 @@ layout: default
 <h2>Training Courses and Seminars</h2>
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 <hr/>
-<p>Testing</p>
 
-{%- assign courses_name = "courses1" -%}
-{%- assign current-courses = site[courses_name] -%}
-{%- for course-document in current-courses -%}
-	<p>{{- course-document.permalink -}}</p>
-{%- endfor -%}
+{% for course in site.courses1 %}
+  <p>{{ course.title }}</p>
+{% endfor %}
 
 <div class="content">	
 	{{- content -}}
