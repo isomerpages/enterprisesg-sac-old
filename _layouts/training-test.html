@@ -11,6 +11,7 @@ layout: default
  	<h3>{{ course.title }} - {{ course.course_date }}</h3>
 	<p>{{ course.course_date | date: "%m %Y" }}</p>
 	<p>{{ course.date | date: "%Y"}}</p>
+	<p>{{ course.name }}</p>
 {% endfor %}
 
 <div class="content">	
