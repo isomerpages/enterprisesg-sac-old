@@ -9,7 +9,6 @@ layout: default
 {% assign sorted-courses = (site.courses1 | sort: 'course_date') | reverse %}
 {% for course in sorted-courses %}
  	<h3>{{ course.title }} - {{ course.course_date }}</h3>
-	<p>{{ course.date }}<br/>{{ course.url }}</p>
 	<p>{{ course.course_date | date: "%m %Y" }}</p>
 {% endfor %}
 
