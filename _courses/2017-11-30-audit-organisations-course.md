@@ -2,7 +2,6 @@
 layout: simple-page
 title: Auditing Organisations Course
 course_date: 30 Nov 2017, 1 Dec 2017
-course_year: 2017
 permalink: /services/training/training-courses-2017/Audit-Organisations-Course--30-November---01-December-2017
 ---
 
