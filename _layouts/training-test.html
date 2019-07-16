@@ -12,7 +12,8 @@ layout: default
 	{% assign courseMonthNum = course.course_date | date: '%m' | plus:0 %}
 	<p>{{- courseMonthNum -}}</p>		
 	<p>
-		{% if courseMonthNum >= 0 %}Q1{% endif %}
+		{% if courseMonthNum >= 0 %}Q2{% endif %}
+		{% if courseMonthNum > 0 %}Q1{% endif %}
 	</p>	
 {% endfor %}
 
