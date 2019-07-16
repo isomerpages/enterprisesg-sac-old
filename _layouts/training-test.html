@@ -7,11 +7,12 @@ layout: default
 <hr/>
 
 {% assign latestCourse = site.courses | last %}
-{% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:1 %}
+{% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:0 %}
 {% assign minCourseYear = latestCourseYear | minus:5 %}
 <p>{{- latestCourseYear -}} {{- minCourseYear -}}</p>
-{% assign sorted-courses = site.courses | reverse %}
-{{ site.courses | where_exp:"item", "item.date >= 2019-01-01" }}
+{% assign sorted-courses = site.courses | where_exp:"item", "item.date >= 2019-01-01" %}
+{% assign sorted-courses-latest = sorted-courses | last %}
+<p>{{- sorted-courses-latest.course_date -}}</p>
 
 
 
