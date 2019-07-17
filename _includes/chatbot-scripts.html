@@ -162,15 +162,23 @@ window.onload = function(){
 {%- endif -%} 
 
 {%- if page.layout == 'training' -%}
-<script>    
+<script>
+    //change title of training table dynamically
     var trainingYearTitle = document.getElementById('training-calendar-year-title');
     var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
     if (trainingCoursesTables.length > 0) {
         trainingYearTitle.textContent = trainingCoursesTables[0].id.replace('training-table-','');
     }
+    
+    //add javascript action to trainingYearSelect links at bottom of training table
     var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
     if (trainingYearSelects.length > 0) {
         for (var i=0; i<trainingYearSelects.length; i++) {
+            var currTrainingTableID = "training-table-" + this.getAttribute("data-refYear");
+            var currTrainingTable = document.getElementById(currTrainingTableID);
+            if (currTrainingTable == null) {
+                this.style.display = "none";
+            }
             trainingYearSelects[i].addEventListener('click', function (event) {
                 var currTrainingTableID = "training-table-" + this.getAttribute("data-currYear");
                 var currTrainingTable = document.getElementById(currTrainingTableID);
