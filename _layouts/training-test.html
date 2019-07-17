@@ -14,9 +14,7 @@ layout: default
 	<p>{{- currCourseYear -}}</p>
 	{% assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains currCourseYear" %}
 	<p>{{- filteredCourses.size -}}</p>
-	{% assign filteredCoursesSize = filteredCourses | size %}
-	<p>{{- filteredCoursesSize -}}</p>
-	{% if filteredCoursesSize == 0 %}
+	{% if filteredCourses.size == 0 %}
 	    {% break %}
 	{% else %}
 		{%- for course in filteredCourses -%}
