@@ -21,7 +21,7 @@ layout: leftnav-page-content
 		{%- assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains currCourseYear" -%}
 		{%- if filteredCourses.size == 0 -%}
 		    {%- break -%}
-		{%- else -%}
+		{%- else -%}		
 		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:block;"{%- endif -%}>
 			<thead>
 				<tr>
@@ -32,13 +32,13 @@ layout: leftnav-page-content
 			</thead>						
 			<tbody>
 				<tr>
-					{%- assign currentQuarter = 0 -%}
+					{%- assign currentQuarter = 1 -%}
 					{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
 					{%- for course in filteredCourses -%}
 						{%- assign currentCourseMonth = course.date | '%M' | plus: 0 -%}
 						{%- if currentCourseMonth > currentQuarterEnd -%}						
 							{%- for j in (1..4) -%}
-								{%- if currentQuarterEnd > 0 -%}</td>{%- endif -%}								
+								{%- if currentQuarter > 1 -%}</td>{%- endif -%}								
 								<td>
 								<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
 								{%- assign currentQuarter = currentQuarter | plus:1 -%}
