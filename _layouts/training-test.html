@@ -26,7 +26,7 @@ layout: leftnav-page-content
 			{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}			
 			{%- for course in filteredCourses -%}
 				<span>{{- course.date -}}</span><br/>
-				{%- assign currentCourseMonth = course.date | '%m' | plus: 0 -%}
+				{%- assign currentCourseMonth = course.date | date: '%m' | plus: 0 -%}
 				<p>{{- currentQuarter -}}&nbsp;&nbsp;{{- currentQuarterEnd -}}&nbsp;&nbsp;{{- currentCourseMonth -}}</p>
 				{%- if currentCourseMonth > currentQuarterEnd -%}						
 					{%- for j in (1..4) -%}
@@ -49,7 +49,7 @@ layout: leftnav-page-content
 		{% endif %}
 	{%- endfor -%}
 	
-	
+			
 	<hr/>	
 </div>
 
