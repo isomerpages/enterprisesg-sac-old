@@ -12,10 +12,12 @@ layout: default
 <p>{{- latestCourseYear -}}&nbsp;{{- minCourseYear -}}</p>
 {% assign sortedCourses = site.courses | where: "title", "2019 Joint courses between HSA-SAC" %}
 {%- for course in sortedCourses -%}
-	<p>{{- course.course_date -}}&nbsp;{{- course.title -}}</p>
+	<p>{{- course.course_date -}}<br/>{{- course.title -}}</p>
 {%- endfor -%}
-
-
+{% assign sortedCoursesOne = site.courses | where_exp: "item", "item.title == '2019 Joint courses between HSA-SAC'" %}
+{%- for courseOne in sortedCoursesOne -%}
+	<p>{{- courseOne.course_date -}}&nbsp;{{- courseOne.title -}}</p>
+{%- endfor -%}
 
 
 
