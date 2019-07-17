@@ -1,7 +1,7 @@
 ---
 layout: training
 title: Training Services
-permalink: /services/training/
+permalink: /services/training
 breadcrumb: training
 collection_name: services
 ---
