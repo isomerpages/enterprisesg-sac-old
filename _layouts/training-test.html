@@ -8,16 +8,21 @@ layout: default
 
 {% assign latestCourse = site.courses | last %}
 {% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:0 %}
-{% assign minCourseYear = latestCourseYear | minus:5 %}
-<p>{{- latestCourseYear -}}&nbsp;{{- minCourseYear -}}</p>
-<p>Test</p>
+
 {%- for i in (0..4) -%}
 	{% assign currCourseYear = latestCourseYear | minus:i %}
 	<p>{{- currCourseYear -}}</p>
-	{% assign filteredCoursesOne = site.courses | where_exp: "item", "item.course_date contains currCourseYear" %}
-	{%- for courseOne in filteredCoursesOne -%}
-		<p>{{- courseOne.title -}}&nbsp;{{- courseOne.course_date -}}</p>
-	{%- endfor -%}
+	{% assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains currCourseYear" %}
+	
+	{% assign filteredCoursesSize = filteredCourses | size %}
+	<p>{{- filteredCoursesSize -}}</p>
+	{% if filteredCoursesSize == 0 %}
+	    {% break %}
+	{% else %}
+		{%- for course in filteredCourses -%}
+			<p>{{- course.title -}}&nbsp;{{- course.course_date -}}</p>
+		{%- endfor -%}
+	{% endif %}
 {%- endfor -%}
 
 
