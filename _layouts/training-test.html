@@ -13,7 +13,7 @@ layout: default
 	{% assign currCourseYear = latestCourseYear | minus:i %}
 	<p>{{- currCourseYear -}}</p>
 	{% assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains currCourseYear" %}
-	
+	<p>{{- filteredCourses.size -}}</p>
 	{% assign filteredCoursesSize = filteredCourses | size %}
 	<p>{{- filteredCoursesSize -}}</p>
 	{% if filteredCoursesSize == 0 %}
