@@ -21,7 +21,7 @@ layout: leftnav-page-content
 		{%- if filteredCourses.size == 0 -%}
 		    {%- break -%}
 		{%- else -%}			
-		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:block;"{%- endif -%}>
+		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
 			<thead>
 				<tr>
 					{%- for j in (1..4) -%}
