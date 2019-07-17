@@ -10,11 +10,20 @@ layout: default
 {% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:0 %}
 {% assign minCourseYear = latestCourseYear | minus:5 %}
 <p>{{- latestCourseYear -}}&nbsp;{{- minCourseYear -}}</p>
-{% assign sortedCourses = site.courses | where_exp: "item", "item.course_date contains '2019'" %}
-{%- for course in sortedCourses -%}
+{% assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains '2019'" %}
+{%- for course in filteredCourses -%}
 	<p>{{- course.title -}}&nbsp;{{- course.course_date -}}</p>
 {%- endfor -%}
-
+<p>
+{%- for i in (1..4) -%}
+	{{- i -}}
+{%- endfor -%}
+</p>
+<p>
+{%- for i in (4..1) -%}
+	{{- i -}}
+{%- endfor -%}
+</p>
 
 
 <div class="content">	
