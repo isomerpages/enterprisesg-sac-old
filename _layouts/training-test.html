@@ -22,14 +22,14 @@ layout: leftnav-page-content
 		{%- if filteredCourses.size == 0 -%}
 		    {%- break -%}
 		{%- else -%}	
-			{%- assign currentQuarter = 1 -%}
+			{%- assign currentQuarter = 0 -%}
 			{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}			
 			{%- for course in filteredCourses -%}
 				{%- assign currentCourseMonth = course.date | date: '%m' | plus: 0 -%}
 				<p>{{- currentQuarter -}}&nbsp;&nbsp;{{- currentQuarterEnd -}}&nbsp;&nbsp;{{- currentCourseMonth -}}</p>
 				{%- if currentCourseMonth > currentQuarterEnd -%}						
 					{%- for j in (1..4) -%}
-						{%- if currentQuarter > 1 -%}<span>End column</span><br/>{%- endif -%}								
+						{%- if currentQuarter > 0 -%}<span>End column</span><br/>{%- endif -%}								
 						<span>New column</span><br/>
 						{%- assign currentQuarter = currentQuarter | plus:1 -%}
 						{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
@@ -48,7 +48,7 @@ layout: leftnav-page-content
 		{% endif %}
 	{%- endfor -%}
 		
-		
+			
 	<hr/>	
 </div>
 
