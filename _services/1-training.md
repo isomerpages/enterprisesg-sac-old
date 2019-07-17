@@ -2,6 +2,7 @@
 layout: training
 title: Training Services
 permalink: /services/training/
+breadcrumb: training
 collection_name: services
 ---
 
