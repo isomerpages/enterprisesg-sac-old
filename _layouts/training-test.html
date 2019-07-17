@@ -10,9 +10,11 @@ layout: default
 {% assign latestCourseYear = latestCourse.date | date: '%Y' | plus:0 %}
 {% assign minCourseYear = latestCourseYear | minus:5 %}
 <p>{{- latestCourseYear -}}&nbsp;{{- minCourseYear -}}</p>
-{% assign sortedCourses = site.courses | where: "date", "2019-06-24" %}
-{% assign sortedCoursesLatest = sortedCourses | last %}
-<p>{{- sortedCoursesLatest.course_date -}}&nbsp;{{- sortedCoursesLatest.title -}}</p>
+{% assign sortedCourses = site.courses | where: "title", "2019 Joint courses between HSA-SAC " %}
+{%- for course in sortedCourses -%}
+	<p>{{- course.course_date -}}&nbsp;{{- course.title -}}</p>
+{%- endfor -%}
+
 
 
 
