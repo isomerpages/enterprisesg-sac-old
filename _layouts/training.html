@@ -38,10 +38,10 @@ layout: leftnav-page-content
 						{%- if currentCourseMonth > currentQuarterEnd -%}						
 							{%- for j in (1..4) -%}
 								{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
-								<td>
-								<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
+								<td>								
 								{%- assign currentQuarter = currentQuarter | plus:1 -%}
 								{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+									<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
 								{%- if currentCourseMonth <= currentQuarterEnd -%}
 									{%- break -%}
 								{% endif %}
