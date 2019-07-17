@@ -14,12 +14,15 @@ layout: default
 {%- for course in filteredCourses -%}
 	<p>{{- course.title -}}&nbsp;{{- course.course_date -}}</p>
 {%- endfor -%}
-<p>
+<p>Test One</p>
+{% assign filteredCoursesOne = site.courses | where_exp: "item", "item.course_date contains latestCourseYear" %}
+{%- for courseOne in filteredCoursesOne -%}
+	<p>{{- courseOne.title -}}&nbsp;{{- courseOne.course_date -}}</p>
+{%- endfor -%}
 {%- for i in (0..4) -%}
 	{% assign currCourseYear = latestCourseYear | minus:i %}
-	{{- currCourseYear -}}<br/>
+	<p>{{- currCourseYear -}}</p>
 {%- endfor -%}
-</p>
 
 
 <div class="content">	
