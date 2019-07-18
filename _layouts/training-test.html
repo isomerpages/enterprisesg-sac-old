@@ -5,56 +5,19 @@ layout: leftnav-page-content
 <h2>Training Courses and Seminars</h2>
 <p>SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.</p>
 <hr/>
-{%- assign training = site.data.training -%}
-<div id="training-calendar">	
-	<h3>TRAINING CALENDAR&nbsp<span id="training-calendar-year-title"></span></h3>
-	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
-		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
-		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
-	</div>
-	{%- for annual-courses in training -%}
-	<table id="training-table-{{- annual-courses.year -}}" class="trainingCoursesTable" {%- if forloop.first == true -%}style="display:block;"{%- endif -%}>
-		<thead>
-			<tr>
-				{%- for i in (1..4) -%}
-				<th style="border:0;"><p class="trainingCoursesTableHeaderBar">Q{{- i -}}</p></th>
-				{%- endfor -%}
-			</tr>
-		</thead>	
-		<tbody>
-			<tr>
-				{%- for annual-course-quarter in annual-courses.annual-quarter -%}
-				<td>
-					<p class="trainingCoursesTableHeaderBar">Q{{- annual-course-quarter.quarter -}}</p>
-					{%- for course in annual-course-quarter.course-list -%}
-						<a href="{{- course.link -}}" target="_blank">
-							<span style="font-weight:bold;">{{- course.title -}}</span>
-							<br/>{{- course.date -}}
-						</a>
-						<br/><br/>
-					{%- endfor -%}
-				</td>	
-				{%- endfor -%}
-			</tr>	
-		</tbody>	
-		<tfoot>
-    			<tr>
-      				<td colspan="4">
-					{%- if forloop.last == false -%}
-					{%- capture previousYear -%}{{- annual-courses.year | minus:1 -}}{%- endcapture -%}
-					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
-					{%- endif -%}
-					{%- if forloop.first == false -%}
-					{%- capture nextYear -%}{{- annual-courses.year | plus:1 -}}{%- endcapture -%}
-					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- annual-courses.year -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
-					{%- endif -%}
-				</td>
-    			</tr>
-  		</tfoot>
-	</table>
-	{%- endfor -%}
-	<hr/>	
-</div>
+
+{%- assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains '2019'" -%}
+{%- for course in filteredCourses -%}
+	{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
+	<a href="{{- course.permalink -}}" target="_blank">
+		<span style="font-weight:bold;">{{- course.title -}}</span>
+		<br/>{{- currentCourseMonth -}}
+		<br/>{{- course.course_date -}}
+	</a>
+	<br/><br/>
+{%- endfor -%}
+
+
 <div class="content">	
 	{{- content -}}
 </div>	
