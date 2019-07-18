@@ -25,7 +25,7 @@ This 2-day course is to provide the participants:
 
 We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d1ed34b9ca58e0018fae30c){:target="_blank"}.
  
-All cheques should be crossed and made payable to "Enterprise Singapore" No invoices will be issued.
+All cheques should be crossed and made payable to "Enterprise Singapore." No invoices will be issued.
 
 The payment cheque is to be sent to the following address.
  
@@ -35,4 +35,4 @@ Enterprise Singapore\\
 #15-01, Innovis,\\
 Singapore 138634
 
-Tax receipts will be issued upon clearance of cheques.  You may email to AR_enquiry@enterprisesg.gov.sg to request for a copy.
+Tax receipts will be issued upon clearance of cheques. You may email to AR_enquiry@enterprisesg.gov.sg to request for a copy.
