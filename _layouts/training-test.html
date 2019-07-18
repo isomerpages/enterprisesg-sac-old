@@ -9,9 +9,10 @@ layout: leftnav-page-content
 {%- assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains '2019'" -%}
 {%- for course in filteredCourses -%}
 	{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
+	{%- assign currentCourseYear = course.course_date | date: '%Y' | plus: 0 -%}
 	<a href="{{- course.permalink -}}" target="_blank">
 		<span style="font-weight:bold;">{{- course.title -}}</span>
-		<br/>{{- currentCourseMonth -}}
+		<br/>{{- currentCourseMonth -}}&nbsp;{{- currentCourseYear -}}
 		<br/>{{- course.course_date -}}
 	</a>
 	<br/><br/>
