@@ -10,7 +10,7 @@ permalink: /services/training/courses-2019/training-course-on-ISOTS-220032013-an
 
 **Course Fee:** SGD 406.60 (inclusive of GST)
 
-**Course Venue:**  
+**Course Venue:**\\
 Novotel Clarke Quay Singapore\\
 177A River Valley Road, Singapore 179031\\
 (Training room:  Clover Room, Level 5)
