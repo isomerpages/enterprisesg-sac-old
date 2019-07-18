@@ -34,7 +34,7 @@ layout: leftnav-page-content
 					{%- assign currentQuarter = 0 -%}
 					{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
 					{%- for course in filteredCourses -%}
-						{%- assign currentCourseMonth = course.date | date: '%m' | plus: 0 -%}
+						{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
 						{%- if currentCourseMonth > currentQuarterEnd  -%}						
 							{%- for j in (1..4) -%}
 								{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
