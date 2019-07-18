@@ -2,7 +2,7 @@
 layout: simple-page
 title: Laboratory Management Course
 course_date: 4-6 March 2019
-permalink: /services/training/training-courses-2019/laboratory-management-course
+permalink: /services/training/courses-2019/laboratory-management-course
 ---
 
 ## Course Details
