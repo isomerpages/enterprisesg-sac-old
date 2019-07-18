@@ -30,4 +30,4 @@ Enterprise Singapore\\
 #15-01 Innovis\\
 Singapore 138634
 
-All cheques should be crossed and made payable to "Enterprise Singapore". An email confirmation will be sent before the course date. 
+All cheques should be crossed and made payable to "Enterprise Singapore." An email confirmation will be sent before the course date. 
