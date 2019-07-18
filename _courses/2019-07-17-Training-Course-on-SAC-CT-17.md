@@ -20,7 +20,7 @@ This 1-day course is to provide the participants:
 
 * An overview of the assessment requirements established in SAC CT17 for auditing organisations through lectures, discussions and work exercises.
 
-We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d1ed34b9ca58e0018fae30c){:target="_blank"}.
+We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d3036df5f62720018314389){:target="_blank"}.
 
 Please complete the online forms and mail cheques to:
 
