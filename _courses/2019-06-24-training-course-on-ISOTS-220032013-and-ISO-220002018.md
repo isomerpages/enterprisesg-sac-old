@@ -2,7 +2,7 @@
 layout: simple-page
 title: Training course on ISO/TS 22003:2013 and ISO 22000:2018
 course_date: 24-25 Jun 2019
-permalink: /services/training/2019/training-course-on-ISOTS-220032013-and-ISO-220002018
+permalink: /services/training/courses-2019/training-course-on-ISOTS-220032013-and-ISO-220002018
 ---
 
 ## Course Details
@@ -11,8 +11,8 @@ permalink: /services/training/2019/training-course-on-ISOTS-220032013-and-ISO-22
 **Course Fee:** SGD 406.60 (inclusive of GST)
 
 **Course Venue:**  
-Novotel Clarke Quay Singapore  
-177A River Valley Road, Singapore 179031  
+Novotel Clarke Quay Singapore\\
+177A River Valley Road, Singapore 179031\\
 (Training room:  Clover Room, Level 5)
  
 **Objective:-**  
@@ -25,7 +25,7 @@ Participants are to provide questions on the application of the standards prior 
 
 Please complete the attached [registration form](/files/registration-forms/Registration-form-ISO-TS-22003-2013,ISO-22000-2018.docx){:target="_blank"} and email it to:
  
-Ms Manjit Pal Kaur at <Manjit_Pal_Kaur@enterprisesg.gov.sg> or  
+Ms Manjit Pal Kaur at <Manjit_Pal_Kaur@enterprisesg.gov.sg> or\\
 Mr Choong Wenlong at <Choong_Wen_Loong@enterprisesg.gov.sg>
 
 You may then follow-up by posting SAC a cheque for payment and you would receive an email confirmation before the course date.  
@@ -34,10 +34,10 @@ All cheques should be crossed and made payable to "Enterprise Singapore". No inv
  
 Please send cheques to:
  
-Accreditation Division (Attn: Ms Manjit Pal Kaur or Mr Choong Wenlong)  
-Enterprise Singapore  
-2 Fusionopolis Way,  
-#15-01, Innovis,  
+Accreditation Division (Attn: Ms Manjit Pal Kaur or Mr Choong Wenlong)\\
+Enterprise Singapore\\
+2 Fusionopolis Way,\\
+#15-01, Innovis,\\
 Singapore 138634
  
 Should you require further clarification, please contact Ms Manjit Pal Kaur at +65 62791856 or Mr Choong Wenlong at +65 6279 3735
