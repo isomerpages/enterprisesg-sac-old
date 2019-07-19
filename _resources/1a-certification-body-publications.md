@@ -36,6 +36,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="_blank"} 
 * [IAF MD 3:2008 - Advanced Surveillance and Recertification Procedures (ASRP)](/files/documents/management-system-and-products-certification/IAF-MD3-2008.pdf){:target="_blank"} 
 * [IAF MD 4:2018 - Use of Computer Assisted Auditing Techniques ("CAAT") for Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD4-Issue-2-03072018.pdf){:target="_blank"} 
+* [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/management-system-and-products-certification/IAF-MD5-Issue-4-18042019.pdf){:target="_blank"} 
 * [IAF MD 5:2015 - Duration of QMS and EMS Audit](/files/documents/management-system-and-products-certification/IAF-MD-5.pdf){:target="_blank"} 
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"} 
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"} 
@@ -47,6 +48,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/management-system-and-products-certification/IAF-MD-15.pdf){:target="_blank"} 
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD-16.pdf){:target="_blank"} 
 * [IAF MD 21:2018 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF-MD21-(Migration-to-ISO45001-2018).pdf){:target="_blank"} 
+* [IAF MD 22:2019 -  Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD22-Issue-2-07052019.pdf){:target="_blank"} 
 * [IAF MD 22:2018 - Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD-22-OHSMS.pdf){:target="_blank"} 
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
@@ -77,7 +79,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Standards and Criteria Document for Auditing Organisations
 **Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
-* [CT 01A - Accreditation Process for Auditing Organisations - 23 April 2019](/files/documents/management-system-and-products-certification/CT-01A-(23-April-2019).pdf){:target="_blank"}
+* [CT 01A, 14 June 2019 - Accreditation Process for Auditing Organisations](/files/documents/management-system-and-products-certification/CT-01A-14-June-2019.pdf){:target="_blank"}
 * [CT 17 - SAC Criteria for Auditing Organisations - Oct 2018](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="_blank"}
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
