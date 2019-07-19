@@ -91,7 +91,6 @@ SAC has more than 20 years of experience in providing training to assist organis
 		</table>
 		{% endif %}
 	{%- endfor -%}		
-	<hr/>	
 </div>
 {:/}
 
