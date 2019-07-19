@@ -2,6 +2,7 @@
 layout: leftnav-page-content
 title: Aviation & Aerospace
 description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
+keywords: [Aviation, Aerospace, Accreditation]
 permalink: /industries/aviation-and-aerospace
 collection_name: industries
 ---
