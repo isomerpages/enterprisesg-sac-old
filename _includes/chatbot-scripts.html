@@ -101,13 +101,6 @@ window.onload = function(){
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
 
-{%- comment -%} add Isomer left-nav template javascript to Training layout page {%- endcomment -%}
-{%- if page.layout == 'training' -%}
-<script src="https://printjs-4de6.kxcdn.com/print.min.js" crossorigin="anonymous"></script>
-<script src="{{- "/assets/js/floating-buttons.js" | relative_url -}}" crossorigin="anonymous"></script>
-<script src="{{- "/assets/js/left-nav-interaction.js" | relative_url -}}" crossorigin="anonymous"></script>
-{%- endif -%}
-
 {%- if page.layout == 'our-team' -%}
 <script>
     //add html attribute to open links under the 'organisation structure' section in new tab
