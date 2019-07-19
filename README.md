@@ -347,12 +347,9 @@ Most of the pages follow the Isomerpages 'leftnav-page-content' template layout.
 The page contains standards tables listing the programme details of the accreditation services available for creditation bodies. If using markdown syntax for tables (instead of the conventional HTML syntax), markdown tables which contain bulleted lists must make use of the `{::nomarkdown}{:/}` tags so that the content within the tags are interpreted as HTML syntax. Refer to [Adding / Editing a Table](#edit-table) for more details.
 
 ### Editing Table in 'Training Services - Recent Courses / Workshops / Seminars' Page
-The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the corresponding year category folder of the 'courses' directory. New courses can be added by creating a new file in the relevant 'year' category folder (e.g. '2019' folder contains all the files of the training courses for year 2019).
+The 'Recent Courses / Workshops / Seminars' page contains a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the '_courses' directory. New courses can be added by creating a new file in the same directory.
 
 See the [Isomer documentation on creating a new simple page](https://isomer.gov.sg/documentation/inner-page/creating-a-new-simple-page/) for more details.
-
-### Editing 'Training Courses' Pages
-The 'Training Courses 2019/2018/2017' pages each contain a table listing the date and title of the latest training courses. Each entry in the 'title' column is linked to a course details page that can be edited by editing the corresponding file in the corresponding year category folder of the 'courses' directory. New courses can be added by creating a new file in the relevant 'year' category folder (e.g. '2019' folder contains all the files of the training courses for year 2019). 
 
 <a name="edit-resources"></a>
 ## Editing the Content of Resources Pages
