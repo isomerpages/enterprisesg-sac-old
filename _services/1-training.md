@@ -12,7 +12,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 
 ---
 
-{% raw %}
+{%- raw -%}
 <div id="training-calendar">	
 	<h3>TRAINING CALENDAR&nbsp<span id="training-calendar-year-title"></span></h3>
 	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
@@ -93,7 +93,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 	{%- endfor -%}		
 	<hr/>	
 </div>
-{% endraw %}
+{%- endraw -%}
 
 ---
 
