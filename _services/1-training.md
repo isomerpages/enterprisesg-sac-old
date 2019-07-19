@@ -1,9 +1,100 @@
 ---
-layout: training
+layout: leftnav-page-content
 title: Training Services
 permalink: /services/training/
 breadcrumb: training
 collection_name: services
+---
+
+## Training Courses and Seminars
+
+SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.
+
+---
+
+{% raw %}
+<div id="training-calendar">	
+	<h3>TRAINING CALENDAR&nbsp<span id="training-calendar-year-title"></span></h3>
+	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
+		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
+		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
+	</div>
+	{%- assign latestCourse = site.courses | last -%}
+	{%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
+	{%- assign currYear = site.time | date: '%Y' | plus:0 -%}
+	{%- for i in (0..4) -%}
+		{%- assign currCourseYear = latestCourseYear | minus:i -%}
+		{%- assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains currCourseYear" -%}
+		{%- if filteredCourses.size == 0 -%}
+		    {%- break -%}
+		{%- else -%}			
+		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
+			<thead>
+				<tr>
+					{%- for j in (1..4) -%}
+					<th style="border:0;"><p class="trainingCoursesTableHeaderBar">Q{{- j -}}</p></th>
+					{%- endfor -%}
+				</tr>
+			</thead>						
+			<tbody>
+				<tr>
+					{%- assign currentQuarter = 0 -%}
+					{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+					{%- for course in filteredCourses -%}
+						{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
+						{%- if currentCourseMonth > currentQuarterEnd  -%}						
+							{%- for j in (1..4) -%}
+								{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
+								<td>								
+								{%- assign currentQuarter = currentQuarter | plus:1 -%}
+								{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+									<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
+								{%- if currentCourseMonth <= currentQuarterEnd -%}
+									{%- break -%}
+								{% endif %}
+							{%- endfor -%}	
+						{%- endif -%}	
+						<a href="{{- course.permalink -}}" target="_blank">
+							<span style="font-weight:bold;">{{- course.title -}}</span>
+							<br/>{{- course.course_date -}}
+						</a>
+						<br/><br/>	
+					{%- endfor -%}
+					{%- if currentQuarter < 4  -%}						
+						{%- for j in (1..4) -%}
+							{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
+							<td>								
+							{%- assign currentQuarter = currentQuarter | plus:1 -%}
+							{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+								<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
+							{%- if currentQuarter >= 4 -%}
+								{%- break -%}
+							{% endif %}
+						{%- endfor -%}	
+					{%- endif -%}	
+				</tr>	
+			</tbody>	
+			<tfoot>
+					<tr>
+						<td colspan="4">
+						{%- if forloop.last == false -%}
+						{%- capture previousYear -%}{{- currCourseYear | minus:1 -}}{%- endcapture -%}
+						<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
+						{%- endif -%}
+						{%- if forloop.first == false -%}
+						{%- capture nextYear -%}{{- currCourseYear | plus:1 -}}{%- endcapture -%}
+						<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
+						{%- endif -%}
+					</td>
+					</tr>
+			</tfoot>
+		</table>
+		{% endif %}
+	{%- endfor -%}		
+	<hr/>	
+</div>
+{% endraw %}
+
 ---
 
 ### Our Trainers
