@@ -386,14 +386,17 @@ hr {
 				}
 			}
 			&.has-dropdown {
-				@include touch(){
-					display:none;
+				.navbar-dropdown {
+					@include touch(){
+						display:none;
+					}
 				}
 				a.navbar-link{
 					@include desktop(){
 						pointer-events: none !important;
 					}
 				}
+				
 			}
 		}
 		
