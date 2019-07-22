@@ -1,16 +1,16 @@
 <script>  
 window.onload = function(){    
-    //script to toggle navbar dropdown menu im mobile view
+    //script to toggle navbar dropdown menu in mobile view
     var navbarBurgers = document.getElementsByClassName('navbar-burger');
     if (navbarBurgers.length > 0) {
         
         //this is used to check that the website is in mobile view because the navbar-burger only appears on mobile site
         if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
             //hide navbar dropdown menus on first load
-            var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
+            /*var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
             for (var i=0; i<navbarDropdowns.length; i++) {
                 navbarDropdowns[i].style.display = 'none';
-            }
+            }*/
             
             var navbarDropdown;
             var navbarItemLinks;
