@@ -398,6 +398,13 @@ hr {
 				}
 				
 			}
+			&:hover {
+				.navbar-dropdown {
+					@include touch(){
+						display:block;
+					}
+				}
+			}
 		}
 		
 	}
