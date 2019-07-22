@@ -37,20 +37,6 @@ window.onload = function(){
                 }
             }
             
-            //hide empty table cells in bouchures page in mobile view
-            var brochuresTable = document.getElementsByClassName('brochures-table');
-            if (brochuresTable.length > 0) {  
-                for (var i=0; i<brochuresTable.length; i++) {
-                    var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
-                    for (var j=0; j<brochuresTableCells.length; j++) {
-                        if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
-                                brochuresTableCells[j].innerHTML = "";
-                                //brochuresTableCells[j].style.display = "none";
-                        }
-                    }
-                }
-            }
-            
             //edit top navigation buttons in 'our-team' layout  
             var boardOfDirectorButton = document.getElementById('board-of-directors-button');
             if (boardOfDirectorButton !== null) {
@@ -96,7 +82,22 @@ window.onload = function(){
 };    
 </script>    
 
-
+{%- if page.permalink contains 'resources/brochures' -%}
+<script>
+    //hide empty table cells in bouchures page in mobile view
+    var brochuresTable = document.getElementsByClassName('brochures-table');
+    if (brochuresTable.length > 0) {  
+        for (var i=0; i<brochuresTable.length; i++) {
+            var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
+            for (var j=0; j<brochuresTableCells.length; j++) {
+                if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
+                        brochuresTableCells[j].innerHTML = "";
+                }
+            }
+        }
+    }
+</script>    
+{%- endif -%}
 
 {%- comment -%} add Isomer accordion template javascript to FAQ and Certified Companies pages {%- endcomment -%}
 {%- if page.layout == 'faq' or page.layout == 'certified-companies' -%}
