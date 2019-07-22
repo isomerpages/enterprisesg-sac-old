@@ -107,7 +107,7 @@ window.onload = function(){
 
 {%- if page.layout == 'our-team' -%}
 <script>
-     //edit top navigation buttons in 'our-team' layout  
+     //edit top navigation buttons in 'our-team' layout for mobile view
     var boardOfDirectorButton = document.getElementById('board-of-directors-button');
     if (boardOfDirectorButton !== null) {
         var parentContainer = boardOfDirectorButton.parentElement;
@@ -116,7 +116,7 @@ window.onload = function(){
                 var grandParentContainer = parentContainer.parentElement;
                 if (grandParentContainer !== null) {
                     grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
-                    //parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
+                    parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
                 }
             }
         }
