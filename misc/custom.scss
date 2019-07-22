@@ -386,24 +386,12 @@ hr {
 				}
 			}
 			&.has-dropdown {
-				.navbar-dropdown {
-					@include touch(){
-						display:none;
-					}
-				}
 				a.navbar-link{
 					@include desktop(){
 						pointer-events: none !important;
 					}
 				}
 				
-			}
-			&:hover {
-				.navbar-dropdown {
-					@include touch(){
-						display:block;
-					}
-				}
 			}
 		}
 		
