@@ -37,7 +37,7 @@ window.onload = function(){
                 }
             }
             
-            /*
+        
             //edit top navigation buttons in 'our-team' layout  
             var boardOfDirectorButton = document.getElementById('board-of-directors-button');
             if (boardOfDirectorButton !== null) {
@@ -53,7 +53,7 @@ window.onload = function(){
                         }
                     }
                 }
-            }*/
+            }
             
             //add back-to-top button in mobile view
             var mainContent = document.getElementById('main-content');            
@@ -107,21 +107,6 @@ window.onload = function(){
 
 {%- if page.layout == 'our-team' -%}
 <script>
-     //edit top navigation buttons in 'our-team' layout for mobile view
-    var boardOfDirectorButton = document.getElementById('board-of-directors-button');
-    if (boardOfDirectorButton !== null) {
-        var parentContainer = boardOfDirectorButton.parentElement;
-        if (parentContainer !== null) {
-            if (parentContainer.className.indexOf('bp-sec-button') !== -1) {
-                var grandParentContainer = parentContainer.parentElement;
-                if (grandParentContainer !== null) {
-                    grandParentContainer.className = grandParentContainer.className + ' bp-overflow-buttons padding--left--none padding--right--none';
-                    parentContainer.className = parentContainer.className.replace('bp-sec-button','bp-buttons').trim();
-                }
-            }
-        }
-    }
-    
     //add html attribute to open links under the 'organisation structure' section in new tab
     var accordionBodies = document.querySelectorAll('[id^=accordion-body]');
     if (accordionBodies.length > 0) {
