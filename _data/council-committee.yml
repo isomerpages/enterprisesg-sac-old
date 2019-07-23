@@ -6,11 +6,11 @@
   - column: Organisation
   rows:
     - row:
-      - column: <strong>Chairman</strong>
+      - column: Chairman
       - column: Dr Leslie Retnam
       - column: National University of Singapore
     - row:
-      - column: <strong>Members</strong>
+      - column: Members
       - column: Dr Paul Chiew
       - column: Agri-Food & Veterinary Authority of Singapore
     - row:
@@ -66,7 +66,7 @@
       - column: Prof Chew Soon Hoe
       - column: The Institute of Engineers, Singapore 
     - row:      
-      - column: <strong>Secretariat</strong>
+      - column: Secretariat
       - column: Ms Lim Lee Fang
       - column: SAC Secretariat
 - title: Council Committee For Inspection (CCI)
@@ -77,11 +77,11 @@
   - column: Organisation
   rows:
     - row:
-      - column: <strong>Chairman</strong>
+      - column: Chairman
       - column: Mr Silas Sng Wee Kiat
       - column: Singapore Accreditation Council
     - row:
-      - column: <strong>Members</strong>
+      - column: Members
       - column: Dr Poh Teoh Yaw
       - column: Building & Construction Authority
     - row:
@@ -89,6 +89,6 @@
       - column: Mr Adrian Lo
       - column: Bureau Veritas Singapore Pte Ltd  
     - row:
-      - column: <strong>Secretariat</strong>
+      - column: Secretariat
       - column: Mr Tan Yee Teck
       - column: Singapore Accreditation Council 
