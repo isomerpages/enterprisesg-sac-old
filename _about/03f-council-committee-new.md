@@ -1,5 +1,6 @@
 ---
-layout: leftnav-page-content
+layout: committee
+committee: council-committee
 title: Test
 permalink: /about/our-organisation-and-structure/council-committees-new
 collection_name: about
