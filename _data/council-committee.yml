@@ -9,15 +9,15 @@
       - column: "**Chairman**"
       - column: Dr Leslie Retnam
       - column: National University of Singapore
-      row:
+    - row:
       - column: Member
       - column: Dr Paul Chiew
       - column: Agri-Food & Veterinary Authority of Singapore
-      row:
+    - row:
       - column: 
       - column: Dr Lim Ee Meng
       - column: A-star National Metrology Centre (NMC)  
-      row:
+    - row:      
       - column: Secretariat
       - column: Ms Lim Lee Fang
       - column: SAC Secretariat
@@ -32,15 +32,15 @@
       - column: Chairman
       - column: Mr Silas Sng Wee Kiat
       - column: Singapore Accreditation Council
-      row:
+    - row:
       - column: Member
       - column: Dr Poh Teoh Yaw
       - column: "Building & Construction Authority"
-      row:
+    - row:
       - column: 
       - column: Mr Adrian Lo
       - column: Bureau Veritas Singapore Pte Ltd  
-      row:
+    - row:
       - column: Secretariat
       - column: Mr Tan Yee Teck
       - column: Singapore Accreditation Council 
