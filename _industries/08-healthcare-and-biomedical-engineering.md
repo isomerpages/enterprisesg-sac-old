@@ -1,9 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Healthcare & Biomedical Engineering
+description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
 permalink: /industries/healthcare-and-biomedical-engineering
 collection_name: industries
 ---
+
+![Healthcare & Biomedical Engineering](/images/industries/healthcare-and-biomedical-engineering.jpg)
 
 The healthcare value chain consists of several stakeholders involved in various activities that may be product or service-oriented. Products include equipment, pharmaceuticals, and complementary health products, while services in the sector are centered around provision of healthcare. In Singapore, the healthcare and biomedical industry is rapidly growing, with significant public investment in research aimed at driving productivity and innovation. This, along with the fourth industrial revolution, presents several new possibilities in the advancement of healthcare products and services. As a result, there are constantly new developments being made, generating greater need for conformity assessment.
 
