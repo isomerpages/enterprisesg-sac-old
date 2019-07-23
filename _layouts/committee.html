@@ -30,10 +30,10 @@ layout: leftnav-page-content
 						</tr>
 					</thead>
 					<tbody>
-						{%- for memberRow in committee.rows -%}
+						{%- for member in committee.rows -%}
 						<tr>
-							{%- for member in memberRow -%}
-							<td>{{- member.column | markdownify -}}</td>
+							{%- for memberRow in member.row -%}
+							<td>{{- memberRow.column | markdownify -}}</td>
 							{%- endfor -%}
 						</tr>	
 						{%- endfor -%}	
