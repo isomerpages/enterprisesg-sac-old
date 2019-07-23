@@ -33,7 +33,7 @@ layout: leftnav-page-content
 						{%- for member in committee.rows -%}
 						<tr>
 							{%- for memberRow in member.row -%}
-							<td>{{- memberRow.column | markdownify -}}</td>
+							<td>{{- memberRow.column -}}</td>
 							{%- endfor -%}
 						</tr>	
 						{%- endfor -%}	
