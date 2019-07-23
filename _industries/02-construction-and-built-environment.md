@@ -1,6 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Construction & Built Environment
+description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
 permalink: /industries/construction-and-built-environment
 collection_name: industries
 ---
