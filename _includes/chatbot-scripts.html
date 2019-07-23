@@ -83,6 +83,25 @@ window.onload = function(){
 };    
 </script>    
 
+{%- if page.layout == 'leftnav-page-content' -%}
+<script>
+    //edit nav title for leftnav layout pages with 'overview' titles  
+    var titleSections = document.getElementsByClassName('bp-section-pagetitle');
+    if (titleSections.length > 0) {
+        var pageTitles = titleSections[0].getElementsByTagName('h1');
+        if (pageTitles.length > 0) {
+            var title = pageTitles[0].textContent;
+            if (title.search(/overview/i) === 0) {
+                var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
+                if (activeSecondLevelNavHeaders.length > 0) {
+                    pageTitles[0].textContent += " (" + activeSecondLevelNavHeaders[0].textContent + ")";
+                }
+            }
+        }
+    }
+</script>    
+{%- endif -%} 
+
 {%- if page.permalink contains 'resources/brochures' -%}
 <script>
     //hide empty table cells in bouchures page in mobile view
@@ -91,9 +110,7 @@ window.onload = function(){
         for (var i=0; i<brochuresTable.length; i++) {
             var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
             for (var j=0; j<brochuresTableCells.length; j++) {
-                if (window.getComputedStyle(brochuresTableCells[j], null).getPropertyValue('display') == 'block' && brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim() == ""){
-                        brochuresTableCells[j].innerHTML = "";
-                }
+                brochuresTableCells[j].innerHTML = brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim();
             }
         }
     }
@@ -115,25 +132,6 @@ window.onload = function(){
             if (committeeLinks.length > 0) {
                 for (var j=0; j<committeeLinks.length; j++) {
                     committeeLinks[j].setAttribute("target", "_blank");
-                }
-            }
-        }
-    }
-</script>    
-{%- endif -%} 
-
-{%- if page.layout == 'leftnav-page-content' -%}
-<script>
-    //edit nav title for leftnav layout pages with 'overview' titles  
-    var titleSections = document.getElementsByClassName('bp-section-pagetitle');
-    if (titleSections.length > 0) {
-        var pageTitles = titleSections[0].getElementsByTagName('h1');
-        if (pageTitles.length > 0) {
-            var title = pageTitles[0].textContent;
-            if (title.search(/overview/i) === 0) {
-                var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
-                if (activeSecondLevelNavHeaders.length > 0) {
-                    pageTitles[0].textContent += " (" + activeSecondLevelNavHeaders[0].textContent + ")";
                 }
             }
         }
