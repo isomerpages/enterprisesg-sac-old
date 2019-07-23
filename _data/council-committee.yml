@@ -6,19 +6,67 @@
   - column: Organisation
   rows:
     - row:
-      - column: **Chairman**
+      - column: <strong>Chairman</strong>
       - column: Dr Leslie Retnam
       - column: National University of Singapore
     - row:
-      - column: Member
+      - column: <strong>Members</strong>
       - column: Dr Paul Chiew
       - column: Agri-Food & Veterinary Authority of Singapore
     - row:
       - column: 
       - column: Dr Lim Ee Meng
       - column: A*STAR National Metrology Centre (NMC)
+    - row:
+      - column: 
+      - column: Pending
+      - column: A*STAR Singapore Institute of Manufacturing Technology (SIMTech) 
+    - row:
+      - column: 
+      - column: Dr Gao Chun Ping
+      - column: Building and Construction Authority
+    - row:
+      - column: 
+      - column: Mr Lim Soon Chia
+      - column: Cyber Security Agency
+    - row:
+      - column: 
+      - column: Dr Teo Tang Lin
+      - column: Health Sciences Authority
+    - row:
+      - column: 
+      - column: Er Mohamad Ismadi
+      - column: Ministry of Manpower
+    - row:
+      - column: 
+      - column: Mr Lee Youn Kay
+      - column: Nanyang Polytechnic
+    - row:
+      - column: 
+      - column: Dr Ong Eng Hong
+      - column: Singapore University of Technology & Design
+    - row:
+      - column: 
+      - column: Mr Sze Thiam Siong
+      - column: Singapore Welding Society  
+    - row:
+      - column: 
+      - column: Pending
+      - column: Singapore Manufacturing Federation
+    - row:
+      - column: 
+      - column: Pending
+      - column: SMF-TIC Interest Group: Testing
+    - row:
+      - column: 
+      - column: Pending
+      - column: SMF-TIC Interest Group: Calibration
+    - row:
+      - column: 
+      - column: Prof Chew Soon Hoe
+      - column: The Institute of Engineers, Singapore 
     - row:      
-      - column: Secretariat
+      - column: <strong>Secretariat</strong>
       - column: Ms Lim Lee Fang
       - column: SAC Secretariat
 - title: Council Committee For Inspection (CCI)
@@ -29,11 +77,11 @@
   - column: Organisation
   rows:
     - row:
-      - column: **Chairman**
+      - column: <strong>Chairman</strong>
       - column: Mr Silas Sng Wee Kiat
       - column: Singapore Accreditation Council
     - row:
-      - column: Member
+      - column: <strong>Members</strong>
       - column: Dr Poh Teoh Yaw
       - column: Building & Construction Authority
     - row:
@@ -41,6 +89,6 @@
       - column: Mr Adrian Lo
       - column: Bureau Veritas Singapore Pte Ltd  
     - row:
-      - column: Secretariat
+      - column: <strong>Secretariat</strong>
       - column: Mr Tan Yee Teck
       - column: Singapore Accreditation Council 
