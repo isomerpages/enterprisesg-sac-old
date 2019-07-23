@@ -1,9 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Retail / Wholesale Trade
+description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
 permalink: /industries/retail-wholesale-trade
 collection_name: industries
 ---
+
+![Retail / Wholesale Trade](/images/industries/retail-and-wholesale-trade.jpg)
 
 The retail and wholesale trade industry spans a wide range of businesses, and may be either business-to-business or business-to-consumer. Conformity assessment can be helpful to retail and wholesale companies, with several management systems certification programmes available to enable companies to demonstrate compliance to a variety of standards. Those of particular relevance to retailers and wholesale traders include quality management system and business continuity management system. These would enable businesses to validate their existing systems and identify areas for improvement, while providing assurance over the quality of the company’s processes. Where relevant, businesses may also be able to use such certifications as evidence of their commitment to sustainability as well.
 
