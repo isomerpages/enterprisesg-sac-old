@@ -1,9 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Logistics
+description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
 permalink: /industries/logistics
 collection_name: industries
 ---
+
+![Logistics](/images/industries/logistics.jpg)
 
 Singapore is a leading logistics and supply chain management hub in the Asia Pacific region, and the industry functions as a key driver of the local economy. Singapore is also a premier global hub port and international maritime centre, with more than 1000 tonnes of cargo being handled in our port each minute. In 2017, the industry contributed 7% of GDP, and demand for supply chain management services has enabled local logistics companies to develop a full range of capabilities across various verticals. 
 
