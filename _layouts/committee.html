@@ -24,8 +24,8 @@ layout: leftnav-page-content
 				<table>
 					<thead>
 						<tr>
-							{%- for headerRows in committee.headers -%}
-							<th>{{- company.link -}}</th>
+							{%- for headerRow in committee.headers -%}
+							<th>{{- headerRow.column -}}</th>
 							{%- endfor -%}
 						</tr>
 					</thead>
