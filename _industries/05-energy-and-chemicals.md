@@ -1,9 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Energy & Chemicals
+description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
 permalink: /industries/energy-and-chemicals
 collection_name: industries
 ---
+
+![Energy & Chemicals](/images/industries/energy-and-chemicals.jpg)
 
 Singapore is one of the world’s leading chemical hubs, with more than 100 global chemical firms locating major operations here. As one of the world’s largest refinery export hubs and top chemical exporters, Singapore’s energy and chemicals industry is set to create $12.7 billion in value-add by 2025. However, safety remains a key priority even as rapid developments are changing production processes and systems. Conformity assessment is able to ensure both safety and quality at every stage of production, and is often a requirement from both regulators and customers. 
 
