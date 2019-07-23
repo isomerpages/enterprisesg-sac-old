@@ -6,11 +6,11 @@
   - column: Organisation
   rows:
     - row:
-      - column: **Chairman**
+      - column: "**Chairman**"
       - column: Dr Leslie Retnam
       - column: National University of Singapore
     - row:
-      - column: **Member**
+      - column: "**Member**"
       - column: Dr Paul Chiew
       - column: Agri-Food & Veterinary Authority of Singapore
     - row:
@@ -18,7 +18,7 @@
       - column: Dr Lim Ee Meng
       - column: A-star National Metrology Centre (NMC)  
     - row:      
-      - column: **Secretariat**
+      - column: "**Secretariat**"
       - column: Ms Lim Lee Fang
       - column: SAC Secretariat
 - title: Council Committee For Inspection (CCI)
