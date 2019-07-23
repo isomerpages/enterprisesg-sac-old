@@ -1,7 +1,7 @@
 ---
-layout: board-of-directors
+layout: board-of-directors-leftnav
 title: SAC Council
-permalink: /about/sac-council
+permalink: /about/our-organisation-and-structure/sac-council
 collection_name: about
 second_nav_title: Our Organisation And Structure
 ---
@@ -10,4 +10,3 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 
 ### Composition of SAC Council
 #### Term of Office: 1 April 2018 - 31 March 2021
-
