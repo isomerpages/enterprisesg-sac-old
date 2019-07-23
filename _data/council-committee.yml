@@ -1,0 +1,46 @@
+- title: Council Committee For Laboratory (CCL)
+  description: "1 July 2018 - 30 June 2021"
+  headers:
+    - column1: Designation
+      column2: Name
+      column3: Organisation
+  rows:
+    - row1:
+      - column1: **Chairman**
+        column2: Dr Leslie Retnam
+        column3: National University of Singapore
+      row2:
+      - column1: **Member**
+        column2: Dr Paul Chiew
+        column3: Agri-Food & Veterinary Authority of Singapore
+      row3:
+      - column1: 
+        column2: Dr Lim Ee Meng
+        column3: A-star National Metrology Centre (NMC)  
+      row4:
+      - column1: **Secretariat**
+        column2: Ms Lim Lee Fang
+        column3: SAC Secretariat
+- title: Council Committee For Inspection (CCI)
+  description: "1 July 2018 - 30 June 2021"
+  headers:
+    - column1: Designation
+      column2: Name
+      column3: Organisation
+  rows:
+    - row1:
+      - column1: **Chairman**
+        column2: Mr Silas Sng Wee Kiat
+        column3: Singapore Accreditation Council
+      row2:
+      - column1: **Member**
+        column2: Dr Poh Teoh Yaw
+        column3: "Building & Construction Authority"
+      row3:
+      - column1: 
+        column2: Mr Adrian Lo
+        column3: Bureau Veritas Singapore Pte Ltd  
+      row4:
+      - column1: Secretariat
+        column2: Mr Tan Yee Teck
+        column3: Singapore Accreditation Council 
