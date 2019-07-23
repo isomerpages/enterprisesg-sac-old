@@ -610,17 +610,6 @@ hr {
 	}
 }
 
-.media-category-button {
-	text-decoration: none !important;
-	color: #323232;
-	margin-right: 2.5rem;
-	letter-spacing: 0.5px;
-	&:hover, &.selected {
-		color: $secondary;
-		border-bottom: 2px solid $secondary;
-	}
-}
-
 .news-content {
 	position: relative;
  	margin-left: 1rem;
@@ -683,50 +672,6 @@ img + em {
 	border-radius: 0.2rem;
 	&:hover{
 		background-color: darken($primary,10%);
-	}
-}
-
-#board-of-directors-button {
-	b {
-		display:none;
-		visibility:hidden;
-	}
-	&::after {
-		content: 'Organisation Chart'; //changes the 'Board of Directors' heading to 'Organisation Chart'
-	}
-}
-
-#senior-leadership-button {
-	b {
-		display:none;
-		visibility:hidden;
-	}
-	&::after {
-		content: 'SAC Council'; //changes the 'Senior Leadership' heading to 'SAC Council'
-	}
-}
-
-#board-of-directors{
-	background-image: url(/images/about/our-organisation-structure/SAC-Org-Chart-August2018.png);
-	background-size: contain;
-	background-repeat: no-repeat;
-	width: 100%;
-	height: 100%;
-	padding-top:50%;
-}
-
-#senior-leadership {
-	&::before{
-		content: 'The SAC Council is the highest authority in the accreditation hierarchy. It comprises a member of the industry as its Chairman and balanced representation from all relevant parties as members. Representatives include those from industries, purchasers and suppliers, government departments, professional bodies, national standards authority, certification bodies and consumer interest groups.'
-	}
-	.person-info-card {
-		&:first-child {
-			margin-top: 1rem;
-			//selects the 2nd .person-info-card without using nth-child which isn't supported in IE8
-			& + .person-info-card { 
-				margin-top: 1rem;
-			}
-		}
 	}
 }
 
