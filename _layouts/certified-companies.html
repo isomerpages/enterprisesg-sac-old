@@ -4,7 +4,8 @@ layout: leftnav-page-content
 
 {{- content -}}
 
-{%- assign certified-companies = site.data.certified-companies -%}
+{%- assign foo = 'site.data.certified-companies' -%}
+{%- assign certified-companies = foo -%}
 <div class="content">	
 	<div>
 	{%- for certification in certified-companies -%}
