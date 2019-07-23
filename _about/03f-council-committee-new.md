@@ -1,5 +1,5 @@
 ---
-layout: committee
+layout: leftnav-page-content
 committee: council-committee
 title: Council Committees New
 permalink: 	/about/our-organisation-and-structure/council-committees-new
