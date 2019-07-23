@@ -4,29 +4,41 @@ layout: leftnav-page-content
 
 {{- content -}}
 
-{%- assign certified-companies = site.data.certified-companies -%}
+{%- assign committee-board = site.data.[page.committee] -%}
 <div class="content">	
 	<div>
-	{%- for certification in certified-companies -%}
+	{%- for committee in committee-board -%}
 		{%- comment -%} Accordion header {%- endcomment -%}
 		<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 			<div class="col is-expanded is-fullwidth is-paddingless">
-				<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">{{- certification.title -}}</b></h5>
+				<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">{{- committee.title -}}</b></h5>
 			</div>
 			<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 		</div>
 		{%- comment -%} Accordion body {%- endcomment -%}
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-				<div class="row is-multiline">
-					{%- for company in certification.company-list -%}
-					<div class="col is-4 padding--right--xl padding--bottom">
-						<div class="margin--top--none">
-							{%- if company.link -%}<a href="{{- company.link -}}" target="_blank">{%- endif -%}{{- company.name -}}{%- if company.link -%}</a>{%- endif -%}
-						</div>
-					</div>
-					{%- endfor -%}
-				</div>
+				{%- if committee.description -%}
+				<h3>{{- committee.description -}}</h3>
+				{%- endif -%}
+				<table>
+					<thead>
+						<tr>
+							{%- for headerRows in committee.headers -%}
+							<th>{{- company.link -}}</th>
+							{%- endfor -%}
+						</tr>
+					</thead>
+					<tbody>
+						{%- for memberRow in committee.rows -%}
+						<tr>
+							{%- for member in memberRow -%}
+							<td>{{- member.column | markdownify -}}</td>
+							{%- endfor -%}
+						</tr>	
+						{%- endfor -%}	
+					</tbody>
+				</table>	
 			</div>
 		</div>	
 	{%- endfor -%}		
