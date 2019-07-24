@@ -581,12 +581,6 @@ hr {
 						border-bottom-width: 1px;
 					}
 				}
-				&:last-child {
-					tr:last-child > td {
-						border-width: 0 0 2px;
-						color: #323232;
-					}
-				}
 			}
 		}
 		li {
