@@ -8,7 +8,7 @@ collection_name: accredited-org
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 #### Laboratory
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                         | Company                                                                      | Date of Accreditation |
 |-------------------------------|------------------------------------------------------------------------------|----------------------:|
 | Civil Engineering             | GBAD Services Pte Ltd                                                                | 22 March 2019 |
@@ -24,14 +24,14 @@ collection_name: accredited-org
 
 #### Inspection Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field            | Company                  | Date of Accreditation |
 |------------------|--------------------------|----------------------:|
 | Cargo Inspection | Seahawk Services Pte Ltd | 20 March 2019         |
 
 #### Certification Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                                            | Company                                            | Date of Accreditation |
 |--------------------------------------------------|------------------------------------------------------------|--------------:|
 | Auditing Organisation                            | ACE EHS Singapore Pte Ltd                                  | 05 March 2019 |
@@ -58,7 +58,7 @@ collection_name: accredited-org
 ### 2. Suspended Laboratory / Certification Body / Inspection Body
 #### Inspection Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                            | Company                    | Date of Suspension           |
 |----------------------------------|----------------------------|-----------------------------:|
 | Cargo Inspection                 | Oil & Gas Maritime Pte Ltd | 26 April 2019                |
@@ -67,7 +67,7 @@ collection_name: accredited-org
 
 #### Certification Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                                            | Company                           | Date of Suspension               |
 |--------------------------------------------------|-----------------------------------|---------------------------------:|
 | Auditing Organisation                            | A Star Safety Consultants Pte Ltd | 14 June 2019 - 13 September 2019 |
@@ -78,7 +78,7 @@ collection_name: accredited-org
 
 #### Laboratory
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                         | Company                                          | Withdrawal Date  |
 |-------------------------------|--------------------------------------------------|-----------------:|
 | Calibration & Measurement     | IKM Testing Asia Pte Ltd                         | 18 February 2019 |
@@ -95,14 +95,14 @@ collection_name: accredited-org
 
 #### Inspection Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field            | Company                               | Withdrawal Date  |
 |------------------|---------------------------------------|-----------------:|
 | Cargo Inspection | Kuk Min Surveyors & Adjusters Pte Ltd | 31 December 2018 |
 
 #### Certification Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                                 | Company                                    | Withdrawal Date  |
 |---------------------------------------|--------------------------------------------|-----------------:|
 | Business Continuity Management        | Lloyd's Register Quality Assurance Limited | 13 March 2019    |
@@ -116,14 +116,14 @@ collection_name: accredited-org
 
 #### Inspection Body
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field            | Company                                  | Withdrawal Date |
 |------------------|------------------------------------------|----------------:|
 | Cargo Inspection | Oceanus Nexus Marine Consultants Pte Ltd | 2 March 2017    |
 
 #### Laboratory
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Field                     | Company                    | Withdrawal Date  |
 |---------------------------|----------------------------|-----------------:|
 | Civil Engineering         | ABSK Pte Ltd               | 05 February 2018 |
