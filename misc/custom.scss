@@ -433,6 +433,11 @@ hr {
 		}	  
 	}	  
 	.navbar-item{
+		& + .has-dropdown {
+			@include desktop(){
+				margin: 0 0.65rem;
+			}
+		}
 		.sub-link.is-active{
 			color:$secondary;
 		}
@@ -467,7 +472,9 @@ hr {
 // Post-content
 .content {
 	p {
-		text-align: justify;
+		@include desktop(){
+			text-align: justify;
+		}
 	}
 	h1, h2, h3, h4, h5 {
 		color: $secondary;
