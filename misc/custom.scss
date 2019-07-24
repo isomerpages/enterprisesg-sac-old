@@ -4,27 +4,18 @@
 
 @charset "utf-8";
 
-//$primary: #E7131A; //Vivid red
-//$secondary: #414042; //Very dark grayish violet
-$primary: #ED2E38; //PMS Red 032C
-$secondary: #53565A; //PMS Cool Grey 11C
+$primary: #E7131A; //Corporate Red
+$secondary: #333F48; //Dark Grey
 $secondary-hover: lighten($primary, 10%);
 
 //esg secondary colors
-//$media-color-one: #0055B8; //esg blue
-//$media-color-two: #FF5000; //esg orange
-//$media-color-three: #82BC00; //esg green
-//$media-color-nine: #2671A8; //Strong blue
-$media-color-one: #ED2E38; //PMS Red 032C
-$media-color-two: #53565A; //PMS Cool Grey 11C
-$media-color-three: #414042; //Very dark grayish violet
-$media-color-four: #ED2E38; //PMS Red 032C
-$media-color-five: #53565A; //PMS Cool Grey 11C
-$media-color-six: #414042; //Very dark grayish violet
-$media-color-seven: #ED2E38; //PMS Red 032C
-$media-color-eight: #53565A; //PMS Cool Grey 11C
-$media-color-nine: #414042; //Very dark grayish violet
-$media-color-ten: #ED2E38; //PMS Red 032C
+//shades of corporate red
+$media-color-one: #E7131A; //Corporate Red
+//$media-color-two: #53565A; //PMS Cool Grey 11C
+$media-color-two: #CE5C5C; 
+$media-color-three: #CA3433; 
+$media-color-four: #C00A32; 
+$media-color-five: #960019; 
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
