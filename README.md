@@ -303,7 +303,7 @@ Most of the pages follow the Isomerpages leftnav-page-content template layout. M
 ### Editing Table in Each Industry Page
 Each page in the Industries category contains a Markdown table that lists the relevant accreditation schemes and their related fields. The table has been customised and the customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
 ```
-{:.customised-industries-table}
+{:.customised-field-table}
 | Scheme  | Field          |
 |---
 | scheme1 | scheme1-field1 |
@@ -313,18 +313,18 @@ Each page in the Industries category contains a Markdown table that lists the re
 |         | scheme2-field2 |
 ```
 
-The `|---` syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'customised-industries-table' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
+The `|---` syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'customised-field-table' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
 
 1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
 3. Edit the custom.scss file
-4. Search for the ".customised-industries-table" code block. Change the attributes by amending the section within the code block:
+4. Search for the ".customised-field-table" code block. Change the attributes by amending the section within the code block:
 
 ```css
 # Sample custom.scss file section for reference
 
 table {
-	&.customised-industries-table {
+	&.customised-field-table {
 			//edit attributes here
 			...
 		}
@@ -470,6 +470,38 @@ The Certified CAB Companies Section page follows the customised 'certified-compa
 2. In your repository, go to "_data" folder
 3. Edit certified-companies.yml file. Note that the sections have to be indented correctly or it may not be displayed on the webpage. 
 4. Click on "Commit changes" button.
+
+### Editing Table in 'CAB Status Update' Page
+The 'CAB Status Update' contains a Markdown table for each CAB category, names and dates of accreditation/ suspension/ withdrawal. The table has been customised and the customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
+```
+{:.customised-field-table}
+| Field  | Company         | Date of Accreditation |
+|--------|-----------------|----------------------:|
+| field1 | field1-company1 | field1-date1          |
+|        | field1-company2 | field1-date2          |
+|--------------------------------------------------|
+| field2 | field2-company1 | field2-date1          |
+|        | field2-company2 | field2-date2          |
+```
+
+The `|---` syntax is used to denote a separator line, which splits the table body into multiple body parts. The 'customised-field-table' customisation name or classname is then used to style all the related table cells for each table body part. The customisation can be edited using the steps:
+
+1. Select your "Staging" Branch in the repository
+2. Go into the "misc" folder
+3. Edit the custom.scss file
+4. Search for the ".customised-field-table" code block. Change the attributes by amending the section within the code block:
+
+```css
+# Sample custom.scss file section for reference
+
+table {
+	&.customised-field-table {
+			//edit attributes here
+			...
+		}
+```
+
+5. Click on "Commit changes" button to save.
 
 <a name="edit-contact"></a>
 ## Editing the Content in Contact Us Page
