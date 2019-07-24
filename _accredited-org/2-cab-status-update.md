@@ -8,7 +8,6 @@ collection_name: accredited-org
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 #### Laboratory
 
-{: .customised-industries-table}
 | Field                         | Company                                                                         | Accreditation Date |
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | **Civil Engineering**         | GBAD Services Pte Ltd                                                                | 22 March 2019 |
@@ -21,6 +20,7 @@ collection_name: accredited-org
 |                               | Right Healthcare                                                                     | 04 April 2019 |
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | **Non-Destructive Testing**   | PT. A Star & Inspection                                                              | 14 May 2019   |
+{: .customised-industries-table}
 
 #### Inspection Body
 
