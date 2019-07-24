@@ -8,7 +8,8 @@ collection_name: accredited-org
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 #### Laboratory
 
-| Field                         | Company                                                                         | Accreditation Date |
+{: .customised-industries-table}
+| Field                         | Company                                                                      | Date of Accreditation |
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | **Civil Engineering**         | GBAD Services Pte Ltd                                                                | 22 March 2019 |
 |                               | Teknia Laboratory Pte Ltd                                                            | 25 April 2019 |
@@ -20,7 +21,6 @@ collection_name: accredited-org
 |                               | Right Healthcare                                                                     | 04 April 2019 |
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | **Non-Destructive Testing**   | PT. A Star & Inspection                                                              | 14 May 2019   |
-{: .customised-industries-table}
 
 #### Inspection Body
 
@@ -32,7 +32,7 @@ collection_name: accredited-org
 #### Certification Body
 
 {: .customised-industries-table}
-| Field                                                | Company                                               | Accreditation Date |
+| Field                                                | Company                                            | Date of Accreditation |
 |-----------------------------------------------------------------------------------------------------------------------------------|
 | **Auditing Organisation**                            | ACE EHS Singapore Pte Ltd                                  | 05 March 2019 |
 |                                                      | Team-6 Safety Training & Consultancy (S) Pte Ltd           | 08 March 2019 |
@@ -59,7 +59,7 @@ collection_name: accredited-org
 #### Inspection Body
 
 {: .customised-industries-table}
-| Field                                | Company                    | Suspension Date              |
+| Field                                | Company                    | Date of Suspension           |
 |--------------------------------------------------------------------------------------------------|
 | **Cargo Inspection**                 | Oil & Gas Maritime Pte Ltd | 26 April 2019                |
 |--------------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ collection_name: accredited-org
 #### Certification Body
 
 {: .customised-industries-table}
-| Field                                                | Company                           | Suspension Date                  |
+| Field                                                | Company                           | Date of Suspension               |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | **Auditing Organisation**                            | A Star Safety Consultants Pte Ltd | 14 June 2019 - 13 September 2019 |
 
@@ -96,7 +96,7 @@ collection_name: accredited-org
 #### Inspection Body
 
 {: .customised-industries-table}
-| Field                | Company                               | Suspension Date  |
+| Field                | Company                               | Withdrawal Date  |
 |---------------------------------------------------------------------------------|
 | **Cargo Inspection** | Kuk Min Surveyors & Adjusters Pte Ltd | 31 December 2018 |
 
