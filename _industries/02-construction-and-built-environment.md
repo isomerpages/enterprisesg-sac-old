@@ -20,7 +20,7 @@ In Singapore, the Building and Construction Authority is the regulatory body gov
 
 ### Relevant SAC Accreditation Programmes
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
