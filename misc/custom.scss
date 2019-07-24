@@ -433,9 +433,6 @@ hr {
 		}	  
 	}	  
 	.navbar-item{
-		& + .has-dropdown {
-    			margin: 0 0.65rem;
-		}
 		.sub-link.is-active{
 			color:$secondary;
 		}
