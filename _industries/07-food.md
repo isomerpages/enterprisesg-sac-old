@@ -18,7 +18,7 @@ Singapore Food Agency is the regulatory body governing the food industry in Sing
 
 ### Relevant SAC Accreditation Programmes
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
