@@ -17,7 +17,7 @@ SAC has accreditation schemes for both laboratories as well as certification bod
 
 ### Relevant SAC Accreditation Programmes
 
-{: .customised-industries-table}
+{: .customised-field-table}
 | Scheme | Field |
 |---
 | Laboratories (SAC-SINGLAS) | Calibration & Measurement |
@@ -25,7 +25,7 @@ SAC has accreditation schemes for both laboratories as well as certification bod
 || Civil Engineering |
 || Non-destructive Testing |
 |---
-| Management  Systems Certification | Asset Management |
+| Management Systems Certification | Asset Management |
 || Environmental Management System |
 || Learning Service Providers |
 || Occupational Safety & Health Management System |
