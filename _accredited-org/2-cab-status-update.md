@@ -26,14 +26,14 @@ collection_name: accredited-org
 
 {: .customised-industries-table}
 | Field            | Company                  | Date of Accreditation |
-|---------------------------------------------------------------------|
+|------------------|--------------------------|----------------------:|
 | Cargo Inspection | Seahawk Services Pte Ltd | 20 March 2019         |
 
 #### Certification Body
 
 {: .customised-industries-table}
 | Field                                            | Company                                            | Date of Accreditation |
-|-------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------|------------------------------------------------------------|--------------:|
 | Auditing Organisation                            | ACE EHS Singapore Pte Ltd                                  | 05 March 2019 |
 |                                                  | Team-6 Safety Training & Consultancy (S) Pte Ltd           | 08 March 2019 |
 |                                                  | Dynamic Safety Pte Ltd                                     | 08 March 2019 |
@@ -60,7 +60,7 @@ collection_name: accredited-org
 
 {: .customised-industries-table}
 | Field                            | Company                    | Date of Suspension           |
-|----------------------------------------------------------------------------------------------|
+|----------------------------------|----------------------------|-----------------------------:|
 | Cargo Inspection                 | Oil & Gas Maritime Pte Ltd | 26 April 2019                |
 |----------------------------------------------------------------------------------------------|
 | Hook-Lift & Container Inspection | AJK Engineering Pte Ltd    | 29 March 2019 - 28 June 2019 |
@@ -69,7 +69,7 @@ collection_name: accredited-org
 
 {: .customised-industries-table}
 | Field                                            | Company                           | Date of Suspension               |
-|-------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------|-----------------------------------|---------------------------------:|
 | Auditing Organisation                            | A Star Safety Consultants Pte Ltd | 14 June 2019 - 13 September 2019 |
 
 ### 3. Withdrawn Laboratory / Certification Body / Inspection Body
@@ -80,7 +80,7 @@ collection_name: accredited-org
 
 {: .customised-industries-table}
 | Field                         | Company                                          | Withdrawal Date  |
-|-----------------------------------------------------------------------------------------------------|
+|-------------------------------|--------------------------------------------------|-----------------:|
 | Calibration & Measurement     | IKM Testing Asia Pte Ltd                         | 18 February 2019 |
 |-----------------------------------------------------------------------------------------------------|
 | Chemical & Biological Testing | SGS Testing & Control Services Singapore Pte Ltd | 26 February 2019 |
@@ -97,14 +97,14 @@ collection_name: accredited-org
 
 {: .customised-industries-table}
 | Field            | Company                               | Withdrawal Date  |
-|-----------------------------------------------------------------------------|
+|------------------|---------------------------------------|-----------------:|
 | Cargo Inspection | Kuk Min Surveyors & Adjusters Pte Ltd | 31 December 2018 |
 
 #### Certification Body
 
 {: .customised-industries-table}
 | Field                                 | Company                                    | Withdrawal Date  |
-|-------------------------------------------------------------------------------------------------------|
+|---------------------------------------|--------------------------------------------|-----------------:|
 | Business Continuity Management        | Lloyd's Register Quality Assurance Limited | 13 March 2019    |
 |-------------------------------------------------------------------------------------------------------|
 | Energy Management System              | Lloyd's Register Quality Assurance Limited | 13 March 2019    |
@@ -118,14 +118,14 @@ collection_name: accredited-org
 
 {: .customised-industries-table}
 | Field            | Company                                  | Withdrawal Date |
-|-------------------------------------------------------------------------------|
+|------------------|------------------------------------------|----------------:|
 | Cargo Inspection | Oceanus Nexus Marine Consultants Pte Ltd | 2 March 2017    |
 
 #### Laboratory
 
 {: .customised-industries-table}
 | Field                     | Company                    | Withdrawal Date  |
-|---------------------------------------------------------------------------|
+|---------------------------|----------------------------|-----------------:|
 | Civil Engineering         | ABSK Pte Ltd               | 05 February 2018 |
 |---------------------------------------------------------------------------|
 | Calibration & Measurement | Kalswift Singapore Pte Ltd | 07 May 2019      |
