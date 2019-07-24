@@ -8,19 +8,29 @@ collection_name: accredited-org
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 #### Laboratory
 
-{: .customised-industries-table}
-| Field                     | Company                                                                      | Date of Accreditation |
-|---------------------------|------------------------------------------------------------------------------|----------------------:|
-| Civil Engineering         | GBAD Services Pte Ltd                                                                | 22 March 2019 |
-|                           | Teknia Laboratory Pte Ltd                                                            | 25 April 2019 |
-|----------------------------------------------------------------------------------------------------------------------------------|
-| Calibration & Measurement | Soil Tech Laboratory and Trading Pte Ltd                                             | 06 May 2019   |
-|                           | TIS Instruments (S) Pte Ltd                                                          | 15 May 2019   |
-|----------------------------------------------------------------------------------------------------------------------------------|
-| Medical Testing           | National University of Singapore - Viral Research and Experimental Centre Laboratory | 02 April 2019 |
-|                           | Right Healthcare                                                                     | 04 April 2019 |
-|----------------------------------------------------------------------------------------------------------------------------------|
-| Non-Destructive Testing   | PT. A Star & Inspection                                                              | 14 May 2019   |
+
+| Field                         | Company                                                                      | Date of Accreditation |
+|-------------------------------|------------------------------------------------------------------------------|----------------------:|
+| **Civil Engineering**         | GBAD Services Pte Ltd                                                                | 22 March 2019 |
+|                               | Teknia Laboratory Pte Ltd                                                            | 25 April 2019 |
+|--------------------------------------------------------------------------------------------------------------------------------------|
+| **Calibration & Measurement** | Soil Tech Laboratory and Trading Pte Ltd                                             | 06 May 2019   |
+|                               | TIS Instruments (S) Pte Ltd                                                          | 15 May 2019   |
+|--------------------------------------------------------------------------------------------------------------------------------------|
+| **Medical Testing**           | National University of Singapore - Viral Research and Experimental Centre Laboratory | 02 April 2019 |
+|                               | Right Healthcare                                                                     | 04 April 2019 |
+|--------------------------------------------------------------------------------------------------------------------------------------|
+| **Non-Destructive Testing**   | PT. A Star & Inspection                                                              | 14 May 2019   |
+
+| Field                         | Company                                                                      | Date of Accreditation |
+|-------------------------------|------------------------------------------------------------------------------|----------------------:|
+| **Civil Engineering**         | GBAD Services Pte Ltd                                                                | 22 March 2019 |
+|                               | Teknia Laboratory Pte Ltd                                                            | 25 April 2019 |
+| **Calibration & Measurement** | Soil Tech Laboratory and Trading Pte Ltd                                             | 06 May 2019   |
+|                               | TIS Instruments (S) Pte Ltd                                                          | 15 May 2019   |
+| **Medical Testing**           | National University of Singapore - Viral Research and Experimental Centre Laboratory | 02 April 2019 |
+|                               | Right Healthcare                                                                     | 04 April 2019 |
+| **Non-Destructive Testing**   | PT. A Star & Inspection                                                              | 14 May 2019   |
 
 #### Inspection Body
 
