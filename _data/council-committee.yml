@@ -1,94 +1,38 @@
 - title: "Council Committee For Laboratory (CCL)"
   description: "Term : 1 July 2018 - 30 June 2021"
-  headers:
-  - column: "Designation"
-  - column: "Name"
-  - column: "Organisation"
-  rows:
-    - row:
-      - column: "Chairman"
-      - column: "Dr Leslie Retnam"
-      - column: "National University of Singapore"
-    - row:
-      - column: "Members"
-      - column: "Dr Paul Chiew"
-      - column: "Agri-Food & Veterinary Authority of Singapore"
-    - row:
-      - column: 
-      - column: "Dr Lim Ee Meng"
-      - column: "A*STAR National Metrology Centre (NMC)"
-    - row:
-      - column: 
-      - column: "Pending"
-      - column: "A*STAR Singapore Institute of Manufacturing Technology (SIMTech)" 
-    - row:
-      - column: 
-      - column: "Dr Gao Chun Ping"
-      - column: "Building and Construction Authority"
-    - row:
-      - column: 
-      - column: "Mr Lim Soon Chia"
-      - column: "Cyber Security Agency"
-    - row:
-      - column: 
-      - column: "Dr Teo Tang Lin"
-      - column: "Health Sciences Authority"
-    - row:
-      - column: 
-      - column: "Er Mohamad Ismadi"
-      - column: "Ministry of Manpower"
-    - row:
-      - column: 
-      - column: "Mr Lee Youn Kay"
-      - column: "Nanyang Polytechnic"
-    - row:
-      - column: 
-      - column: "Dr Ong Eng Hong"
-      - column: "Singapore University of Technology & Design"
-    - row:
-      - column: 
-      - column: "Mr Sze Thiam Siong"
-      - column: "Singapore Welding Society"  
-    - row:
-      - column: 
-      - column: "Pending"
-      - column: "Singapore Manufacturing Federation"
-    - row:
-      - column: 
-      - column: "Pending"
-      - column: "SMF-TIC Interest Group (Testing)"
-    - row:
-      - column: 
-      - column: "Pending"
-      - column: "SMF-TIC Interest Group (Calibration)"
-    - row:
-      - column: 
-      - column: "Prof Chew Soon Hoe"
-      - column: "The Institute of Engineers, Singapore" 
-    - row:      
-      - column: "Secretariat"
-      - column: "Ms Lim Lee Fang"
-      - column: "SAC Secretariat"
+  members:
+  - member:
+      - designation: "Chairman"
+      - name: "Dr Leslie Retnam"
+      - organisation: "National University of Singapore"
+  - member:
+      - designation: "Member"
+      - name: "Dr Paul Chiew"
+      - organisation: "A*STAR National Metrology Centre (NMC)"
+   - member:
+      - designation: "Member"
+      - name: "Dr Paul Chiew"
+      - organisation: "A*STAR National Metrology Centre (NMC)"   
+   - member:
+      - designation: "Secretary"
+      - name: "Ms Lim Lee Fang"
+      - organisation: "SAC Secretariat"    
 - title: "Council Committee For Inspection (CCI)"
   description: "Term : 1 July 2018 - 30 June 2021"
-  headers:
-  - column: "Designation"
-  - column: "Name"
-  - column: "Organisation"
-  rows:
-    - row:
-      - column: "Chairman"
-      - column: "Mr Silas Sng Wee Kiat"
-      - column: "Singapore Accreditation Council"
-    - row:
-      - column: "Members"
-      - column: "Dr Poh Teoh Yaw"
-      - column: "Building & Construction Authority"
-    - row:
-      - column: 
-      - column: "Mr Adrian Lo"
-      - column: "Bureau Veritas Singapore Pte Ltd"  
-    - row:
-      - column: "Secretariat"
-      - column: "Mr Tan Yee Teck"
-      - column: "Singapore Accreditation Council" 
+  members:
+  - member:
+      - designation: "Chairman"
+      - name: "Mr Silas Sng Wee Kiat"
+      - organisation: "Singapore Accreditation Council"
+  - member:
+      - designation: "Member"
+      - name: "Dr Poh Teoh Yaw"
+      - organisation: "Building & Construction Authority"
+   - member:
+      - designation: "Member"
+      - name: "Mr Adrian Lo"
+      - organisation: "Bureau Veritas Singapore Pte Ltd"
+   - member:
+      - designation: "Secretary"
+      - name: "Mr Tan Yee Teck"
+      - organisation: "Singapore Accreditation Council"        
