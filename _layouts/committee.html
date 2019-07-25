@@ -4,10 +4,10 @@ layout: leftnav-page-content
 
 {{- content -}}
 
-{%- assign committee-board = site.data.[page.committee] -%}
+{%- assign committees = site.data.[page.committee] -%}
 <div class="content">	
 	<div>
-	{%- for committee in committee-board -%}
+	{%- for committee in committees -%}
 		{%- comment -%} Accordion header {%- endcomment -%}
 		<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 			<div class="col is-expanded is-fullwidth is-paddingless">
@@ -22,21 +22,25 @@ layout: leftnav-page-content
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}
 				<table>
+					{% assign tableHeaderColumns = '' | split: '' %}
+					{% assign firstMember = committee.members[0].member %}
 					<thead>
 						<tr>
-							{%- for headerRow in committee.headers -%}
-							<th>{{- headerRow.column -}}</th>
-							{%- endfor -%}
-						</tr>
+						{%- for row in firstMember -%}	
+							<th>{{- row[0] -}}</th>
+							{%- assign key = row[0] | split: '' -%}
+							{%- assign tableHeaderColumns = tableHeaderColumns | concat: key -%}							
+						{%- endfor -%}
+						</tr>	
 					</thead>
 					<tbody>
-						{%- for member in committee.rows -%}
-						<tr>
-							{%- for memberRow in member.row -%}
-							<td>{{- memberRow.column -}}</td>
+						{%- for memberList in committee.members -%}
+							{% assign memberDetails = memberList.member %}
+							{%- for keyName in tableHeaderColumns -%}
+								{% assign memberColumn = memberList[keyName] %}
+								<td>{{- memberColumn -}}</td>
 							{%- endfor -%}
-						</tr>	
-						{%- endfor -%}	
+						{%- endfor -%}
 					</tbody>
 				</table>	
 			</div>
