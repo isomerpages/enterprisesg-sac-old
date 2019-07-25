@@ -1,4 +1,11 @@
 - title: "Council Committee For Laboratory (CCL)"
   description: "Term : 1 July 2018 - 30 June 2021"
+  members:
+  - member: person1
+  - member: person2
+  - member: person3
 - title: "Council Committee For Inspection (CCI)"
-  description: "Term : 1 July 2018 - 30 June 2021"    
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:
+  - member: person1
+  - member: person2
