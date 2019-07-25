@@ -19,11 +19,9 @@ layout: leftnav-page-content
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
 				{%- if committee.description -%}
-				<h3>{{- committee.description -}}</h3>
+				<h3>{{- committee.description -}}</h3>	
 				{%- endif -%}
-				{% assign firstMember = committee.members.first.member %}
-				<p>{{- firstMember.designation -}}</p>
-				<p>{{- committee.members | size -}}</p>	
+				<p>{{- committee.members | size -}}</p>
 			</div>
 		</div>	
 	{%- endfor -%}		
