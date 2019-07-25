@@ -5,7 +5,7 @@ permalink: /about/the-sac-mark
 collection_name: about
 ---
 
-![SAC Marks](/images/about/sac-logos.jpg)
+![SAC Marks](/images/about/SAC-logos.jpg)
 
 ## The SAC Logo – Our Most important brand asset
 
