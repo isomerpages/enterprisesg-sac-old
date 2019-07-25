@@ -3,36 +3,36 @@
   members:
   - member:
       - designation: "Chairman"
-      - name: "Dr Leslie Retnam"
-      - organisation: "National University of Singapore"
+        name: "Dr Leslie Retnam"
+        organisation: "National University of Singapore"
   - member:
       - designation: "Member"
-      - name: "Dr Paul Chiew"
-      - organisation: "A*STAR National Metrology Centre (NMC)"
+        name: "Dr Paul Chiew"
+        organisation: "A*STAR National Metrology Centre (NMC)"
    - member:
       - designation: "Member"
-      - name: "Dr Paul Chiew"
-      - organisation: "A*STAR National Metrology Centre (NMC)"   
+        name: "Dr Paul Chiew"
+        organisation: "A*STAR National Metrology Centre (NMC)"   
    - member:
       - designation: "Secretary"
-      - name: "Ms Lim Lee Fang"
-      - organisation: "SAC Secretariat"    
+        name: "Ms Lim Lee Fang"
+        organisation: "SAC Secretariat"    
 - title: "Council Committee For Inspection (CCI)"
   description: "Term : 1 July 2018 - 30 June 2021"
   members:
   - member:
       - designation: "Chairman"
-      - name: "Mr Silas Sng Wee Kiat"
-      - organisation: "Singapore Accreditation Council"
+        name: "Mr Silas Sng Wee Kiat"
+        organisation: "Singapore Accreditation Council"
   - member:
       - designation: "Member"
-      - name: "Dr Poh Teoh Yaw"
-      - organisation: "Building & Construction Authority"
+        name: "Dr Poh Teoh Yaw"
+        organisation: "Building & Construction Authority"
    - member:
       - designation: "Member"
-      - name: "Mr Adrian Lo"
-      - organisation: "Bureau Veritas Singapore Pte Ltd"
+        name: "Mr Adrian Lo"
+        organisation: "Bureau Veritas Singapore Pte Ltd"
    - member:
       - designation: "Secretary"
-      - name: "Mr Tan Yee Teck"
-      - organisation: "Singapore Accreditation Council"        
+        name: "Mr Tan Yee Teck"
+        organisation: "Singapore Accreditation Council"        
