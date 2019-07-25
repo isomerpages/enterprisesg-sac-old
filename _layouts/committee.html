@@ -19,8 +19,27 @@ layout: leftnav-page-content
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
 				{%- if committee.description -%}
-				<p>{{- committee.members | size -}}</p>
+				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}
+				<table>
+					{% assign tableHeaderColumns = '' | split: '' %}
+					<thead>
+						{%- for row in firstMember -%}	
+							<th>{{- row[0] -}}</th>
+							{%- assign key = row[0] | split: '' -%}
+							{%- assign tableHeaderColumns = tableHeaderColumns | concat: key -%}							
+						{%- endfor -%}
+					</thead>
+					<tbody>
+						{%- for memberList in committee.members -%}
+							{% assign memberDetails = memberList.member %}
+							{%- for keyName in tableHeaderColumns -%}
+								{% assign memberColumn = memberList[keyName] %}
+								<td>{{- memberColumn -}}</td>
+							{%- endfor -%}
+						{%- endfor -%}
+					</tbody>
+				</table>
 			</div>
 		</div>	
 	{%- endfor -%}		
