@@ -12,6 +12,8 @@ To be the trusted partner for assurance of quality products and services locally
 To deliver a robust accreditation framework and international recognition of Singapore-based enterprises
 
 ## Strategic Outcomes
+SAC's focus areas include strengthening accreditation services by developing new accreditation programmes for emerging areas and administering the various accreditation schemes and registration programme under its umbrella. SAC strives to increase the adoption and conversion of accredited TIC services through regular engagements with the public agencies and major procurers. Through accreditation, SAC recognises, maintains and improves the standard of conformity assessment activities in Singapore. It also forges Mutual Recognition Arrangements (MRAs) with regional and international bodies to facilitate trade for Singapore.
+
 ![SACStrategicPlan2020](/images/about/SACStrategic2020.png)
 
 ## Impartiality Policy
