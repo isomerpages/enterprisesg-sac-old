@@ -18,7 +18,9 @@ layout: leftnav-page-content
 		{%- comment -%} Accordion body {%- endcomment -%}
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-				
+				{%- if committee.description -%}
+				<p>{{- committee.members | size -}}</p>
+				{%- endif -%}
 			</div>
 		</div>	
 	{%- endfor -%}		
