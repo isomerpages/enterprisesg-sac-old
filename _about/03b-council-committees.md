@@ -22,7 +22,7 @@ Choose one of the Council Committee group below to view all of its members and c
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation   | Name               | Organisation                                                     |
-|-------------------------------------------------------------------------------------------------------|
+|---------------|--------------------|------------------------------------------------------------------|
 | **Chairman**  | Dr Leslie Retnam   | National University of Singapore                                 |
 | **Members**   | Dr Paul Chiew      | Agri-Food & Veterinary Authority of Singapore                    |
 |               | Dr Lim Ee Meng     | A*STAR National Metrology Centre (NMC)                           |
