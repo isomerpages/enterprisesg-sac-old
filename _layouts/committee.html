@@ -21,26 +21,9 @@ layout: leftnav-page-content
 				{%- if committee.description -%}
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}
-				<table>
-					{% assign tableHeaderColumns = '' | split: '' %}
-					{% assign firstMember = committee.members.first.member %}
-					<thead>
-						<tr>
-							<th>{{- firstMember.designation -}}</th>	
-							<th>{{- firstMember.name -}}</th>							
-							<th>{{- firstMember.organisation -}}</th>								
-						</tr>	
-					</thead>
-					<tbody>
-						{%- for memberList in committee.members -%}
-							{% assign memberDetails = memberList.member %}
-							{%- for keyName in tableHeaderColumns -%}
-								{% assign memberColumn = memberList[keyName] %}
-								<td>{{- memberColumn -}}</td>
-							{%- endfor -%}
-						{%- endfor -%}
-					</tbody>
-				</table>	
+				{% assign firstMember = committee.members.first.member %}
+				<p>{{- firstMember.designation -}}</p>
+				<p>{{- committee.members | size -}}</p>	
 			</div>
 		</div>	
 	{%- endfor -%}		
