@@ -33,14 +33,12 @@ layout: leftnav-page-content
 					</thead>
 					<tbody>	
 						{%- for memberList in committee.members -%}
+						<tr>
 							{% assign memberDetails = memberList.member %}
-							<tr>
-							{%- for keyValuePairs in firstMemberRow -%}
-								{% assign keyName = keyValuePairs[0] %}
-								{% assign column = memberDetails[keyName] %}
-								<td>{{- column -}}</td>
-							{%- endfor -%}
-							</tr>	
+							<td>{{- memberDetails.designation -}}</td>
+							<td>{{- memberDetails.name -}}</td>
+							<td>{{- memberDetails.organisation -}}</td>
+						</tr>
 						{%- endfor -%}
 					</tbody>
 				</table>
