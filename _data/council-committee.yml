@@ -8,11 +8,63 @@
   - member:
     - designation: "Member"
       name: "Dr Paul Chiew"
+      organisation: "Agri-Food & Veterinary Authority of Singapore"
+  - member:
+    - designation: ""
+      name: "Dr Lim Ee Meng"
       organisation: "A*STAR National Metrology Centre (NMC)"
+  - member:
+    - designation: ""
+      name: "Pending"
+      organisation: "A*STAR Singapore Institute of Manufacturing Technology (SIMTech)"
+  - member:
+    - designation: ""
+      name: "Dr Gao Chun Ping"
+      organisation: "Building and Construction Authority"
+  - member:
+    - designation: ""
+      name: "Mr Lim Soon Chia"
+      organisation: "Cyber Security Agency"
+  - member:
+    - designation: ""
+      name: "Dr Teo Tang Lin"
+      organisation: "Health Sciences Authority"
+  - member:
+    - designation: ""
+      name: "Er Mohamad Ismadi"
+      organisation: "Ministry of Manpower"
+  - member:
+    - designation: ""
+      name: "Mr Lee Youn Kay"
+      organisation: "Nanyang Polytechnic"
+  - member:
+    - designation: ""
+      name: "Dr Ong Eng Hong"
+      organisation: "Singapore University of Technology & Design"  
+  - member:
+    - designation: ""
+      name: "Mr Sze Thiam Siong"
+      organisation: "Singapore Welding Society"  
+  - member:
+    - designation: ""
+      name: "Pending"
+      organisation: "Singapore Manufacturing Federation"  
+  - member:
+    - designation: ""
+      name: "Pending"
+      organisation: "SMF-TIC Interest Group: Testing"      
+  - member:
+    - designation: ""
+      name: "Pending"
+      organisation: "SMF-TIC Interest Group: Calibration"  
+  - member:
+    - designation: ""
+      name: "Prof Chew Soon Hoe"
+      organisation: "The Institute of Engineers, Singapore"    
   - member: 
     - designation: "Secretary"
       name: "Ms Lim Lee Fang"
-      organisation: "SAC Secretariat"  
+      organisation: "SAC Secretariat"
 - title: "Council Committee For Inspection (CCI)"
   description: "Term : 1 July 2018 - 30 June 2021"
   members:
@@ -28,7 +80,200 @@
     - designation: "Member"
       name: "Mr Adrian Lo"
       organisation: "Bureau Veritas Singapore Pte Ltd"
+  - member:
+    - designation: ""
+      name: "Mr Loh Lock Mun"
+      organisation: "FRP Products Co. Pte Ltd"  
+  - member:
+    - designation: ""
+      name: "Mr Mohamed Sahlan Bin Salleh"
+      organisation: "Keppel FELS Ltd"  
+  - member:
+    - designation: ""
+      name: "Er. Yong Fen Leong"
+      organisation: "KTP Consultants Pte Ltd"  
+  - member:
+    - designation: ""
+      name: "Er. Merlyn Thong"
+      organisation: "Land Transport Authority"   
+  - member:
+    - designation: ""
+      name: "A/Prof Leong Eng Choon"
+      organisation: "Nanyang Technological University"      
+  - member:
+    - designation: ""
+      name: "Dr Ho Nyok Yong"
+      organisation: "Samwoh Innovation Centre Pte Ltd"     
   - member:    
     - designation: "Secretary"
       name: "Mr Tan Yee Teck"
       organisation: "Singapore Accreditation Council"    
+- title: "Council Committee for Certification (CCC)"
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:
+  - member:
+    - designation: "Chairman"
+      name: "Mr Desmond Hill"
+      organisation: "Singapore Contractors Association Ltd"
+  - member:
+    - designation: "Member"
+      name: "Mr Francis Tay"
+      organisation: "Association of Process Industry"  
+  - member:
+    - designation: ""
+      name: "Er Steve Ang"
+      organisation: "Building and Construction Authority"   
+  - member:
+    - designation: ""
+      name: "Mr Sebastian Tan"
+      organisation: "Ministry of Manpower"  
+  - member:
+    - designation: ""
+      name: "Ms Suzanna Yap"
+      organisation: "National Environment Agency"
+  - member:
+    - designation: ""
+      name: "AC Francis Ng"
+      organisation: "Singapore Civil Defence Force"  
+  - member:
+    - designation: ""
+      name: "Mr Leslie Phua"
+      organisation: "Singapore Food Agency"  
+  - member:
+    - designation: ""
+      name: "Ms Safrah Eusoof"
+      organisation: "SkillsFuture Singapore "  
+  - member:
+    - designation: ""
+      name: "Er Yvonne Soh"
+      organisation: "Singapore Green Building Council"   
+  - member:
+    - designation: ""
+      name: "Dr Jonathan Cheah Weng Kwong"
+      organisation: "Singapore Food Manufacturing Association"  
+  - member:
+    - designation: ""
+      name: "Ms Heidi Goh"
+      organisation: "Singapore Manufacturing Federation (SMF) - Medical Technology Industry Interest Group"   
+  - member:
+    - designation: ""
+      name: "Mrs Chay-Lee Swee Gee"
+      organisation: "Singapore Manufacturing Federation (SMF) - TIC Interest Group"  
+  - member:
+    - designation: ""
+      name: "Ms Mary Ann de Jesus"
+      organisation: "Singapore Manufacturing Federation (SMF) - TIC Interest Group"    
+  - member:
+    - designation: ""
+      name: "Mr Stanley Ong"
+      organisation: "Singapore Manufacturing Federation (SMF) - TIC Interest Group"  
+  - member:
+    - designation: "Secretary"
+      name: "Ms Lee Ham Eng"
+      organisation: "Singapore Accreditation Council"   
+- title: "Council Committee for Business Development (CCBD)"
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:
+  - member:
+    - designation: "Chairman"
+      name: "A/Prof Raymond Chua"
+      organisation: "Ministry of Health"  
+  - member:
+    - designation: "Deputy Chairman"
+      name: "Ms Ong Shwu Hoon"
+      organisation: "Singapore Business Federation"   
+  - member:
+    - designation: "Member"
+      name: "A/Prof Loh Yeow Khoon, Lawrence"
+      organisation: "Centre for Governance (Institution & Organisation, Deputy Head of Department, Strategy & Policy)"  
+  - member:
+    - designation: ""
+      name: "Mr Md Sirajuddin Jaleel"
+      organisation: "Enterprise Singapore"  
+  - member:
+    - designation: ""
+      name: "Mr Terence Ng"
+      organisation: "Health Promotion Board"  
+  - member:
+    - designation: ""
+      name: "Mr Tan Lin Teck"
+      organisation: "Ministry of Trade and Industry (Future Economy Program Office)"   
+  - member:
+    - designation: ""
+      name: "Dr Thomas Liew"
+      organisation: "National Metrology Centre, A*STAR"  
+  - member:
+    - designation: ""
+      name: "Mr Wong Mong Hong"
+      organisation: "Singapore Food Manufacturers' Association"  
+  - member:
+    - designation: ""
+      name: "Mr Clement Teo"
+      organisation: "Singapore Test Services Pte Ltd"  
+  - member:
+    - designation: ""
+      name: "Mr Anthony Tan"
+      organisation: "UL International – Singapore Pte Ltd"   
+  - member:
+    - designation: "Secretary"
+      name: "Mr Tan Yee Teck"
+      organisation: "SAC Secretariat"  
+- title: "Council Committee for Biomedical & Health (CCBH)"
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:
+  - member:
+    - designation: "Chairman"
+      name: "Mr Alok Mishra"
+      organisation: "Individual Capacity"  
+  - member:
+    - designation: "Member"
+      name: "Pending"
+      organisation: "Academy of Medicine"   
+  - member:
+    - designation: ""
+      name: "Dr Ng Huck Hui"
+      organisation: "Biomedical Research Council, A*STAR"  
+  - member:
+    - designation: ""
+      name: "Mr Foo Yang Tong"
+      organisation: "Health Sciences Authority"  
+  - member:
+    - designation: ""
+      name: "Pending"
+      organisation: "	Ministry of Health (Health Regulations Group)"  
+  - member:
+    - designation: ""
+      name: "Dr Tyrone Goh"
+      organisation: "National Healthcare Group Diagnostics"   
+  - member:
+    - designation: ""
+      name: "Ms Lim Soh Har"
+      organisation: "National Healthcare Group (Central)"  
+  - member:
+    - designation: ""
+      name: "A/Prof Raymond Lin"
+      organisation: "National Public Health Laboratory"  
+  - member:
+    - designation: ""
+      name: "A/Prof Ang Bee Leng Sophia"
+      organisation: "National University Health System (West)"  
+  - member:
+    - designation: ""
+      name: "A/Prof Low Chian Ming"
+      organisation: "National University of Singapore"   
+  - member:
+    - designation: ""
+      name: "Prof Tan Puay Hoon"
+      organisation: "Singapore Health Services (East)"  
+  - member:
+    - designation: ""
+      name: "Pending"
+      organisation: "Singapore Society of Pharmaceutical Industry"     
+  - member:
+    - designation: ""
+      name: "A/Prof Chong Bee Kiang"
+      organisation: "Tan Tock Seng Hospital"  
+  - member:
+    - designation: "Secretary"
+      name: "Ms Lee Jia Juan"
+      organisation: "SAC Secretariat"      
