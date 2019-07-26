@@ -139,3 +139,46 @@
     - designation: "Secretary"
       name: "Mr James Lee"
       organisation: "SAC Secretariat"
+- title: "Site Investigation"
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:       
+  - member: 
+    - designation: "Chairman"
+      name: "Er Jeyatharan Kumarasamy"
+      organisation: "Institute of Engineers, Singapore" 
+  - member: 
+    - designation: "Member"
+      name: "Mr Yong Fen Leong"
+      organisation: "Association of Consulting Engineers Singapore"  
+  - member: 
+    - designation: ""
+      name: "Dr Poh Teoh Yaw"
+      organisation: "Building & Construction Authority"  
+  - member: 
+    - designation: ""
+      name: "Mr Teo Cheng Soon"
+      organisation: "Housing & Development Board"  
+  - member: 
+    - designation: ""
+      name: "Dr Chian Siau Chen, Darren"
+      organisation: "National University of Singapore"
+   - member: 
+    - designation: ""
+      name: "Er Teo Yen Pai"
+      organisation: "The Institution of Engineers, Singapore" 
+  - member: 
+    - designation: ""
+      name: "Mr Jeffrey Yu"
+      organisation: "The Singapore Contractors Association Ltd"  
+  - member: 
+    - designation: ""
+      name: "Dr Cai Jun Gang"
+      organisation: "TriTech Engineering & Society for Rock Mechanics & Engineering Geology"  
+  - member: 
+    - designation: ""
+      name: "Ms Prathipa Devi Sundraju"
+      organisation: "TIC Interest Group"  
+  - member: 
+    - designation: "Secretary"
+      name: "Mr Lim Swee Peng"
+      organisation: "SAC Secretariat"
