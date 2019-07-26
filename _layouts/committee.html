@@ -24,6 +24,7 @@ layout: leftnav-page-content
 				<p>{{- committee.members[0] | size -}}</p>
 				{% assign firstMember1 = committee.members[0] %}
 				{% assign firstMember1Details = firstMember1.member %}
+				<p>{{- firstMember1Details.name -}}</p>
 				<table>
 					{% assign firstMember = committee.members.first.member %}
 					{% assign tableHeaderColumns = '' | split: '' %}
