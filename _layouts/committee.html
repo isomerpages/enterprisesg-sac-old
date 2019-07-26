@@ -20,7 +20,9 @@ layout: leftnav-page-content
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
 				{%- if committee.description -%}
 				<h3>{{- committee.description -}}</h3>
-				{%- endif -%}				
+				{%- endif -%}	
+				{% assign committeeSize = committee.members | size %}
+				<p>{{- committeeSize -}}</p>
 				<table>
 					{% assign firstMember = committee.members[0] %}
 					<thead>
@@ -38,8 +40,7 @@ layout: leftnav-page-content
 							{%- for details in memberDetails -%}
 								{%- for keyValuePairs in firstMemberRow -%}
 									{% assign keyName = keyValuePairs[0] %}
-									{% assign column = details[keyName] %}
-									<td>{{- column -}}</td>
+									<td>{{- details[keyName] -}}</td>
 								{%- endfor -%}
 							{%- endfor -%}
 						</tr>
