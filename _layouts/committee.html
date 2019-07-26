@@ -20,7 +20,7 @@ layout: leftnav-page-content
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
 				{%- if committee.description -%}
 				<h3>{{- committee.description -}}</h3>
-				{%- endif -%}
+				{%- endif -%}				
 				<table>
 					{% assign firstMember = committee.members[0] %}
 					{% assign tableHeaderColumns = '' | split: '' %}
@@ -34,14 +34,10 @@ layout: leftnav-page-content
 						{%- endfor -%}
 					</thead>
 					<tbody>
-						{%- for memberList in committee.members -%}
-							{%- for row in memberList.member -%}
-								{%- for keyName in tableHeaderColumns -%}
-									{% assign memberColumn = row[keyName] %}
-									<td>{{- memberColumn -}}</td>
-								{%- endfor -%}
-							{%- endfor -%}	
-						{%- endfor -%}
+						{%- for keyValuePair in keyValuePairs -%}
+							<td>{{- keyValuePair[0] -}}</td>
+						{%- endfor -%}	
+						
 					</tbody>
 				</table>
 			</div>
