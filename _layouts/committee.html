@@ -15,7 +15,7 @@ layout: leftnav-page-content
 		</div>
 		{%- comment -%} Accordion body {%- endcomment -%}
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
-			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
+			<div class="bp-container is-full padding--top padding--bottom" style="width: 100%">
 				{%- if committee.description -%}
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}	
@@ -38,7 +38,13 @@ layout: leftnav-page-content
 							{%- for details in memberDetails -%}
 								{%- for keyValuePairs in firstMemberRow -%}
 									{% assign keyName = keyValuePairs[0] %}
-									<td>{{- details[keyName] -}}</td>
+									<td>
+									{%- if keyName == "email" -%}
+									<a href="{{- details[keyName] -}}">{{- details[keyName] -}}</a>
+									{%- else -%}
+									{{- details[keyName] -}}
+									{%- endif -%}
+									</td>
 								{%- endfor -%}
 							{%- endfor -%}
 						</tr>
