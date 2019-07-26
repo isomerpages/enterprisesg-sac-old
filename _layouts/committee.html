@@ -21,37 +21,26 @@ layout: leftnav-page-content
 				{%- if committee.description -%}
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}
-				<p>{{- committee.members[0] | size -}}</p>
-				{% assign firstMember1 = committee.members[0] %}
-				{%- for row in firstMember1.member -%}	
-					{%- for keyValuePairs in row -%}	
-						<p>{{- keyValuePairs[0] -}}</p>
-					{%- endfor -%}
-					<p>{{- row.name -}}</p>
-				{%- endfor -%}
 				<table>
 					{% assign firstMember = committee.members[0] %}
 					{% assign tableHeaderColumns = '' | split: '' %}
 					<thead>
 						{%- for row in firstMember.member -%}	
-							<th>{{- row[0] -}}</th>
-							{%- assign key = row[0] | split: '' -%}
-							{%- assign tableHeaderColumns = tableHeaderColumns | concat: key -%}							
-						{%- endfor -%}
-						
-						{%- for row in firstMember -%}	
-							<th>{{- row[0] -}}</th>
-							{%- assign key = row[0] | split: '' -%}
-							{%- assign tableHeaderColumns = tableHeaderColumns | concat: key -%}							
+							{%- for keyValuePairs in row -%}
+								<th>{{- keyValuePairs[0] -}}</th>
+								{%- assign key = keyValuePairs[0] | split: '' -%}
+								{%- assign tableHeaderColumns = tableHeaderColumns | concat: key -%}	
+							{%- endfor -%}						
 						{%- endfor -%}
 					</thead>
 					<tbody>
 						{%- for memberList in committee.members -%}
-							{% assign memberDetails = memberList.member %}
-							{%- for keyName in tableHeaderColumns -%}
-								{% assign memberColumn = memberList[keyName] %}
-								<td>{{- memberColumn -}}</td>
-							{%- endfor -%}
+							{%- for row in memberList.member -%}
+								{%- for keyName in tableHeaderColumns -%}
+									{% assign memberColumn = row[keyName] %}
+									<td>{{- memberColumn -}}</td>
+								{%- endfor -%}
+							{%- endfor -%}	
 						{%- endfor -%}
 					</tbody>
 				</table>
