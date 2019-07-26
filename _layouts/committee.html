@@ -21,6 +21,7 @@ layout: leftnav-page-content
 				{%- if committee.description -%}
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}
+				<p>{{- committee.members.first | size -}}</p>
 				<table>
 					{% assign firstMember = committee.members.first.member %}
 					{% assign tableHeaderColumns = '' | split: '' %}
