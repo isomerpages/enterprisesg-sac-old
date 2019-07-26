@@ -1,5 +1,6 @@
 ---
-layout: leftnav-page-content
+layout: committee
+committee: inspection-body-technical-committee
 title: Inspection Body Technical Committees
 permalink: /about/our-organisation-and-structure/inspection-body-technical-committees
 collection_name: about
