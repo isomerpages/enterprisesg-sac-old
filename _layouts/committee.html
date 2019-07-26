@@ -40,7 +40,7 @@ layout: leftnav-page-content
 									{% assign keyName = keyValuePairs[0] %}
 									<td>
 									{%- if keyName == "email" -%}
-									<a href="{{- details[keyName] -}}">{{- details[keyName] -}}</a>
+									<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
 									{%- else -%}
 									{{- details[keyName] -}}
 									{%- endif -%}
