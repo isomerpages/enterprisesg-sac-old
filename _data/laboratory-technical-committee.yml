@@ -12,7 +12,31 @@
   - member: 
     - designation: ""
       name: "Mr Teo Chye Heng"
-      organisation: "Civil Aviation Authority of Singapore"     
+      organisation: "Civil Aviation Authority of Singapore"    
+  - member: 
+    - designation: ""
+      name: "Dr Meng Yusong"
+      organisation: "National Metrology Centre, A*STAR"     
+  - member: 
+    - designation: ""
+      name: "Mr Chua Eng Sing"
+      organisation: "ITE College Centra"   
+  - member: 
+    - designation: ""
+      name: "A/Prof Murukeshan Vadakke Matham"
+      organisation: "Nanyang Technological University"     
+  - member: 
+    - designation: ""
+      name: "Ms Tan Mei Ling"
+      organisation: "Singapore Manufacturing Federation (SMF) - TIC Interest Group"   
+  - member: 
+    - designation: ""
+      name: "Mr Elton Tong"
+      organisation: "Singapore Manufacturing Federation (SMF) - TIC Interest Group"     
+  - member: 
+    - designation: "Secretary"
+      name: "Mr Adrian Ang"
+      organisation: "SAC Secretariat"  
 - title: "Chemical & Biological Sciences"
   description: "Term : 1 July 2018 - 30 June 2021"
   members:      
@@ -24,3 +48,47 @@
     - designation: "Member"
       name: "Dr Wu Yuan Sheng"
       organisation: "Agri-food & Veterinary Authority of Singapore - Veterinary Public Health Laboratories"   
+  - member: 
+    - designation: ""
+      name: "Mr Christopher Peter Green"
+      organisation: "AsureQuality Singapore Pte Ltd"     
+  - member: 
+    - designation: ""
+      name: "Mr Jonathan Goh Peng Teck (Alt member : Dr Ng Khee Yang)"
+      organisation: "Environmental Engineering Society of Singapore (EESS)"   
+  - member: 
+    - designation: ""
+      name: "Dr Liu Qinde"
+      organisation: "Health Sciences Authority"     
+  - member: 
+    - designation: ""
+      name: "Ms Evelyn Koh Poh Cheng"
+      organisation: "Ministry of Manpower"   
+  - member: 
+    - designation: ""
+      name: "Dr Wayne Lee Forday"
+      organisation: "Ngee Ann Polytechnic"   
+  - member: 
+    - designation: ""
+      name: "Ms Nuraini Bte Supaat"
+      organisation: "National Environmental Agency"     
+  - member: 
+    - designation: ""
+      name: "Dr Zhang Lifeng"
+      organisation: "Public Utilities Board"   
+  - member: 
+    - designation: ""
+      name: "Ms Ng Su Ling"
+      organisation: "Singapore Polytechnic"     
+  - member: 
+    - designation: ""
+      name: "Mr Richard Khaw"
+      organisation: "Singapore Institute of Food Science & Technology"         
+  - member: 
+    - designation: ""
+      name: "Dr Edmund Tian Feng"
+      organisation: "Temasek Polytechnic"     
+  - member: 
+    - designation: "Secretary"
+      name: "Ms Ho Phuy Bee"
+      organisation: "SAC Secretariat"
