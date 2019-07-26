@@ -1,5 +1,6 @@
 ---
-layout: leftnav-page-content
+layout: committee
+committee: laboratory-technical-committee
 title: Laboratory Technical Committees
 permalink: /about/our-organisation-and-structure/laboratory-technical-committees
 collection_name: about
