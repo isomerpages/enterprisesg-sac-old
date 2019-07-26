@@ -22,7 +22,7 @@ layout: leftnav-page-content
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}	
 				{% assign committeeSize = committee.members | size %}
-				<p>{{- committeeSize -}}</p>
+				{%- if committeeSize > 0 -%}
 				<table>
 					{% assign firstMember = committee.members[0] %}
 					<thead>
@@ -47,6 +47,7 @@ layout: leftnav-page-content
 						{%- endfor -%}
 					</tbody>
 				</table>
+				{%- endif -%}
 			</div>
 		</div>	
 	{%- endfor -%}		
