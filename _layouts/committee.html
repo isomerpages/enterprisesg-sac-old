@@ -23,12 +23,22 @@ layout: leftnav-page-content
 				{%- endif -%}
 				<p>{{- committee.members[0] | size -}}</p>
 				{% assign firstMember1 = committee.members[0] %}
-				{% assign firstMember1Details = firstMember1.member %}
-				<p>{{- firstMember1Details.name -}}</p>
+				{%- for row in firstMember1.member -%}	
+					{%- for keyValuePairs in row -%}	
+						<p>{{- keyValuePairs[0] -}}</p>
+					{%- endfor -%}
+					<p>{{- row.name -}}</p>
+				{%- endfor -%}
 				<table>
-					{% assign firstMember = committee.members.first.member %}
+					{% assign firstMember = committee.members[0] %}
 					{% assign tableHeaderColumns = '' | split: '' %}
 					<thead>
+						{%- for row in firstMember.member -%}	
+							<th>{{- row[0] -}}</th>
+							{%- assign key = row[0] | split: '' -%}
+							{%- assign tableHeaderColumns = tableHeaderColumns | concat: key -%}							
+						{%- endfor -%}
+						
 						{%- for row in firstMember -%}	
 							<th>{{- row[0] -}}</th>
 							{%- assign key = row[0] | split: '' -%}
