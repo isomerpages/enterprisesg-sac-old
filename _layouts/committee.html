@@ -35,9 +35,11 @@ layout: leftnav-page-content
 						{%- for memberList in committee.members -%}
 						<tr>
 							{% assign memberDetails = memberList.member %}
-							<td>{{- memberDetails.designation -}}</td>
-							<td>{{- memberDetails.name -}}</td>
-							<td>{{- memberDetails.organisation -}}</td>
+							{%- for details in memberDetails -%}
+								<td>{{- details.designation -}}</td>
+								<td>{{- details.name -}}</td>
+								<td>{{- details.organisation -}}</td>
+							{%- endfor -%}
 						</tr>
 						{%- endfor -%}
 					</tbody>
