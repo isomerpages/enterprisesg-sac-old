@@ -23,6 +23,8 @@ layout: leftnav-page-content
 				{%- endif -%}
 				<p>{{- committee.members.first.member | size -}}</p>
 				<p>{{- committee.members[0] | size -}}</p>
+				{% assign firstMember1 = committee.members.first %}
+				<p>{{- firstMember1[0] -}}</p>
 				<table>
 					{% assign firstMember = committee.members.first.member %}
 					{% assign tableHeaderColumns = '' | split: '' %}
