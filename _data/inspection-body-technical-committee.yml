@@ -1,26 +1,184 @@
-- title: "Calibration & Measurement"
+- title: "Mechanical Engineering Inspection"
   description: "Term : 1 July 2018 - 30 June 2021"
-  members:
+  members:  
   - member: 
     - designation: "Chairman"
-      name: "Mr Tan Kheam Hock"
-      organisation: "Nanyang Polytechnic"
+      name: "Mr Chan Yew Kwong"
+      organisation: "Ministry of Manpower"    
   - member: 
     - designation: "Member"
-      name: "Dr Yet Nai Song"
-      organisation: "Building and Construction Authority"     
+      name: "Pending"
+      organisation: "Association of Singapore Marine Industires"  
   - member: 
     - designation: ""
-      name: "Mr Teo Chye Heng"
-      organisation: "Civil Aviation Authority of Singapore"     
-- title: "Chemical & Biological Sciences"
+      name: "Mr Poon Meng Jin, Dennis (Alt: Mr Lam Tiam Yuen, Daniel)"
+      organisation: "Land Transport Authority"  
+  - member: 
+    - designation: ""
+      name: "A/Prof Ong Lin Seng"
+      organisation: "Nanyang Technological University"    
+  - member: 
+    - designation: ""
+      name: "Mr Lim See Khoon, Kenneth"
+      organisation: "National Environment Agency"  
+  - member: 
+    - designation: ""
+      name: "Pending"
+      organisation: "Sembcorp Industries Ltd (Representative for end user)" 
+  - member: 
+    - designation: ""
+      name: "Ms Siti Soleha Osman"
+      organisation: "Singapore Police Force"    
+  - member: 
+    - designation: ""
+      name: "Mr Khoo Chee Guan, Mark"
+      organisation: "Singapore Manufacturing Federation (Representative for PVLE)"  
+  - member: 
+    - designation: ""
+      name: "Mr Yusoof Aynuddin"
+      organisation: "Singapore Manufacturing Federation (Representative for HL)" 
+  - member: 
+    - designation: ""
+      name: "Pending"
+      organisation: "The Institution of Engineers, Singapore"    
+  - member: 
+    - designation: ""
+      name: "Ms Ng Siang Hoon, Michelle"
+      organisation: "Waste Management & Recycling Association of Singapore"  
+  - member: 
+    - designation: "Secretary"
+      name: "Mr Sean Teoh"
+      organisation: "SAC Secretariat"    
+- title: "Structural Steelwork Inspection"
   description: "Term : 1 July 2018 - 30 June 2021"
-  members:      
+  members:       
   - member: 
     - designation: "Chairman"
-      name: "A/Prof Tham Kwok Wai"
-      organisation: "National University of Singapore"     
+      name: "Er Chin Leong Siong"
+      organisation: "Building and Construction Authority"    
+  - member: 
+    - designation: ""
+      name: "Mr Murugesu Sivakurmaran"
+      organisation: "Association of Consulting Engineers Singapore"  
+  - member: 
+    - designation: ""
+      name: "Mr Ang Poh Cheng"
+      organisation: "Housing & Development Board" 
+  - member: 
+    - designation: ""
+      name: "Mr Tang Pei Luen"
+      organisation: "Jurong Town Council"    
+  - member: 
+    - designation: ""
+      name: "Mr Lim Tuck Fang"
+      organisation: "Land Transport Authority"  
+  - member: 
+    - designation: ""
+      name: "Prof Pang Hock Lye, John"
+      organisation: "Nanyang Technological University"   
+  - member: 
+    - designation: ""
+      name: "Dr Pang Sze Dai"
+      organisation: "National University of Singapore"    
+  - member: 
+    - designation: ""
+      name: "Mr James Yuen"
+      organisation: "Singapore Contractors Association Ltd"  
+  - member: 
+    - designation: ""
+      name: "Mr Sze Thiam Siong"
+      organisation: "Setsco Services Pte Ltd" 
+  - member: 
+    - designation: ""
+      name: "Mr Wong Keam Tong"
+      organisation: "Singapore Structural Steelwork Society"  
+  - member: 
+    - designation: ""
+      name: "Dr Kong Kian Hau"
+      organisation: "The Institution of Engineers, Singapore"     
+  - member: 
+    - designation: "Secretary"
+      name: "Mr Lim Swee Peng"
+      organisation: "SAC Secretariat"  
+- title: "Cargo Inspection"
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:       
+  - member: 
+    - designation: ""
+      name: "Mr Simon Neo"
+      organisation: "International Bunker Industry Association" 
   - member: 
     - designation: "Member"
-      name: "Dr Wu Yuan Sheng"
-      organisation: "Agri-food & Veterinary Authority of Singapore - Veterinary Public Health Laboratories"  
+      name: "Mr Colin Yong"
+      organisation: "Maritime and Port Authority of Singapore"  
+  - member: 
+    - designation: ""
+      name: "Mr Daraji Daud"
+      organisation: "Singapore Manufacturing Federation - SGS Testing & Control Services Singapore Pte Ltd"   
+  - member: 
+    - designation: ""
+      name: "Captain Osman Bin Sam"
+      organisation: "Singapore Polytechnic" 
+  - member: 
+    - designation: ""
+      name: "Mr Michael Phoon"
+      organisation: "Singapore Shipping Association"  
+  - member: 
+    - designation: ""
+      name: "Captain Francis Koh"
+      organisation: "Singapore Nautical Institute"    
+  - member: 
+    - designation: ""
+      name: "Captain Francis Lansakara"
+      organisation: "Singapore Nautical Institute" 
+  - member: 
+    - designation: ""
+      name: "Mr Leslie Pereira"
+      organisation: "Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd"  
+  - member: 
+    - designation: "Secretary"
+      name: "Mr James Lee"
+      organisation: "SAC Secretariat"   
+- title: "Site Investigation"
+  description: "Term : 1 July 2018 - 30 June 2021"
+  members:       
+  - member: 
+    - designation: "Chairman"
+      name: "Er Jeyatharan Kumarasamy"
+      organisation: "Institute of Engineers, Singapore" 
+  - member: 
+    - designation: "Member"
+      name: "Mr Yong Fen Leong"
+      organisation: "Association of Consulting Engineers Singapore"  
+  - member: 
+    - designation: ""
+      name: "Dr Poh Teoh Yaw"
+      organisation: "Building & Construction Authority"  
+  - member: 
+    - designation: ""
+      name: "Mr Teo Cheng Soon"
+      organisation: "Housing & Development Board"  
+  - member: 
+    - designation: ""
+      name: "Dr Chian Siau Chen, Darren"
+      organisation: "National University of Singapore"
+   - member: 
+    - designation: ""
+      name: "Er Teo Yen Pai"
+      organisation: "The Institution of Engineers, Singapore" 
+  - member: 
+    - designation: ""
+      name: "Mr Jeffrey Yu"
+      organisation: "The Singapore Contractors Association Ltd"  
+  - member: 
+    - designation: ""
+      name: "Dr Cai Jun Gang"
+      organisation: "TriTech Engineering & Society for Rock Mechanics & Engineering Geology"  
+  - member: 
+    - designation: ""
+      name: "Ms Prathipa Devi Sundraju"
+      organisation: "TIC Interest Group"  
+  - member: 
+    - designation: "Secretary"
+      name: "Mr Lim Swee Peng"
+      organisation: "SAC Secretariat"
