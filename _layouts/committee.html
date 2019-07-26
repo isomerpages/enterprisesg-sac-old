@@ -23,6 +23,8 @@ layout: leftnav-page-content
 				{%- endif -%}
 				<p>{{- committee.members[0] | size -}}</p>
 				{% assign firstMember1 = committee.members[0] %}
+				{% assign firstMember1Details = firstMember1.member %}
+				<p>{{- firstMember1Details.name -}}</p>
 				{%- for row in firstMember1.member -%}	
 					<p>{{- row.name -}}</p>
 				{%- endfor -%}
