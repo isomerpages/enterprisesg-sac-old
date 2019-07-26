@@ -8,11 +8,47 @@
   - member: 
     - designation: "Member"
       name: "Pending"
-      organisation: "Association of Singapore Marine Industries"
+      organisation: "Association of Singapore Marine Industires"  
+  - member: 
+    - designation: ""
+      name: "Mr Poon Meng Jin, Dennis"
+      organisation: "Land Transport Authority"  
+  - member: 
+    - designation: ""
+      name: "A/Prof Ong Lin Seng"
+      organisation: "Nanyang Technological University"    
+  - member: 
+    - designation: ""
+      name: "Mr Lim See Khoon, Kenneth"
+      organisation: "National Environment Agency"  
+  - member: 
+    - designation: ""
+      name: "Pending"
+      organisation: "Sembcorp Industries Ltd (Representative for end user)" 
+  - member: 
+    - designation: ""
+      name: "Ms Siti Soleha Osman"
+      organisation: "Singapore Police Force"    
+  - member: 
+    - designation: ""
+      name: "Mr Khoo Chee Guan, Mark"
+      organisation: "Singapore Manufacturing Federation (Representative for PVLE)"  
+  - member: 
+    - designation: ""
+      name: "Mr Yusoof Aynuddin"
+      organisation: "Singapore Manufacturing Federation (Representative for HL)" 
+  - member: 
+    - designation: ""
+      name: "Pending"
+      organisation: "The Institution of Engineers, Singapore"    
+  - member: 
+    - designation: ""
+      name: "Ms Ng Siang Hoon, Michelle"
+      organisation: "Waste Management & Recycling Association of Singapore"  
   - member: 
     - designation: "Secretary"
       name: "Mr Sean Teoh"
-      organisation: "SAC Secretariat"    
+      organisation: "SAC Secretariat"     
 - title: "Structural Steelwork Inspection"
   description: "Term : 1 July 2018 - 30 June 2021"
   members:       
@@ -23,7 +59,43 @@
   - member: 
     - designation: ""
       name: "Mr Murugesu Sivakurmaran"
-      organisation: "Association of Consulting Engineers Singapore"   
+      organisation: "Association of Consulting Engineers Singapore"  
+  - member: 
+    - designation: ""
+      name: "Mr Ang Poh Cheng"
+      organisation: "Housing & Development Board" 
+  - member: 
+    - designation: ""
+      name: "Mr Tang Pei Luen"
+      organisation: "Jurong Town Council"    
+  - member: 
+    - designation: ""
+      name: "Mr Lim Tuck Fang"
+      organisation: "Land Transport Authority"  
+  - member: 
+    - designation: ""
+      name: "Prof Pang Hock Lye, John"
+      organisation: "Nanyang Technological University"   
+  - member: 
+    - designation: ""
+      name: "Dr Pang Sze Dai"
+      organisation: "National University of Singapore"    
+  - member: 
+    - designation: ""
+      name: "Mr James Yuen"
+      organisation: "Singapore Contractors Association Ltd"  
+  - member: 
+    - designation: ""
+      name: "Mr Sze Thiam Siong"
+      organisation: "Setsco Services Pte Ltd" 
+  - member: 
+    - designation: ""
+      name: "Mr Wong Keam Tong"
+      organisation: "Singapore Structural Steelwork Society"  
+  - member: 
+    - designation: ""
+      name: "Dr Kong Kian Hau"
+      organisation: "The Institution of Engineers, Singapore"     
   - member: 
     - designation: "Secretary"
       name: "Mr Lim Swee Peng"
