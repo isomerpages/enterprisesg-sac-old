@@ -27,7 +27,7 @@ layout: leftnav-page-content
 						{%- for row in firstMember.member -%}	
 							{% assign firstMemberRow = row %}
 							{%- for keyValuePairs in firstMemberRow -%}
-								<th>{{- keyValuePairs[0] -}}</th>	
+								<th>{{- keyValuePairs[0] | capitalize -}}</th>	
 							{%- endfor -%}						
 						{%- endfor -%}
 					</thead>
