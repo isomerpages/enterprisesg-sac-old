@@ -26,6 +26,7 @@ layout: leftnav-page-content
 					{% assign tableHeaderColumns = '' | split: '' %}
 					<thead>
 						{%- for row in firstMember.member -%}	
+							{% assign headers = row %}
 							{%- for keyValuePairs in row -%}
 								<th>{{- keyValuePairs[0] -}}</th>
 								{%- assign key = keyValuePairs[0] | split: '' -%}
@@ -34,10 +35,9 @@ layout: leftnav-page-content
 						{%- endfor -%}
 					</thead>
 					<tbody>
-						{%- for keyValuePair in keyValuePairs -%}
-							<td>{{- keyValuePair[0] -}}</td>
+						{%- for header in headers -%}
+							<td>{{- header[1] -}}</td>
 						{%- endfor -%}	
-						
 					</tbody>
 				</table>
 			</div>
