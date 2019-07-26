@@ -1,8 +1,8 @@
 ---
 layout: committee
 committee: council-committee
-title: Council Committee Test
-permalink: /about/our-organisation-and-structure/council-committees-new
+title: Council Committee
+permalink: /about/our-organisation-and-structure/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
