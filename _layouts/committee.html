@@ -22,6 +22,7 @@ layout: leftnav-page-content
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}
 				<table>
+					{% assign firstMember = committee.members.first.member %}
 					{% assign tableHeaderColumns = '' | split: '' %}
 					<thead>
 						{%- for row in firstMember -%}	
