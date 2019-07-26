@@ -38,7 +38,7 @@ layout: leftnav-page-content
 							{%- for details in memberDetails -%}
 								{%- for keyValuePairs in firstMemberRow -%}
 									{% assign keyName = keyValuePairs[0] %}
-									{% assign column = memberDetails[keyName] %}
+									{% assign column = details[keyName] %}
 									<td>{{- column -}}</td>
 								{%- endfor -%}
 							{%- endfor -%}
