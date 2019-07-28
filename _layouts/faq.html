@@ -22,7 +22,7 @@ layout: leftnav-page-content
 		{%- comment -%} Accordion body {%- endcomment -%}
 		<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
-				{{ sectionfaq.answer | markdownify }}	
+				{{ sectionfaq.answer }}	
 			</div>
 		</div>
 		{%- endfor -%}
