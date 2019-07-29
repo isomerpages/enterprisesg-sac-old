@@ -24,7 +24,7 @@ layout: leftnav-page-content
 				<table>
 					{% assign firstMember = committee.members[0] %}
 					<thead>
-						{%- for row in firstMember.member -%}	
+						{%- for row in firstMember -%}	
 							{% assign firstMemberRow = row %}
 							{%- for keyValuePairs in firstMemberRow -%}
 								<th>{{- keyValuePairs[0] | capitalize -}}</th>	
@@ -34,7 +34,7 @@ layout: leftnav-page-content
 					<tbody>	
 						{%- for memberList in committee.members -%}
 						<tr>
-							{% assign memberDetails = memberList.member %}
+							{% assign memberDetails = memberList %}
 							{%- for details in memberDetails -%}
 								{%- for keyValuePairs in firstMemberRow -%}
 									{% assign keyName = keyValuePairs[0] %}
