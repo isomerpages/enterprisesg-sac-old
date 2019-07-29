@@ -33,7 +33,7 @@ layout: leftnav-page-content
 						<tr>
 							{%- for row in firstMember -%}	
 								{% assign keyName = row[0] %}
-								<td {%- if forloop.first == true and keyName == "designation" -%}style="font-weight:bold;"{%- endif -%}>
+								<td {%- if forloop.first == true and keyName == "designation" -%} style="font-weight:bold;"{%- endif -%}>
 								{%- if keyName == "email" -%}
 								<a href="mailto:{{- member[keyName] -}}">{{- member[keyName] -}}</a>
 								{%- else -%}
