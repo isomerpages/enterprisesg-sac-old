@@ -33,16 +33,14 @@ layout: leftnav-page-content
 						<tr>
 							{%- for member in memberList -%}
 								{%- for row in firstMember -%}	
-									{%- for keyValuePairs in row -%}
-										{% assign keyName = keyValuePairs[0] %}
-										<td>
-										{%- if keyName == "email" -%}
-										<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
-										{%- else -%}
-										{{- member[keyName] -}}
-										{%- endif -%}
-										</td>
-									{%- endfor -%}						
+									{% assign keyName = row[0] %}
+									<td>
+									{%- if keyName == "email" -%}
+									<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
+									{%- else -%}
+									{{- member[keyName] -}}
+									{%- endif -%}
+									</td>					
 								{%- endfor -%}
 							{%- endfor -%}
 						</tr>
