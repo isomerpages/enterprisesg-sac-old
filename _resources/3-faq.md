@@ -9,13 +9,13 @@ collection_name: resources
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-[]{: #faq-1-a}
+[](){: #faq-1-a}
 
 **What is accreditation?**
 
 Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification.
 
-[]{: #faq-1-b}
+[](){: #faq-1-b}
 
 **What is the difference between accreditation and certification?**
 
