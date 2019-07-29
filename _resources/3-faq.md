@@ -3,8 +3,6 @@ layout: faq
 title: FAQ
 permalink: /resources/faq
 collection_name: resources
-
-# Comments for admin: please make sure to include the '---' before each FAQ Q&A
 ---
 
 ## Frequently Asked Questions on SAC Accreditation Programmes
