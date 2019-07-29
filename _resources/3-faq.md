@@ -9,7 +9,7 @@ collection_name: resources
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-[](){: #faq-1-a}
+[]{: #faq-1-a}
 
 **What is accreditation?**
 
