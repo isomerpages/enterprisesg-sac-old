@@ -6,7 +6,7 @@ layout: leftnav-page-content
 	
 {%- for section in sections -%}
 	{%- assign sectionContent = section | split: '</h3>' -%}
-	<h3>{{- sectionContent | first | strip_html -}}</h3>
+	<h3{{- sectionContent | first -}}</h3>
 	{%- assign sectionContent = sectionContent | last -%}
 	{%- assign faqList = sectionContent| split: '<hr />' -%}
 	{%- for faq in faqList -%}
