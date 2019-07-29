@@ -3,10 +3,8 @@ layout: leftnav-page-content
 ---
 
 {%- assign pageContent = content -%}
-{%- assign special = 'faq-1-a' -%}
+{%- assign special = '#faq-1-a' -%}
 {{ pageContent | split: special | first }}
-<p></p>
-{{ pageContent | split: special | last }}
 
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
