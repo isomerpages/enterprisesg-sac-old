@@ -8,17 +8,6 @@ second_nav_title: "Our Organisation And Structure"
 ---
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
-{: #cc-top}
-Choose one of the Council Committee group below to view all of its members and chairman:
-
-* [Council Committee For Laboratory (CCL)](#ccl)
-* [Council Committee For Inspection (CCI](#cci)
-* [Council Committee For Certification (CCC)](#ccc)
-* [Council Committee For Business Development (CCBD)](#ccbd)
-* [Council Committee For Biomedical & Health (CCBH)](#ccbh)
-
-
-{: #ccl} 
 ## Council Committee For Laboratory (CCL)
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -41,30 +30,24 @@ Choose one of the Council Committee group below to view all of its members and c
 |               | Prof Chew Soon Hoe | The Institute of Engineers, Singapore                            |
 | **Secretary** | Ms Lim Lee Fang    | SAC Secretariat                                                  |
 
-{: .back-to-top}
-[↑ Back to top](#cc-top)
 
-{: #cci}
 ## Council Committee For Inspection (CCI)
 ### Term: 1 July 2018 - 30 June 2021
 
-| Designation | Name | Organisation |
-|-|-|-|
-| **Chairman** | Mr Silas Sng Wee Kiat | Singapore Accreditation Council |
-| **Member** | Dr Poh Teoh Yaw | Building & Construction Authority |
-| | Mr Adrian Lo | Bureau Veritas Singapore Pte Ltd |
-| | Mr Loh Lock Mun | FRP Products Co. Pte Ltd |
-| | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd |
-| | Er. Yong Fen Leong | KTP Consultants Pte Ltd |
-| | Er. Merlyn Thong | Land Transport Authority |
-| | A/Prof Leong Eng Choon | Nanyang Technological University |
-| | Dr Ho Nyok Yong | Samwoh Innovation Centre Pte Ltd |
-| **Secretary** | Mr Tan Yee Teck | Singapore Accreditation Council |
+| Designation   | Name                         | Organisation                      |
+|---------------|------------------------------|-----------------------------------|
+| **Chairman**  | Mr Silas Sng Wee Kiat        | Singapore Accreditation Council   |
+| **Members**   | Dr Poh Teoh Yaw              | Building & Construction Authority |
+|               | Mr Adrian Lo                 | Bureau Veritas Singapore Pte Ltd  |
+|               | Mr Loh Lock Mun              | FRP Products Co. Pte Ltd          |
+|               | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd                   |
+|               | Er. Yong Fen Leong           | KTP Consultants Pte Ltd           |
+|               | Er. Merlyn Thong             | Land Transport Authority          |
+|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
+|               | Dr Ho Nyok Yong              | Samwoh Innovation Centre Pte Ltd  |
+| **Secretary** | Mr Tan Yee Teck              | Singapore Accreditation Council   |
 
-{: .back-to-top}
-[↑ Back to top](#cc-top)
 
-{: #ccc}
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2018 - 30 June 2021
 
@@ -85,10 +68,6 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Mr Stanley Ong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
 | **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council |
 
-{: .back-to-top}
-[↑ Back to top](#cc-top)
-
-{: #ccbd}
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2018 - 30 June 2021
 
@@ -105,10 +84,6 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Mr Anthony Tan | UL International – Singapore Pte Ltd |
 | **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#cc-top)
-
-{: #ccbh}
 ## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2018 - 30 June 2021
 
@@ -126,6 +101,3 @@ Choose one of the Council Committee group below to view all of its members and c
 | | Pending | Singapore Society of Pharmaceutical Industry |
 | | A/Prof Chong Bee Kiang | Tan Tock Seng Hospital |
 | **Secretary** | Ms Lee Jia Juan | SAC Secretariat |
-
-{: .back-to-top}
-[↑ Back to top](#cc-top)
