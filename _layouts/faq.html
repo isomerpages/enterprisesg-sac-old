@@ -3,20 +3,18 @@ layout: leftnav-page-content
 ---
 
 {% assign pageContent = content %}
-{% if pageContent contains "<hr>" %}
-<p>content contains hr</p>
-{% endif %}
-
-{% if pageContent contains "</hr>" %}
-  <p>content contains backslash hr</p>
-{% endif %}
+{ pageContent | split 'hr' | first }
 
 {% if pageContent contains "hr" %}
   <p>content contains hr without slash</p>
 {% endif %}
 
-{% if pageContent contains "---" %}
-  <p>content contains dashes</p>
+{% if pageContent contains "&#60;hr" %}
+  <p>content contains hr with html numeric code</p>
+{% endif %}
+
+{% if pageContent contains "&lt;hr" %}
+  <p>content contains hr with html named code</p>
 {% endif %}
 
 {%- assign faq = site.data.faq -%}
