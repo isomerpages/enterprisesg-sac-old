@@ -2,22 +2,21 @@
 layout: leftnav-page-content
 ---
 
-{%- assign pageContent = content -%}
-{{- pageContent | split '<hr>' | first -}}
+{% assign pageContent = content %}
 {% if pageContent contains "<hr>" %}
-  content contains hr
+<p>content contains hr</p>
 {% endif %}
 
 {% if pageContent contains "</hr>" %}
-  content contains backslash hr
+  <p>content contains backslash hr</p>
 {% endif %}
 
 {% if pageContent contains "hr" %}
-  content contains hr without slash
+  <p>content contains hr without slash</p>
 {% endif %}
 
 {% if pageContent contains "---" %}
-  content contains dashes
+  <p>content contains dashes</p>
 {% endif %}
 
 {%- assign faq = site.data.faq -%}
