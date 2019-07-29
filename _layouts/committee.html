@@ -23,6 +23,7 @@ layout: leftnav-page-content
 				{%- if committeeSize > 0 -%}
 				<table>
 					{% assign firstMember = committee.members[0] %}
+					<p>{{- firstMember.name -}}</p>
 					<thead>
 						{%- for row in firstMember -%}	
 							{%- for keyValuePairs in row -%}
@@ -33,17 +34,18 @@ layout: leftnav-page-content
 					<tbody>	
 						{%- for memberList in committee.members -%}
 						<tr>
-							{% assign memberDetails = memberList %}
-							{%- for details in memberDetails -%}
-								{%- for keyValuePairs in firstMemberRow -%}
-									{% assign keyName = keyValuePairs[0] %}
-									<td>
-									{%- if keyName == "email" -%}
-									<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
-									{%- else -%}
-									{{- details[keyName] -}}
-									{%- endif -%}
-									</td>
+							{%- for member in memberList -%}
+								{%- for row in firstMember -%}	
+									{%- for keyValuePairs in row -%}
+										{% assign keyName = keyValuePairs[0] %}
+										<td>
+										{%- if keyName == "email" -%}
+										<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
+										{%- else -%}
+										{{- member[keyName] -}}
+										{%- endif -%}
+										</td>
+									{%- endfor -%}						
 								{%- endfor -%}
 							{%- endfor -%}
 						</tr>
