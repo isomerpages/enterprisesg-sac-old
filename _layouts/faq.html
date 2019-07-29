@@ -8,11 +8,14 @@ layout: leftnav-page-content
 	{%- assign sectionContent = section | split: '</h3>' -%}
 	<h3{{- sectionContent | first -}}</h3>
 	{%- assign sectionContent = sectionContent | last -%}
-	{%- assign faqList = sectionContent| split: '<hr />' -%}
+	{%- assign faqList = sectionContent | split: '<hr />' -%}
 	{%- for faq in faqList -%}
+		{%- assign faqtestarr = faq | split: '\n' -%}
+		{%- for faqtest in faqtestarr -%}
+		<p>{{ faqtest | strip_html }}</p>
+		{%- endfor -%}
 		{%- if faq contains "<h4" -%}
 			{%- assign faqArr = faq | split: '</h4>' -%}	
-			<div style="margin-top:1rem;margin-bottom:1rem;">
 			{%- comment -%} Accordion header {%- endcomment -%}
 			{%- assign question = faqArr | first | strip_html -%}
 			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
