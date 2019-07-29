@@ -29,7 +29,7 @@ ILAC and  IAF have published an informative article titled ["Standards, Conformi
 
 ---
 
-### What are the benefits of being accredited?
+#### What are the benefits of being accredited?
 
 These are some of the key benefits of being accredited.
 
