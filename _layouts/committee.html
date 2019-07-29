@@ -33,9 +33,9 @@ layout: leftnav-page-content
 						<tr>
 							{%- for row in firstMember -%}	
 								{% assign keyName = row[0] %}
-								<td>
+								<td {%- if forloop.first == true and kayName == "designation" -%}style="font-weight:bold;"{%- endif -%}>
 								{%- if keyName == "email" -%}
-								<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
+								<a href="mailto:{{- member[keyName] -}}">{{- member[keyName] -}}</a>
 								{%- else -%}
 								{{- member[keyName] -}}
 								{%- endif -%}
