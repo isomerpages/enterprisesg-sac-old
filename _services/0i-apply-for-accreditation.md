@@ -22,7 +22,10 @@ Upon fulfilling the basic requirements, the CAB can apply online through the [SA
 #### 3. Application Submission
 Once the application is completed with the documents submission and fee payment, the accreditation process proceed as shown below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg)  
-Please ensure you have read SAC’s Terms & Conditions and Fee Schedule before application.  
+
+[](){: #terms}
+
+Please ensure you have read SAC's Terms & Conditions and Fee Schedule before application.  
 
 Please click the links below for the Terms and Conditions for different schemes:
  
