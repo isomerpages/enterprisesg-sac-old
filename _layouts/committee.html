@@ -23,12 +23,9 @@ layout: leftnav-page-content
 				{%- if committeeSize > 0 -%}
 				<table>
 					{% assign firstMember = committee.members[0] %}
-					<p>{{- firstMember.name -}}</p>
 					<thead>
 						{%- for row in firstMember -%}	
-							{%- for keyValuePairs in row -%}
-								<th>{{- keyValuePairs[0] | capitalize -}}</th>	
-							{%- endfor -%}						
+							<th>{{- row[0] | capitalize -}}</th>						
 						{%- endfor -%}
 					</thead>
 					<tbody>	
