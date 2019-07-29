@@ -2,34 +2,11 @@
 layout: leftnav-page-content
 ---
 
-{%- assign pageContent = content | split: '[SAC-faq-qn]' -%}
-
-{{- pageContent | last -}}
+{%- assign faq = content | split: '<h3>' -%}
 
 
-{%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
-	<h3>{{- section.title -}}</h3>
-	{%- if section.description -%}
-		<p>{{- section.description -}}</p>
-	{%- endif -%}
-	<div style="margin-top:1rem;margin-bottom:1rem;">
-		{%- for sectionfaq in section.faqs -%}
-		{%- comment -%} Accordion header {%- endcomment -%}
-		<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-			<div class="col is-expanded is-fullwidth is-paddingless">
-				<h5 class="has-text-grey-dark is-marginless">
-					<b style="cursor:default;">{{- sectionfaq.question -}}</b>
-				</h5>
-			</div>
-			<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-		</div>
-		{%- comment -%} Accordion body {%- endcomment -%}
-		<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
-			<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
-				{{ sectionfaq.answer | markdownify }}	
-			</div>
-		</div>
-		{%- endfor -%}
-	</div>
+	{%- assign faqSectionContent = section | split: '</h3>' -%}
+	<h3>{{- faqSectionContent | first -}}</h3>
+	
 {%- endfor -%}
