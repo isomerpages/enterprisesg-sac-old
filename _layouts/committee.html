@@ -17,7 +17,7 @@ layout: leftnav-page-content
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top padding--bottom" style="width: 100%">
 				{%- if committee.description -%}
-				<h3>{{- committee.description -}}</h3>
+				<h4>{{- committee.description -}}</h4>
 				{%- endif -%}	
 				{% assign committeeSize = committee.members | size %}
 				{%- if committeeSize > 0 -%}
