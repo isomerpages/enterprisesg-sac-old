@@ -12,29 +12,8 @@ layout: leftnav-page-content
 	{%- for faq in faqList -%}
 		{%- assign faqtestarr = faq | split: '\n' -%}
 		{%- for faqtest in faqtestarr -%}
-		<p>{{ faqtest | strip_html }}</p>
+		<p>{{ faqtest }}</p>
 		{%- endfor -%}
-		{%- if faq contains "<h4" -%}
-			{%- assign faqArr = faq | split: '</h4>' -%}	
-			{%- comment -%} Accordion header {%- endcomment -%}
-			{%- assign question = faqArr | first | strip_html -%}
-			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-				<div class="col is-expanded is-fullwidth is-paddingless">
-					<h5 class="has-text-grey-dark is-marginless">
-						<b style="cursor:default;">{{- question -}}</b>
-					</h5>
-				</div>
-				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-			</div>
-			{%- comment -%} Accordion body {%- endcomment -%}
-			{%- assign answer = faqArr | last -%}	
-			<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
-				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
-					{{ answer }}	
-				</div>
-			</div>
-		{%- else -%}
-			<p>{{- faq -}}</p>
-		{%- endif -%}
+		<p></p><p></p>
 	{%- endfor -%}
 {%- endfor -%}
