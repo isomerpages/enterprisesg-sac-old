@@ -9,17 +9,16 @@ collection_name: resources
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-[SAC-faq-qn]
-What is accreditation?
+---
 
-SAC-faq-ans:
+#### What is accreditation?
+
 Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification.
 
+---
 
-[SAC-faq-qn]
-What is the difference between accreditation and certification?
+#### What is the difference between accreditation and certification?
 
-SAC-faq-ans:
 **Accreditation:**
 Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation.
 
@@ -28,11 +27,10 @@ Certification is the procedure by which a third party gives written assurance th
 
 ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="_blank"} in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
+---
 
-SAC-faq-qn:
-What are the benefits of being accredited?
+### What are the benefits of being accredited?
 
-SAC-faq-ans:
 These are some of the key benefits of being accredited.
 
 **Building Trust**
