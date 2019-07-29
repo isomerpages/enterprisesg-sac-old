@@ -3,7 +3,20 @@ layout: leftnav-page-content
 ---
 
 {% assign pageContent = content %}
-{{ pageContent | split: '<hr/>' | last }}
+
+{%- if pageContent contains '<hr' -%}
+	<p>content contains hr with front tag</p>
+	{%- if pageContent contains 'hr/>' -%}
+		<p>content contains hr with backslash tag</p>
+	{%- endif -%}
+	{%- if pageContent contains '<hr>' -%}
+		<p>content contains hr with tags</p>
+	{%- endif -%}
+	{%- if pageContent contains '<hr/>' -%}
+		<p>content contains hr with double tags with backslash</p>
+	{%- endif -%}
+{%- endif -%}
+{{- pageContent | split: '<hr/>' | last -}}
 
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
