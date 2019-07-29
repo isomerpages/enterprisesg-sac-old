@@ -20,15 +20,12 @@ layout: leftnav-page-content
 				<h3>{{- committee.description -}}</h3>
 				{%- endif -%}	
 				{% assign committeeSize = committee.members | size %}
-				<p>{{- committeeSize -}}</p>
 				{%- if committeeSize > 0 -%}
 				<table>
 					{% assign firstMember = committee.members[0] %}
-					<p>{{- firstMember | size -}}</p>
 					<thead>
 						{%- for row in firstMember -%}	
-							{% assign firstMemberRow = row %}
-							{%- for keyValuePairs in firstMemberRow -%}
+							{%- for keyValuePairs in row -%}
 								<th>{{- keyValuePairs[0] | capitalize -}}</th>	
 							{%- endfor -%}						
 						{%- endfor -%}
