@@ -2,15 +2,10 @@
 layout: leftnav-page-content
 ---
 
-{% assign pageContent = content %}
+{%- assign pageContent = content | split 'SAC-faq-qn:' -%}
 
-{%- if pageContent contains '<hr' -%}
-	<p>content contains hr with front tag</p>
-	{%- if pageContent contains 'hr />' -%}
-		<p>content contains hr with backslash tag</p>
-	{%- endif -%}
-{%- endif -%}
-{{- pageContent | split: '<hr />' | last -}}
+{{- pageContent | last -}}
+
 
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
