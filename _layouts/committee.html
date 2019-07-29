@@ -29,19 +29,17 @@ layout: leftnav-page-content
 						{%- endfor -%}
 					</thead>
 					<tbody>	
-						{%- for memberList in committee.members -%}
+						{%- for member in committee.members -%}
 						<tr>
-							{%- for member in memberList -%}
-								{%- for row in firstMember -%}	
-									{% assign keyName = row[0] %}
-									<td>
-									{%- if keyName == "email" -%}
-									<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
-									{%- else -%}
-									{{- member[keyName] -}}
-									{%- endif -%}
-									</td>					
-								{%- endfor -%}
+							{%- for row in firstMember -%}	
+								{% assign keyName = row[0] %}
+								<td>
+								{%- if keyName == "email" -%}
+								<a href="mailto:{{- details[keyName] -}}">{{- details[keyName] -}}</a>
+								{%- else -%}
+								{{- member[keyName] -}}
+								{%- endif -%}
+								</td>					
 							{%- endfor -%}
 						</tr>
 						{%- endfor -%}
