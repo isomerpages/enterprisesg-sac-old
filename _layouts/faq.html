@@ -2,6 +2,9 @@
 layout: leftnav-page-content
 ---
 
+{%- assign pageContent = content -%}
+{{- pageContent -}}
+
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
 	<h3>{{- section.title -}}</h3>
