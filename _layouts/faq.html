@@ -7,6 +7,6 @@ layout: leftnav-page-content
 <p>{{- faq | size -}}</p> 	
 {%- for section in faq -%}
 	{%- assign faqSectionContent = section | split: '</h3>' -%}
-	<h3>{{- faqSectionContent | first -}}</h3>
+	<h3{{- faqSectionContent | first -}}</h3>
 	
 {%- endfor -%}
