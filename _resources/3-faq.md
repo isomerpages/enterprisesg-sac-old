@@ -47,3 +47,12 @@ Although accreditation comes at a cost, the cost savings that result from being 
 
 **Demonstrate Credibility**
 No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel.
+
+
+### Frequently Asked Questions on Singapore GLP Compliance Programme
+
+---
+
+#### What is the difference between GLP recognition and ISO/IEC 17025 accreditation?
+
+GLP is a quality system concerned with the organisation process and conditions under which the non-clinical studies are planned, recorded, archived and reported. ISO/IEC 17025 accreditation is a formal recognition for technical competence to undertake specific tests or calibrations. In general GLP is used for non-clinical health & safety studies that are often called for in regulations while ISO/IEC 17025 accreditation is used normally voluntary. Laboratory accreditation to ISO/IEC 17025 is for routine testing and measurement while GLP covers often a series of experiments. Only GLP recognition can provide an effective quality system that gives regulators the necessary confidence in relation to how non-clinical health and safety studies are planned, performed, monitored, recorded, reported and archived.
