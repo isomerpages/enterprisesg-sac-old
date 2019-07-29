@@ -10,10 +10,34 @@ layout: leftnav-page-content
 	{%- assign sectionContent = sectionContent | last -%}
 	{%- assign faqList = sectionContent | split: '<hr />' -%}
 	{%- for faq in faqList -%}
-		{%- assign faqtestarr = faq | split: '\n' -%}
-		{%- for faqtest in faqtestarr -%}
-		<p>{{ faqtest }}</p>
-		{%- endfor -%}
-		<p></p><p></p>
+		{%- assign faqarr = faq | split: '\n' -%}
+		{%- assign faqarrlen = faqarr | size -%}
+		{%- assign isFAQ = true -%}
+		{%- for faqParagraph in faqarr -%}
+			{%- if forloop.first == true -%}
+				{%- if faqarrlen > 1 and faqParagraph contains '<h' -%}
+				{%- comment -%} Accordion header {%- endcomment -%}
+				<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+					<div class="col is-expanded is-fullwidth is-paddingless">
+						<h5 class="has-text-grey-dark is-marginless">
+							<b style="cursor:default;">{{- faqParagraph | strip_html -}}</b>
+						</h5>
+					</div>
+					<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+				</div>
+				<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
+					<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
+				{%- else -%}
+					<p>{{- faqParagraph -}}</p>
+					{%- assign isFAQ = false -%}
+				{%- endif -%}	
+			{%- else -%}		
+				{{- faqParagraph -}}
+			{%- endif -%}	
+		{%- endfor -%}	
+		{%- if isFAQ == true -%}		
+				</div>
+			</div>
+		{%- endif -%}				
 	{%- endfor -%}
 {%- endfor -%}
