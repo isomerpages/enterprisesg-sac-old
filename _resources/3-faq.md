@@ -3,19 +3,21 @@ layout: faq
 title: FAQ
 permalink: /resources/faq
 collection_name: resources
+
+# Comments for admin: please make sure to include the '---' before each FAQ Q&A
 ---
 
 ## Frequently Asked Questions on SAC Accreditation Programmes
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-[]{: #faq-1-a}
+---
 
 **What is accreditation?**
 
 Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification.
 
-{: .faq-section}
+---
 
 **What is the difference between accreditation and certification?**
 
