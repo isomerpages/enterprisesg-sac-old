@@ -15,7 +15,7 @@ Below are some questions and answers that would help you understand what accredi
 
 Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification.
 
-[](){: #faq-1-b}
+{: .faq-section}
 
 **What is the difference between accreditation and certification?**
 
