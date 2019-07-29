@@ -3,9 +3,7 @@ layout: leftnav-page-content
 ---
 
 {%- assign pageContent = content -%}
-
-{%- assign special = '<p id="faq-1-a"' -%}
-{{ pageContent }}
+{{ pageContent | split '<hr>' | first }}
 
 {%- assign faq = site.data.faq -%}
 {%- for section in faq -%}
