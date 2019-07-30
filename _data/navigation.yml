@@ -104,7 +104,6 @@
   sub-links:
   - title: Search Accredited Org
     url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
-    external: true
   - title: Certified CAB Companies
     url: /accredited-org/certified-cab-companies
   - title: CAB Status Update
