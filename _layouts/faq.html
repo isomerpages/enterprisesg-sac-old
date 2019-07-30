@@ -19,7 +19,8 @@ layout: leftnav-page-content
 			{%- for item in arr -%}	
 				{%- if forloop.first == true -%}
 					{%- assign questionHeaderLevel = item | slice: 0 -%}
-					{%- assign questionHeaderTagBack = '</h' | concat: questionHeaderLevel | concat: '>' -%}
+					{%- assign questionHeaderTagBack = questionHeaderLevel | concat: '>' -%}
+					{%- assign questionHeaderTagBackFull = '</h' | concat: questionHeaderTagBack -%}
 					<p>{{- questionHeaderTagBack -}}</p>
 				{%- endif -%}
 			{%- endfor -%}
