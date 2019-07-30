@@ -2,7 +2,6 @@
 layout: leftnav-page-content
 ---
 
-	
 {% if content contains '<hr />' %}
 	<p>Content contains horizontal rule</p>
 	{% assign sections = content | split: '<hr />' %}
@@ -31,7 +30,7 @@ layout: leftnav-page-content
 				{%- comment -%} Section title {%- endcomment -%}
 				{%- assign isFAQ = false -%}
 				{{- item -}}
-			{%- elsif isFAQ = true -%}
+			{%- elsif isFAQ == true -%}
 				{%- comment -%} Accordion body {%- endcomment -%}
 				<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
 					<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
