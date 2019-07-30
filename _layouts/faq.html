@@ -13,6 +13,7 @@ layout: leftnav-page-content
 {%- for section in sections -%}
 	{%- assign list = section | split: '<h' -%}
 	{%- for item in list -%}
+		<p>break</p>
 		<h{{ item }}
 	{%- endfor -%}
 {%- endfor -%}
