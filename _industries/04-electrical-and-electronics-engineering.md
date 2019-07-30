@@ -22,22 +22,6 @@ Technological advancements have resulted in increasing sophistication of end pro
 
 **The following SAC accreditation schemes are applicable to the Electronics & Electrical Engineering industry:**
 
-
-
-
-Calibration & Measurement
-Electrical Testing
-IT Security Testing
-Mechanical Testing
-Non-destructive Testing
-Management  Systems Certification
-
-
-Occupational Safety & Health Management System
-Quality Management System
-Product Certification
-PC (Electrical and Electronics)
-
 | Scheme                                          | Field                                          |
 |-------------------------------------------------|------------------------------------------------|
 | Laboratories (SAC-SINGLAS)                      | Calibration & Measurement                      |
