@@ -2,19 +2,17 @@
 layout: leftnav-page-content
 ---
 
-{% if content contains '<hr />' %}
-	<p>Content contains horizontal rule</p>
-	{% assign sections = content | split: '<hr />' %}
-{% elsif content contains '<hr/>' %}
-	{% assign sections = content | split: '<hr/>' %}
-{% else %}
-	{% assign sections = content %}
-{% endif %}
+{%- if content contains '<hr />' -%}
+	{%- assign sections = content | split: '<hr />' -%}
+{%- elsif content contains '<hr/>' -%}
+	{%- assign sections = content | split: '<hr/>' -%}
+{%- else -%}
+	{%- assign sections = content -%}
+{%- endif -%}
 
 {%- for section in sections -%}
-	{%- assign list = section | split: '\n' -%}
+	{%- assign list = section | split: '<h' -%}
 	{%- for item in list -%}
-		<p>New line</p>
-		{{ item }}
+		<h{{ item }}
 	{%- endfor -%}
 {%- endfor -%}
