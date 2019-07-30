@@ -20,18 +20,7 @@ layout: leftnav-page-content
 			{%- for item in arr -%}	
 				{%- if forloop.first == true -%}
 					{%- assign questionHeaderLevel = item | slice: 0 -%}
-					{%- assign questionHeaderTagBack = '</h' | concat: questionHeaderLevel | concat: '>' -%}
-					{%- assign question = item | prepend: '<h' | concat: questionHeaderTagBack -%}
-					{{- question -}}
-				{%- else -%}
-					{%- assign questionHeaderTagBack = questionHeaderLevel | concat: '>' -%}
-					{%- assign answer = item | remove_first: questionHeaderTagBack -%}
-					{%- comment -%} Accordion body {%- endcomment -%}
-					<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
-						<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
-							{{- answer -}}
-						</div>
-					</div>	
+					<p>{{- questionHeaderLevel -}}</p>
 				{%- endif -%}
 			{%- endfor -%}
 		{%- else -%}
