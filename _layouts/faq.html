@@ -21,7 +21,7 @@ layout: leftnav-page-content
 					{%- assign questionHeaderLevel = item | slice: 0 -%}
 					{%- assign questionHeaderTagBack = questionHeaderLevel | concat: '>' -%}
 					{%- assign questionHeaderTagBackFull = '</h' | concat: questionHeaderTagBack -%}
-					<p>{{- questionHeaderTagBackFull -}}</p>
+					
 				{%- endif -%}
 			{%- endfor -%}
 		{%- else -%}
