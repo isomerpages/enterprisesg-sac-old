@@ -31,14 +31,14 @@ The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governin
 | Laboratories (SAC-SINGLAS)                      | Calibration & Measurement                      |
 |                                                 | Non-destructive Testing                        |
 |                                                 | Environmental Testing                          |
-|--------------------------------------------------------------------------------------------------|
+|-------------------------------------------------|------------------------------------------------|
 | Management Systems Certification Bodies         | Environmental Management System                |
 |                                                 | Learning Service Providers                     |
 |                                                 | Occupational Safety & Health Management System |
 |                                                 | Quality Management System                      |
-|--------------------------------------------------------------------------------------------------|
+|-------------------------------------------------|------------------------------------------------|
 | Personnel Certification Bodies                  | Certified Personnel (NDT)                      |
-|--------------------------------------------------------------------------------------------------|
+|-------------------------------------------------|------------------------------------------------|
 | Validation & Verification Bodies                | Greenhouse Gases                               |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
