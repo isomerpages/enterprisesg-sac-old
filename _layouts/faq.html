@@ -14,8 +14,8 @@ layout: leftnav-page-content
 <div style="margin-top:1rem; margin-bottom: 1rem;">
 	{%- assign list = section | split: '<h' -%}
 	{%- for listitem in list -%}
-		<p>new item</p>
 		<h{{- listitem -}}
+		<p>New item</p>
 	{%- endfor -%}
 </div>	
 {%- endfor -%}
