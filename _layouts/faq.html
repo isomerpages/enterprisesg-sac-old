@@ -14,8 +14,13 @@ layout: leftnav-page-content
 <div style="margin-top:1rem; margin-bottom: 1rem;">
 	{%- assign list = section | split: '<h' -%}
 	{%- for listitem in list -%}
-		<h{{- listitem -}}
-		<p>New item</p>
+		{%- if listitem contains 'id="qn' or item contains "id='qn" -%}
+			<h{{- listitem -}}
+			<p>New FAQ</p>
+		{%- else -%}
+			<h{{- listitem -}}
+			<p>New section</p>
+		{%- endif -%}
 	{%- endfor -%}
 </div>	
 {%- endfor -%}
