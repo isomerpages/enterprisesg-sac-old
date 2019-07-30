@@ -95,7 +95,7 @@ If you are accredited, you will be able to use the SAC Accreditation Mark and of
 There will also be periodic surveillance assessments to ensure your continued compliance with the scope of accreditation. The accreditation certificate will also require renewal periodically and the renewal period will depend on the terms and conditions of the accreditation scheme.
 
 {: #qn8}
-#### Another other enquiries?
+#### Any other enquiries?
 
 If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target='_blank'} section.
 
