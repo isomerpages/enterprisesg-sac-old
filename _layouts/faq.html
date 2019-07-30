@@ -15,12 +15,12 @@ layout: leftnav-page-content
 	{%- assign list = section | split: '<h' -%}
 	{%- for listitem in list -%}
 		{%- if listitem contains 'id="qn' or item contains "id='qn" -%}
-			<h{{- listitem -}}
 			{%- assign arr = listitem | split: '</h' -%}
 			{%- for item in arr -%}	
 				{%- if forloop.first == true -%}
 					{%- assign questionHeaderLevel = item | slice: 0 -%}
-					<p>{{- questionHeaderLevel -}}</p>
+					{%- assign questionHeaderTagBack = '</h' | concat: questionHeaderLevel | concat: '>' -%}
+					<p>{{- questionHeaderTagBack -}}</p>
 				{%- endif -%}
 			{%- endfor -%}
 		{%- else -%}
