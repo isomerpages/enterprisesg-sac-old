@@ -2,42 +2,47 @@
 layout: leftnav-page-content
 ---
 
-{%- assign sections = content | split: '<h3' -%}
+
 	
+{%- if content contains '<hr />' -%}
+	{%- assign sections = content | split: '<hr />' -%}
+{%- elseif content contains '<hr/>'-%}
+	{%- assign sections = content | split: '<hr/>' -%}
+{%- else -%}
+	{%- assign sections = content -%}
+{%- endif -%}
+
 {%- for section in sections -%}
-	{%- assign sectionContent = section | split: '</h3>' -%}
-	<h3{{- sectionContent | first -}}</h3>
-	{%- assign sectionContent = sectionContent | last -%}
-	{%- assign faqList = sectionContent | split: '<hr />' -%}
-	{%- for faq in faqList -%}
-		{%- assign faqarr = faq | split: '\n' -%}
-		{%- assign faqarrlen = faqarr | size -%}
+	{%- assign list = section | split: '\n' -%}
+	{%- for item in list -%}
 		{%- assign isFAQ = true -%}
-		{%- for faqParagraph in faqarr -%}
-			{%- if forloop.first == true -%}
-				{%- if faqarrlen > 1 and faqParagraph contains '<h' -%}
-				{%- comment -%} Accordion header {%- endcomment -%}
-				<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-					<div class="col is-expanded is-fullwidth is-paddingless">
-						<h5 class="has-text-grey-dark is-marginless">
-							<b style="cursor:default;">{{- faqParagraph | strip_html -}}</b>
-						</h5>
-					</div>
-					<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+		{%- if item contains 'id="qn' or item contains "id='qn" -%}
+			{%- comment -%} Accordion header {%- endcomment -%}
+			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+				<div class="col is-expanded is-fullwidth is-paddingless">
+					<h5 class="has-text-grey-dark is-marginless">
+						<b style="cursor:default;">{{- item | strip_html -}}</b>
+					</h5>
 				</div>
-				<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
-					<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-				{%- else -%}
-					<p>{{- faqParagraph -}}</p>
-					{%- assign isFAQ = false -%}
-				{%- endif -%}	
-			{%- else -%}		
-				{{- faqParagraph -}}
-			{%- endif -%}	
-		{%- endfor -%}	
-		{%- if isFAQ == true -%}		
-				</div>
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 			</div>
-		{%- endif -%}				
+		{%- elsif -%}
+			{%- if item contains '</h' -%}
+				{%- comment -%} Section title {%- endcomment -%}
+				{%- assign isFAQ = false -%}
+				{{- item -}}
+			{%- elsif isFAQ = true -%}
+				{%- comment -%} Accordion body {%- endcomment -%}
+				<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
+					<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
+						{{ item }}
+					</div>
+				</div>		
+			{%- else-%}	
+				{%- comment -%} Section description {%- endcomment -%}
+				{%- assign isFAQ = false -%}
+				{{- item -}}
+			{%- endif -%}	
+		{%- endif -%}
 	{%- endfor -%}
 {%- endfor -%}
