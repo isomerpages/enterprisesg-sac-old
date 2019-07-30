@@ -8,35 +8,38 @@ collection_name: industries
 
 ![Construction and Build Environment](/images/industries/construction.jpg)
 
-The infrastructure sector in Singapore covers the real estate and built environment industries, with total construction demand in 2018 amounting to $30.5 billion. Recent emerging technologies are enabling shorter construction times and innovative methods, and driving the growth of smart cities powered by data and smart technologies. Smart cities are also gaining traction, with the development of physical infrastructure that can support smart city technologies and physical devices connected to IoT networks. However, safety remains a key consideration even in light of the growing need to build more quickly and cheaply.
+Singapore’s infrastructure sector includes both real estate and built environment industries. Total construction demand in the country, as of 2018, amounted to about $30.5 billion. 
 
-Conformity assessment is able to provide assurance over quality and safety, ensuring that developments in construction methods and materials used are not at the expense of public safety. What this implies for builders is greater customer confidence in safety at every stage of construction, which could also potentially translate into a competitive advantage. SAC-accredited conformity assessment bodies (CABs) are capable of providing a variety of testing, inspection and certification services relevant to the industry at each stage of a building’s life cycle.
+Emerging technologies now enable shorter construction times and innovative building methods; these are driving the growth of a "smart city", powered by data and online connectivity. Singapore's Smart Nation initiative is also gaining traction, with the development of a physical infrastructure that can support smart city technologies, as well as physical devices that are connected to Internet of Things (IoT) networks. 
 
-At the construction stage, CABs are able to provide lab testing and certification for construction materials (e.g. polymers, ready-mixed concrete), while inspection may be conducted on structural steelwork and lifting equipment. Aside from general certification schemes for quality and occupational safety, firms in the construction industry may also be certified for other management systems (e.g. environmental, energy) in addition to more construction-specific systems including mechanical, electrical and plumbing (MEP), fire, and security. 
+However, safety remains a key consideration, especially in light of the growing need for faster and more cost-effective construction.
 
-After the infrastructure has been constructed, tests may also be conducted to validate functionality and safety. Towards the end of the building lifecycle, retrofits may be necessary and certification bodies are able to certify modified lifting equipment as well.
+Conformity assessment can provide assurance over quality and safety in this sector. Accreditation ensures that developments in construction methods – and any materials used - are not at the expense of public safety. Accreditation also raises market appeal by providing greater customer confidence at every stage of construction. 
 
-In Singapore, the Building and Construction Authority is the regulatory body governing the construction industry, and it lays out specific requirements with regard to conformity assessment. 
+SAC-accredited conformity assessment bodies (CABs) provide a variety of testing, inspection, and certification services relevant to the industry at each stage of a building's life cycle.
 
-### Relevant SAC Accreditation Programmes
+At the construction stage, CABs can provide laboratory testing and certification for construction materials (e.g. polymers, ready-mixed concrete), and conduct inspections on structural steelwork and lifting equipment. Firms in the construction industry often also seek certification for Mechanical, Electrical and Plumbing (MEP) systems, fire, and security systems. Construction firms with sustainability initiatives can also seek accreditation for management systems, such as for the implementation of eco-friendly or low-energy cost projects.
 
-{: .customised-field-table}
-| Scheme | Field |
-|---
-| Laboratories (SAC-SINGLAS) | Calibration & Measurement |
-|| Chemical & Biological |
-|| Civil Engineering |
-|| Environmental Testing |
-|| Non-destructive Testing |
-|---
-| Management Systems Certification Bodies | Auditing Organisation |
-|| Business Continuity Management |
-|| Environmental Management System |
-|| Energy Management System |
-|| Learning Service Providers |
-|| Occupational Safety & Health Management System |
-|| Quality Management System |
-|---
-| Personnel Certification Bodies | Certified Personnel (NDT) |
+Tests are also often needed after initial construction to validate functionality and safety. Towards the end of a building's life cycle, retrofits may be necessary, and certification bodies are able to ascertain the safety of devices such as modified lifting equipment.
+
+In Singapore, the Building and Construction Authority (BCA) is the regulatory body governing the construction industry, and it lays out specific requirements with regard to conformity assessment. The following SAC accreditation schemes are applicable to the Construction and Built Environment industry:
+
+| Scheme                                  | Field                                          |
+|-----------------------------------------|------------------------------------------------|
+| Laboratories (SAC-SINGLAS)              | Calibration & Measurement                      |
+|                                         | Chemical & Biological                          |
+|                                         | Civil Engineering                              |
+|                                         | Environmental Testing                          |
+|                                         | Non-destructive Testing                        |
+|------------------------------------------------------------------------------------------|
+| Management Systems Certification Bodies | Auditing Organisation                          |
+|                                         | Business Continuity Management                 |
+|                                         | Environmental Management System                |
+|                                         | Energy Management System                       |
+|                                         | Learning Service Providers                     |
+|                                         | Occupational Safety & Health Management System |
+|                                         | Quality Management System                      |
+|------------------------------------------------------------------------------------------|
+| Personnel Certification Bodies          | Certified Personnel (NDT)                      |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
