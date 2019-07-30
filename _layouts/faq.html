@@ -11,7 +11,7 @@ layout: leftnav-page-content
 {%- endif -%}
 
 {%- for section in sections -%}
-<div style="margin-top:1rem; margin-bottom: 1rem;">
+<div style="margin-bottom: 3rem;">
 	{%- assign list = section | split: '<h' -%}
 	{%- for listitem in list -%}
 		{%- if listitem contains 'id="qn' or item contains "id='qn" -%}
