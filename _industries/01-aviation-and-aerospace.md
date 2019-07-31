@@ -24,7 +24,9 @@ For manufacturers of aerospace parts or components, examples of relevant certifi
 
 Other conformity assessment services relevant to components manufacturers include environmental testing, tests for outdoor durability, and tests for resistance to corrosion and weathering. Component makers often also require non-destructive testing and inspection, and calibration.
 
-The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governing the aerospace industry in Singapore, and it lays out specific requirements with regard to conformity assessment. The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
+The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governing the aerospace industry in Singapore, and it lays out specific requirements with regard to conformity assessment.
+
+The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
 
 | Scheme                                          | Field                                          |
 |-------------------------------------------------|------------------------------------------------|
