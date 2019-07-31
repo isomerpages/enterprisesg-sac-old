@@ -2,6 +2,8 @@
 layout: leftnav-page-content
 ---
 
+{{- content -}}
+
 {%- if content contains '<hr />' -%}
 	{%- assign sections = content | split: '<hr />' -%}
 {%- elsif content contains '<hr/>' -%}
