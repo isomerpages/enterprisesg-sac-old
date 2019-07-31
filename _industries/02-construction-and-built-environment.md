@@ -22,7 +22,9 @@ At the construction stage, CABs can provide laboratory testing and certification
 
 Tests are also often needed after initial construction to validate functionality and safety. Towards the end of a building's life cycle, retrofits may be necessary, and certification bodies are able to ascertain the safety of devices such as modified lifting equipment.
 
-In Singapore, the Building and Construction Authority (BCA) is the regulatory body governing the construction industry, and it lays out specific requirements with regard to conformity assessment. The following SAC accreditation schemes are applicable to the Construction and Built Environment industry:
+In Singapore, the Building and Construction Authority (BCA) is the regulatory body governing the construction industry, and it lays out specific requirements with regard to conformity assessment. 
+
+The following SAC accreditation schemes are applicable to the Construction and Built Environment industry:
 
 | Scheme                                  | Field                                          |
 |-----------------------------------------|------------------------------------------------|
