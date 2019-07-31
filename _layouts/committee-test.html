@@ -7,7 +7,9 @@ layout: leftnav-page-content
 {% assign tables = content | split: '</table>' %}
 {%- for table in tables -%}
     {% assign tableStartTag = table | slice: 0, 10 %}
+	<p>start</p>
 	<p>{{- tableStartTag -}}</p>	
+	<p>end</p>
 {%- endfor -%}
 	</div>
 </div>
