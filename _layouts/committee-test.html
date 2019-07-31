@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 ---
 
-{%- assign sections = content | split: '\n' -%}
+{%- assign sections = content | split: '\r' -%}
 {%- for section in sections -%}
 {{- section -}}
 <p>newline</p>
