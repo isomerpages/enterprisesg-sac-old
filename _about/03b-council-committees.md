@@ -1,5 +1,5 @@
 ---
-layout: committee-test
+layout: committee
 committee: council-committee
 title: Council Committee
 permalink: /about/our-organisation-and-structure/council-committees
@@ -10,9 +10,6 @@ second_nav_title: "Our Organisation And Structure"
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
 ---
-
-
-
 
 ## Council Committee For Laboratory (CCL)
 ### Term : 1 July 2018 - 30 June 2021
