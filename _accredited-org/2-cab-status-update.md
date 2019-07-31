@@ -58,7 +58,6 @@ collection_name: accredited-org
 
 #### Certification Body
 
-{: .customised-field-table}
 | Field                                            | Company                           | Date of Suspension               |
 |--------------------------------------------------|-----------------------------------|---------------------------------:|
 | Auditing Organisation                            | A Star Safety Consultants Pte Ltd | 14 June 2019 - 13 September 2019 |
