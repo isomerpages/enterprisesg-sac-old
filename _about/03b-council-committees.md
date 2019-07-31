@@ -1,12 +1,15 @@
 ---
-layout: committee
+layout: committee-test
 committee: council-committee
 title: Council Committee
 permalink: /about/our-organisation-and-structure/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
+
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
+
+---
 
 ## Council Committee For Laboratory (CCL)
 ### Term : 1 July 2018 - 30 June 2021
@@ -51,22 +54,22 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2018 - 30 June 2021
 
-| Designation | Name | Organisation |
-|-|-|-|
-| **Chairman** | Mr Desmond Hill | Singapore Contractors Association Ltd |
-| **Member** | Dr Tan Lee Kim | Singapore Food Agency |
-| | Mr Francis Tay | Association of Process Industry |
-| | Er Steve Ang | Building and Construction Authority |
-| | Mr Sebastian Tan | Ministry of Manpower |
-| | Ms Suzanna Yap | National Environment Agency |
-| | AC Francis Ng | Singapore Civil Defence Force |
-| | Mr Chan Lee Mun | SkillsFuture Singapore |
-| | Er Yvonne Soh | Singapore Green Building Council |
-| | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association |
-| | Ms Mary Ann de Jesus | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-| | Mrs Chay-Lee Swee Gee | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-| | Mr Stanley Ong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-| **Secretary** | Ms Lee Ham Eng | Singapore Accreditation Council |
+| Designation   | Name                         | Organisation                                                  |
+|---------------|------------------------------|---------------------------------------------------------------|
+| **Chairman**  | Mr Desmond Hill              | Singapore Contractors Association Ltd                         |
+| **Member**    | Dr Tan Lee Kim               | Singapore Food Agency                                         |
+|               | Mr Francis Tay               | Association of Process Industry                               |
+|               | Er Steve Ang                 | Building and Construction Authority                           |
+|               | Mr Sebastian Tan             | Ministry of Manpower                                          |
+|               | Ms Suzanna Yap               | National Environment Agency                                   |
+|               | AC Francis Ng                | Singapore Civil Defence Force                                 |
+|               | Mr Chan Lee Mun              | SkillsFuture Singapore                                        |
+|               | Er Yvonne Soh                | Singapore Green Building Council                              |
+|               | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association                      |
+|               | Ms Mary Ann de Jesus         | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+|               | Mrs Chay-Lee Swee Gee        | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+|               | Mr Stanley Ong               | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+| **Secretary** | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2018 - 30 June 2021
