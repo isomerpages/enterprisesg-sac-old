@@ -11,8 +11,8 @@ layout: leftnav-page-content
 {%- endif -%}
 
 {%- for section in sections -%}
-	{%- assign sectiontemp1 = section | strip_newlines | strip -%}
-	{%- assign sectiontemp = sectiontemp1 | replace_first: '<h', 'sac-ac-start' -%}
+	{%- assign sectiontemp = section | strip_newlines | strip -%}
+	{%- assign sectiontemp1 = sectiontemp | replace_first: '<h', 'sac-ac-start' -%}
 	{%- assign sectiontemp2 = sectiontemp1 | split: 'sac-ac-start' | last -%}	
 <div style="margin-bottom: 3rem;">
 	{{ sectiontemp2 | slice: 0 }}
