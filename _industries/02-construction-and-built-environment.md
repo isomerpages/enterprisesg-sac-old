@@ -31,7 +31,7 @@ In Singapore, the Building and Construction Authority (BCA) is the regulatory bo
 |                                         | Civil Engineering                              |
 |                                         | Environmental Testing                          |
 |                                         | Non-destructive Testing                        |
-|------------------------------------------------------------------------------------------|
+|-----------------------------------------|------------------------------------------------|
 | Management Systems Certification Bodies | Auditing Organisation                          |
 |                                         | Business Continuity Management                 |
 |                                         | Environmental Management System                |
@@ -39,7 +39,7 @@ In Singapore, the Building and Construction Authority (BCA) is the regulatory bo
 |                                         | Learning Service Providers                     |
 |                                         | Occupational Safety & Health Management System |
 |                                         | Quality Management System                      |
-|------------------------------------------------------------------------------------------|
+|-----------------------------------------|------------------------------------------------|
 | Personnel Certification Bodies          | Certified Personnel (NDT)                      |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
