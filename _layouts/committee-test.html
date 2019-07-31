@@ -11,10 +11,10 @@ layout: leftnav-page-content
 {%- endif -%}
 
 {%- for section in sections -%}
-	{%- assign section = section | strip_newlines | strip -%}
-	{%- assign section = section | replace_first: '<h', 'sac-ac-start' -%}
+	{%- assign section1 = section | strip_newlines | strip -%}
+	{%- assign section2 = section1 | replace_first: '<h', 'sac-ac-start' -%}
 <div style="margin-bottom: 3rem;">
-	{{ section }}
+	{{ section2 }}
 </div>	
 {%- endfor -%}
 
