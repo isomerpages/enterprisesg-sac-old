@@ -8,7 +8,7 @@ collection_name: industries
 
 ![Electrical & Electronics Engineering](/images/industries/electrical-and-electronics-engineering.jpg)
 
-Singapore is a hub for semiconductor and consumer electronics manufacturing technology, with over 2900 companies in the industry. Upstream, these include semiconductor manufacturers and chip makers. Downstream, the local value-chain includes box-build manufacturers, sub-system manufacturers, and plastic tooling and metal machining providers.
+Singapore is a hub for semiconductor and consumer electronics manufacturing technology, with over 2,900 companies in the industry. Upstream, these include semiconductor manufacturers and chip makers. Downstream, the local value-chain includes box-build manufacturers, sub-system manufacturers, and plastic tooling and metal machining providers.
 
 Quality and safety are key priorities in the sector, so conformity assessment is invaluable in providing assurance, from initial buyers to end-users. Local regulators also require specific accredited conformity assessments to ensure compliance with Singapore’s safety standards. The Singapore Accreditation Council (SAC) has various schemes for which conformity assessment bodies may gain accreditation.
 
@@ -20,7 +20,7 @@ Examples of these include business continuity management and quality management,
 
 Technological advancements have resulted in increasing sophistication of end products, with software playing a more significant role than ever before. This creates a need to provide greater assurance over the product as a whole, taking into consideration the compliance of both hardware and software to required standards. To this end, IT security testing services and Information Security Management System certification are able to provide the needed assurance.
 
-**The following SAC accreditation schemes are applicable to the Electronics & Electrical Engineering industry:**
+The following SAC accreditation schemes are applicable to the Electronics & Electrical Engineering industry:
 
 | Scheme                                          | Field                                          |
 |-------------------------------------------------|------------------------------------------------|
