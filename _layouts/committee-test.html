@@ -14,15 +14,16 @@ layout: leftnav-page-content
     {%- endif -%}
     {% assign headerLevel = table | slice: 2 %}
     {% assign headerTagBack = '</h' | prepend: headerLevel | prepend: '>' %}
+	<p>{{- headerTagBack -}}</p>
     {% assign accordionContents = table | split: headerTagBack %}
-    {%- comment -%} Accordion header {%- endcomment -%}
+    		{%- comment -%} Accordion header {%- endcomment -%}
 		<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 			<div class="col is-expanded is-fullwidth is-paddingless">
 				<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">{{- accordionContents | first | strip_html -}}</b></h5>
 			</div>
 			<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 		</div>
-        {%- comment -%} Accordion body {%- endcomment -%}
+        	{%- comment -%} Accordion body {%- endcomment -%}
 		<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
 			<div class="bp-container is-full padding--top padding--bottom" style="width: 100%">
 				{%- for accordionContent in accordionContent -%}
