@@ -2,19 +2,9 @@
 layout: leftnav-page-content
 ---
 
-{%- if content contains '<hr />' -%}
-	{%- assign sections = content | split: '<hr />' -%}
-{%- elsif content contains '<hr/>' -%}
-	{%- assign sections = content | split: '<hr/>' -%}
-{%- else -%}
-	{%- assign sections = content -%}
-{%- endif -%}
-
+{%- assign sections = content | split: '\n' -%}
 {%- for section in sections -%}
-{%- assign section = section | replace: '\n', 'newline' -%}
-{%- assign section = section | replace: '\r', 'returncarriage' -%}
-<div style="margin-bottom: 3rem;">
-	{%- assign accordionTitleHeaderLevel = section | slice: 0, 9 -%}
-	<div>{{- accordionTitleHeaderLevel -}}</div>
-</div>	
+{{- section -}}
+<p>newline</p>
 {%- endfor -%}
+
