@@ -14,11 +14,11 @@ This is on the back of rapid developments in production process and systems. The
 
 Chemical producers can maintain these standards with the aid of Conformity Assessment Bodies (CABs). CABs provide testing and certification of personnel and components, as well as calibration of high-precision measuring devices. This allows manufacturers to maintain the highest standards, from procurement to operational stages.
 
-The Singapore Accreditation Council (SAC) has accreditation schemes for laboratories and bodies offering these services in order to provide further assurance over the credibility of assessment.
+The Singapore Accreditation Council (SAC) has accreditation schemes for laboratories and bodies offering these services, to provide further assurance over the credibility of assessment.
 
 The energy industry can be grouped into petroleum, gas, electrical, coal and renewables. For petroleum refiners and other oil companies, CABs are able to inspect and validate fuel quality, in addition to the services outlined above. 
 
-Laboratories test for gas compositions and even LNG ship calibration in order to meet the needs of gas industry players. In the coal industry, they also cater to additional needs such as cargo inspection. 
+Laboratories test for gas compositions and even LNG ship calibration to meet the needs of gas industry players. In the coal industry, they also cater to additional needs such as cargo inspection. 
 
 Infrastructure maintenance is also vital to businesses in the industry; the continued functionality of important equipment can be maintained by conformity assessment services. These include services such as mechanical testing and inspection of pressure vessels.
 
@@ -35,16 +35,16 @@ The following SAC accreditation schemes are applicable to the Energy & Chemicals
 |                                         | Electrical Testing                             |
 |                                         | Mechanical Testing                             |
 |                                         | Non-destructive Testing                        |
-|------------------------------------------------------------------------------------------|
+|-----------------------------------------|------------------------------------------------|
 | Inspection Bodies                       | Marine & Offshore                              |
 |                                         | Pressure Vessel/ Lifting Equipment             |
-|------------------------------------------------------------------------------------------|
+|-----------------------------------------|------------------------------------------------|
 | Management Systems Certification Bodies | Business Continuity Management                 |
 |                                         | Occupational Safety & Health Management System |
 |                                         | Quality Management System                      |
-|------------------------------------------------------------------------------------------|
+|-----------------------------------------|------------------------------------------------|
 | Product Certification Bodies            | Certified Personnel (NDT)                      |
-|------------------------------------------------------------------------------------------|
+|-----------------------------------------|------------------------------------------------|
 | Validation & Verification Bodies        | Greenhouse Gases                               |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
