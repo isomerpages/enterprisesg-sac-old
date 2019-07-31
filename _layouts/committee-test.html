@@ -11,9 +11,9 @@ layout: leftnav-page-content
 {%- endif -%}
 
 {%- for section in sections -%}
-	{%- assign section = section | strip -%}
+	{%- assign section = section | strip_newlines | strip -%}
 <div style="margin-bottom: 3rem;">
-	{%- assign accordionTitleHeaderLevel = section | slice: 0, 10 -%}
+	{%- assign accordionTitleHeaderLevel = section | slice: 0, 5 -%}
 	<div>{{- accordionTitleHeaderLevel -}}</div>
 </div>	
 {%- endfor -%}
