@@ -11,7 +11,7 @@ layout: leftnav-page-content
 			{%- assign sectionContentTemp = sectionContent | replace_first: '</h', 'header-first' -%}
 			{%- assign sectionContentTemp1 = sectionContentTemp | split: 'header-first' | last -%}
 			{%- assign headerTagLevel = sectionContentTemp1 | slice: 0 -%}	
-			{%- assign headerBackTag = '</h' | prepend: headerTagLevel | prepend: '>' -%}	
+			{%- assign headerBackTag = '</h' | append: headerTagLevel | append: '>' -%}	
 			<p>{{ headerBackTag }}</p>
 
 		{%- endfor -%}
