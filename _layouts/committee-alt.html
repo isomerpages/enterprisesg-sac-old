@@ -8,7 +8,7 @@ layout: leftnav-page-content
 	{%- if section contains '</table>' -%}
 		{%- assign sectionContents = section | split: '</table>' -%}	
 		{%- for sectionContent in sectionContents -%}
-			{%- if section contains '<table' -%}
+			{%- if sectionContent contains '<table' -%}
 			{%- assign sectionContentTemp = sectionContent | replace_first: '</h', 'header-first' -%}
 			{%- assign sectionContentTemp1 = sectionContentTemp | split: 'header-first' | last -%}
 			{%- assign headerTagLevel = sectionContentTemp1 | slice: 0 -%}	
