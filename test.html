@@ -11,5 +11,8 @@ permalink: /test
 {%- endif -%}
 {% assign trainingCourses = site.posts | where: "collection_name", "courses" %}
 <p>{{- trainingCourses | size -}}</p>
-{%- assign filteredCourses = site['courses'] -%}
-<p>{{- filteredCourses | size -}}</p>
+{% assign trainingCourses1 = site.posts | where: "categories", "courses" %}
+<p>{{- trainingCourses1 | size -}}</p>
+{%- for course in site.courses -%}
+<p>{{- course.path -}}</p>
+{%- endfor -%}
