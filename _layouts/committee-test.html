@@ -2,18 +2,33 @@
 layout: leftnav-page-content
 ---
 
-{%- if content contains '<hr />' -%}
-	{%- assign sections = content | split: '<hr />' -%}
-{%- elsif content contains '<hr/>' -%}
-	{%- assign sections = content | split: '<hr/>' -%}
-{%- else -%}
-	{%- assign sections = content -%}
-{%- endif -%}
-
+{%- assign sections = content | split: '<hr />' -%}	
 {%- for section in sections -%}
-	{%- assign sectiontemp = section | strip_newlines | strip -%}
-	{%- assign sectiontemp1 = sectiontemp | replace_first: '<h', 'sac-ac-start' -%}
-	{%- assign sectiontemp2 = sectiontemp1 | split: 'sac-ac-start' | last -%}	
-		<p>{{ sectiontemp2 | slice: 0 }}</p>	
-{%- endfor -%}
-
+<div style="margin-bottom: 3rem;">
+	{%- if section contains '</table>' -%}
+		{%- assign sectionContents = section | split: '</table>' -%}	
+		{%- for sectionContent in sectionContents -%}
+			{%- assign sectionContentTemp = sectionContent | replace_first: '</h', 'header-first' -%}
+			{%- assign sectionContentTemp1 = sectionContentTemp | split: 'header-first' | last -%}
+			{%- assign headerTagLevel = sectionContentTemp1 | slice: 0 -%}	
+			{%- assign headerBackTag = '</h' | prepend: headerTagLevel | prepend: '>' -%}	
+			{%- assign sectionContentArr = sectionContent | split: headerBackTag -%}
+			{%- comment -%} Accordion header {%- endcomment -%}
+			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+				<div class="col is-expanded is-fullwidth is-paddingless">
+					<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">{{- sectionContentArr | first | strip_html -}}</b></h5>
+				</div>
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+			</div>
+			{%- comment -%} Accordion body {%- endcomment -%}
+			<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
+				<div class="bp-container is-full padding--top padding--bottom" style="width: 100%">
+					{{- sectionContentArr | last -}}
+				</div>
+			</div>	
+		{%- endfor -%}
+	{%- else -%}
+		{{- section -}}
+	{%- endif -%}
+</div>
+{%- endfor -%}	
