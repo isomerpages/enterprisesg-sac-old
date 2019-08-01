@@ -25,7 +25,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 	{%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
-		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" -%}
+		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
 		{%- if filteredCourses.size == 0 -%}
 		    {%- break -%}
 		{%- else -%}			
