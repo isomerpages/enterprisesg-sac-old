@@ -4,12 +4,9 @@ title: test
 permalink: /test
 ---
 
-{%- assign filteredCourses = site.courses -%}
+{%- assign filteredCourses = site['courses'] -%}
 <p>{{- filteredCourses | size -}}</p>
-{%- assign filteredCourses1 = site['courses'] -%}
-<p>{{- filteredCourses1 | size -}}</p>
+{%- assign filteredCoursesPosts = site['courses']['posts'] -%}
+<p>{{- filteredCoursesPosts | size -}}</p>
 {%- assign aboutCollection = site['about'] -%}
 <p>{{- aboutCollection | size -}}</p>
-{%- for course in filteredCourses1 -%}
-<p>{{- course.name -}}</p>
-{%- endfor -%}
