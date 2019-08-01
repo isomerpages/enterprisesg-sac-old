@@ -7,6 +7,7 @@ permalink: /test
 {%- assign filteredCourses = site.courses._posts -%}
 <p>{{- filteredCourses | size -}}</p>
 {%- assign filteredCourses1 = site.courses -%}
+<p>{{- filteredCourses1 | size -}}</p>
 {%- for course in filteredCourses1 -%}
 <p>{{- course.name -}}</p>
 {%- endfor -%}
