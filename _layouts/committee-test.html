@@ -11,21 +11,7 @@ layout: leftnav-page-content
 			{%- assign sectionContentTemp = sectionContent | replace_first: '</h', 'header-first' -%}
 			{%- assign sectionContentTemp1 = sectionContentTemp | split: 'header-first' | last -%}
 			{%- assign headerTagLevel = sectionContentTemp1 | slice: 0 -%}	
-			{%- assign headerBackTag = '</h' | prepend: headerTagLevel | prepend: '>' -%}	
-			{%- assign sectionContentArr = sectionContent | split: headerBackTag -%}
-			{%- comment -%} Accordion header {%- endcomment -%}
-			<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-				<div class="col is-expanded is-fullwidth is-paddingless">
-					<h5 class="has-text-grey-dark is-marginless"><b style="cursor:default;">{{- sectionContentArr | first | strip_html -}}</b></h5>
-				</div>
-				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-			</div>
-			{%- comment -%} Accordion body {%- endcomment -%}
-			<div id="accordion-body-{{forloop.index0}}" class="col padding bp-accordion-body">
-				<div class="bp-container is-full padding--top padding--bottom" style="width: 100%">
-					{{- sectionContentArr | last -}}
-				</div>
-			</div>	
+				<p>headerTagLevel</p>
 		{%- endfor -%}
 	{%- else -%}
 		{{- section -}}
