@@ -1,12 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Training Services
+title: Training, Courses & Seminars
 permalink: /services/training/
 breadcrumb: training
 collection_name: services
 ---
-
-## Training Courses and Seminars
 
 SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.
 
