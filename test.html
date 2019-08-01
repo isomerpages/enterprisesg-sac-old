@@ -4,17 +4,10 @@ title: test
 permalink: /test
 ---
 
-{%- if site.courses -%}
-<p>courses exist</p>
-{%- else -%}
-<p>courses do not exist</p>
-{%- endif -%}
-{% assign trainingCourses = site.posts | where: "collection_name", "courses" %}
-<p>{{- trainingCourses | size -}}</p>
 {% assign posts = site.categories['courses'] %}
 <p>{{- posts | size -}}</p>
 
-{%- for course in site.courses -%}
-<p>{{- course.path -}}</p>
+{%- for post in posts  -%}
+<p>{{- post.title -}}&nbsp;&nbsp;{{- post.course_year -}}</p>
 {%- endfor -%}
 
