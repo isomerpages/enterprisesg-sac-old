@@ -6,8 +6,6 @@ breadcrumb: training
 collection_name: services
 ---
 
-SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.
-
 ---
 
 {::nomarkdown}
@@ -92,6 +90,8 @@ SAC has more than 20 years of experience in providing training to assist organis
 	{%- endfor -%}		
 </div>
 {:/}
+
+SAC has more than 20 years of experience in providing training to assist organisations in understanding and applying accreditation criteria to international standards.
 
 ---
 
