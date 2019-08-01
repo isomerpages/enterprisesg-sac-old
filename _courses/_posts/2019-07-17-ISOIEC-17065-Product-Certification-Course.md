@@ -1,5 +1,7 @@
 ---
-layout: simple-page
+layout: post
+category: courses
+date: 2019-07-17
 title: ISO/IEC 17065 Product Certification Course
 course_date: 27 and 28 Aug 2019
 permalink: /services/training/courses-2019/ISOIEC-17065-Product-Certification-Course
