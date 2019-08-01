@@ -44,4 +44,4 @@ Aside from attaining a systematic and well-designed quality system, accredited o
 Upon receiving the application for accreditation, the secretariat will send a quotation to the inspection body and arrange for a preliminary assessment. This assessment is conducted by a team that comprises SAC staff and a technical assessor, who is from the technical community, either within the country or overseas. When the inspection body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in IB-01, Accreditation Process.
 
 The schematic diagram of the accreditation process is described below:  
-![Accreditation Services Chart](/images/services/accreditation_process.png)
+![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
