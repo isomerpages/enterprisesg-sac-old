@@ -139,14 +139,6 @@ window.onload = function(){
 
 {%- if page.permalink contains 'services/training' -%}
 <script>
-    //change title of training table dynamically
-    var trainingYearTitle = document.getElementById('training-calendar-year-title');
-    var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
-    console.log(trainingCoursesTables.length);
-    if (trainingCoursesTables.length > 0) {
-        console.log(trainingYearTitle.length);
-        trainingYearTitle.textContent = trainingCoursesTables[0].id.replace('training-table-','');
-    }
     
     //add javascript action to trainingYearSelect links at bottom of training table
     var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
@@ -169,7 +161,7 @@ window.onload = function(){
                     var refTrainingTableID = "training-table-" + refYear;
                     var refTrainingTable = document.getElementById(refTrainingTableID);
                     if (refTrainingTable != null) {
-                        trainingYearTitle.textContent = refYear;
+                        document.getElementById('training-calendar-year-title').textContent = refYear;
                         refTrainingTable.style.display = "table";
                     }
                 });
