@@ -11,7 +11,7 @@ Accreditation is the independent evaluation of conformity assessment bodies agai
 
 The accreditation programmes relevant to regulators would be those that are related to health, safety, and the environment. All countries have regulations related to safety of goods and services. There are also requirements regarding environmental impact, from recycling to energy consumption.
 
-SAC is a Mutual Recognition Arrangement (MRA) Signatory to various international organisations including ILAC, IAF, APLAC, PAC. Countries which are signatories of the MRA recognise that their partners' conformity assessment bodies operate in an equivalent way and that they deliver equivalent accreditations, providing the same level of competence and confidence.
+SAC is a Mutual Recognition Arrangement (MRA) Signatory to various international organisations including [ILAC](https://ilac.org/){:target="_blank"}, [IAF](https://www.iaf.nu/){:target="_blank"}, [APAC](https://www.apac-accreditation.org/){:target="_blank"}. Countries which are signatories of the MRA recognise that their partners' conformity assessment bodies operate in an equivalent way and that they deliver equivalent accreditations, providing the same level of competence and confidence.
 
 For more information about MRA, please click [here](/about/collaborations-and-recognitions/mutual-recognition-arrangement){:target="_blank"}.
 
