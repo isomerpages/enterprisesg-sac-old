@@ -43,4 +43,4 @@ SAC will do a documentation review before the on-site assessment, which is done 
 Once a facility has met all criteria of ISO/IEC 17043, SAC will issue a Certificate of Accreditation to the facility, with a schedule detailing the types of PT programmes under the scope of accreditation. The time taken for a facility to be accredited may range from three to six months, depending on the readiness of the facility in meeting the accreditation requirements as well as the type and complexity of the PT programmes. 
 
 Surveillance assessment will be conducted annually and reassessment will be conducted every four years for the renewal of accreditation. The schematic diagram of the accreditation process is described below:  
-![Accreditation Services Chart](/images/services/accreditation_process.png)
+![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
