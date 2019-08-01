@@ -9,7 +9,7 @@ permalink: /test
 {%- else -%}
 <p>courses do not exist</p>
 {%- endif -%}
-{% assign trainingCourses = site.posts | where: "category", "courses" %}
+{% assign trainingCourses = site.posts | where: "collection_name", "courses" %}
 <p>{{- trainingCourses | size -}}</p>
 {%- assign filteredCourses = site['courses'] -%}
 <p>{{- filteredCourses | size -}}</p>
