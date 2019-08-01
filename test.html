@@ -6,7 +6,7 @@ permalink: /test
 
 {%- assign filteredCourses = site['courses'] -%}
 <p>{{- filteredCourses | size -}}</p>
-{%- assign filteredCoursesPosts = site['courses']['posts'] -%}
+{%- assign filteredCoursesPosts = site['courses']['_posts'] -%}
 <p>{{- filteredCoursesPosts | size -}}</p>
 {%- assign aboutCollection = site['about'] -%}
 <p>{{- aboutCollection | size -}}</p>
