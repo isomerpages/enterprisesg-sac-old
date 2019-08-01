@@ -13,7 +13,7 @@ layout: leftnav-page-content
 {%- for section in sections -%}
 	{%- assign sectiontemp = section | strip_newlines | strip -%}
 	{%- assign sectiontemp1 = sectiontemp | replace_first: '<h', 'sac-ac-start' -%}
-	{%- assign sectiontemp2 = sectiontemp | split: 'sac-ac-start' | last -%}	
+	{%- assign sectiontemp2 = sectiontemp1 | split: 'sac-ac-start' | last -%}	
 		<p>{{ sectiontemp2 | slice: 0 }}</p>	
 {%- endfor -%}
 
