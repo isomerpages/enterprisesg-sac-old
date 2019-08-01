@@ -4,9 +4,12 @@ title: test
 permalink: /test
 ---
 
+{%- if site.courses -%}
+<p>courses exist</p>
+{%- else -%}
+<p>courses do not exist</p>
+{%- endif -%}
+{% assign trainingCourses = site.posts | where: "category", "courses" %}
+<p>{{- trainingCourses | size -}}</p>
 {%- assign filteredCourses = site['courses'] -%}
 <p>{{- filteredCourses | size -}}</p>
-{%- assign filteredCoursesPosts = site['courses']['_posts'] -%}
-<p>{{- filteredCoursesPosts | size -}}</p>
-{%- assign aboutCollection = site['about'] -%}
-<p>{{- aboutCollection | size -}}</p>
