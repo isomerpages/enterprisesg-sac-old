@@ -1,5 +1,5 @@
 ---
-layout: committee-test
+layout: committee
 committee: council-committee
 title: Council Committee
 permalink: /about/our-organisation-and-structure/council-committees
