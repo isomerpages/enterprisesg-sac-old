@@ -11,13 +11,10 @@ permalink: /test
 {%- endif -%}
 {% assign trainingCourses = site.posts | where: "collection_name", "courses" %}
 <p>{{- trainingCourses | size -}}</p>
-{% assign trainingCourses1 = site.posts | where: "categories", "courses" %}
-<p>{{- trainingCourses1 | size -}}</p>
+{% assign posts = site.categories['courses'] %}
+<p>{{- posts | size -}}</p>
 
 {%- for course in site.courses -%}
 <p>{{- course.path -}}</p>
 {%- endfor -%}
 
-{%- for post in site.posts -%}
-<p>{{- post.category -}}</p>
-{%- endfor -%}
