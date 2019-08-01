@@ -20,7 +20,7 @@ SAC has more than 20 years of experience in providing training to assist organis
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
 	{% assign posts = site.categories['courses'] %}
-	{%- assign latestCourse = posts | last -%}
+	{%- assign latestCourse = posts | first -%}
 	{%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
 	{%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 	{%- for i in (0..4) -%}
