@@ -7,7 +7,7 @@ second_nav_title: "Accreditation Services"
 ---
 ## About
 
-Accreditation is an endorsement of a certification body’s independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
+Accreditation is an endorsement of a certification body's independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
 
 ### About the Schemes
 
@@ -98,4 +98,4 @@ As a member of the Multilateral Recognition Arrangement (MLA) for Quality Manage
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body's office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process. 
 
 The detailed description of the accreditation process can be seen below:  
-![Accreditation Services Chart](/images/services/accreditation_process.png)
+![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
