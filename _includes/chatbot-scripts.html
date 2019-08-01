@@ -141,6 +141,7 @@ window.onload = function(){
 <script>
     //change title of training table dynamically
     var trainingYearTitle = document.getElementById('training-calendar-year-title');
+    console.log(trainingYearTitle.length);
     var trainingCoursesTables = document.getElementsByClassName('trainingCoursesTable');
     if (trainingCoursesTables.length > 0) {
         trainingYearTitle.textContent = trainingCoursesTables[0].id.replace('training-table-','');
@@ -164,6 +165,7 @@ window.onload = function(){
                     }
 
                     var refYear = this.getAttribute("data-refYear");
+                    console.log("refYear", refYear);
                     var refTrainingTableID = "training-table-" + refYear;
                     var refTrainingTable = document.getElementById(refTrainingTableID);
                     if (refTrainingTable != null) {
