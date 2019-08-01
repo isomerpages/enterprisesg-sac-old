@@ -19,12 +19,13 @@ SAC has more than 20 years of experience in providing training to assist organis
 		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
-	{%- assign latestCourse = site.courses | last -%}
+	{% assign posts = site.categories['courses'] %}
+	{%- assign latestCourse = posts | last -%}
 	{%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
 	{%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
-		{%- assign filteredCourses = site.courses | where_exp: "item", "item.course_date contains currCourseYear" -%}
+		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" -%}
 		{%- if filteredCourses.size == 0 -%}
 		    {%- break -%}
 		{%- else -%}			
