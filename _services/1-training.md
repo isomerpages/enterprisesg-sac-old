@@ -7,9 +7,11 @@ collection_name: services
 ---
 
 {::nomarkdown}
+
 {% assign posts = site.categories['courses'] %}
 {%- assign latestCourse = posts | first -%}
 {%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
+
 <div id="training-calendar">	
 	<h3>TRAINING CALENDAR&nbsp;<span id="training-calendar-year-title">{{- latestCourseYear -}}</span></h3>
 	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
