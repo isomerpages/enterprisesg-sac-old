@@ -479,6 +479,11 @@ hr {
 			margin-top: 2rem !important;
 			margin-bottom: 2rem !important;
 		}
+		img {
+			display: inline-block;
+			vertical-align:middle;
+			margin: 0 1rem;
+		}
 	}
 	h2 {
 		@include touch() {
