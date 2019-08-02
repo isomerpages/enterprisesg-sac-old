@@ -488,7 +488,7 @@ hr {
 				margin: 0 1rem;
 			}
 			@include touch() {
-				max-width: 150px;
+				max-width: 120px;
 				margin-left: 0;
 			}
 		}
