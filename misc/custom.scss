@@ -480,9 +480,12 @@ hr {
 			margin-bottom: 2rem !important;
 		}
 		img {
-			display: inline-block;
-			vertical-align:middle;
-			margin: 0 1rem;
+			@include desktop() {
+				height: 100px;
+				display: inline-block;
+				vertical-align:middle;
+				margin: 0 1rem;
+			}
 		}
 	}
 	h2 {
