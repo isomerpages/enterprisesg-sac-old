@@ -14,6 +14,8 @@ Our valued Customers and Stakeholders share their congratulatory messages here, 
  
 ![Analabs Logo](/images/success-stories/analab-logo.png)
 ### Analytical Laboratories (Singapore) Pte Ltd
+
+| ![Analabs Logo](/images/success-stories/analab-logo.png){: style="width:50px"} | ### Analytical Laboratories (Singapore) Pte Ltd |
  
 "By getting accredited, ANALABS has gained international acceptance of our test results through various Mutual Recognition Arrangements among accreditation bodies. This has greatly enhanced the credibility of our operations."
 
