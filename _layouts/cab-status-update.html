@@ -1,0 +1,30 @@
+---
+layout: leftnav-page-content
+---
+
+{%- assign status = site.data.cab-status-update -%}
+{%- for section in status -%}
+		<table>
+            <thead>
+                {%- for row in firstMember -%}	
+                    <th>{{- row[0] | capitalize -}}</th>						
+                {%- endfor -%}
+            </thead>
+            <tbody>	
+                {%- for member in committee.members -%}
+                <tr>
+                    {%- for row in firstMember -%}	
+                        {% assign keyName = row[0] %}
+                        <td {% if forloop.first == true and keyName == "designation" %} style="font-weight:bold;"{% endif %}>
+                        {%- if keyName == "email" -%}
+                        <a href="mailto:{{- member[keyName] -}}">{{- member[keyName] -}}</a>
+                        {%- else -%}
+                        {{- member[keyName] -}}
+                        {%- endif -%}
+                        </td>					
+                    {%- endfor -%}
+                </tr>
+                {%- endfor -%}
+            </tbody>
+        </table>
+	{%- endfor -%}
