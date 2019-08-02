@@ -480,8 +480,8 @@ hr {
 			margin-bottom: 2rem !important;
 		}
 		img {
+			max-height: 100px;
 			@include desktop() {
-				max-height: 100px;
 				display: inline-block;
 				vertical-align:middle;
 				margin: 0 1rem;
