@@ -12,8 +12,8 @@ Often during the accreditation process, organisations that embrace quality will 
 
 Our valued Customers and Stakeholders share their congratulatory messages here, as we mark the 10th anniversary of the SAC and 20th anniversary of accreditation in Singapore.
 
-
-![Analabs Logo](/images/success-stories/analab-logo.png){:style="width:100px"}
+{:style="width:100px;"}
+![Analabs Logo](/images/success-stories/analab-logo.png)
 
 ### Analytical Laboratories (Singapore) Pte Ltd 
 
