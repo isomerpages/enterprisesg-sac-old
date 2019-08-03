@@ -1,34 +1,6 @@
 ---
-layout: leftnav-page-content
+layout: post
 ---
 
 {%- assign status = site.data.cab-status-update -%}
 {{ status | size }}
-{%- for section in status -%}
-	<h3>{{- status.newly-accredited.title -}}</h3>
-	{%- for section in status -%}
-	<table>
-            <thead>
-				<th>Field</th>
-				<th>Company</th>
-				<th></th>
-            </thead>
-            <tbody>	
-                {%- for member in committee.members -%}
-                <tr>
-                    {%- for row in firstMember -%}	
-                        {% assign keyName = row[0] %}
-                        <td {% if forloop.first == true and keyName == "designation" %} style="font-weight:bold;"{% endif %}>
-                        {%- if keyName == "email" -%}
-                        <a href="mailto:{{- member[keyName] -}}">{{- member[keyName] -}}</a>
-                        {%- else -%}
-                        {{- member[keyName] -}}
-                        {%- endif -%}
-                        </td>					
-                    {%- endfor -%}
-                </tr>
-                {%- endfor -%}
-            </tbody>
-        </table>
-	{%- endfor -%}
-{%- endfor -%}
