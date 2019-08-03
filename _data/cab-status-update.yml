@@ -1,40 +1,7 @@
 - title: "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
   - type: Laboratory
-    - field: Chemical & Biological Testing
-      - name: Myanmar Department of Food and Drug Administration
-        date: 14 June 2019
-    - field: Civil Engineering
-      - name: NC Consult & Services Pte Ltd
-        date: 19 June 2019
-    - field: Calibration & Measurement
-      - name: Soil Tech Laboratory and Trading Pte Ltd 
-        date: 06 May 2019
-      - name: TIS Instruments (S) Pte Ltd
-        date: 15 May 2019  
-    - field: Non-Destructive Testing
-      - name: PT. A Star & Inspection
-        date: 14 May 2019
-  - type: Certification Body   
-    - field: Auditing Organisation 
-      - name: QA Technic Pte Ltd 
-        date: 05 May 2019
-      - name: EQA IMS Certification Pte Ltd
-        date: 27 June 2019
-      - name: Bond International Consultants Pte Ltd 
-        date: 01 July 2019
-      - name: Safety First Pte Ltd 
-        date: 18 July 2019
-    - field: Validation and Verification Body 
-      - name: TUV SUD PSB Pte Ltd
-        date: 07 May 2019
-      - name: EPI Certification Pte Ltd
-        date: 02 July 2019
+  - type: Certification body
 - title: "2. Suspended Laboratory / Certification Body / Inspection Body"
-  - type:  Inspection Body
-    - field: Hook-Lift & Container Inspection 
-      - name: AJK Engineering Pte Ltd
-        date: 29 March 2019 - 28 June 2019
-  - type: Certification Body   
-    - field: Auditing Organisation
-      - name: A Star Safety Consultants Pte Ltd
-        date: 14 June 2019 - 13 September 2019
+  - type: Laboratory
+  - type: Certification body
+
