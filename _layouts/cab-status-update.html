@@ -3,12 +3,15 @@ layout: leftnav-page-content
 ---
 
 {%- assign status = site.data.cab-status-update -%}
+{{ status | size }}
 {%- for section in status -%}
-		<table>
+	<h3>{{- status.newly-accredited.title -}}</h3>
+	{%- for section in status -%}
+	<table>
             <thead>
-                {%- for row in firstMember -%}	
-                    <th>{{- row[0] | capitalize -}}</th>						
-                {%- endfor -%}
+				<th>Field</th>
+				<th>Company</th>
+				<th></th>
             </thead>
             <tbody>	
                 {%- for member in committee.members -%}
@@ -28,3 +31,4 @@ layout: leftnav-page-content
             </tbody>
         </table>
 	{%- endfor -%}
+{%- endfor -%}
