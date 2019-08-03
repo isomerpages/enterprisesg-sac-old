@@ -1,5 +1,5 @@
 ---
-layout: cab-status-update
+layout: post
 title: CAB Success Stories
 date:   2019-04-22
 permalink: /newsroom/cab-success-stories
