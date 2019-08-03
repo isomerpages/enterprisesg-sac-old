@@ -1,6 +1,4 @@
-# Newly Accredited
-newly-accredited:
-  title: "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
+- title: "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
   - type: Laboratory
     - field: Chemical & Biological Testing
       - name: Myanmar Department of Food and Drug Administration
@@ -31,10 +29,7 @@ newly-accredited:
         date: 07 May 2019
       - name: EPI Certification Pte Ltd
         date: 02 July 2019
-
-# Suspended 
-suspended:
-  title: "2. Suspended Laboratory / Certification Body / Inspection Body"
+- title: "2. Suspended Laboratory / Certification Body / Inspection Body"
   - type:  Inspection Body
     - field: Hook-Lift & Container Inspection 
       - name: AJK Engineering Pte Ltd
