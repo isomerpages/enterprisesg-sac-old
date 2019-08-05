@@ -112,6 +112,7 @@ Essentially, the steps are:
 
 _Image files have to be deleted and re-uploaded to Github everytime you wish to edit an image._
 
+<a name="customising-image"></a>
 ### Customising an Image
 
 Images are displayed in their full width and height in the centre of each page by default. To edit the image size or alignment, additional attributes can be added after the inline Markdown image.
@@ -388,32 +389,12 @@ table {
 5. Click on "Commit changes" button to save.
 
 ### Editing 'How to use SAC / ILAC / IAF Marks' Page
-This page contains tables for some of the images that are aligned side-by-side. In addition, the tables have been customised and the 'image-caption-table' customisation name (or HTML 'classname') is added before each Markdown table syntax, as shown below:
+This page contains tables for some of the images that are aligned side-by-side. In addition, the image size may be customised so that both aligned images are the same width, as shown below:
+
 ```
-{: .image-caption-table}
-|![SAC Mark 1 image name](SAC-mark1-image-link) | ![SAC Mark 2 image name](SAC-mark2-image-link) |
-| SAC Mark 1 caption | SAC Mark 2 caption |
+|![SAC Mark 1 image name](SAC-mark1-image-link){: style="width: 300px"} *SAC Mark 1 caption* | ![SAC Mark 2 image name](SAC-mark2-image-link){: style="width: 300px"} *SAC Mark 2 caption* |
 ```
-
-Essentially, the 'image-caption-table' customisation contains styling information for aligning the SAC mark images and captions in each table cell. The customisation can be edited using the steps:
-
-1. Select your "Staging" Branch in the repository
-2. Go into the "misc" folder
-3. Edit the custom.scss file
-4. Search for the ".image-caption-table" code block. Change the attributes by amending the section within the code blocks
-
-```css
-# Sample custom.scss file section for reference
-
-table {
-	&.image-caption-table {
-		//edit content here
-		...
-	}
-}
-```
-
-5. Click on "Commit changes" button to save.
+Refer to [Customising an Image](#customising-image) to learn more.
 
 ### Editing 'FAQ' Page
 The FAQ page follows the customised 'FAQ' template layout. The data in the FAQ page can be edited in the 'faq.yaml' file of the '_data' folder.
