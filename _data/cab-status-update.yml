@@ -1,5 +1,5 @@
 # Newly Accredited CABs
-newly-accredited:
+- status: accreditation
   title:  "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
   category-list:
   - category: Laboratory
@@ -42,7 +42,7 @@ newly-accredited:
         date: 02 July 2019 
         
 # Suspended CABs
-suspended:
+- status: suspension
   title:  "2. Suspended Laboratory / Certification Body / Inspection Body"
   category-list:
   - category: Inspection Body
@@ -59,7 +59,7 @@ suspended:
         date: 14 June 2019 - 13 September 2019
 
 # Withdrawn CABs
-withdrawn:
+- status: withdrawal
   title:  "3. Withdrawn Laboratory / Certification Body / Inspection Body"
   voluntary:
     description: "Voluntary Withdrawal by CABs"
@@ -121,5 +121,5 @@ withdrawn:
           date: 07 May 2019 
           
 # Inoperative CABs
-inoperative:
+- status: inoperation
   title:  " 4. Others - Inoperative"    
