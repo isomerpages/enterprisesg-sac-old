@@ -40,7 +40,7 @@ newly-accredited:
         date: 07 May 2019
       - name: EPI Certification Pte Ltd
         date: 02 July 2019 
-
+        
 # Suspended CABs
 suspended:
   title:  "2. Suspended Laboratory / Certification Body / Inspection Body"
@@ -100,7 +100,26 @@ withdrawn:
           date: 26 April 2019
   withdrawal:
     description: "Withdrawal by SAC"
- 
+    category-list:
+    - category: Inspection Body
+      field-list:
+      - field: Cargo Inspection
+        company-list:
+        - name: Oceanus Nexus Marine Consultants Pte Ltd
+          date: 2 March 2017
+        - name: Poseidon Marine Pte Ltd
+          date: 23 July 2019  
+    - category: Laboratory
+      field-list:
+      - field: Civil Engineering
+        company-list:
+        - name: ABSK Pte Ltd
+          date: 05 February 2018
+      - field: Calibration & Measurement
+        company-list:
+        - name: Kalswift Singapore Pte Ltd
+          date: 07 May 2019 
+          
 # Inoperative CABs
 inoperative:
   title:  " 4. Others - Inoperative"        
