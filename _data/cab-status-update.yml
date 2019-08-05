@@ -62,7 +62,9 @@ suspended:
 withdrawn:
   title:  "3. Withdrawn Laboratory / Certification Body / Inspection Body"
   voluntary:
+    description: "Voluntary Withdrawal by CABs"
   withdrawal:
+    description: "Withdrawal by SAC"
   
 # Inoperative CABs
 inoperative:
