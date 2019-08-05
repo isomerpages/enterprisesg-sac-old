@@ -10,7 +10,7 @@ layout: leftnav-page-content
       <thead>
         <th>Field</th>
         <th>Company</th>
-        <th>Date of {{-statusData.status -}}</th>
+        <th>Date of {{- statusData.status | capitalize -}}</th>
       </thead>
       {%- for fieldList in categoryList.field-list -%}
       <tbody>
