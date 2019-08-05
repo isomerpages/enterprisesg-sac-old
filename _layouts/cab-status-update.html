@@ -2,10 +2,27 @@
 layout: leftnav-page-content
 ---
 
-{%- assign status = site.data[page.layout] -%}
-<p>{{- status | size -}}</p>
-{%- for statusType in status -%}
-  <p>{{- statusType.status -}}</p>
-  <h3>{{- statusType.title -}}</h3>
-    
+{%- assign statusData = site.data[page.layout] -%}
+{%- for statusType in statusData -%}
+  {%- for categoryList in statusType.category-list -%}
+    <h4>{{- categoryList.category -}}</h4>
+    <table>
+      <thead>
+        <th>Field</th>
+        <th>Company</th>
+        <th>Date of {{-statusData.status -}}</th>
+      </thead>
+      {%- for fieldList in categoryList.field-list -%}
+      <tbody>
+        {%- for companyList in fieldList.company-list -%}
+        <tr>  
+          <td>{%- if forloop.first == true -%}{{- fieldList.field -}}{%- endif -%}</td>
+          <td>{{- companyList.name -}}</td>
+          <td>{{- companyList.date -}}</td>
+        </tr>
+        {%- endfor -%}
+      </tbody>  
+      {%- endfor -%}	
+     </table>
+  {%- endfor -%}	
 {%- endfor -%}	
