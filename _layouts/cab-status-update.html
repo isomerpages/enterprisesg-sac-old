@@ -3,7 +3,8 @@ layout: leftnav-page-content
 ---
 
 {%- assign status = site.data[page.layout] -%}
-<h3>status.newly-accredited.title</h3>
+<p>{{- status | size -}}</p>
+<h3>{{- status.newly-accredited.title -}}</h3>
 {%- for statusType in status -%}
   <h3>{{- statusType.title -}}</h3>
     
