@@ -24,9 +24,7 @@ collection_name: resources
 * An accredited laboratory or inspection body is encouraged to use the Accredited CAB Combined ILAC MRA Mark to demonstrate that the
 laboratory or inspection body is accredited by a signatory of the International Laboratory Accreditation Cooperation (ILAC) Mutual Recognition Arrangement. The ILAC MRA Mark shall only be used in combination with the SAC accreditation mark which is then known as the "Accredited CAB Combined ILAC MRA Mark". 
 
-{: .image-caption-table}
-| ![Combined ILAC MRA Mark for Accredited Laboratory](/images/how-to-use-marks/ilac-mra-mark-laboratory.jpg){: style="width: 300px"} | ![Combined ILAC MRA Mark for Accredited Inspection Body](/images/how-to-use-marks/ilac-mra-mark-inspection-body.jpg){: style="width: 300px"} |
-| for Accredited Laboratory | for Accredited Inspection Body |
+| ![Combined ILAC MRA Mark for Accredited Laboratory](/images/how-to-use-marks/ilac-mra-mark-laboratory.jpg){: style="width: 300px"} *for Accredited Laboratory* | ![Combined ILAC MRA Mark for Accredited Inspection Body](/images/how-to-use-marks/ilac-mra-mark-inspection-body.jpg){: style="width: 300px"} *for Accredited Inspection Body* |
 
 * The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
