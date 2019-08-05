@@ -1,12 +1,23 @@
 - title:  "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
-  company-list:
-    - type: Laboratory
-      name: ABC
-    - type: Certification body
-      name: DEF
+  - category: Laboratory
+    company-list:
+      - field: Chemical & Biological Testing
+        name: Myanmar Department of Food and Drug Administration
+        date: 14 June 2019
+      - field: Civil Engineering
+        name: NC Consult & Services Pte Ltd
+        date: 19 June 2019
+  - category: Certification Body  
+    company-list:
+      - field: Validation and Verification Body
+        name: TUV SUD PSB Pte Ltd
+        date: 07 May 2019
+      - field: Auditing Organisation 
+        name: QA Technic Pte Ltd
+        date: 05 May 2019
 - title:  "2. Suspended Laboratory / Certification Body / Inspection Body"
-  company-list:
-    - type: Laboratory
-      name: ABC
-    - type: Certification body
-      name: DEF
+  - category: Inspection Body
+    company-list:
+      - field: Hook-Lift & Container Inspection  
+        name: AJK Engineering Pte Ltd
+        date: 05 May 2019
