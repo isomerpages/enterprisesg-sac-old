@@ -5,25 +5,5 @@ layout: leftnav-page-content
 {%- assign status = site.data[page.layout] -%}
 {%- for statusType in status -%}
   <h3>{{- statusType.title -}}</h3>
-  {%- for categoryList in statusType.category-list -%}
-    <h4>{{- categoryList.category -}}</h4>
-    <table>
-      <thead>
-        <th>Field</th>
-        <th>Company</th>
-        <th>Date of</th>
-      </thead>
-      {%- for fieldList in categoryList.field-list -%}
-      <tbody>
-        {%- for companyList in fieldList.company-list -%}
-        <tr>  
-          <td>{%- if forloop.first == true -%}{{- fieldList.field -}}{%- endif -%}</td>
-          <td>{{- companyList.name -}}</td>
-          <td>{{- companyList.date -}}</td>
-        </tr>
-        {%- endfor -%}
-      </tbody>  
-      {%- endfor -%}	
-     </table>
-  {%- endfor -%}	  
+    
 {%- endfor -%}	
