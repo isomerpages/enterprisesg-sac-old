@@ -5,36 +5,6 @@ layout: leftnav-page-content
 {%- assign statusData = site.data[page.layout] -%}
 {%- for statusType in statusData -%}
   <h3>{{- statusType.title -}}</h3>
-  {%- if statusType.withdrawal-type -%}
-    {%- for withdrawalType in statusType.withdrawal-type -%}
-      <h4 style="font-weight:bold;">{{- withdrawalType.description -}}<h4>
-      {%- assign categoryList = withdrawalType.category-list -%}
-  {%- else -%}  
-    {%- assign categoryList = statusType.category-list -%}  
-  {%- endif -%}
-  <p>{{- categoryList | size -}}</p>
-  {%- for categories in categoryList -%}
-    <h4>{{- categories.category | capitalize -}}</h4>
-    <table>
-      <thead>
-        <th>Field</th>
-        <th>Company</th>
-        <th>Date of &nbsp;{{- statusType.status | capitalize -}}</th>
-      </thead>
-      {%- for fieldList in categories.field-list -%}
-      <tbody>
-        {%- for company in fieldList.company-list -%}
-        <tr>  
-          <td>{%- if forloop.first == true -%}{{- fieldList.field | capitalize -}}{%- endif -%}</td>
-          <td>{{- company.name -}}</td>
-          <td>{{- company.date -}}</td>
-        </tr>
-        {%- endfor -%}
-      </tbody>  
-      {%- endfor -%}	
-     </table>
-  {%- endfor -%}	
-  {%- if statusType.withdrawal-type -%}
-    {%- endfor -%}
-  {%- endif -%}      
+  <p>{{- statusType | size -}}</p>
+  
 {%- endfor -%}	
