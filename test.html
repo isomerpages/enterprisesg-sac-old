@@ -1,7 +1,11 @@
 ---
 
 ---
-
-
-<a href="javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('src', 'https://isomer-sac-demo-staging.netlify.com/misc/scripts/create-new-post.js');document.body.appendChild(jsCode); 
+<html>
+ <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
+ <body>
+  <a href="javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('src', 'https://isomer-sac-demo-staging.netlify.com/misc/scripts/create-new-post.js');document.body.appendChild(jsCode); 
  }());" style="display:inline-block;padding:2rem; background-color:red; color:white;">Create New Post</a>
+ </body>
+</html>
+
