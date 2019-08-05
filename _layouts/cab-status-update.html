@@ -9,6 +9,7 @@ layout: leftnav-page-content
     {%- for withdrawalType in statusType.withdrawal-type -%}
       <h4 style="font-weight:bold;">{{- withdrawalType.description -}}<h4>
       {%- assign categoryList = withdrawalType.category-list -%}
+    {%- endfor -%}    
   {%- else -%}  
     {%- assign categoryList = statusType.category-list -%}  
   {%- endif -%}
