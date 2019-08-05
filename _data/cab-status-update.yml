@@ -1,6 +1,12 @@
-- title: "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
-  - type: "Laboratory"
-  - type: "Certification body"
-- title: "2. Suspended Laboratory / Certification Body / Inspection Body"
-  - type: "Laboratory"
-  - type: "Certification body"
+- title:  "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
+  company-list:
+    - type: Laboratory
+      name: ABC
+    - type: Certification body
+      name: DEF
+- title:  "2. Suspended Laboratory / Certification Body / Inspection Body"
+  company-list:
+    - type: Laboratory
+      name: ABC
+    - type: Certification body
+      name: DEF
