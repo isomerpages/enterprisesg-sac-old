@@ -1,4 +1,6 @@
-- title:  "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
+# Newly Accredited CABs
+newly-accredited:
+  title:  "1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider"
   category-list:
   - category: Laboratory
     field-list:
@@ -38,7 +40,10 @@
         date: 07 May 2019
       - name: EPI Certification Pte Ltd
         date: 02 July 2019 
-- title:  "2. Suspended Laboratory / Certification Body / Inspection Body"
+
+# Suspended CABs
+suspended:
+  title:  "2. Suspended Laboratory / Certification Body / Inspection Body"
   category-list:
   - category: Inspection Body
     company-list:
