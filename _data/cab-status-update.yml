@@ -61,7 +61,8 @@ suspended:
 # Withdrawn CABs
 withdrawn:
   title:  "3. Withdrawn Laboratory / Certification Body / Inspection Body"
-  - description: "Voluntary Withdrawal by CABs"
+  voluntary-withdrawn:
+    desription: "Voluntary Withdrawal by CABs"
     category-list:
     - category: Laboratory
       field-list:
@@ -97,7 +98,8 @@ withdrawn:
           date: 13 March 2019    
         - name: Singapore Test Services Pte Ltd
           date: 26 April 2019
-  - description: "Withdrawal by SAC"
+  withdrawal-by-SAC:
+    desription: "Withdrawal by SAC"
     category-list:
     - category: Inspection Body
       field-list:
