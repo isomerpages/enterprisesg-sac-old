@@ -4,7 +4,7 @@ layout: leftnav-page-content
 
 {%- assign statusData = site.data[page.layout] -%}
 {%- for statusType in statusData -%}
-  <h3>statusData.title</h3>
-  <p>statusData.status</p>
+  <h3>{{- statusData.title -}}</h3>
+  <p>{{- statusData.status -}}</p>
   	
 {%- endfor -%}	
