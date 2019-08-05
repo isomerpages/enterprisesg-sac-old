@@ -1,5 +1,4 @@
-alert(location.href);
-if (location.href.indexOf("https://github.com/isomerpages/enterprisesg-sac") < 0)) {
+if (location.href.indexOf("https://github.com/isomerpages/enterprisesg-sac") < 0) {
   alert("This script only works in Github isomerpages enterprisesg-sac pages");
 }
 else {
