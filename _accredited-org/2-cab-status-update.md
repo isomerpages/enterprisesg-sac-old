@@ -1,9 +1,11 @@
 ---
-layout: cab-status-update
+layout: leftnav-page-content
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
 ---
+
+Testing 
 
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 
