@@ -5,6 +5,12 @@ layout: leftnav-page-content
 {%- assign statusData = site.data[page.layout] -%}
 {%- for statusType in statusData -%}
   <h3>{{- statusType.title -}}</h3>
-  <p>{{- statusType | size -}}</p>
-  
+  {%- if statusType.withdrawal-type -%}
+    {%- for withdrawalType in statusType.withdrawal-type -%}
+      <h4 style="font-weight:bold;">{{- withdrawalType.description -}}<h4>
+      {%- assign categoryList = withdrawalType.category-list -%}
+  {%- else -%}  
+    {%- assign categoryList = statusType.category-list -%}  
+  {%- endif -%}
+  <p>{{- categoryList | size -}}</p>
 {%- endfor -%}	
