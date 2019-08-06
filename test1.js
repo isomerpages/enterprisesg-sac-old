@@ -1,1 +1,0 @@
-javascript:(function(){ if (location.href.indexOf("https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/news-releases/_posts") >= 0) { alert("Copy and paste the snippet below into the editor\n\n---\nlayout: post\ntitle: Title of Post\ndate: YYYY-MM-DD\npermalink: /newsroom/news-releases/title-of-post\n---"); } })();
