@@ -8,3 +8,5 @@ _Right click and choose 'open in new tab' or 'open in new window' when clicking 
 * Create a new training course
 * Edit CAB Status 
 * Add / Edit
+
+date: "`r format(Sys.time(), '%d %B, %Y')`"
