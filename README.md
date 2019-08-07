@@ -11,6 +11,6 @@ _Right click and choose 'open in new tab' or 'open in new window' when clicking 
 
 <form id="form1" runat="server">
       <%=DateTime.Now.ToString() %>
-    </form>
+</form>
   
 <%=System.DateTime.Today.ToShortDateString() %> 
