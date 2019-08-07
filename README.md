@@ -9,5 +9,8 @@ _Right click and choose 'open in new tab' or 'open in new window' when clicking 
 * Edit CAB Status 
 * Add / Edit
 
-{{- site.baseurl -}}
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+<form id="form1" runat="server">
+      <%=DateTime.Now.ToString() %>
+    </form>
+  
+<%=System.DateTime.Today.ToShortDateString() %> 
