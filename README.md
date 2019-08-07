@@ -1,4 +1,4 @@
-<a href="https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=yournewfile.md&value=---%0Alayout:+post%0A---" target="_blank">Shortcut link to creating a new article post</a>
+<a target="_blank" href="https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=yournewfile.md&value=---%0Alayout:+post%0A---">Shortcut link to creating a new article post</a>
 
 This is a supplementary guide for adding and editing content on the SAC website. Most of the general details can be found in the official [Isomer Documentation Guide](https://isomer.gov.sg/documentation/training-materials/).
 
