@@ -1,5 +1,5 @@
 ## Supplementary Guide 
-The detailed documentation for the enterprisedg-sac Github Repository is stored in the wiki section in the navigation bar above (or click [here](/wiki) directly), and contains information on the organisation of the files in the repository as well as editing them. 
+The detailed documentation for the enterprisedg-sac Github Repository is stored in the wiki section in the navigation bar above (or click [here](./wiki) directly), and contains information on the organisation of the files in the repository as well as editing them. 
 
 ## Shortcut links
 
