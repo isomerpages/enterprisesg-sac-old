@@ -9,5 +9,5 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 * [Create a new training course](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
   _For a complete template, refer to a [sample course page](https://raw.githubusercontent.com/isomerpages/enterprisesg-sac/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor_
 
-* [Edit SAC council](/edit/staging/_data/board-of-directors.yml)
-  _To edit the pages of other committees, please navigate to the corresponding committee page in '_about' (/tree/staging/_about) folder._
+* [Edit SAC council](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_data/board-of-directors.yml)  
+  _To edit the pages of other committees, please navigate to the corresponding committee page in '_about' (https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about) folder._
