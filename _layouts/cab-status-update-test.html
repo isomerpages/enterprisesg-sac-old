@@ -5,8 +5,7 @@ layout: leftnav-page-content
 {%- assign sections = content | split: '<h' -%}
 {%- for section in sections -%}  
     {%- assign firstHeaderLevel = section | slice: 0 -%} 
-    {%- assign firstHeaderBackTag = '</h' | append: firstLevelHeader | append: '>' -%}
-    <p>{{- firstLevelHeader -}}</p>
+    {%- assign firstHeaderBackTag = '</h' | append: firstHeaderLevel | append: '>' -%}
     {%- if section contains '<ul' -%}
         {%- assign list = section -%} 
         {%- if section contains firstHeaderBackTag -%}
