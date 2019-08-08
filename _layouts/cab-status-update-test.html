@@ -12,12 +12,17 @@ layout: leftnav-page-content
             {%- assign sections1 = section | split: firstHeaderBackTag -%} 
             {%- for section1 in sections1 -%} 
                 {%- if section1 contains '</ul>' -%}
+                    {%- assign list = section1 -%}
                 {%- else -%}    
                     <h{{- section1 -}}{{- firstHeaderBackTag -}}
                 {%- endif -%}     
             {%- endfor -%} 
         {%- endif -%} 
-    {%- else -%}    
-        <h{{- section -}}
+    {%- else -%}
+        {%- if section contains firstHeaderBackTag -%}                  
+            <h{{- section -}}
+        {%- else -%}
+            {{- section -}}
+        {%- endif -%} 
     {%- endif -%}    
 {%- endfor -%}    
