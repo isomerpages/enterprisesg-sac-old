@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: cab-status-update-test
 title: CAB Status Update Test
 permalink: /accredited-org/cab-status-update-test
 collection_name: accredited-org
