@@ -6,6 +6,7 @@ layout: leftnav-page-content
 {%- for section in sections -%}  
     {%- assign firstHeaderLevel = section | slice: 0 -%} 
     {%- assign firstHeaderBackTag = '</h' | append: firstLevelHeader | append: '>' -%}
+    <p>"{{- firstHeaderBackTag -}}"</p>
     {%- if section contains '<ul' -%}
         {%- assign list = section -%} 
         {%- if section contains firstHeaderBackTag -%}
@@ -21,13 +22,13 @@ layout: leftnav-page-content
             {%- endfor -%} 
         {%- endif -%} 
     {%- else -%}
-        {%- if section contains firstHeaderBackTag -%}   
-            {%- assign toDisplay = '<h' | append: section -%}
+        {% if section contains firstHeaderBackTag %}   
+            {% assign toDisplay = '<h' | append: section %}
             <p>display1</p>
             {{- toDisplay -}}   
-        {%- else -%}
+        {% else %}
             <p>display2</p>
             {{- section -}}
-        {%- endif -%} 
-    {%- endif -%}    
+        {% endif %} 
+    {% endif %}    
 {%- endfor -%}    
