@@ -1,0 +1,8 @@
+---
+layout: leftnav-page-content
+---
+
+{%- assign sections = content | split: '<h' -%}
+{%- for section in sections -%}
+    <p>{{- section | slice: 0 -}}</p>
+{%- endfor -%}	
