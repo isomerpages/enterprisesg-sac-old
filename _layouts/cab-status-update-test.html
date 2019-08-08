@@ -3,6 +3,7 @@ layout: leftnav-page-content
 ---
 
 {%- assign sections = content | split: '<h' -%}
-{%- for section in sections -%}
-    <p>{{- section | slice: 0 -}}</p>
-{%- endfor -%}	
+{%- assign firstHeaderLevel = sections | first | slice: 0 -%} 
+<p>{{- firstHeaderLevel -}}</p>   
+{%- assign secondHeaderLevel = sections[1] | slice: 0 -%} 
+<p>{{- secondHeaderLevel -}}</p>
