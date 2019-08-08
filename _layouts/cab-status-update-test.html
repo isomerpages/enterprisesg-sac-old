@@ -14,13 +14,15 @@ layout: leftnav-page-content
                 {%- if section1 contains '</ul>' -%}
                     {%- assign list = section1 -%}
                 {%- else -%}    
-                    <h{{- section1 -}}{{- firstHeaderBackTag -}}
+                    {%- assign toDisplay = '<h' | append: section1 | append: firstHeaderBackTag -%}
+                    {{- toDisplay -}}
                 {%- endif -%}     
             {%- endfor -%} 
         {%- endif -%} 
     {%- else -%}
-        {%- if section contains firstHeaderBackTag -%}                  
-            <h{{- section -}}
+        {%- if section contains firstHeaderBackTag -%}   
+            {%- assign toDisplay = '<h' | append: section -%}
+            {{- toDisplay -}}   
         {%- else -%}
             {{- section -}}
         {%- endif -%} 
