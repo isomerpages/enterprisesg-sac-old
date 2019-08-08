@@ -19,7 +19,25 @@ layout: leftnav-page-content
                 {%- endif -%}     
             {%- endfor -%} 
         {%- endif -%} 
-               
+                <table>
+            <thead>
+                <tr>
+                        <th>Field</th>
+                        <th>Company</th>
+                        <th>Date of</th>
+                </tr>       
+            </thead>
+            {%- assign listSections = list| split: '<ul>' -%}  
+            {%- for listSection in listSections -%} 
+                 {%- if listSection contains '<li' -%}
+                     {%- if listSection contains '</li>' -%}
+                     
+                     {%- else -%}
+                        <tbody><tr><td>{{- listSection | strip_html -}}<td>
+                     {%- endif -%} 
+                 {%- endif -%} 
+            {%- endfor -%} 
+        </table>        
     {%- else -%}
         {% if section contains firstHeaderBackTag %}   
             {% assign header = '<h' | append: section %}
