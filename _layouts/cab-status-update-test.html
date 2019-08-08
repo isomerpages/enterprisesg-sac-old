@@ -4,6 +4,11 @@ layout: leftnav-page-content
 
 {%- assign sections = content | split: '<h' -%}
 {%- assign firstHeaderLevel = sections | first | slice: 0 -%} 
-<p>{{- firstHeaderLevel -}}</p>   
-{%- assign secondHeaderLevel = sections[1] | slice: 0 -%} 
-<p>{{- secondHeaderLevel -}}</p>
+{%- assign firstHeaderBackTag = '</h' | append: firstLevelHeader | append: '>' -%} >   
+{%- assign firstHeaderFrontTagPartial = '<h' | append: firstLevelHeader -%} > 
+{%- assign sections = content | split: firstHeaderBackTag -%}  
+{%- for section in sections -%}  
+    {%- if section contains firstHeaderFrontTagPartial -%}
+        section{{- firstHeaderBackTag -}}
+    {%- endif -%}
+{%- endfor -%}	  
