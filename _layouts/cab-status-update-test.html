@@ -9,6 +9,6 @@ layout: leftnav-page-content
 {%- assign sections = content | split: firstHeaderBackTag -%}  
 {%- for section in sections -%}  
     {%- if section contains firstHeaderFrontTagPartial -%}
-        section{{- firstHeaderBackTag -}}
+        {{- section | append: firstHeaderBackTag -}}
     {%- endif -%}
 {%- endfor -%}	  
