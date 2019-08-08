@@ -3,12 +3,21 @@ layout: leftnav-page-content
 ---
 
 {%- assign sections = content | split: '<h' -%}
-{%- assign firstHeaderLevel = sections | first | slice: 0 -%} 
-{%- assign firstHeaderBackTag = '</h' | append: firstLevelHeader | append: '>' -%} >   
-{%- assign firstHeaderFrontTagPartial = '<h' | append: firstLevelHeader -%} > 
-{%- assign sections = content | split: firstHeaderBackTag -%}  
 {%- for section in sections -%}  
-    {%- if section contains firstHeaderFrontTagPartial -%}
-        {{- section | append: firstHeaderBackTag -}}
-    {%- endif -%}
-{%- endfor -%}	  
+    {%- assign firstHeaderLevel = section | slice: 0 -%} 
+    {%- assign firstHeaderBackTag = '</h' | append: firstLevelHeader | append: '>' -%}
+    {%- if section contains '<ul' -%}
+        {%- assign list = section -%} 
+        {%- if section contains firstHeaderBackTag -%}
+            {%- assign sections1 = section | split: firstHeaderBackTag -%} 
+            {%- for section1 in sections1 -%} 
+                {%- if section1 contains '</ul>' -%}
+                {%- else -%}    
+                    <h{{- section1 -}}{{- firstHeaderBackTag -}}
+                {%- endif -%}     
+            {%- endfor -%} 
+        {%- endif -%} 
+    {%- else -%}    
+        <h{{- section -}}
+    {%- endif -%}    
+{%- endfor -%}    
