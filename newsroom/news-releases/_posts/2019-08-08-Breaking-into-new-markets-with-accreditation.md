@@ -13,8 +13,6 @@ Accreditation – providing confidence in companies performing testing, calibrat
 
 **Benefits of using accredited conformity assessment bodies**
  
-### Benefits of using accredited conformity assessment bodies
- 
 As more businesses around the world specify accredited services as part of their supplier qualification requirements, companies which had been adopting them would gain a headstart and a competitive advantage over competitors. Accreditation underpins the credibility of goods and services and adoption of standards, and can be used by businesses as a cost-effective technical assurance as overseas markets are more ready to accept the reports of an accredited conformity assessment body (CAB).
  
 With accreditation, businesses are able to reduce the need for re-testing, re-inspection or re-certification of their products, thus lowering costs and time when entering foreign markets. Regulators are also leveraging accredited Testing, Inspection & Certification (TIC) services to ensure the quality and standards of products and services across different application areas.
@@ -23,7 +21,7 @@ With accreditation, businesses are able to reduce the need for re-testing, re-in
 
 ![foodindustry](/images/press-release/photos/foodindustry.jpg)
 
-Accreditation in the food industry
+**Accreditation in the food industry**
  
 The food industry is a good example of how accredited TIC services can help businesses protect their brand and reputation, and ease their entry into other markets. With consumers increasingly concerned about the safety and quality of food, independent assurance in the form of accreditation plays a crucial role in demonstrating that products meet applicable standards.
  
