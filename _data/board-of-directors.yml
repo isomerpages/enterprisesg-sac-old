@@ -1,25 +1,21 @@
 # Board of Directors
-  - name: Mr Renny Yeo
+  - name: "Mr Renny Yeo"
     title: Chairman
     organisation: Tai Sing Electric Ltd 
     image-url: /images/about/our-organisation-structure/Renny-Yeo-HR2.JPG
-  - name: Mr Alok Mishra 
+  - name: "Mr Alok Mishra" 
     title: Deputy Chairman
     organisation: Value Addition, Singapore
     image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Mr Tan Kai Hoe 
+  - name: "Mr Tan Kai Hoe" 
     title: Deputy Chairman
     organisation: Accuron Technologies Limited
     image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Dr Leslie Retnam
-    title: Member
-    organisation: National University of Singapore
-    image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Mr Albert Kee
+  - name: "Mr Albert Kee"
     title: Member
     organisation: Association of Singapore Marine Industries (ASMI)
     image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Er Thanabal Kaliannan (Alternate&#58; Er Lung Hian Hao)
+  - name: "Er Thanabal Kaliannan (Alternate: Er Lung Hian Hao)"
     title: Member
     organisation: Building and Construction Authority (BCA)
     image-url: /images/about/our-organisation-structure/person.jpg
@@ -27,7 +23,7 @@
     title: Member
     organisation: Health Sciences Agency (HSA)
     image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Mr Martin Khoo (Alternate&#58; Mr Ken Low)
+  - name: "Mr Martin Khoo (Alternate: Pending)"
     title: Member
     organisation: Info-Communications Media Development Authority (IMDA)
     image-url: /images/about/our-organisation-structure/person.jpg
@@ -36,10 +32,10 @@
     organisation: Ministry of Health (MOH)
     image-url: /images/about/our-organisation-structure/person.jpg
   - name: Mr Silas Sng Wee Kiat
-    title: Vice President
+    title: Member
     organisation: Ministry of Manpower (MOM)
     image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Ms Mary Elizabeth Chelliah (Alternate&#58;  Mr Andrew Chua)
+  - name: "Ms Mary Elizabeth Chelliah (Alternate:  Mr Andrew Chua)"
     title: Executive Director
     organisation: Ministry of Trade and Industry (MTI)
     image-url: /images/about/our-organisation-structure/person.jpg
@@ -47,6 +43,10 @@
     title: Member
     organisation: National Environment Agency (NEA)
     image-url: /images/about/our-organisation-structure/person.jpg
+  - name: Dr Leslie Retnam
+    title: Member
+    organisation: National University of Singapore
+    image-url: /images/about/our-organisation-structure/person.jpg  
   - name: Ms Ong Shwu Hoon
     title: Member
     organisation: Singapore Business Federation (SBF)
@@ -55,13 +55,17 @@
     title: Member
     organisation: Singapore Contractors Association Ltd (SCAL)
     image-url: /images/about/our-organisation-structure/person.jpg
+  - name: Dr Tan Lee Kim
+    title: Member
+    organisation: Singapore Food Agency
+    image-url: /images/about/our-organisation-structure/person.jpg  
   - name: Mr Tay Jih-Hsin
     title: Member
     organisation: Singapore Manufacturing Federation (SMF)
     image-url: /images/about/our-organisation-structure/person.jpg
   - name: Mr Richard Hong See Yen
     title: Member
-    organisation: Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group&#58; Certification Bodies&#39; Representative
+    organisation: "Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group&#58; Certification Bodies&#39; Representative"
     image-url: /images/about/our-organisation-structure/person.jpg
   - name: Mr Sze Thiam Siong
     title: Member
@@ -79,7 +83,7 @@
     title: Member
     organisation: Singapore Quality Institute (SQI)
     image-url: /images/about/our-organisation-structure/person.jpg
-  - name: Mr Chris Ng
+  - name: Mr Edmund Ooi
     title: Member
     organisation: Smart Nation and Digital Government Office 
     image-url: /images/about/our-organisation-structure/person.jpg
