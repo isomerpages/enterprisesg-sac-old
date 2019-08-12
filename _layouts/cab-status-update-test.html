@@ -46,9 +46,9 @@ layout: leftnav-page-content
                                     {%- assign isFirstRow = false -%} 
                                 {%- endif -%}
                                 {%- assign listSectionTempArr = listSectionTemp | split: '(' -%} 
-                                {%- assign columnDate = listSectionTempArr | last -%} 
-                                <td>{{- listSectionTemp | remove: columnDate | remove: '(' | strip_html | strip -}}</td>
-                                <td style="text-align:right">{{- columnDate | strip_html | remove: ')' | remove: 'Suspended' | strip -}}</td>
+                                {%- assign columnDate = listSectionTempArr | last | prepend: '(' -%} 
+                                <td>{{- listSectionTemp | remove: columnDate | strip_html | strip -}}</td>
+                                <td style="text-align:right">{{- columnDate | strip_html | remove: '(' | remove: ')' | remove: 'Suspended' | strip -}}</td>
                                 </tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
