@@ -47,8 +47,8 @@ layout: leftnav-page-content
                                 {%- endif -%}
                                 {%- assign listSectionTempArr = listSectionTemp | split: '(' -%} 
                                 {%- assign columnDate = listSectionTempArr | last -%} 
-                                <td>{{- listSectionTemp | remove: columnDate | strip_html -}}</td>
-                                <td>{{- columnDate | strip_html | remove: ')' | remove: 'Suspended' -}}</td>
+                                <td>{{- listSectionTemp | remove: columnDate | remove: '(' | strip_html | strip -}}</td>
+                                <td>{{- columnDate | strip_html | remove: ')' | remove: 'Suspended' | strip -}}</td>
                                 </tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
