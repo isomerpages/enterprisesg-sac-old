@@ -31,13 +31,13 @@ layout: leftnav-page-content
                  {%- if listSection contains '<li' -%}
                      {%- if listSection contains '</li>' -%}
                         {%- assign listSectionTemps = listSection | split: '<li>' -%} 
-                        {%- assign isFirstRow = false -%}     
+                        {%- assign isFirstRow = true -%}      
                         {%- for listSectionTemp in listSectionTemps -%}
                             {%- if listSectionTemp contains '</li>' -%}
                                 {%- if isFirstRow == false -%}
                                     <tr><td></td>
                                 {%- else -%} 
-                                    c
+                                    {%- assign isFirstRow = false -%} 
                                 {%- endif -%} 
                                 <td>{{- listSectionTemp | strip_html -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
@@ -63,4 +63,4 @@ layout: leftnav-page-content
             {{- section -}}
         {% endif %} 
     {% endif %}    
-{%- endfor -%}    
+{%- endfor -%}     
