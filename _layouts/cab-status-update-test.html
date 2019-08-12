@@ -29,29 +29,27 @@ layout: leftnav-page-content
             {%- assign listSections = list | split: '<ul>' -%}  
             {%- for listSection in listSections -%} 
                  {%- if listSection contains '<li' -%}
-                     &nbsp;contains li&nbsp;
                      {%- if listSection contains '</li>' -%}
-                        &nbsp;contains li back&nbsp;
                         {%- assign listSectionTemps = listSection | split: '<li>' -%} 
                         {%- assign isFirstRow = true -%}      
                         {%- for listSectionTemp in listSectionTemps -%}
                             {%- if listSectionTemp contains '</li>' -%}
                                 {%- if isFirstRow == false -%}
-                                    <tr><td></td>
+                                    <tr><td>false first row</td>
                                 {%- else -%} 
                                     {%- assign isFirstRow = false -%} 
                                 {%- endif -%} 
-                                <td>{{- listSectionTemp | strip_html -}}</td></tr>
+                                <td>contains li back&nbsp;{{- listSectionTemp | strip_html -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
                                 {%- endif -%} 
                              {%- else -%}
-                                <tbody><tr><td>{{- listSectionTemp | strip_html -}}</td>
+                                <tbody><tr><td>does not contain li back after split&nbsp;{{- listSectionTemp | strip_html -}}</td>
                                 {%- assign isFirstRow = true -%}     
                              {%- endif -%} 
                         {%- endfor -%}
                      {%- else -%}
-                        <tbody><tr><td>{{- listSection | strip_html -}}</td>
+                        <tbody><tr><td>does not contain li back&nbsp;{{- listSection | strip_html -}}</td>
                         {%- assign isFirstRow = true -%}     
                      {%- endif -%} 
                  {%- endif -%} 
