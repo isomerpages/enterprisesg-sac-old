@@ -62,7 +62,7 @@ collection_name: accredited-org
 * Business Continuity Management
   * Lloyd's Register Quality Assurance Limited (13 March 2019)  
 * Energy Management System
-  * Lloyd's Register Quality Assurance Limited 13 March 2019)
+  * Lloyd's Register Quality Assurance Limited (13 March 2019)
   * Singapore Test Services Pte Ltd (26 April 2019)
         
 #### **Withdrawal by SAC**
