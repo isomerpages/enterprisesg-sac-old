@@ -46,7 +46,7 @@ layout: leftnav-page-content
                                     {%- assign isFirstRow = false -%} 
                                 {%- endif -%}
                                 {%- assign listSectionTempArr = listSectionTemp | split: '(' -%} 
-                                <td>{{- listSectionTempArr | first | strip_html -}}</td><td>{{- listSectionTempArr | last | strip_html | remove: ')' -}}</td></tr>
+                                <td>{{- listSectionTempArr | first | strip_html -}}</td><td>{{- listSectionTempArr | last | strip_html | 'remove: ')' | remove: 'Suspended' -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
                                 {%- endif -%} 
