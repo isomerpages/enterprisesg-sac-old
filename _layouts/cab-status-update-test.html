@@ -31,12 +31,13 @@ layout: leftnav-page-content
                  {%- if listSection contains '<li' -%}
                      {%- if listSection contains '</li>' -%}
                         {%- assign listSectionTemps = listSection | split: '<li>' -%} 
+                        {%- assign isFirstRow = false -%}     
                         {%- for listSectionTemp in listSectionTemps -%}
                             {%- if listSectionTemp contains '</li>' -%}
                                 {%- if isFirstRow == false -%}
                                     <tr><td></td>
                                 {%- else -%} 
-                                    {%- assign isFirstRow = false -%} 
+                                    c
                                 {%- endif -%} 
                                 <td>{{- listSectionTemp | strip_html -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
