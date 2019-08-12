@@ -36,16 +36,13 @@ layout: leftnav-page-content
                         {%- assign isFirstRow = true -%}      
                         {%- for listSectionTemp in listSectionTemps -%}
                             {%- if listSectionTemp contains '</li>' -%}
-                                &nbsp;contains li back&nbsp;
                                 {%- if isFirstRow == false -%}
-                                    &nbsp;not first row&nbsp;
                                     <tr><td></td>
                                 {%- else -%} 
                                     {%- assign isFirstRow = false -%} 
                                 {%- endif -%} 
                                 <td>{{- listSectionTemp | strip_html -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
-                                    &nbsp;contains ul back&nbsp;
                                     </tbody>
                                 {%- endif -%} 
                              {%- else -%}
@@ -54,7 +51,6 @@ layout: leftnav-page-content
                              {%- endif -%} 
                         {%- endfor -%}
                      {%- else -%}
-                        &nbsp;does not contains li back&nbsp;            
                         <tbody><tr><td>{{- listSection | strip_html -}}</td>
                         {%- assign isFirstRow = true -%}     
                      {%- endif -%} 
@@ -69,4 +65,4 @@ layout: leftnav-page-content
             {{- section -}}
         {% endif %} 
     {% endif %}    
-{%- endfor -%}     
+{%- endfor -%}    
