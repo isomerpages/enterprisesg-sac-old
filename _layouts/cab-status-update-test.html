@@ -30,9 +30,13 @@ layout: leftnav-page-content
             {%- for listSection in listSections -%} 
                  {%- if listSection contains '<li' -%}
                      {%- if listSection contains '</li>' -%}
-                        {%- assign listSectionTemps = listSection | split: '<li>' | compact -%} 
+                        {%- assign listSectionTemps = listSection | split: '<li>' -%} 
                         {%- assign isFirstRow = true -%}      
                         {%- for listSectionTemp in listSectionTemps -%}
+                            {%- assign listSectionTempSize = listSectionTemp | strip | size -%}
+                            {% if listSectionTempSize  <= 1 %}
+                                {% continue %}
+                            {% endif %}
                             {%- if listSectionTemp contains '</li>' -%}
                                 {%- if isFirstRow == false -%}
                                     <tr><td>false first row</td>
