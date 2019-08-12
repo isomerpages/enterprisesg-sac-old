@@ -4,6 +4,7 @@ layout: leftnav-page-content
 
 {%- assign sections = content | split: '<h' -%}
 {%- for section in sections -%}  
+    {%- assign tableHeaderTerm = '' -%} 
     {%- assign firstHeaderLevel = section | slice: 0 -%} 
     {%- assign firstHeaderBackTag = '</h' | append: firstHeaderLevel | append: '>' -%}
     {%- if section contains '<ul' -%}
@@ -24,6 +25,7 @@ layout: leftnav-page-content
                 <tr>
                     <th>Field</th>
                     <th>Company</th>
+                    <th>Date of {{ tableHeaderTerm }}</th> 
                 </tr>       
             </thead>
             {%- assign listSections = list | split: '<ul>' -%}  
@@ -34,7 +36,7 @@ layout: leftnav-page-content
                         {%- assign isFirstRow = true -%}      
                         {%- for listSectionTemp in listSectionTemps -%}
                             {%- assign listSectionTempSize = listSectionTemp | strip | size -%}
-                            {% if listSectionTempSize  <= 1 %}
+                            {% if listSectionTempSize <= 1 %}
                                 {% continue %}
                             {% endif %}
                             {%- if listSectionTemp contains '</li>' -%}
@@ -42,8 +44,9 @@ layout: leftnav-page-content
                                     <tr><td></td>
                                 {%- else -%} 
                                     {%- assign isFirstRow = false -%} 
-                                {%- endif -%} 
-                                <td>{{- listSectionTemp | strip_html -}}</td></tr>
+                                {%- endif -%}
+                                {%- assign listSectionTempArr = listSectionTemp | split: '(' -%} 
+                                <td>{{- listSectionTemp | first | strip_html -}}</td><td>{{- listSectionTemp | last | strip_html | remove: ')' -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
                                 {%- endif -%} 
@@ -63,6 +66,15 @@ layout: leftnav-page-content
         {% if section contains firstHeaderBackTag %}   
             {% assign header = '<h' | append: section %}
             {{- header -}}   
+            {% if section contains 'accredit' %} 
+                {%- assign tableHeaderTerm = 'Accreditation' -%}
+            {% elsif section contains 'suspend'%} 
+                {%- assign tableHeaderTerm = 'Suspension' -%}
+            {% elsif section contains 'withdraw'%}
+                {%- assign tableHeaderTerm = 'Withdrawl' -%}
+            {% else %}  
+                {%- assign tableHeaderTerm = 'Inoperation' -%}
+            {% endif %}     
         {% else %}
             {{- section -}}
         {% endif %} 
