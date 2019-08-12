@@ -3,8 +3,8 @@ layout: leftnav-page-content
 ---
 
 {%- assign sections = content | split: '<h' -%}
-{%- for section in sections -%}  
-    {%- assign tableHeaderTerm = '' -%} 
+{%- assign tableHeaderTerm = '' -%}     
+{%- for section in sections -%}    
     {%- assign firstHeaderLevel = section | slice: 0 -%} 
     {%- assign firstHeaderBackTag = '</h' | append: firstHeaderLevel | append: '>' -%}
     {%- if section contains '<ul' -%}
