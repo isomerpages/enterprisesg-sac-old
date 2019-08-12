@@ -30,7 +30,7 @@ layout: leftnav-page-content
             {%- for listSection in listSections -%} 
                  {%- if listSection contains '<li' -%}
                      {%- if listSection contains '</li>' -%}
-                        {%- assign listSectionTemps = listSection | split: '<li>' -%} 
+                        {%- assign listSectionTemps = listSection | split: '<li>' | compact -%} 
                         {%- assign isFirstRow = true -%}      
                         {%- for listSectionTemp in listSectionTemps -%}
                             {%- if listSectionTemp contains '</li>' -%}
