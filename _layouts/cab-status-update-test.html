@@ -39,21 +39,21 @@ layout: leftnav-page-content
                             {% endif %}
                             {%- if listSectionTemp contains '</li>' -%}
                                 {%- if isFirstRow == false -%}
-                                    <tr><td>false first row</td>
+                                    <tr><td></td>
                                 {%- else -%} 
                                     {%- assign isFirstRow = false -%} 
                                 {%- endif -%} 
-                                <td>contains li back&nbsp;{{- listSectionTemp | strip_html -}}</td></tr>
+                                <td>{{- listSectionTemp | strip_html -}}</td></tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
                                 {%- endif -%} 
                              {%- else -%}
-                                <tbody><tr><td>does not contain li back after split&nbsp;{{- listSectionTemp | strip_html -}}</td>
+                                <tbody><tr><td>{{- listSectionTemp | strip_html -}}</td>
                                 {%- assign isFirstRow = true -%}     
                              {%- endif -%} 
                         {%- endfor -%}
                      {%- else -%}
-                        <tbody><tr><td>does not contain li back&nbsp;{{- listSection | strip_html -}}</td>
+                        <tbody><tr><td>{{- listSection | strip_html -}}</td>
                         {%- assign isFirstRow = true -%}     
                      {%- endif -%} 
                  {%- endif -%} 
