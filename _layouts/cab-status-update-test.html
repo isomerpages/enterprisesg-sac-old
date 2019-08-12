@@ -25,7 +25,7 @@ layout: leftnav-page-content
                 <tr>
                     <th>Field</th>
                     <th>Company</th>
-                    <th>Date of {{ tableHeaderTerm }}</th> 
+                    <th style="text-align:right">Date of {{ tableHeaderTerm }}</th> 
                 </tr>       
             </thead>
             {%- assign listSections = list | split: '<ul>' -%}  
@@ -48,7 +48,7 @@ layout: leftnav-page-content
                                 {%- assign listSectionTempArr = listSectionTemp | split: '(' -%} 
                                 {%- assign columnDate = listSectionTempArr | last -%} 
                                 <td>{{- listSectionTemp | remove: columnDate | remove: '(' | strip_html | strip -}}</td>
-                                <td>{{- columnDate | strip_html | remove: ')' | remove: 'Suspended' | strip -}}</td>
+                                <td style="text-align:right">{{- columnDate | strip_html | remove: ')' | remove: 'Suspended' | strip -}}</td>
                                 </tr>
                                 {%- if listSectionTemp contains '</ul>' -%}
                                     </tbody>
