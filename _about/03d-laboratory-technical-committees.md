@@ -1,5 +1,5 @@
 ---
-layout: committee
+layout: committee #Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
 committee: laboratory-technical-committee
 title: Laboratory Technical Committees
 permalink: /about/our-organisation-and-structure/laboratory-technical-committees
@@ -19,7 +19,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic |
 | **Member** | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore |
-| | Dr Meng Yusong | National Metrology Centre, A*STAR |
+| | Dr Meng Yusong | National Metrology Centre, A\*STAR |
 | | Mr Chua Eng Sing | ITE College Central |
 | | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University |
 | | Ms Tan Mei Ling | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
@@ -72,7 +72,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
 | **Member** |  |  |
 | | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
-| | Mr Foo Ngee Chih | Biomedical Research Council, A*STAR |
+| | Mr Foo Ngee Chih | Biomedical Research Council, A\*STAR |
 | | Mr Foo Yang Tong | Health Sciences Authority |
 | | Ms Angela Tan H J | National Environment Agency |
 | | Ms Fathima A. Majeed | Prestige Bioresearch Pte Ltd |
