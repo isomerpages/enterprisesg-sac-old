@@ -11,3 +11,7 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 
 * [Edit SAC council](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_data/board-of-directors.yml)  
   *To edit the pages of other committees, please navigate to the corresponding committee page in ['_about'] (https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about) folder.*
+
+
+## SAC Isomer Website Sitemap
+![sac-sitemap](https://user-images.githubusercontent.com/50573648/62927570-64578e00-bde9-11e9-8683-e7fccf1d583c.jpg)
