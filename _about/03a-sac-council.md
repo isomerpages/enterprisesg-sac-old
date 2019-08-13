@@ -12,10 +12,13 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 #### Term of Office: 1 April 2018 - 31 March 2021
 
 **Chairman**
+
 ![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.JPG){: style="margin-left:0; width: 150px;"}
+
 **Mr Renny Yeo**\\
 Tai Sing Electric Ltd 
 
+|---
 | Deputy Chairmen | Mr Alok Mishra | Value Addition, Singapore |
 | | Mr Tan Kai Hoe | Accuron Technologies Limited |
 | Members | Mr Albert Kee | Association of Singapore Marine Industries (ASMI) |
@@ -39,3 +42,4 @@ Tai Sing Electric Ltd
 | | Mr Edmund Ooi | Smart Nation and Digital Government Office |
 | | Er Seow Kang Seng | The Institution of Engineers, Singapore (IES) |
 | Secretary | Ms Chang Kwei Fern | SAC Secretariat |
+|---
