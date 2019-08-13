@@ -8,14 +8,15 @@ permalink: /services/training/training-courses-2019/joint-courses-between-HSA-SA
 ## Course Details
 **April, May, July and August 2019**
 
-Click [here](/files/training/Course-brochure-2019.pdf){:target="_blank"} to download the course brochure.
+Click [here](/files/training/Course-brochure-2019.pdf){:target="\_blank"} to download the course brochure.
  
 Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6775 1605** ext 125
  
 Please note link for registration:-\\
 [https://bit.ly/2GygoWl](https://bit.ly/2GygoWl)\\
 ![QR Code](/images/QR-Code.png){: style="margin-left:0;width:130px;height:130px;"}
-_Note: A participant interested in a MU course should only register for either 3(a) or 3(b)._{: style="color:#288400;font-size:smaller"}
+<!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image -->
+*Note: A participant interested in a MU course should only register for either 3(a) or 3(b).*
 
 
 
