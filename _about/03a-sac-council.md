@@ -12,10 +12,11 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 #### Term of Office: 1 April 2018 - 31 March 2021
 
 **Chairman**
-![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.JPG)
+![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.JPG){: style="margin-left:0; width: 216px;"}
 **Mr Renny Yeo**\\
 Tai Sing Electric Ltd 
 
+|-|-|-|
 | Deputy Chairmen | Mr Alok Mishra | Value Addition, Singapore |
 | | Mr Tan Kai Hoe | Accuron Technologies Limited |
 |--------------|
