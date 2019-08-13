@@ -15,7 +15,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic |
 | **Member** | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore |
@@ -30,7 +30,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
 | **Member** | Dr Wu Yuan Sheng | Agri-food & Veterinary Authority of Singapore - Veterinary Public Health Laboratories |
 | | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
@@ -48,7 +48,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Er Lim Say Leong | The Institution of Engineers, Singapore |
 | **Member** | Mr Ng Soo Horng | Casino Regulatory Authority |
 | | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
@@ -68,7 +68,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
 | **Member** |  |  |
 | | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
@@ -82,7 +82,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | A/Prof Raymond Lin | Ministry of Health |
 | **Member** | Pending | Academy of Medicine - College of Pathology |
 | | Dr Ang Ai Leen | Health Sciences Authority |
@@ -102,7 +102,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
 | **Member** | Dr Tan Soo See, Susanna | National Healthcare Group |
 | | Dr Cheryl Lian | Society of Medical Physicists Singapore |
@@ -114,7 +114,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Er Lung Hian Hao | Building & Construction Authority |
 | **Member** | Er Tan Kee Chong | Ministry of Manpower |
 | | LTC Chong Kim Yuan | Singapore Civil Defence Force |
