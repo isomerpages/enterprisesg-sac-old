@@ -13,7 +13,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 
 **Chairman**
 
-![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.JPG){: style="margin-left:0; width: 150px;"}
+![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.jpg){: style="margin-left:0; width: 150px;"}
 
 **Mr Renny Yeo**\\
 Tai Sing Electric Ltd 
@@ -34,9 +34,9 @@ Tai Sing Electric Ltd
 | | Mr Desmond Hill | Singapore Contractors Association Ltd (SCAL) |
 | | Dr Tan Lee Kim | Singapore Food Agency |
 | | Mr Tay Jih-Hsin | Singapore Manufacturing Federation (SMF) |
-| | Mr Richard Hong See Yen | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
-| | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
-| | Ms Eunice Ng | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group: Laboratories' Representative |
+| | Mr Richard Hong See Yen | Singapore Manufacturing Federation (SMF) - TIC Interest Group : Certification Bodies' Representative |
+| | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TICInterest Group : Inspection Bodies' Representative |
+| | Ms Eunice Ng | Singapore Manufacturing Federation (SMF) - TIC Interest Group: Laboratories' Representative |
 | | Mr Wu Yong Lin | Singapore Precision Engineering and Technology Association (SPETA) |
 | | Mr Tan Gheng Een | Singapore Quality Institute (SQI) |
 | | Mr Edmund Ooi | Smart Nation and Digital Government Office |
