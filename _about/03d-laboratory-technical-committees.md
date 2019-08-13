@@ -7,18 +7,10 @@ collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
 
-{: #tc-top}
 There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
-* [Technical Committee For Calibration & Measurement](#tccm)
-* [Technical Committee For Chemical & Biological Sciences](#tccbs)
-* [Technical Committee For Electrical & Infocomm Technology](#tceit)
-* [Technical Committee For Good Laboratory Practice](#tcglp)
-* [Technical Committee For Medical Testing](#tcmt)
-* [Technical Committee For Medical Imaging](#tcmi)
-* [Technical Committee For Physical Engineering](#tcpe)
+---
 
-{: #tccm}
 ## Calibration & Measurement
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -34,10 +26,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Mr Elton Tong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
 | **Secretary** | Mr Adrian Ang | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#tc-top)
-
-{: #tccbs}
 ## Chemical & Biological Sciences
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -56,10 +44,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Edmund Tian Feng | Temasek Polytechnic |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#tc-top)
-
-{: #tceit}
 ## Electrical & Infocomm Technology
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -80,10 +64,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Mr Henry W. Shang | Singapore Manufacturing Federation -TIC Interest Group - UL International Singapore Pte Lt |
 | **Secretary** | Mr Addison Bain | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#tc-top)
-
-{: #tcglp}
 ## Good Laboratory Practice
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -98,10 +78,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Ms Fathima A. Majeed | Prestige Bioresearch Pte Ltd |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#tc-top)
-
-{: #tcmt}
 ## Medical Testing
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -122,10 +98,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Eddie Ang Han Sang | Singapore Association of Medical Laboratory Sciences |
 | **Secretary** | Ms Alicia Choong | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#tc-top)
-
-{: #tcmi}
 ## Medical Imaging
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -138,10 +110,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Mr Somanesan Satchithanantham | Singapore Health Services |
 | **Secretary** | Ms Alicia Choong | SAC Secretariat |
 
-{: .back-to-top}
-[↑ Back to top](#tc-top)
-
-{: #tcpe}
 ## Physical Engineering
 ### Term : 1 July 2018 - 30 June 2021
 
@@ -159,6 +127,3 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | A/Prof Tan Mei Chee | Singapore University of Technology & Design |
 | | Dr Ang Choon Keat | The Institution of Engineers, Singapore |
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
-
-{: .back-to-top}
-[↑ Back to top](#cc-top)
