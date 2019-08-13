@@ -23,7 +23,7 @@ This 2-day course is to provide the participants:
 * An overview of the conformity assessment requirements established in ISO/IEC 17065:2012 through lectures, discussions and work exercises;
 * Gain insights into the content that would be useful in developing and maintaining effective product certification scheme.
 
-We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d1ed34b9ca58e0018fae30c){:target="\_blank"}.
+We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d1ed34b9ca58e0018fae30c){:target="\_blank"}. <!-- The {:target="\_blank"} syntax is used to open the form in a new tab / window -->
  
 All cheques should be crossed and made payable to "Enterprise Singapore." No invoices will be issued.
 
