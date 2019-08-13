@@ -1,5 +1,5 @@
 ---
-layout: committee-alt
+layout: committee
 committee: council-committee
 title: Council Committee
 permalink: /about/our-organisation-and-structure/council-committees
