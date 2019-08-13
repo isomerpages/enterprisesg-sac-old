@@ -5,14 +5,20 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 **Right click and choose 'open link in new tab' or 'open link in new window' when clicking on the links below - so that this page can be left opened**
 
 * Create a new article
- 1. Upload any images needed for the article into [images folder->press-release->photos](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/photos) or [images folder->press-release->documents](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/documents)  
- 2. Create new file inside newsroom->\[article category folder]->\_posts (e.g. inside [news-release](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/news-releases/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+Title+of+Post%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) or events)
+  1. Upload any images needed for the article into [images folder->press-release->photos](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/photos) or [images folder->press-release->documents](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/documents)  
+  2. Create new file inside *"newsroom->\[article category folder]->\_posts"* (e.g. inside [news-release](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/news-releases/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+Title+of+Post%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) or [events](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/events/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+Title+of+Post%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->))
 
-* [Create a new training course](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
+* Create a new training course
+  1. Create a new course registration form on [formSG](https://form.gov.sg)
+  2. Create new file on [courses->\_posts](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
   *For a complete template, refer to a [sample course page](https://raw.githubusercontent.com/isomerpages/enterprisesg-sac/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor*
 
-* [Edit SAC council](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_data/board-of-directors.yml)  
-  *To edit the pages of other committees, please navigate to the corresponding committee page in ['_about'] (https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about) folder.*
+* Edit SAC committee (Edit corresponding committee page in ['_about'](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about) folder)
+  * [Edit SAC Council](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03a-sac-council.md)
+  * [Edit Council Committee](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03b-council-committees.md)
+  * [Edit Inspection Body Technical Committees](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03c-inspection-body-technical-committees.md)
+  * [Laboratory Technical Committees](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03d-laboratory-technical-committees.md)
+  * [Edit Secretariat Committee](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03e-secretariat.md)
 
 
 ## SAC Isomer Website Sitemap
