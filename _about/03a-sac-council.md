@@ -16,8 +16,9 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 <!-- Comment: the use of '{:style=""}' is used to align the image to the left of the screen and also to resize the image -->
 **Mr Renny Yeo**\\
 Tai Sing Electric Ltd 
----
 
+| Designation	| Name	| Organisation |
+|-------------|-------|--------------|
 | **Deputy Chairmen** | Mr Alok Mishra | Value Addition, Singapore |
 | | Mr Tan Kai Hoe | Accuron Technologies Limited |
 | **Members** | Mr Albert Kee | Association of Singapore Marine Industries (ASMI) |
