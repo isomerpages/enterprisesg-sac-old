@@ -1,5 +1,6 @@
 ---
-layout: leftnav-page-content
+layout: committee  
+#This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
