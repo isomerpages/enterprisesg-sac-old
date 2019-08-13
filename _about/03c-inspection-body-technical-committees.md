@@ -7,6 +7,10 @@ collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
 
+There are 4 Technical Committees supporting the Inspection Body Accreditation scheme.
+
+---
+
 ## Mechanical Engineering Inspection
 ### Term : 1 July 2018 - 30 June 2021
 
