@@ -9,7 +9,8 @@ collection_name: resources
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-<!--Each Q&A must be preceded with a {: #qn{Number}} (e.g. {: #qn1}) as a unique identifier -->
+<!-- Comment: Each Q&A must be preceded with a {: #qn{Number}} (e.g. {: #qn1}) as a unique identifier -->
+
 {: #qn1}
 #### What is accreditation?
 
