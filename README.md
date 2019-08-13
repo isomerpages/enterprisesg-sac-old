@@ -17,11 +17,11 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
   2. Create new file in [courses->\_posts](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
   *For a complete template, refer to a [sample course page](https://raw.githubusercontent.com/isomerpages/enterprisesg-sac/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor*
 
-* Edit SAC committee (Edit corresponding committee page in ['_about'](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about) folder)
+* Edit SAC committee (Edit corresponding committee page in ['_about'](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about))
   * [Edit SAC Council](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03a-sac-council.md)
   * [Edit Council Committee](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03b-council-committees.md)
   * [Edit Inspection Body Technical Committees](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03c-inspection-body-technical-committees.md)
-  * [Laboratory Technical Committees](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03d-laboratory-technical-committees.md)
+  * [Edit Laboratory Technical Committees](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03d-laboratory-technical-committees.md)
   * [Edit Secretariat Committee](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03e-secretariat.md)
 
 
