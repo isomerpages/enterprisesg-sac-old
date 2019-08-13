@@ -20,11 +20,9 @@ Please note link for registration:-\\
 
 
 
-|---
-| No. | Course Title | Fee (inclusive of GST) |  Dates | Status
-|-|-|-|-|-
-| 1 | Basic Statistical Tools | $267.50 | 5 Apr 2019 | Registration closed
-| 2 | Method Validation for Chemical Testing | $267.50 | 7 May 2019 | Registration closed
-| 3a | Measurement Uncertainty for Chemical Testing | $406.60 | 29-30 Jul 2019 (1.5 days) | Open
-| 3b | Measurement Uncertainty for Chemical Testing (with emphasis on water testing parameters | $406.60 | 26-27 Aug 2019 (1.5 days) | Open
-|-----
+| No. | Course Title | Fee (inclusive of GST) |  Dates | Status |
+|-----|--------------|------------------------|--------|--------|
+| 1 | Basic Statistical Tools | $267.50 | 5 Apr 2019 | Registration closed |
+| 2 | Method Validation for Chemical Testing | $267.50 | 7 May 2019 | Registration closed |
+| 3a | Measurement Uncertainty for Chemical Testing | $406.60 | 29-30 Jul 2019 (1.5 days) | Open |
+| 3b | Measurement Uncertainty for Chemical Testing (with emphasis on water testing parameters | $406.60 | 26-27 Aug 2019 (1.5 days) | Open |
