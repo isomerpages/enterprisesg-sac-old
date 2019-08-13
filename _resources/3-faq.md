@@ -219,4 +219,4 @@ Further information on the Singapore compliance monitoring programme should be s
 {: #qnb16}
 #### Any other enquiries?
 
-If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target='_blank'} section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target='\_blank'} section.
