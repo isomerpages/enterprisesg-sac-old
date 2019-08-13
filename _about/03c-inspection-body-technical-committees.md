@@ -15,7 +15,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Mr Chan Yew Kwong | Ministry of Manpower |
 | **Member** | Pending | Association of Singapore Marine Industires |
 | | Mr Poon Meng Jin, Dennis<br/>(Alt: Mr Lam Tiam Yuen, Daniel) | Land Transport Authority |
@@ -33,7 +33,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Er Chin Leong Siong | Building and Construction Authority |
 | **Member** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
 | | Mr Ang Poh Cheng | Housing & Development Board |
@@ -51,7 +51,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Mr Simon Neo | International Bunker Industry Association |
 | **Member** | Mr Colin Yong | Maritime and Port Authority of Singapore |
 | | Mr Daraji Daud | Singapore Manufacturing Federation - SGS Testing & Control Services Singapore Pte Ltd |
@@ -66,7 +66,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ### Term : 1 July 2018 - 30 June 2021
 
 | Designation | Name | Organisation |
-|-|-|-|
+|-------------|------|--------------|
 | **Chairman** | Er Jeyatharan Kumarasamy | Institute of Engineers, Singapore |
 | **Member** | Mr Yong Fen Leong | Association of Consulting Engineers Singapore |
 | | Dr Poh Teoh Yaw | Building & Construction Authority |
