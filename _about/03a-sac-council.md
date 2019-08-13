@@ -35,7 +35,7 @@ Tai Sing Electric Ltd
 | | Mr Desmond Hill | Singapore Contractors Association Ltd (SCAL) |
 | | Dr Tan Lee Kim | Singapore Food Agency |
 | | Mr Tay Jih-Hsin | Singapore Manufacturing Federation (SMF) |
-| | Mr Richard Hong See Yen | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
+| | Mr Richard Hong See Yen | Singapore Manufacturing Federation (SMF) - TIC\\\Interest Group : Certification Bodies' Representative |
 | | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
 | | Ms Eunice Ng | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group: Laboratories' Representative |
 | | Mr Wu Yong Lin | Singapore Precision Engineering and Technology Association (SPETA) |
