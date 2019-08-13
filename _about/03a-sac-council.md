@@ -13,7 +13,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 #### Term of Office: 1 April 2018 - 31 March 2021
 
 **Chairman**
-![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.jpg){: style="margin-left:0; width: 150px;"}
+![Renny Yeo](/images/about/our-organisation-structure/Renny-Yeo-HR2.jpg =150x)
 <!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image -->
 **Mr Renny Yeo**\\
 Tai Sing Electric Ltd 
