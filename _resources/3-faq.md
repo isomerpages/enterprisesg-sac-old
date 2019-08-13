@@ -1,5 +1,5 @@
 ---
-layout: faq
+layout: faq #Comment: This page uses customised 'faq' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below. 
 title: FAQ
 permalink: /resources/faq
 collection_name: resources
@@ -9,6 +9,7 @@ collection_name: resources
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
+<!--Each Q&A must be preceded with a {: #qn{Number}} (e.g. {: #qn1}) as a unique identifier -->
 {: #qn1}
 #### What is accreditation?
 
