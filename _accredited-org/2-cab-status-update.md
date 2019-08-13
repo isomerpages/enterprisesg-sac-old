@@ -1,7 +1,7 @@
 ---
-layout: cab-status-update-test
-title: CAB Status Update Test
-permalink: /accredited-org/cab-status-update-test
+layout: leftnav-page-content
+title: CAB Status Update
+permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
 ---
 
