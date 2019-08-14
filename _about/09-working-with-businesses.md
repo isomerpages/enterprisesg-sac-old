@@ -12,8 +12,6 @@ SAC is a Mutual Recognition Arrangement (MRA) Signatory to various international
 
 For more information about MRA, please click [here](/about/collaborations-and-recognitions/mutual-recognition-arrangement).
 
-[Test Google Link 1](https://google.com)
-
 ## Types of Accreditation
 SAC currently operates the following accreditation schemes* -
  
@@ -33,7 +31,7 @@ Ensures that certified facilities performing non-clinical safety testing in Sing
 
 Please click [here](/services/accreditation-services) for the detailed requirements of all the accreditation schemes.
 
-*For other types of conformity assessment services currently not offered by SAC, we are open to exploring the option of providing accreditation or developing a new scheme/programme for the respective areas. Do kindly contact us [here](/contact-us).*
+* _For other types of conformity assessment services currently not offered by SAC, we are open to exploring the option of providing accreditation or developing a new scheme/programme for the respective areas. Do kindly contact us [here](/contact-us)._
 
 ## Why Use Accredited CABs?
 
