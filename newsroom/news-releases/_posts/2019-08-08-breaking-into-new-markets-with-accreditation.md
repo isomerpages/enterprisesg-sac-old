@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Breaking into New Markets with Accreditation
-date:   2019-08-08
-permalink: /newsroom/news-releases/breaking-into-new-markets-with-accreditation
 imageFolder: /images/press-release/photos/
 ---
 
