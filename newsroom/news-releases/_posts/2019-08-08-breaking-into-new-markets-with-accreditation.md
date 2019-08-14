@@ -2,13 +2,15 @@
 layout: post
 title:  Breaking into New Markets with Accreditation
 date:   2019-08-08
-category: news-releases
+permalink: /newsroom/news-releases/Breaking-into-New-Markets-with-Accreditation
 imageFolder: /images/press-release/photos/
 ---
 
 As the global market becomes more interconnected, with new technologies changing the way businesses operate, managing supply chains around the world have become more complicated. 
  
 Accreditation – providing confidence in companies performing testing, calibration and inspection, validation and verification, as well as certification of products, people and management systems – can help address these challenges and ensure that standards and guidelines are met, noted Ms Jennifer Evans, CEO of the National Association of Testing Authorities, Australia and Co-Chair of the recently formed Asia Pacific Accreditation Cooperation (APAC), who moderated a panel discussion at the APAC Annual Meetings 2019 host economy seminar.   
+
+![Jennifer Evans]({% link JenniferEvans.jpg %})
 
 ![Jennifer Evans]({{page.imageFolder}}JenniferEvans.jpg)
 
