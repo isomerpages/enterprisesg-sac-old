@@ -10,7 +10,7 @@ As the global market becomes more interconnected, with new technologies changing
  
 Accreditation – providing confidence in companies performing testing, calibration and inspection, validation and verification, as well as certification of products, people and management systems – can help address these challenges and ensure that standards and guidelines are met, noted Ms Jennifer Evans, CEO of the National Association of Testing Authorities, Australia and Co-Chair of the recently formed Asia Pacific Accreditation Cooperation (APAC), who moderated a panel discussion at the APAC Annual Meetings 2019 host economy seminar.   
 
-![JenniferEvans]({{page.imageFolder}}JenniferEvans.jpg)
+![Jennifer Evans]({{page.imageFolder}}JenniferEvans.jpg)
 
 **Benefits of using accredited conformity assessment bodies**
  
@@ -20,10 +20,9 @@ With accreditation, businesses are able to reduce the need for re-testing, re-in
  
 “Just as divergence of technical regulations and standards can be barriers to trade for manufacturers, deferring accreditation with certification body can pose inefficiencies as well”, Mr Anthony Tan, Vice President & Managing Director, UL (ASEAN & Australasia), said.
 
-![foodindustry](/images/press-release/photos/foodindustry.jpg)
-
 **Accreditation in the food industry**
- 
+
+![Food Industry]({{page.imageFolder}}foodindustry.jpg)
 The food industry is a good example of how accredited TIC services can help businesses protect their brand and reputation, and ease their entry into other markets. With consumers increasingly concerned about the safety and quality of food, independent assurance in the form of accreditation plays a crucial role in demonstrating that products meet applicable standards.
  
 “Accreditation will continue to play an important role in building trust in the food supply chain and food safety system at the global level. For Singapore, more trust in these areas will bring about greater trade flows, industry growth and job creation, and enables local establishments to integrate into global supply chains”, Dr Tan Lee Kim, SFA Director-General & Deputy CEO, said.
@@ -48,5 +47,5 @@ Furthermore, SAC is part of APAC – whose primary role is to manage and expand 
  
 Using a SAC-accredited CAB helps improve your business credibility by showing that your conformity assessment activities meet internationally recognised standards.
  
-Click [here](/about/working-with-businesses) to learn more about accreditation and TIC services and how they can help your business.
+Click [here](/about/working-with-businesses){: target="\_blank"} to learn more about accreditation and TIC services and how they can help your business.
  
