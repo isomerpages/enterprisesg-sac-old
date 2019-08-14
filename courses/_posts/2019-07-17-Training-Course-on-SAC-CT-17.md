@@ -2,7 +2,7 @@
 layout: simple-page
 title: Training Course on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations
 course_date: 27 Sept 2019
-permalink: /services/training/courses-2019/Training-Course-on-SAC-CT-17
+date: 2019-07-17
 ---
 
 ## Course Details
