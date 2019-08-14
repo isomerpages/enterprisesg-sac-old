@@ -23,6 +23,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-target-blank
 
+gems:
+  - jekyll-target-blank
+  
 # Breadcrumbs
 breadcrumbs:
   root:
