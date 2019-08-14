@@ -5,6 +5,8 @@ course_date: 27 Sept 2019
 date: 2019-07-17
 ---
 
+Testing 
+
 ## Course Details
 **27 September 2019**
 
