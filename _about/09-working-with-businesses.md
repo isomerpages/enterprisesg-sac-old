@@ -12,6 +12,8 @@ SAC is a Mutual Recognition Arrangement (MRA) Signatory to various international
 
 For more information about MRA, please click [here](/about/collaborations-and-recognitions/mutual-recognition-arrangement).
 
+[Test Google Link](https://google.com)
+
 ## Types of Accreditation
 SAC currently operates the following accreditation schemes* -
  
