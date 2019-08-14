@@ -42,9 +42,6 @@ collections:
     output: true
   courses:
     output: true
-  posts:
-    output: true
-    permalink: /:year/:month/:date/:title/  
 
 # Resource Room and Pagination
 resources_name: "newsroom"
