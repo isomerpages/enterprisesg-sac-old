@@ -42,9 +42,10 @@ collections:
     output: true
   courses:
     output: true
-    posts:
-      permalink: pretty
-
+    
+posts:
+  permalink: pretty
+      
 # Resource Room and Pagination
 resources_name: "newsroom"
 paginate: 12
