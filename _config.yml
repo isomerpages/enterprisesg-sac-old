@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sitemap
+  - jekyll-target-blank
 
 # Breadcrumbs
 breadcrumbs:
