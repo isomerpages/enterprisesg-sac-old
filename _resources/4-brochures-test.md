@@ -12,8 +12,10 @@ brochures:
 ---
 
 {::nomarkdown}
+
   {% assign pageBrochures = page.brochures %}
   {%- for pageBrochure in pageBrochures -%}
     <h4>{{- pageBrochure.title -}}</h4>
   {%- endfor -%}
+  
 {:/}
