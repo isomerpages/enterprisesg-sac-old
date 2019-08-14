@@ -10,7 +10,7 @@ Accreditation is the endorsement of an organisation’s competence, credibility,
 
 SAC is a Mutual Recognition Arrangement (MRA) Signatory to various international organisations including ILAC, IAF, APLAC, PAC. The SAC’s mark on test, calibration, inspection reports and certificates will mean that the report is recognised among the MRA partners. Thus, if your services are accredited by SAC, your accredited services will be recognised by the importing countries who are members signatory of the MRA.
 
-For more information about MRA, please click [here](/about/collaborations-and-recognitions/mutual-recognition-arrangement){:target="_blank"}.
+For more information about MRA, please click [here](/about/collaborations-and-recognitions/mutual-recognition-arrangement){:target="\_blank"}.
 
 ## Types of Accreditation
 SAC currently operates the following accreditation schemes* -
@@ -29,7 +29,7 @@ Quality management system, environmental management system, occupational safety 
 * **Good Laboratory Practice (GLP) scheme:**  
 Ensures that certified facilities performing non-clinical safety testing in Singapore comply with the Organisation for Economic Co-operation and Development (OECD) Principles of GLP.
 
-Please click [here](/services/accreditation-services){:target="_blank"} for the detailed requirements of all the accreditation schemes.
+Please click [here](/services/accreditation-services){:target="\_blank"} for the detailed requirements of all the accreditation schemes.
 
 _For other types of conformity assessment services currently not offered by SAC, we are open to exploring the option of providing accreditation or developing a new scheme/programme for the respective areas. Do kindly contact us [here](/contact-us){:target="_blank"}._
 
@@ -53,4 +53,4 @@ Accreditation is granted for a specific scope of activities and not for all acti
 
 The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification & Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
 
-[Click here to search for CABs.](https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx){:target='_blank'}
+[Click here to search for CABs.](https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx){:target='\_blank'}
