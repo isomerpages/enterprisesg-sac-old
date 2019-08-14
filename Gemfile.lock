@@ -52,6 +52,7 @@ GEM
       jekyll-seo-tag (= 2.5.0)
       jekyll-sitemap (= 1.2.0)
       jekyll-swiss (= 0.4.0)
+      jekyll-target-blank (= 1.1.1)
       jekyll-theme-architect (= 0.1.1)
       jekyll-theme-cayman (= 0.1.1)
       jekyll-theme-dinky (= 0.1.1)
