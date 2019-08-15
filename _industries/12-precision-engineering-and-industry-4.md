@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Precision Engineering & Industry 4.0
-description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
+description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
 permalink: /industries/precision-engineering-and-industry-4
 collection_name: industries
 ---
@@ -40,4 +40,4 @@ The following SAC Accreditation Schemes are applicable to the Precision Engineer
 |                                                 | Occupational Safety & Health Management System           |
 |                                                 | Quality Management System                                |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
