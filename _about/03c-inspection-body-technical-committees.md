@@ -1,6 +1,6 @@
 ---
-layout: committee #Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
-committee: inspection-body-technical-committee
+# Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
+layout: committee 
 title: Inspection Body Technical Committees
 permalink: /about/our-organisation-and-structure/inspection-body-technical-committees
 collection_name: about
@@ -59,7 +59,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Michael Phoon | Singapore Shipping Association |
 | | Captain Francis Koh | Singapore Nautical Institute |
 | | Captain Francis Lansakara | Singapore Nautical Institute |
-| | 	Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd |
+| | Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
