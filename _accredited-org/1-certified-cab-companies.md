@@ -4,6 +4,9 @@ title: Certified CAB Companies
 permalink: /accredited-org/certified-cab-companies
 collection_name: accredited-org
 
+######################################################################################
+# COMMENT: Edit the data below to edit the list of certified companies for this page #
+######################################################################################
 company-list:
   - category: "Management System Certification"
     list:
@@ -99,9 +102,15 @@ company-list:
         link: http://sraa.asia/members/cert/
       - name: TÜV SÜD PSB Pte Ltd
         link: https://www.tuv-sud-psb.sg/sg-en/activity/certification-of-persons/singapore-certified-management-consultants-scmc
-    
+
+###############
+# End of Data #
+###############
 ---
 
+<!-- content of page: html code for accordion of list of certified companies is in '_layouts/certified-companies.html' -->
 ## List of Companies Certified by SAC Accredited Certification Bodies
 
 ### Type of Certification
+
+Testing
