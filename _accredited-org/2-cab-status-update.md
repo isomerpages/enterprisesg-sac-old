@@ -1,5 +1,6 @@
 ---
-layout: cab-status-update  #Comment: This page uses 'cab-status-update' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
+# Comment: This page uses 'cab-status-update' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed exactly as written below.
+layout: cab-status-update  
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
@@ -41,6 +42,7 @@ collection_name: accredited-org
 * Auditing Organisation 
   * A Star Safety Consultants Pte Ltd (Suspended 14 June 2019 - 13 September 2019)
 
+
 ### 3. Withdrawn Laboratory / Certification Body / Inspection Body 
 
 #### **Voluntary Withdrawal by CABs**
@@ -79,6 +81,7 @@ collection_name: accredited-org
   * ABSK Pte Ltd (05 February 2018)
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
+
 
 ### 4. Others - Inoperative
  
