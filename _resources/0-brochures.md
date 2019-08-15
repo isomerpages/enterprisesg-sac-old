@@ -1,9 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Brochures-Test
-permalink: /resources/brochures-test
+title: Brochures
+permalink: /resources/brochures
 collection_name: resources
 
+##################################################################
+# Comment: Edit the data below to edit the content for this page #
+##################################################################
 brochures:
   imgFolderPath: /images/brochures/
   docFolderPath: /files/brochures/
@@ -56,9 +59,13 @@ brochures:
         url: https://ilac.org/publications-and-resources/ilac-promotional-brochures/    
       - name: "IAF brochures"
         url: https://www.iaf.nu/articles/Promotional_Documents/300
-        
+ 
+###############
+# End of Data #
+################
 ---
 
+<!-- the code below is used to create HTML tables and populate with the brochures data listed above -->
 {::nomarkdown}
 
 {% assign pageBrochures = page.brochures %}
