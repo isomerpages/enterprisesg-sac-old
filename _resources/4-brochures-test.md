@@ -77,7 +77,7 @@ brochures:
             {% else %}
               {% assign link = '' %}
           {% endif %}
-          {% assign temp = forloop.index | modulo: 3 %}
+          {% assign temp = forloop.index | minus: 1 | modulo: 3 %}
           {% if temp == 0 %}
             {% if forloop.first == false %}
               </tr>
@@ -85,7 +85,7 @@ brochures:
             <tr>
           {% endif %}
           <td><a href="{{- link -}}" target="_blank"><img src="{{- image -}}" />{% if item.name %}{{- item.name -}}{% endif %}{{- forloop.index -}}</a></td>
-          {% if forloop.last == true and forloop.index < 3 %}
+          {% if forloop.last == true and forloop.index < 4 %}
             {% assign temp = 3 | minus: forloop.index %}  
             {% for i in (1..temp) %}
                <td></td>                                 
