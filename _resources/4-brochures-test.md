@@ -59,6 +59,8 @@ brochures:
         
 ---
 
+{::nomarkdown}
+
 {% assign pageBrochures = page.brochures %}
 {% for category in pageBrochures.categories %}
   <h4 style="padding-left:1rem;">{{- category.title -}}</h4>
@@ -95,3 +97,5 @@ brochures:
     {% endif %}
   {% endif %}
 {% endfor %}
+
+{:/}
