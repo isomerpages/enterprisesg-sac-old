@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Brochures
+title: Brochures-Old
 permalink: /resources/brochure-old
 collection_name: resources
 ---
