@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Energy & Chemicals
-description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
+description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
 permalink: /industries/energy-and-chemicals
 collection_name: industries
 ---
@@ -47,4 +47,4 @@ The following SAC accreditation schemes are applicable to the Energy & Chemicals
 |-----------------------------------------|------------------------------------------------|
 | Validation & Verification Bodies        | Greenhouse Gases                               |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
