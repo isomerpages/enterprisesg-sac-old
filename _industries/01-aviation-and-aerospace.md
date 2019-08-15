@@ -43,4 +43,4 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 |-------------------------------------------------|------------------------------------------------|
 | Validation & Verification Bodies                | Greenhouse Gases                               |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
