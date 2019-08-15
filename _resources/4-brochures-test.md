@@ -77,7 +77,7 @@ brochures:
             {% else %}
               {% assign link = '' %}
           {% endif %}
-          {{ assign temp = forloop.index | modulo: 3 }}
+          {% assign temp = forloop.index | modulo: 3 %}
           {% if temp == 0 %}
             {% if forloop.first == false %}
               </tr>
