@@ -12,6 +12,7 @@ Accreditation is an endorsement of a validation/verification body's independence
 ### About the Schemes
 ![Carbon Offsetting and Reduction Scheme for International Aviation](/images/services/validation-and-verification-accreditation.jpg)
 *Carbon Offsetting and Reduction Scheme for International Aviation*
+<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
 
 The Accreditation Scheme for Greenhouse Gas Validation & Verification Body was launched on 24 August 2018 for organisations providing third-party validation/verification services for the reduction and removal of greenhouse gases (GHG). This new accreditation scheme was developed in response to the increasing demand for sustainability and to support the aviation industry for the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) initiated by the International Civil Aviation Organization (ICAO). CORSIA is a global voluntary market-based measure scheme to address any annual increase in total CO2 emissions from international civil aviation.
 
