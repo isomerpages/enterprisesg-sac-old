@@ -1,6 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Land Transport
+description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
 permalink: /industries/land-transport
 collection_name: industries
 ---
@@ -36,4 +37,4 @@ The following SAC accreditation schemes are applicable to the Land Transport ind
 |                                  | Occupational Safety & Health Management System |
 |                                  | Quality Management System                      |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
