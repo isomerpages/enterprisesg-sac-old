@@ -108,9 +108,9 @@ company-list:
 ###############
 ---
 
-<!-- content of page: html code for accordion of list of certified companies is in '_layouts/certified-companies.html' -->
+<!-- COMMENT: content of page starts here -->
 ## List of Companies Certified by SAC Accredited Certification Bodies
 
 ### Type of Certification
 
-Testing
+<!-- COMMENT: html code for accordion of list of certified companies is in '_layouts/certified-companies.html' -->
