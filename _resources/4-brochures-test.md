@@ -86,13 +86,6 @@ brochures:
           {% endif %}
           <td><a href="{{- link -}}" target="_blank"><img src="{{- image -}}" />{% if item.name %}{{- item.name -}}{% endif %}</a></td>
         {% endfor %}
-        {% if forloop.last == true and forloop.index < 3 %}
-            {% assign temp = 2 | minus: forloop.index %}  
-            {% for i in (1..temp) %}
-               <td></td>                                 
-            {% endfor %}                                      
-            </tr>
-        {% endif %}
       </table>
     {% else %}
       <ul>
