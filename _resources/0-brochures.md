@@ -62,7 +62,7 @@ brochures:
  
 ###############
 # End of Data #
-################
+###############
 ---
 
 <!-- the code below is used to create HTML tables and populate with the brochures data listed above -->
