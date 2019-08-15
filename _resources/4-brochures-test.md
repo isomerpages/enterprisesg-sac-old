@@ -84,7 +84,7 @@ brochures:
             {% endif %}
             <tr>
           {% endif %}
-          <td><a href="{{- link -}}" target="_blank"><img src="{{- image -}}" />{% if item.name %}{{- item.name -}}{% endif %}{{- forloop.index -}}</a></td>
+          <td><a href="{{- link -}}" target="_blank"><img src="{{- image -}}" />{% if item.name %}{{- item.name -}}{% endif %}{{- forloop.index -}}&nbsp;{{- temp -}}</a></td>
           {% if forloop.last == true and forloop.index < 4 %}
             {% assign temp = 3 | minus: forloop.index %}  
             {% for i in (1..temp) %}
