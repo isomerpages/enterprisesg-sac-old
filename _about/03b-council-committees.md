@@ -1,12 +1,13 @@
 ---
-layout: committee #Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
-committee: council-committee 
+# Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
+layout: committee
 title: Council Committee
 permalink: /about/our-organisation-and-structure/council-committees
 collection_name: about
 second_nav_title: "Our Organisation And Structure"
 ---
 
+<!-- content -->
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
 ---
