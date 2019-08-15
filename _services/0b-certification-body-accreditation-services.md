@@ -19,11 +19,13 @@ The Accreditation Scheme for Environmental Management System Certification Bodie
 
 ![Product Certification](/images/services/product-certification-accreditation.jpg)
 *Accreditation Scheme for Product Certification*
+<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
 
 In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) Management System was launched, followed by the Accreditation Scheme for HACCP based Food Management System in September 2005. The accreditation scheme for food safety management system (ISO 22000) was launched in October 2006 while the accreditation scheme for business continuity management (BCM) was launched in April 2010.
 
 ![Food Safety Management System](/images/services/food-management-accreditation.jpg)
 *Accreditation Scheme for Food Safety Management System*
+<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
  
 The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimize our limited resources and the "Green" movement.
  
@@ -31,6 +33,7 @@ The accreditation scheme for Certification of Persons was launched in August 201
 
 ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg)
 *Accreditation Scheme for Personnel Certification*
+<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
 
 In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 201. A new accreditation scheme on Auditing Organisation was also launched in 2017.
 
@@ -41,7 +44,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 #### (I) Management System Certification Body
 
 | Programme | Accreditation Requirements | Certification Standards |
-|---
+|-----------|----------------------------|-------------------------|
 | Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001 |
 | Quality Management for Bunker Supply Chain (QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524 |
 | Environment Management System (EMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-2<br/>Applicable IAF MDs | ISO 14001 |
@@ -64,7 +67,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 #### (II) Product Certification Body
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
-|---
+|------------------|----------------------------|-------------------------|
 | British Retailer Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety |
 | Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards |
 | Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards |
@@ -81,9 +84,10 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 #### (III) Personnel Certification Body
 
 | Programmes | Accreditation Requirements | Certification Standards |
-|---
+|------------|----------------------------|-------------------------|
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43 |
 | Other Programmes {::nomarkdown}<ul><li>Signed in 1997 (Testing and Calibration)</li><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul>{:/} | ISO/IEC 17024 | Various applicable standards |
+<!-- COMMENT: the '{::nomarkdown}{:/}' tags are used to process HTML code between the tags -->
 
 ### Benefits
 Accreditation will:
