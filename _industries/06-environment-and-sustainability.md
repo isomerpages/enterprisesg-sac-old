@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Environment & Sustainability
-description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
+description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
 permalink: /industries/environment-and-sustainability
 collection_name: industries
 ---
@@ -48,4 +48,4 @@ The following SAC accreditation schemes are applicable to the Environment and Su
 | Good Laboratory Practice                        | Environmental Toxicity Studies on Aquatic and Terrestrial Organisms |
 |                                                 | Toxicity Studies                                                    |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
