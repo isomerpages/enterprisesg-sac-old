@@ -6,6 +6,7 @@ breadcrumb: training
 collection_name: services
 ---
 
+<!-- COMMENT: The HTML code in between the '{::nomarkdown}{:/}' tags is used to display the table of training courses in different quarters of the different years -->
 {::nomarkdown}
 
 {% assign posts = site.categories['courses'] %}
@@ -51,7 +52,7 @@ collection_name: services
 								{% endif %}
 							{%- endfor -%}	
 						{%- endif -%}	
-						<a href="{{- course.permalink -}}" target="_blank">
+						<a href="{{- course.permalink -}}">
 							<span style="font-weight:bold;">{{- course.title -}}</span>
 							<br/>{{- course.course_date -}}
 						</a>
@@ -90,6 +91,7 @@ collection_name: services
 	{%- endfor -%}		
 </div>
 {:/}
+<!-- COMMENT: End of HTML code -->
 
 ---
 
@@ -100,12 +102,13 @@ Comprising local as well as overseas experts, SAC's team of trainers possess in-
 
 ### Our Training Programmes
 For more information on the course details, please click on the options below: 
-* [Laboratory Management Course (based on ISO/IEC 17025)](/files/training/Lab-Management-Course.pdf){:target="_blank"}
-* [Internal Audit Course](/files/training/Internal-Audit-Course.pdf){:target="_blank"}
-* [ISO/IEC 17020 Course (for Inspection Body)](/files/training/ISO-17020-Course.pdf){:target="_blank"}
-* [ISO 15189:2012 Course (for Medical Laboratory and Medical Imaging Facility)](/files/training/ISO-15189-Course-Overview-June-2013.pdf){:target="_blank"}
-* [GLP Implementation Workshop](/files/training/GLP-Implementation-Workshop.pdf){:target="_blank"}
-* [Method Validation in Chemical Analysis Workshop](/files/training/MV-(chemical)-workshop.pdf){:target="_blank"}
-* [Measurement Uncertainty in Chemical Analysis Workshop](/files/training/MU-(chemical)-workshop.pdf){:target="_blank"}
+<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
+* [Laboratory Management Course (based on ISO/IEC 17025)](/files/training/Lab-Management-Course.pdf){:target="&#95;blank"}
+* [Internal Audit Course](/files/training/Internal-Audit-Course.pdf){:target="&#95;blank"}
+* [ISO/IEC 17020 Course (for Inspection Body)](/files/training/ISO-17020-Course.pdf){:target="&#95;blank"}
+* [ISO 15189:2012 Course (for Medical Laboratory and Medical Imaging Facility)](/files/training/ISO-15189-Course-Overview-June-2013.pdf){:target="&#95;blank"}
+* [GLP Implementation Workshop](/files/training/GLP-Implementation-Workshop.pdf){:target="&#95;blank"}
+* [Method Validation in Chemical Analysis Workshop](/files/training/MV-(chemical)-workshop.pdf){:target="&#95;blank"}
+* [Measurement Uncertainty in Chemical Analysis Workshop](/files/training/MU-(chemical)-workshop.pdf){:target="&#95;blank"}
 
 For general enquiries on training course, please contact Ms Angie Ng at DID: 62791800 or email: <angie_ng@enterprisesg.gov.sg>
