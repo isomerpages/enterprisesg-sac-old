@@ -1,5 +1,6 @@
 ---
-layout: faq #Comment: This page uses customised 'faq' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below. 
+# COMMENT: This page uses customised 'faq' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed exactly as written below. 
+layout: faq 
 title: FAQ
 permalink: /resources/faq
 collection_name: resources
@@ -9,25 +10,23 @@ collection_name: resources
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-<!-- Comment: Each Q&A must be preceded with a {: #qn{Number}} (e.g. {: #qn1}) as a unique identifier -->
+<!-- NOTE: Each Q&A must be preceded with a '{: #qn{Number}}' (e.g. {: #qn1}) as a unique identifier -->
 
 {: #qn1}
 #### What is accreditation?
-
 Accreditation is the endorsement by an authoritative body (such as SAC) of an organisation's competence, credibility, independence and integrity in carrying out its conformity assessment activities, such as testing, calibration, inspection and certification.
 
 {: #qn2}
 #### What is the difference between accreditation and certification?
-
 **Accreditation:** Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation.
 
 **Certification:** Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
-ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="_blank"} in _Standards Engineering_, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="&#95;blank"} in *Standards Engineering*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qn3}
 #### What are the benefits of being accredited?
-
 These are some of the key benefits of being accredited.
 
 **Building Trust:** In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of products and services that you provide. This will enable you to build trust between you and your customer.
@@ -42,7 +41,6 @@ These are some of the key benefits of being accredited.
 
 {: #qn4}
 #### What are the SAC accreditation schemes?
-
 Currently SAC operates the following accreditation schemes:
 
 * **Accreditation Scheme for Laboratories (SAC-SINGLAS)**
@@ -68,7 +66,7 @@ This scheme evaluates the technical competence of inspection bodies based on the
  
 **Accreditation Scheme for Product Certification:** This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
  
-More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services){:target='_blank'}.
+More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services).
 
 {: #qn5}
 #### What is the general procedure for getting accreditation?
@@ -86,20 +84,17 @@ The general procedure to obtain accreditation is as below:
 
 {: #qn6}
 #### How long does it take to get SAC accreditation?
-
 This would depend on a number of factors, such as the degree of an organisation's compliance with requirements, complexity of scope of the accreditation, availability of witnessing and clearance of incidences of non-conformance highlighted during the assessment. A reasonable time frame is between three to six months.
 
 {: #qn7}
 #### What happens after getting accredited?
-
 If you are accredited, you will be able to use the SAC Accreditation Mark and offer your products or services with confidence both nationally and worldwide. You can also make use of the ILAC or IAF MRA mark. In addition, your company and the scope of accreditation will be listed in the SAC Directory and website, where companies and regulators visit to source for reliable providers.  
 
 There will also be periodic surveillance assessments to ensure your continued compliance with the scope of accreditation. The accreditation certificate will also require renewal periodically and the renewal period will depend on the terms and conditions of the accreditation scheme.
 
 {: #qn8}
 #### Any other enquiries?
-
-If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target='_blank'} section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
 
 ---
 
@@ -107,7 +102,6 @@ If you have any questions or doubts, you can drop us an email or call us directl
 
 {: #qnb1}
 #### What is the difference between GLP recognition and ISO/IEC 17025 accreditation?
-
 GLP is a quality system concerned with the organisation process and conditions under which the non-clinical studies are planned, recorded, archived and reported. ISO/IEC 17025 accreditation is a formal recognition for technical competence to undertake specific tests or calibrations. In general GLP is used for non-clinical health & safety studies that are often called for in regulations while ISO/IEC 17025 accreditation is used normally voluntary. Laboratory accreditation to ISO/IEC 17025 is for routine testing and measurement while GLP covers often a series of experiments. Only GLP recognition can provide an effective quality system that gives regulators the necessary confidence in relation to how non-clinical health and safety studies are planned, performed, monitored, recorded, reported and archived.
 
 {: #qnb2}
@@ -120,16 +114,15 @@ Product registration in overseas markets are typically referred to the US FDA fo
 
 {: #qnb3}
 #### What are the OECD Principles?
-The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target='_blank'}.
+The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="&#95;blank"}.
+<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qnb4}
 #### Where do I apply the GLP studies?
-
 The Principles of GLP are applied to the conduct of non-clinical health and environmental safety studies of test items contained in various chemical products. A study covers work done in a laboratory, in an animal house, in greenhouses, and in the field. Non-clinical studies may cover physical-chemical testing, toxicity studies, mutagenicity studies, environmental toxicity, bioaccumulation, residue studies, studies on effects of mesocosms and ecosystems and the analytical chemistry associated with such studies.
 
 {: #qnb5}
 #### What information is required for submission to SAC?
-
 A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :
 
 a. Management structure
@@ -210,7 +203,8 @@ A facility seeking recognition for compliance with OECD Principles of GLP should
 {: #qnb14}
 #### Where can I access the OECD Principles of GLP?
 
-Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target='_blank'}.
+Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="&#95;blank"}.
+<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qnb15}
 #### Where can I get more information?
@@ -220,4 +214,4 @@ Further information on the Singapore compliance monitoring programme should be s
 {: #qnb16}
 #### Any other enquiries?
 
-If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us){:target='\_blank'} section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
