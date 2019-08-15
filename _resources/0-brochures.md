@@ -93,6 +93,7 @@ brochures:
             <tr>
           {% endif %}
           <td><a href="{{- link -}}" target="_blank"><img src="{{- image -}}" />{% if item.name %}{{- item.name -}}{% endif %}</a></td>
+          {% comment %} if there are less than 3 table cells for the entire table, populate with empty cells {% endcomment %}
           {% if forloop.last == true and forloop.index < 4 %}
             {% assign temp = 3 | minus: forloop.index %}  
             {% for i in (1..temp) %}
