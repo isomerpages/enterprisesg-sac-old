@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Healthcare & Biomedical Engineering
-description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
+description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
 permalink: /industries/healthcare-and-biomedical-engineering
 collection_name: industries
 ---
@@ -39,4 +39,4 @@ The following SAC Accreditation Programmes are applicable to the healthcare and 
 |                                         | Physical Chemical Testing                                    |
 |                                         | Analytical and Clinical Associated with Non-clinical Studies |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
