@@ -33,9 +33,9 @@ In addition, with the pool of accredited local PTPs available, customers such as
 ### Process
 
 A facility seeking recognition for compliance with ISO/IEC 17043 should apply to SAC, stating its proposed scope and type of PT programme for recognition. It has to provide key information on:  
-   a) Management structure  
-   b) Key responsibilities of the personnel and units  
-   c) Persons in charge of PT programme(s)  
+   a) Management structure\\
+   b) Key responsibilities of the personnel and units\\
+   c) Persons in charge of PT programme(s)\\
    d) Quality manual and standard operation procedures, among other documents
 
 SAC will do a documentation review before the on-site assessment, which is done to determine compliance with ISO/IEC 17043. The facility must complete at least one PT programme for the applied scope before the assessment. The on-site assessment will be conducted by a lead assessor accompanied by relevant technical experts as determined by SAC. Assessment may take more than one day, depending on the scope and size of the facility. 
