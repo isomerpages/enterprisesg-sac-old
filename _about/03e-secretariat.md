@@ -1,6 +1,6 @@
 ---
-layout: committee #Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
-committee: secretariat-committee
+# Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
+layout: committee 
 title: Secretariat
 permalink: /about/our-organisation-and-structure/secretariat
 collection_name: about
