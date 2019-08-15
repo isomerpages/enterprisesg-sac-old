@@ -64,8 +64,7 @@ brochures:
 {% assign pageBrochures = page.brochures %}
 {% for category in pageBrochures.categories %}
   <h4 style="padding-left:1rem;">{{- category.title -}}</h4>
-  {% assign numBrochures = category.list | size %}
-  {% if numBrochures > 0  %}
+  {% unless category.list == empty  %}
     {% assign sample = category.list | first %}
     {% if sample.img %}
       <table class="brochures-table">
@@ -77,6 +76,13 @@ brochures:
               {% assign link = item.url %}
             {% else %}
               {% assign link = '' %}
+          {% endif %}
+          {{ assign temp = forloop.index | modulo: 3 }}
+          {% if temp == 0 %}
+            {% if forloop.first == false %}
+              </tr>
+            {% endif %}
+            <tr>
           {% endif %}
           <td><a href="{{- link -}}" target="_blank"><img src="{{- image -}}" />{% if item.name %}{{- item.name -}}{% endif %}</a></td>
         {% endfor %}
@@ -95,7 +101,7 @@ brochures:
         {% endfor %}
       </ul>
     {% endif %}
-  {% endif %}
+  {% endunless %}
 {% endfor %}
 
 {:/}
