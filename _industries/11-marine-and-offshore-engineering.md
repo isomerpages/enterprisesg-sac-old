@@ -1,6 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Marine & Offshore Engineering
+description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
 permalink: /industries/marine-and-offshore-engineering
 collection_name: industries
 ---
@@ -41,4 +42,4 @@ The following SAC accreditation schemes are applicable to the Marine & Offshore 
 |-----------------------------------------|-----------------------------------------------------------|
 | Product Certification Bodies            | Certified Personnel (NDT)                                 |
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services){:target="_blank"}.
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
