@@ -6,9 +6,11 @@ collection_name: about
 second_nav_title: "Collaborations And Recognitions"
 ---
 
+<!--html code for displaying an embedded youtube video; change the link in 'src' to use a different video-->
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/rN9M7aJ85LU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+<!-- end of html code-->
 
 ### A Global Passport for Singapore Enterprises
 
