@@ -1,6 +1,6 @@
 ---
-layout: committee #Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
-committee: laboratory-technical-committee
+# Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
+layout: committee 
 title: Laboratory Technical Committees
 permalink: /about/our-organisation-and-structure/laboratory-technical-committees
 collection_name: about
