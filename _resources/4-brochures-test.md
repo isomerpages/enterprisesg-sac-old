@@ -92,7 +92,7 @@ brochures:
                <td></td>                                 
             {% endfor %}                                      
             </tr>
-        {% endfor %}
+        {% endif %}
       </table>
     {% else %}
       <ul>
