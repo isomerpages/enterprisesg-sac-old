@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Brochures
-permalink: /resources/brochures
+permalink: /resources/brochure-old
 collection_name: resources
 ---
 
