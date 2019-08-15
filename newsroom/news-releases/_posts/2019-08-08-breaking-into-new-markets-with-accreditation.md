@@ -12,6 +12,7 @@ As the global market becomes more interconnected, with new technologies changing
 Accreditation – providing confidence in companies performing testing, calibration and inspection, validation and verification, as well as certification of products, people and management systems – can help address these challenges and ensure that standards and guidelines are met, noted Ms Jennifer Evans, CEO of the National Association of Testing Authorities, Australia and Co-Chair of the recently formed Asia Pacific Accreditation Cooperation (APAC), who moderated a panel discussion at the APAC Annual Meetings 2019 host economy seminar.   
 
 ![Jennifer Evans]({{page.imgFolderPath}}JenniferEvans.jpg)
+<!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
 
 **Benefits of using accredited conformity assessment bodies**
  
@@ -23,7 +24,7 @@ With accreditation, businesses are able to reduce the need for re-testing, re-in
 
 **Accreditation in the food industry**
 
-![Food Industry]({{page.imgFolderPath}}foodindustry.jpg)
+![Food Industry]({{page.imgFolderPath}}foodindustry.jpg) <!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
 The food industry is a good example of how accredited TIC services can help businesses protect their brand and reputation, and ease their entry into other markets. With consumers increasingly concerned about the safety and quality of food, independent assurance in the form of accreditation plays a crucial role in demonstrating that products meet applicable standards.
  
 “Accreditation will continue to play an important role in building trust in the food supply chain and food safety system at the global level. For Singapore, more trust in these areas will bring about greater trade flows, industry growth and job creation, and enables local establishments to integrate into global supply chains”, Dr Tan Lee Kim, SFA Director-General & Deputy CEO, said.
