@@ -18,43 +18,14 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:  
 ![SAC Singlas with ILAC](/images/about/SAC_singlas_ with_ilac_2.jpg){: style="width:327px;"}
 
-**We have established MRAs with the following regional and international organisations:**
-
-| ![APAC Logo](/images/about/APAC_logo.jpg){: style="width:198px;height:79px"} **Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification** <br/>[APAC](https://www.apac-accreditation.org/){:target="&#95;blank"} is a merger of APLAC and PAC. | Signed in 1997 (Testing and Calibration)<br/>Signed in 2003 (Inspection Bodies)<br/>Signed in 2007 (Medical ISO 15189)<br/>Signed in 2014 (Proficiency Testing Providers)<br/>Signed in 1998 (QMS)</li><li>Signed in 2006 (Product)<br/>Signed in 2014 (FSMS)<br/>Signed in 2017 (EnMS)<br/>Signed in 2017 (EMS) |
-| ![ILAC Logo](/images/about/ILAC_logo.jpg){: style="height:118px;width:118px;"} **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection** ([ILAC MRA](http://www.ilac.org/about-ilac/){:target="&#95;blank"}) |Signed in 2001 (Testing and Calibration)<br/>Signed in 2012 (Inspection Bodies) |
-| ![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"} **International Accreditation Forum for Quality Management System and Product Certification** ([IAF MLA](http://www.iaf.nu/){:target="&#95;blank"}) | Signed in 1999 (QMS)<br/>Signed in 2007 (Product)<br/>Signed in 2015 (FSMS)<br/>Signed in 2017 (EMS) |
-
+We have established MRAs with the following regional and international organisations:
 
 ---
 
-![APAC Logo](/images/about/APAC_logo.jpg) 
-**Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification**\\
-[APAC](https://www.apac-accreditation.org/){:target="&#95;blank"} is a merger of APLAC and PAC.
-
-* Signed in 1997 (Testing and Calibration)
-* Signed in 2003 (Inspection Bodies)
-* Signed in 2007 (Medical ISO 15189)
-* Signed in 2014 (Proficiency Testing Providers)
-* Signed in 1998 (QMS)
-* Signed in 2006 (Product)
-* Signed in 2014 (FSMS)
-* Signed in 2017 (EnMS)
-
-![ILAC Logo](/images/about/ILAC_logo.jpg){: style="height:118px;width:118px;"}
- **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection**\\
-[ILAC MRA](http://www.ilac.org/about-ilac/){:target="&#95;blank"}
-
-* Signed in 2001 (Testing and Calibration)
-* Signed in 2012 (Inspection Bodies)
-
-![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"}
- **International Accreditation Forum for Quality Management System and Product Certification**\\
- [IAF MLA](http://www.iaf.nu/){:target="&#95;blank"}
- 
- * Signed in 1999 (QMS)
- * Signed in 2007 (Product)
- * Signed in 2015 (FSMS)
- * Signed in 2017 (EMS)
+{:#mra-table}
+| ![APAC Logo](/images/about/APAC_logo.jpg){: style="width:198px;height:79px"} **Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification** <br/>[APAC](https://www.apac-accreditation.org/){:target="&#95;blank"} is a merger of APLAC and PAC. | {::nomarkdown}<ul><li>Signed in 1997 (Testing and Calibration)</li><li>Signed in 2003 (Inspection Bodies)</li><li>Signed in 2007 (Medical ISO 15189)</li><li>Signed in 2014 (Proficiency Testing Providers)</li><li>Signed in 1998 (QMS)</li><li>Signed in 2006 (Product)</li><li>Signed in 2014 (FSMS)</li><li>Signed in 2017 (EnMS)</li><li>Signed in 2017 (EMS)</li></ul>{:/} |
+| ![ILAC Logo](/images/about/ILAC_logo.jpg){: style="height:118px;width:118px;"} **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection** <br/>[ILAC MRA](http://www.ilac.org/about-ilac/){:target="&#95;blank"} | {::nomarkdown}<ul><li>Signed in 2001 (Testing and Calibration)</li><li>Signed in 2012 (Inspection Bodies)</li></ul>{:/} |
+| ![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"} **International Accreditation Forum for Quality Management System and Product Certification** <br/>[IAF MLA](http://www.iaf.nu/){:target="&#95;blank"} | {::nomarkdown}<ul><li>Signed in 1999 (QMS)</li><li>Signed in 2007 (Product)</li><li>Signed in 2015 (FSMS)</li><li>Signed in 2017 (EMS)</li></ul>{:/} |
 
 ---
 
