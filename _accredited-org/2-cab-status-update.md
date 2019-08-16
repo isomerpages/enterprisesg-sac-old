@@ -1,6 +1,6 @@
 ---
 # Comment: This page uses 'cab-status-update' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed exactly as written below.
-layout: cab-status-update  
+layout: leftnav-page-content
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
@@ -21,6 +21,19 @@ collection_name: accredited-org
   * PT. A Star & Inspection (14 May 2019)
 
 #### Certification Body    
+
+* Environmental Management System 
+  * EPI Certification Pte Ltd (02 July 2019)
+  
+* Information Security Management System
+  * TUV SUD PSB Pte Ltd (21 May 2019)
+  * Socotec Certification Singapore Pte Ltd (1 August 2019)
+
+* Occupational Health & Safety Management System 
+  * A Europe Certification Pte Ltd (6 August 2019)
+
+* Qualty Management System 
+  * A Europe Certification Pte Ltd (29 July 2019)
 
 * Auditing Organisation 
   * QA Technic Pte Ltd (05 May 2019)
