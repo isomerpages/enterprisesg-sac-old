@@ -27,6 +27,9 @@ We have established MRAs with the following regional and international organisat
 | ![ILAC Logo](/images/about/ILAC_logo.jpg){: style="height:118px;width:118px;"} **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection** <br/>[ILAC MRA](http://www.ilac.org/about-ilac/){:target="&#95;blank"} | {::nomarkdown}<ul><li>Signed in 2001 (Testing and Calibration)</li><li>Signed in 2012 (Inspection Bodies)</li></ul>{:/} |
 | ![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"} **International Accreditation Forum for Quality Management System and Product Certification** <br/>[IAF MLA](http://www.iaf.nu/){:target="&#95;blank"} | {::nomarkdown}<ul><li>Signed in 1999 (QMS)</li><li>Signed in 2007 (Product)</li><li>Signed in 2015 (FSMS)</li><li>Signed in 2017 (EMS)</li></ul>{:/} |
 
+<!-- COMMENT: the '{:#mra-table}' at the top of the Markdown table is a unique identifier tag for styling this table. To edit the table style, go to misc-> custom.scss and search and edit the content below the '#mra-table' identifier -->
+<!-- COMMENT: the '{::nomarkdown}{:/}' tags in the second column of the table is used to process HTML code (for lists) within the tags in a Markdown table -->
+
 ---
 
 Note: To facilitate the recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
