@@ -18,7 +18,7 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:  
 ![SAC Singlas with ILAC](/images/about/SAC_singlas_ with_ilac_2.jpg){: style="width:327px;"}
 
-#### We have established MRAs with the following regional and international organisations:
+**We have established MRAs with the following regional and international organisations:**
 
 ---
 
@@ -35,14 +35,14 @@ Once a laboratory or inspection body becomes accredited, it is granted exclusive
 * Signed in 2014 (FSMS)
 * Signed in 2017 (EnMS)
 
-![ILAC Logo](/images/about/ILAC_logo.jpg)
+![ILAC Logo](/images/about/ILAC_logo.jpg){: style="height:118px;width:118px;"}
  **International Laboratory Accreditation Cooperation  for Testing, Calibration and Inspection**\\
 [ILAC MRA](http://www.ilac.org/about-ilac/){:target="&#95;blank"}
 
 * Signed in 2001 (Testing and Calibration)
 * Signed in 2012 (Inspection Bodies)
 
-![IAF Logo](/images/about/iaf.gif)
+![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"}
  **International Accreditation Forum for Quality Management System and Product Certification**\\
  [IAF MLA](http://www.iaf.nu/){:target="&#95;blank"}
  
