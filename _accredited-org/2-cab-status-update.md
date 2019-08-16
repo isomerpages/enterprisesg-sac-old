@@ -37,17 +37,17 @@ collection_name: accredited-org
   * A Europe Certification Pte Ltd (29 July 2019)
 
 * Auditing Organisation
- * QA Technic Pte Ltd (05 May 2019)
- * S-SAFE CONSULTANTS PTE. LTD (30 May 2019)
- * SGS International Certification Services Singapore Pte Ltd (31 May 2019)
- * EQA IMS Certification Pte Ltd (27 June 2019)
- * Bond International Consultants Pte Ltd (01 July 2019)
- * Safety First Pte Ltd (18 July 2019)
- * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
- * Aegis Certification Pte Ltd (29 July 2019)
-
+  * QA Technic Pte Ltd (05 May 2019)
+  * S-SAFE CONSULTANTS PTE. LTD (30 May 2019)
+  * SGS International Certification Services Singapore Pte Ltd (31 May 2019)
+  * EQA IMS Certification Pte Ltd (27 June 2019)
+  * Bond International Consultants Pte Ltd (01 July 2019)
+  * Safety First Pte Ltd (18 July 2019)
+  * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
+  * Aegis Certification Pte Ltd (29 July 2019) 
+ 
 * Validation and Verification Body 
- * TUV SUD PSB Pte Ltd (07 May 2019)    
+  * TUV SUD PSB Pte Ltd (07 May 2019)    
     
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
