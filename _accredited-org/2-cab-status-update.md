@@ -13,7 +13,8 @@ collection_name: accredited-org
 * Chemical & Biological Testing
   * Myanmar Department of Food and Drug Administration (14 June 2019)
 * Civil Engineering 
-  * NC Consult & Services Pte Ltd (19 June 2019) 
+  * Teknia Laboratory Pte Ltd (25 April 2019)
+  * Soil Tech Laboratory and Trading Pte Ltd (06 May 2019)  
 * Calibration & Measurement
   * Soil Tech Laboratory and Trading Pte Ltd (06 May 2019)
   * TIS Instruments (S) Pte Ltd (15 May 2019)
@@ -32,18 +33,21 @@ collection_name: accredited-org
 * Occupational Health & Safety Management System 
   * A Europe Certification Pte Ltd (6 August 2019)
 
-* Qualty Management System 
+* Quality Management System 
   * A Europe Certification Pte Ltd (29 July 2019)
 
-* Auditing Organisation 
-  * QA Technic Pte Ltd (05 May 2019)
-  * EQA IMS Certification Pte Ltd (27 June 2019)
-  * Bond International Consultants Pte Ltd (01 July 2019)
-  * Safety First Pte Ltd (18 July 2019)
-* Validation and Verification Body 
-  * TUV SUD PSB Pte Ltd (07 May 2019)
-  * EPI Certification Pte Ltd (02 July 2019)
+* Auditing Organisation
+ * QA Technic Pte Ltd (05 May 2019)
+ * S-SAFE CONSULTANTS PTE. LTD (30 May 2019)
+ * SGS International Certification Services Singapore Pte Ltd (31 May 2019)
+ * EQA IMS Certification Pte Ltd (27 June 2019)
+ * Bond International Consultants Pte Ltd (01 July 2019)
+ * Safety First Pte Ltd (18 July 2019)
+ * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
+ * Aegis Certification Pte Ltd (29 July 2019)
 
+* Validation and Verification Body 
+ * TUV SUD PSB Pte Ltd (07 May 2019)    
     
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
@@ -87,6 +91,7 @@ collection_name: accredited-org
 * Cargo Inspection
   * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
   * Poseidon Marine Pte Ltd (23 July 2019)
+  * Atoz Maritime Pte Ltd (26 July 2019)
 
 #### Laboratory
 
