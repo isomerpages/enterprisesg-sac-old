@@ -10,12 +10,12 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 
 * Upload / Replace new publication
   1. Upload the document into relevent folder in [files->documents](https://github.com/isomerpages/enterprisesg-sac/tree/staging/files/documents)
-  2. Edit the document name and file path in the corresponding publications page in [_resources](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_resources)  
+  2. Edit the document name and file path in the corresponding Publications page in [_resources](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_resources)  
 
 * Create a new training course
   1. Create a new course registration form on [formSG](https://form.gov.sg) platform
   2. Create new file in [courses->\_posts](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
-  *For a complete template, refer to a [sample course page](https://raw.githubusercontent.com/isomerpages/enterprisesg-sac/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor*
+  *For a complete template, refer to a [sample course page](https://github.com/isomerpages/enterprisesg-sac/edit/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor*
 
 * Edit SAC committee (Edit corresponding committee page in ['_about'](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about))
   * [Edit SAC Council](https://github.com/isomerpages/enterprisesg-sac/edit/staging/_about/03a-sac-council.md)
