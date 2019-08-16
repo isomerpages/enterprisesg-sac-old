@@ -16,7 +16,7 @@ An MRA is based on the results of intensive peer evaluation of its signatories. 
 
 ### How to Recognise Accredited Reports & Certificates?
 Once a laboratory or inspection body becomes accredited, it is granted exclusive use of the logo belonging to the particular accreditation body that issued its accreditation. The accredited body can only refer to its accreditation according to the respective tests, calibration or inspection. For easier recognition across borders, the International Laboratory Accreditation Cooperation (ILAC) has come up with an internationally recognised mark called the ILAC mark. This is to be used alongside the logo of the accreditation body. An example of how the ILAC mark is used by accredited laboratories in Singapore is demonstrated below:  
-![SAC Singlas with ILAC](/images/about/SAC_singlas_ with_ilac_2.jpg){: style="width:327px;"}
+![SAC Singlas with ILAC](/images/about/SAC_singlas_with_ilac_2.jpg){: style="width:327px;"}
 
 We have established MRAs with the following regional and international organisations:
 
@@ -28,6 +28,7 @@ We have established MRAs with the following regional and international organisat
 | ![IAF Logo](/images/about/iaf.gif){: style="height:119px;width:171px;"} **International Accreditation Forum for Quality Management System and Product Certification** <br/>[IAF MLA](http://www.iaf.nu/){:target="&#95;blank"} | {::nomarkdown}<ul><li>Signed in 1999 (QMS)</li><li>Signed in 2007 (Product)</li><li>Signed in 2015 (FSMS)</li><li>Signed in 2017 (EMS)</li></ul>{:/} |
 
 <!-- COMMENT: the '{:#mra-table}' at the top of the Markdown table is a unique identifier tag for styling this table. To edit the table style, go to misc-> custom.scss and search and edit the content below the '#mra-table' identifier -->
+<!-- COMMENT: the '<br/>' tag is used as a line break in a Markdown table -->
 <!-- COMMENT: the '{::nomarkdown}{:/}' tags in the second column of the table is used to process HTML code (for lists) within the tags in a Markdown table -->
 
 ---
