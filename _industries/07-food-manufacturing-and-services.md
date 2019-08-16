@@ -5,6 +5,9 @@ description: "Get your products and services evaluated and certified by a Singap
 permalink: /industries/food-manufacturing-and-services
 collection_name: industries
 ---
+<!-- Comment: placeholder Markdown image
+![Food Manufacturing](/images/industries/title-of-image.jpg)
+-->
 
 Food manufacturing is the process by which livestock and agriculture are transformed into food products for consumption. The food manufacturing industry employs more than 48,000 workers in Singapore, and amounts to around $4.3 billion in annual revenue – this is about 1.1% of Singapore's GDP.
 
