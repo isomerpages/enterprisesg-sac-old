@@ -6,6 +6,10 @@ permalink: /industries/land-transport
 collection_name: industries
 ---
 
+<!-- Comment: placeholder Markdown image
+![Land Transport](/images/industries/title-of-image.jpg)
+-->
+
 The land transport industry comprises the rail and automotive transport systems, as well as road vehicles. It is a key component of Singapore's infrastructure. Emerging trends now include the development of autonomous and electric vehicles, as well as data analytics for commuter travel patterns, as major parts of the industry. Technology is also impacting the ways in which infrastructure is maintained, by enabling predictive maintenance and increasing workplace safety. 
 
 The need to ensure the safety and reliability of transport underpins almost all economic activity, from technological innovation to vehicle functionality, and conformity assessment is able to provide such assurances. Conformity Assessment Bodies (CABs) are able to provide qualified assurances in this regard.
