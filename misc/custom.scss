@@ -380,15 +380,26 @@ hr {
 				}
 			}
 			&.has-dropdown {
-				a.navbar-link{
-					@include desktop(){
-						pointer-events: none !important;
+				.navbar-dropdown {
+					@include touch(){
+						display:none;
 					}
 				}
-				
+				a.navbar-link{
+					pointer-events: none !important;
+					//@include desktop(){
+					//	pointer-events: none !important;
+					//}
+				}
+				&:hover, &:focus {
+					.navbar-dropdown {
+						@include touch(){
+							display:none;
+						}
+					}
+				}		
 			}
-		}
-		
+		}	
 	}
 	&-burger{	//increase the size of the navbar-burger icon on mobile screen  
 		span{   
