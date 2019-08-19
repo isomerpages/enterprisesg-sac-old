@@ -6,11 +6,12 @@ collection_name: resources
 second_nav_title: "Publications"
 ---
 
+{: .publications-list}
+
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 ### Publications for All Certification Programmes
 
-{: .publications-list}
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"}
