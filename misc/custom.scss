@@ -751,6 +751,16 @@ img + em {
 	}
 }
 
+#publications-list ~ ul > li {
+	font-size: 1.1rem;
+	a[href$=".pdf"] {
+	   	margin-left: 0;
+		&::before {
+			content: none;
+		}
+	}
+}
+
 /*
 @media screen and (min-width: 640px) {	
 	.person-info-card {
