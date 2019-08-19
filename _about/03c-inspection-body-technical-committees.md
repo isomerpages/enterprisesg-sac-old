@@ -17,7 +17,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Mr Chan Yew Kwong | Ministry of Manpower |
-| **Member** | Pending | Association of Singapore Marine Industires |
+| **Members** | Pending | Association of Singapore Marine Industires |
 | | Mr Poon Meng Jin, Dennis<br/>(Alt: Mr Lam Tiam Yuen, Daniel) | Land Transport Authority |
 | | A/Prof Ong Lin Seng | Nanyang Technological University |
 | | Mr Lim See Khoon, Kenneth | National Environment Agency |
@@ -35,7 +35,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Chin Leong Siong | Building and Construction Authority |
-| **Member** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
+| **Members** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
 | | Mr Ang Poh Cheng | Housing & Development Board |
 | | Mr Tang Pei Luen | Jurong Town Council |
 | | Mr Lim Tuck Fang | Land Transport Authority |
@@ -53,7 +53,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Mr Simon Neo | International Bunker Industry Association |
-| **Member** | Mr Colin Yong | Maritime and Port Authority of Singapore |
+| **Members** | Mr Colin Yong | Maritime and Port Authority of Singapore |
 | | Mr Daraji Daud | Singapore Manufacturing Federation - SGS Testing & Control Services Singapore Pte Ltd |
 | | Captain Osman Bin Sam | Singapore Polytechnic |
 | | Mr Michael Phoon | Singapore Shipping Association |
@@ -68,7 +68,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Jeyatharan Kumarasamy | Institute of Engineers, Singapore |
-| **Member** | Mr Yong Fen Leong | Association of Consulting Engineers Singapore |
+| **Members** | Mr Yong Fen Leong | Association of Consulting Engineers Singapore |
 | | Dr Poh Teoh Yaw | Building & Construction Authority |
 | | Mr Teo Cheng Soon | Housing & Development Board |
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
