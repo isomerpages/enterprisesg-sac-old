@@ -17,7 +17,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic |
-| **Member** | Dr Yet Nai Song | Building and Construction Authority |
+| **Members** | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore |
 | | Dr Meng Yusong | National Metrology Centre, A\*STAR |
 | | Mr Chua Eng Sing | ITE College Central |
@@ -32,7 +32,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Member** | Dr Wu Yuan Sheng | Agri-food & Veterinary Authority of Singapore - Veterinary Public Health Laboratories |
+| **Members** | Dr Wu Yuan Sheng | Agri-food & Veterinary Authority of Singapore - Veterinary Public Health Laboratories |
 | | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
 | | Mr Jonathan Goh Peng Teck<br/>(Alt member : Dr Ng Khee Yang) | Environmental Engineering Society of Singapore (EESS) |
 | | Dr Liu Qinde | Health Sciences Authority |
@@ -50,7 +50,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Lim Say Leong | The Institution of Engineers, Singapore |
-| **Member** | Mr Ng Soo Horng | Casino Regulatory Authority |
+| **Members** | Mr Ng Soo Horng | Casino Regulatory Authority |
 | | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
 | | Mr Lee Zhi Qing Robert | Cyber Security Agency |
 | | Er Koh Teck Kuan | Energy Market Authority |
@@ -70,8 +70,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
-| **Member** |  |  |
-| | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
+| **Members** | | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
 | | Mr Foo Ngee Chih | Biomedical Research Council, A\*STAR |
 | | Mr Foo Yang Tong | Health Sciences Authority |
 | | Ms Angela Tan H J | National Environment Agency |
@@ -84,7 +83,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Raymond Lin | Ministry of Health |
-| **Member** | Pending | Academy of Medicine - College of Pathology |
+| **Members** | Pending | Academy of Medicine - College of Pathology |
 | | Dr Ang Ai Leen | Health Sciences Authority |
 | | A/Prof Leong Khai Pang | National Healthcare Group |
 | | Dr Nancy Tee | National University Health System |
@@ -104,7 +103,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
-| **Member** | Dr Tan Soo See, Susanna | National Healthcare Group |
+| **Members** | Dr Tan Soo See, Susanna | National Healthcare Group |
 | | Dr Cheryl Lian | Society of Medical Physicists Singapore |
 | | Mr Chong Chun Meng | Singapore Society of Radiographers |
 | | Mr Somanesan Satchithanantham | Singapore Health Services |
@@ -116,7 +115,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Lung Hian Hao | Building & Construction Authority |
-| **Member** | Er Tan Kee Chong | Ministry of Manpower |
+| **Members** | Er Tan Kee Chong | Ministry of Manpower |
 | | LTC Chong Kim Yuan | Singapore Civil Defence Force |
 | | A/Prof Yang En-Hua | Nanyang Technological University |
 | | Er Loo Say Kian | Housing & Development Board |
