@@ -8,15 +8,6 @@ second_nav_title: "Publications"
 
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
-| Publications for All Certification Programmes |
-|-----------------------------------------------|
-| [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"} |
-| [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"} |
-| [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"} |
-| [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="&#95;blank"} |
-| [CT 01, 14 June 2019: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01,14-June-2019.pdf){:target="&#95;blank"} |
-| [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="&#95;blank"} |
-
 ### Publications for All Certification Programmes
 
 <!-- The {:target="&#95;blank"} at the end of the Markdown file link is used to open the file in a new window tab -->
@@ -29,6 +20,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Standards and Criteria Document for Management Systems Certification
 **ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
+
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - March 2019](/files/documents/management-system-and-products-certification/CT-02-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - March 2019](/files/documents/management-system-and-products-certification/CT-04-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2019](/files/documents/management-system-and-products-certification/CT-08-(29-March-2019).pdf){:target="&#95;blank"}
@@ -73,6 +65,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Standards and Criteria Document for Product Certification
 **ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services**
+
 * [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](/files/documents/management-system-and-products-certification/CT-05-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 06 - SAC Criteria for Ready-Mixed Concrete Producers - March 2019](/files/documents/management-system-and-products-certification/CT-06-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 12 - SAC Criteria for Product Certification Bodies (Fire Safety Products) - March 2019](/files/documents/management-system-and-products-certification/CT-12-(29-March-2019).pdf){:target="&#95;blank"}
