@@ -6,11 +6,18 @@ window.onload = function(){
         
         //this is used to check that the website is in mobile view because the navbar-burger only appears on mobile site
         if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
+            //hide navbar dropdown menus on first load
+            var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
+            for (var i=0; i<navbarDropdowns.length; i++) {
+                navbarDropdowns[i].style.display = 'none';
+            }
+            
             var navbarDropdown;
             var navbarItemLinks;
             var navbarItems = document.getElementsByClassName('navbar-item has-dropdown');
             for (var i=0; i<navbarItems.length; i++) {
-               
+                
+                
                 //toggle navbar dropdown menu              
                 navbarItemLinks = navbarItems[i].getElementsByClassName('navbar-link');                
                 if (navbarItemLinks.length > 0) {
