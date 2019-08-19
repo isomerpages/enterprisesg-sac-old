@@ -6,7 +6,7 @@ window.onload = function(){
         
         //this is used to check that the website is in mobile view because the navbar-burger only appears on mobile site
         if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
-            //hide navbar dropdown menus on first load
+            /*//hide navbar dropdown menus on first load
             var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
             for (var i=0; i<navbarDropdowns.length; i++) {
                 navbarDropdowns[i].style.display = 'none';
@@ -59,7 +59,7 @@ window.onload = function(){
                 
                 //append button to the end of main-content
                 mainContent.appendChild(backToTopBtn);
-            }
+            }*/
         }
     }
 };    
