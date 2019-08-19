@@ -6,6 +6,7 @@ collection_name: resources
 second_nav_title: "Publications"
 ---
 
+{: #publications-list}
 An inspection body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 #### ISO/IEC 17020:2012 - Conformity Assessment-Requirements for the operation of various types of bodies performing inspection
