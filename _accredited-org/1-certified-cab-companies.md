@@ -113,4 +113,4 @@ company-list:
 
 ### Type of Certification
 
-<!-- COMMENT: html code for accordion of list of certified companies is in '_layouts/certified-companies.html' -->
+<!-- COMMENT: html code for accordion displaying the list of certified companies is in '_layouts/certified-companies.html' -->
