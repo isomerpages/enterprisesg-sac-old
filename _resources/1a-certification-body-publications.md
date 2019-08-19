@@ -10,7 +10,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Publications for All Certification Programmes
 
-<!-- The {:target="&#95;blank"} at the end of the Markdown file link is used to open the file in a new window tab -->
+{: .publications-list}
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"}
