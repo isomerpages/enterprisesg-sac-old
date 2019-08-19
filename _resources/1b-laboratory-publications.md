@@ -9,7 +9,6 @@ second_nav_title: "Publications"
 {: #publications-list}
 A laboratory must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 ### Publications for All Fields
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
@@ -20,8 +19,11 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="&#95;blank"}
 * [Joint ISO-ILAC-IAF Communique on the Management Systems Requirements of ISO/IEC 17025, April 2017](/files/documents/laboratory-accreditation/Joint_ISO_IEC_17025_communique_2017finalsigned.pdf){:target="&#95;blank"}
 
+<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
+
 ### Standards and Criteria Document for Testing and Calibrations (Exclude Medical Testing & Medical Imaging)
 #### ISO/IEC 17025: 2005 - General Requirements for the Competence of Testing and Calibration Laboratories
+
 * [SAC-SINGLAS 001 - 29 March 2019: Accreditation Process](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-001-(29-March-2019).pdf){:target="&#95;blank"}
 * [SAC-SINGLAS 002 - 15 February 2017: Requirements for the Application of ISO/IEC 17025](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-002-(15-Feb-2017).pdf){:target="&#95;blank"}
 * [SAC-SINGLAS 002 - 09 Jul 2018: Guidelines for the Application of ISO/IEC 17025:2017](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-002-(09-July-2018).pdf){:target="&#95;blank"}
