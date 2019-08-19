@@ -14,8 +14,8 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
   2. Edit the document name and file path in the corresponding Publications page in [*_resources*](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_resources)
 
 * Create a new training course
-  1. Create a new course registration form on [formSG](https://form.gov.sg) platform
-  2. Create new [training course post](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
+  1. Create a new course registration form on the [formSG platform](https://form.gov.sg)
+  2. Create a new [training course post](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+Title+of+Course+Page%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
   *For a complete template, refer to a [sample course page](https://github.com/isomerpages/enterprisesg-sac/edit/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor*
 
 * Edit SAC committee (Note: all SAC committee pages are located in [*'_about'*](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about))
