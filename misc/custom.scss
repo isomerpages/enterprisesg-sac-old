@@ -751,6 +751,7 @@ img + em {
 	}
 }
 
+//styling for smaller font-size and better alignment of icons for publications
 #publications-list ~ ul > li {
 	font-size: 1.1rem;
 	a[href$=".pdf"] {
@@ -758,7 +759,14 @@ img + em {
 		&::before {
 			content: none;
 		}
-	}
+		&::after {
+			display:inline-block;
+			color: #767676;
+			font-family: "sgds-icons";
+			content: "";
+			padding-left:0.25rem;
+		}
+	}	
 }
 
 /*
