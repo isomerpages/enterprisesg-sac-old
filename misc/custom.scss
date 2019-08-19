@@ -386,18 +386,10 @@ hr {
 					}
 				}
 				a.navbar-link{
-					pointer-events: none !important;
-					//@include desktop(){
-					//	pointer-events: none !important;
-					//}
-				}
-				&:hover, &:focus {
-					.navbar-dropdown {
-						@include touch(){
-							display:none;
-						}
+					@include desktop(){
+						pointer-events: none !important;
 					}
-				}		
+				}	
 			}
 		}	
 	}
