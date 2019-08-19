@@ -7,7 +7,7 @@ window.onload = function(){
         //this is used to check that the website is in mobile view because the navbar-burger only appears on mobile site
         if (window.getComputedStyle(navbarBurgers[0], null).getPropertyValue('display') == 'block') {
             //hide navbar dropdown menus on first load
-            /*var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
+            var navbarDropdowns = document.getElementsByClassName('navbar-dropdown');
             for (var i=0; i<navbarDropdowns.length; i++) {
                 navbarDropdowns[i].style.display = 'none';
             }
@@ -35,7 +35,7 @@ window.onload = function(){
                         }
                     });
                 }
-            }*/
+            }
  
             //add back-to-top button in mobile view
             var mainContent = document.getElementById('main-content');            
@@ -84,46 +84,10 @@ window.onload = function(){
 </script>    
 {%- endif -%} 
 
-{%- if page.permalink contains 'resources/brochures' -%}
-<script>
-    /*
-    //hide empty table cells in bouchures page in mobile view
-    var brochuresTable = document.getElementsByClassName('brochures-table');
-    if (brochuresTable.length > 0) {  
-        for (var i=0; i<brochuresTable.length; i++) {
-            var brochuresTableCells = brochuresTable[i].getElementsByTagName('td');
-            for (var j=0; j<brochuresTableCells.length; j++) {
-                brochuresTableCells[j].innerHTML = brochuresTableCells[j].innerHTML.replace("&nbsp;", "").trim();
-            }
-        }
-    }
-    */
-</script>    
-{%- endif -%}
-
 {%- comment -%} add Isomer accordion template javascript to FAQ and Certified Companies pages {%- endcomment -%}
 {%- if page.layout == 'faq' or page.layout == 'certified-companies' or page.layout == 'committee' -%}
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
-
-{%- if page.layout == 'our-team' -%}
-<script>
-    /*
-    //add html attribute to open links under the 'organisation structure' section in new tab
-    var accordionBodies = document.querySelectorAll('[id^=accordion-body]');
-    if (accordionBodies.length > 0) {
-        for (var i=0; i<accordionBodies.length; i++) {
-            var committeeLinks = accordionBodies[i].getElementsByTagName('a');
-            if (committeeLinks.length > 0) {
-                for (var j=0; j<committeeLinks.length; j++) {
-                    committeeLinks[j].setAttribute("target", "_blank");
-                }
-            }
-        }
-    }
-    */
-</script>    
-{%- endif -%} 
 
 {%- if page.layout == 'post' -%}
 <script>
