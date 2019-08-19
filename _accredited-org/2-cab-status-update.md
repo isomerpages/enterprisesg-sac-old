@@ -1,6 +1,5 @@
 ---
-# Comment: This page uses 'cab-status-update' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed exactly as written below.
-layout: cab-status-update
+layout: leftnav-page-content
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update
 collection_name: accredited-org
