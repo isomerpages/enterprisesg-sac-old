@@ -761,10 +761,10 @@ img + em {
 		}
 		&::after {
 			display:inline-block;
-			color: #767676;
 			font-family: "sgds-icons";
 			content: "";
 			padding-left:0.25rem;
+			font-weight: 400;
 		}
 	}	
 }
