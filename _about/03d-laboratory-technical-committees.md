@@ -70,7 +70,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
-| **Members** | | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
+| **Members** | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
 | | Mr Foo Ngee Chih | Biomedical Research Council, A\*STAR |
 | | Mr Foo Yang Tong | Health Sciences Authority |
 | | Ms Angela Tan H J | National Environment Agency |
