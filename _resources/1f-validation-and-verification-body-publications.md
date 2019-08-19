@@ -6,6 +6,7 @@ collection_name: resources
 second_nav_title: "Publications"
 ---
 
+{: #publications-list}
 A validation/verification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
