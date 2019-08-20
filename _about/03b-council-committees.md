@@ -78,29 +78,31 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |----------------------|---------------------------------|-----------------------------------------------------------------|
 | **Chairman**         | A/Prof Raymond Chua             | Ministry of Health                                              |
 | **Deputy Chairman**  | Ms Ong Shwu Hoon                | Singapore Business Federation                                   |
-| **Members**          | A/Prof Loh Yeow Khoon, Lawrence | Centre for Governance (Institution & Organisation, Deputy Head of Department, Strategy & Policy) |
-|                      | Mr Md Sirajuddin Jaleel         | Enterprise Singapore                                            |
+| **Members**          | A/Prof Lawrence Loh Yeow Khoon  | Individual Representative                                       |
+|                      | Mr Terence Ng                   | Health Promotion Board                                          |
 |                      | Mr Tan Lin Teck                 | Ministry of Trade and Industry (Future Economy Program Office)  |
 |                      | Dr Thomas Liew                  | National Metrology Centre, A\*STAR                              |
-|                      | Mr Wong Mong Hong               | Singapore Food Manufacturers’ Association                       |
-|                      | Mr Clement Teo                  | Singapore Test Services Pte Ltd                                 |
-|                      | Mr Anthony Tan                  | UL International – Singapore Pte Ltd                            |
+|                      | Mr Wong Mong Hong               | Singapore Food Manufacturers' Association                       |
+|                      | Mr Anthony Tan                  | TIC Interest Group (Certification)                              |
+|                      | Mr Ang Tiong Ing                | TIC Interest Group (Laboratory)                                 |
 | **Secretary**        | Mr Tan Yee Teck                 | SAC Secretariat                                                 |
 
 ## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2018 - 30 June 2021
 
-| Designation    | Name                       | Organisation                                   |
-|----------------|----------------------------|------------------------------------------------|
-| **Chairman**   | Mr Alok Mishra             | Individual Capacity                            |
-| **Members**    | Pending                    | Biomedical Research Council, A\*STAR           |
-|                | Dr Liu Jiaming             | Ministry of Health (Health Regulations Group)  |
-|                | Dr Tyrone Goh              | National Healthcare Group Diagnostics          |
-|                | Ms Lim Soh Har             | National Healthcare Group (Central)            |
-|                | A/Prof Raymond Lin         | National Public Health Laboratory              |
-|                | A/Prof Ang Bee Leng Sophia | National University Health System (West)       |
-|                | A/Prof Low Chian Ming      | National University of Singapore               |
-|                | Prof Tan Puay Hoon         | Singapore Health Services (East)               |
-|                | Pending                    | Singapore Society of Pharmaceutical Industry   |
-|                | A/Prof Chong Bee Kiang     | Tan Tock Seng Hospital                         |
-| **Secretary**  | Ms Lee Jia Juan            | SAC Secretariat                                |
+| Designation    | Name                       | Organisation                                  |
+|----------------|----------------------------|-----------------------------------------------|
+| **Chairman**   | Mr Alok Mishra             | Individual Capacity                           |
+| **Members**    | Pending                    | Academy of Medicine                           |
+|                | Dr Ng Huck Hui             | Biomedical Research Council, A\*STAR          |
+|                | Mr Foo Yang Tong	          | Health Sciences Authority                     |
+|                | Pending	                  | Ministry of Health (Health Regulations Group) |
+|                | Dr Tyrone Goh	            | National Healthcare Group Diagnostics         |
+|                | Ms Lim Soh Har	            | National Healthcare Group (Central)           |
+|                | A/Prof Raymond Lin	        | National Public Health Laboratory             |
+|                | A/Prof Ang Bee Leng Sophia	| National University Health System (West)      |
+|                | A/Prof Low Chian Ming      | National University of Singapore              |
+|                | Prof Tan Puay Hoon	        | Singapore Health Services (East)              |
+|                | Pending	                  | Singapore Society of Pharmaceutical Industry  |
+|                | A/Prof Chong Bee Kiang	    | Tan Tock Seng Hospital                        |
+| **Secretary**  | Ms Lee Jia Juan            | SAC Secretariat                               |
