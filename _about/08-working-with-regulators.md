@@ -46,4 +46,4 @@ As the major procurers of goods and services, the government may rely on accredi
 
 The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification & Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
 
-[Click here to search for CABs.](https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx)
+[Click here to search for CABs.](https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx)
