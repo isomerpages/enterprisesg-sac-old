@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Training Course on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations
-# Comment: 'course_date' is used to indicate tha actual date/period that the course will be held
+# Comment: 'course_date' is used to indicate the actual date/period that the course will be held
 course_date: 27 Sept 2019 
 date: 2019-07-17
 permalink: /services/training/courses-2019/Training-Course-on-SAC-CT-17
