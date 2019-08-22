@@ -26,7 +26,7 @@ As SAC is a signatory to many regional and international arrangements, this mean
 ![Benefits of Accreditation](/images/about/business-setting.jpg)
 ## For Regulators/ Specifiers
 
-Accreditation gives regulators/specifiers greater confidence and trust in the services provided by CABs. This helps regulators/specifiers better evaluate for compliance, as part of fulfilling their obligations in policy setting and regulation. Accreditation also builds and reinforces public confidence in regulators/specifiers' commitment in assuring public safety, health and environment protection.
+Accreditation gives regulators/specifiers greater confidence and trust in the services provided by CABs. This helps regulators/specifiers better evaluate for compliance, as part of fulfilling their obligations in policy setting and regulation. Accreditation also builds and reinforces public confidence in regulators/specifiers' commitment in ensuring public safety, health and environment protection.
 
 Additionally, accreditation helps to improve efficiency by eliminating the need for re-testing and re-sampling of goods and services. This is done through SAC's independent assessment of CABs, which provides objective assurance that that they have met applicable standards.
 
