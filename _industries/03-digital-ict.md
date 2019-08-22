@@ -16,7 +16,7 @@ However, increasing digital dependence also increases vulnerability to digital t
 
 The Singapore Standard SS 584:2015 is for multi-tiered cloud computing security, and specifies three different tiers of security certification for three main categories of cloud computing services: IaaS, PaaS, and SaaS. Cloud service providers should consider obtaining the relevant certification to boost end-user trust and confidence.
 
-Other conformity assessment services relevant to ICT include quality management system certifications. These enable firms to continuously manage quality and identify areas for improvement. Certification for management of end-of-life ICT equipment may also be relevant to an ICT business, and demonstrates an organisation’s efforts to manage end-of-life equipment in environmentally sustainable ways. 
+Other conformity assessment services relevant to ICT include quality management system certifications. These enable firms to continuously manage quality and identify areas for improvement. Certification for the management of end-of-life ICT equipment may also be relevant to an ICT business, and demonstrates an organisation’s efforts to manage end-of-life equipment in environmentally sustainable ways. 
 
 In Singapore, the Cyber Security Agency of Singapore and Infocomm Media Development Agency are the government bodies which regulate the industry, laying out specific requirements with regard to conformity assessment.
 
