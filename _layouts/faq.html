@@ -1,0 +1,51 @@
+---
+layout: leftnav-page-content
+---
+
+{%- if content contains '<hr />' -%}
+	{%- assign sections = content | split: '<hr />' -%}
+{%- elsif content contains '<hr/>' -%}
+	{%- assign sections = content | split: '<hr/>' -%}
+{%- else -%}
+	{%- assign sections = content -%}
+{%- endif -%}
+
+{%- for section in sections -%}
+<div style="margin-bottom: 3rem;">
+	{%- assign list = section | split: '<h' -%}
+	{%- for listitem in list -%}
+		{%- if listitem contains 'id="qn' or item contains "id='qn" -%}
+			{%- assign arr = listitem | split: '</h' -%}
+			{%- for item in arr -%}	
+				{%- if forloop.first == true -%}
+					{%- assign questionHeaderLevel = item | slice: 0 -%}
+					{%- assign questionHeaderBackTagPartial = questionHeaderLevel | append: '>' -%}
+					{%- assign questionHeaderBackTag = questionHeaderBackTagPartial | prepend: '</h' -%}	
+					{%- assign question = item | prepend: '<h' | append: questionHeaderBackTag -%}
+					{%- comment -%} Accordion header {%- endcomment -%}
+					<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+						<div class="col is-expanded is-fullwidth is-paddingless">
+							<h5 class="has-text-grey-dark is-marginless">
+								<b style="cursor:default;">{{- question | strip_html -}}</b>
+							</h5>
+						</div>
+						<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+					</div>	
+				{%- else -%}
+					{%- assign answer = item | remove_first: questionHeaderBackTagPartial -%}
+					{%- comment -%} Accordion body {%- endcomment -%}
+					<div id="accordion-body-{% increment counter %}" class="col padding bp-accordion-body">
+						<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">	
+							{{- answer -}}
+						</div>
+					</div>	
+				{%- endif -%}
+			{%- endfor -%}
+		{%- else -%}
+			{%- if listitem contains '</h' -%}			
+				<h{{- listitem -}}
+			{%- endif -%}		
+		{%- endif -%}
+	{%- endfor -%}
+</div>	
+{%- endfor -%}

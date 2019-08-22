@@ -5,35 +5,45 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/homepage/sac-esg-logo.png
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/homepage/sac-esg-logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Singapore Accreditation Council
+hero-subtitle: Your Trusted Partner in Accreditation
+hero-banner: /images/homepage/homepage-montage.jpg
+hero-banner-mobile: /images/homepage/homepage-montage-mobile.jpg
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
+# Key Highlights
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Search
+    description: SAC Accredited Organisations
+    url: https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx
+  - title: Accreditation Services
+    description: Programmes/Schemes
+    url: /services/accreditation-services/
+  - title: Get Accredited
+    description: Route to Accreditation
+    url: /services/accreditation-services/apply-for-accreditation
+  - title: SAC Publications
+    description: Download Documents
+    url: /resources/publications/
+  - title: Training
+    description: Find a SAC Course
+    url: /services/training/
 
-resources-title: Resources
+# Info Section
+info-sections:
+  - section-subtitle: What is Accreditation?
+    section-description: Accreditation enhances the credibility of laboratory tests, inspection, certification reports and certificates by providing reliable third party assurance that these services are conducted professionally and meet globally-recognised standards. Conformity Assessment Bodies - such as testing and calibration laboratories, certification bodies as well as inspection bodies - are benchmarked against international standards. This ensures the competency, impartiality and performance capability of their services.
+    section-more-button: More about SAC
+    section-more-button-url: /about/our-role
+    section-image-path: /images/homepage/info-section.jpg
+
+# Resources Section
+resources-title: NewsRoom
 resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resources/
+resources-more-button: More News & Events
+resources-more-button-url: /newsroom/

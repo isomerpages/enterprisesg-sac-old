@@ -4,19 +4,25 @@
 
 @charset "utf-8";
 
-// HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
-$secondary-hover: lighten($secondary, 10%);
+$primary: #E7131A; //Corporate Red
+$secondary: #414042; //Pantone 432C
+$secondary-hover: lighten($primary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+//shades of corporate red
+$media-color-one: #E7131A; 
+$media-color-two: #CE5C5C; 
+$media-color-three: #CA3433; 
+$media-color-four: #C00A32; 
+$media-color-five: #960019; 
+$media-color-six: #E7131A; 
+$media-color-seven: #CE5C5C; 
+$media-color-eight: #CA3433; 
+$media-color-nine: #C00A32; 
+$media-color-ten: #960019; 
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
+$tablet: 768px !default;
 
 // Mixins
 
@@ -32,99 +38,139 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+@mixin tablet() {
+	@media screen and (max-width: $tablet){
+    	@content
+	}
+}
+
+@mixin tablet-larger() {
+	@media screen and (min-width: $tablet + 1px){
+    	@content
+	}
+}
+
 // Background
 .bg{
-  &-primary{
-    background-color: $primary !important;
-  }
-  &-secondary {
-    background-color: $secondary !important;
-  }
-  &-media-color {
-  	&-1 {
-  		background-color: $media-color-one;
-  		&:hover {
-  			background-color: darken($media-color-one, 10%);
+	&-primary{
+   		background-color: $primary !important;
+ 	}
+	&-secondary {
+		background-color: $secondary !important;
+	}
+  	&-media-color {
+  		&-1 {
+  			background-color: $media-color-one;
+  			&:hover {
+  				background-color: darken($media-color-one, 10%);
+			}
+  		}
+  		&-2 {
+  			background-color: $media-color-two;
+  			&:hover {
+  				background-color: darken($media-color-two, 10%);
+			}
+  		}
+  		&-3 {
+  			background-color: $media-color-three;
+  			&:hover {
+  				background-color: darken($media-color-three, 10%);
+			}
+  		}
+  		&-4 {
+  			background-color: $media-color-four;
+  			&:hover {
+  				background-color: darken($media-color-four, 10%);
+			}
+  		}
+  		&-5 {
+  			background-color: $media-color-five;
+  			&:hover {
+  				background-color: darken($media-color-five, 10%);
+			}
+  		}
+		&-6 {
+  			background-color: $media-color-six;
+  			&:hover {
+  				background-color: darken($media-color-six, 10%);
+			}
+  		}
+		&-7 {
+  			background-color: $media-color-seven;
+  			&:hover {
+  				background-color: darken($media-color-seven, 10%);
+			}
 		}
-  	}
-  	&-2 {
-  		background-color: $media-color-two;
-  		&:hover {
-  			background-color: darken($media-color-two, 10%);
+		&-8 {
+			background-color: $media-color-eight;
+			&:hover {
+				background-color: darken($media-color-eight, 10%);
+			}
 		}
-  	}
-  	&-3 {
-  		background-color: $media-color-three;
-  		&:hover {
-  			background-color: darken($media-color-three, 10%);
+		&-9 {
+			background-color: $media-color-nine;
+			&:hover {
+				background-color: darken($media-color-nine, 10%);
+			}
 		}
-  	}
-  	&-4 {
-  		background-color: $media-color-four;
-  		&:hover {
-  			background-color: darken($media-color-four, 10%);
+		&-10 {
+			background-color: $media-color-ten;
+			&:hover {
+				background-color: darken($media-color-ten, 10%);
+			}
 		}
+	}
+ 	&-1{
+		background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
+	}
+	&-2{
+		background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
   	}
-  	&-5 {
-  		background-color: $media-color-five;
-  		&:hover {
-  			background-color: darken($media-color-five, 10%);
-		}
+  	&-3{
+		background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
   	}
-  }
-  &-1{
-    //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-2{
-    //background-color: $info;
-    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-3{
-    //background-color: $warning;
-    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-4{
-    //background-color: $danger;
-    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-  &-gradient{
-    background: #b41e8e;
-    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
-  }
-  &-singpass{
-    background: #be2e7d; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
-  }
-  &-beeline{
-    background: #009d62; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
-  }
-  &-parkingsg{
-    background: #0164b6; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-  }
+  	&-4{
+		background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+		-webkit-background-size: cover;
+		background-size: cover;
+  	}
+  	&-gradient{
+		background: #b41e8e;
+		background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
+		background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+		background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
+  	}
+	&-singpass{
+		background: #be2e7d; /* Old browsers */
+		background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
+	}
+  	&-beeline{
+		background: #009d62; /* Old browsers */
+		background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+  	&-parkingsg{
+		background: #0164b6; /* Old browsers */
+		background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  	}
+	&-contact{
+		background-position: center !important; 
+	}
 }
 
 // Color definitions
@@ -137,36 +183,52 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-// Text color
+// Text style
 .has-text-primary {
 	color: $primary !important;
 }
 .has-text-secondary {
 	color: $secondary !important;
 }
+.has-text-underline {
+	text-decoration: underline !important;
+}
 
 // Menu/Left-nav
-.bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 2px solid $secondary !important;
-	&:hover {
+.bp-menu-list a {
+	&.is-active {
+		color: $secondary !important;
 		border-bottom: 2px solid $secondary !important;
+		&:hover {
+			border-bottom: 2px solid $secondary !important;
+		}
+	}
+	&:hover {
+		color: $secondary !important;
+		border-bottom: 1px solid $secondary !important;
 	}
 }
-.bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+
+//adjust height of frontpage banner so that the key highlights boxes are visible on the screen on the first loading
+.bp-hero-body .row {  
+	@include desktop(){
+		min-height: 270px;
+		height: 301px;
+	}
 }
 
 // Button
-
-.bp-button.is-text span {
-  &:hover, &:focus {
-    color: $secondary;
-  }
-}
-.bp-button:hover {
-  color: $secondary;
+.bp-button {
+	&.is-text {
+		span {
+			&:hover, &:focus {
+				color: $secondary;
+			}
+		}
+	}
+	&:hover {
+		color: $secondary;
+	}
 }
 
 // Secondary button
@@ -186,42 +248,98 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.bp-section.bp-section-pagetitle {
+	background-color: $primary !important;
+}
+
+.bp-dropdown.is-hoverable .bp-dropdown-button span{
+    white-space:normal;
+}
+
 // Bottom navigation bar
 .bottom-navigation {
 	a {
 		background-color: $secondary;
-	    &:hover{
-	      background-color: darken($secondary,10%) !important;
-	    }
+	    	&:hover{
+	      		background-color: darken($secondary,10%) !important;
+	    	}
+		.is-size-4 {
+			@include tablet(){
+				font-size: 1.3rem !important;
+			}
+		}
 	}
 }
 
-.bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+//footer
+.bp-footer {
+	&.top-section {
+		.col.is-one-quarter {
+			@include tablet-larger(){
+				width: 16%;
+			}
+			p.sub-header a {
+				pointer-events: none !important;
+			}
+		}
+	}
+	p.is-hidden-mobile {
+		display:none;
+	}
+	.col.is-one-quarter:hover > p.is-hidden-mobile {
+		display:block;
+	}
+	&.bottom-section {
+		color: #767676;
+		.col.is-two-thirds {
+			ul {
+				@include tablet() {
+					margin-bottom: 15px;
+				}
+			}
+			&::after {
+				content: "The National Accreditation Programme is managed by Enterprise Singapore";
+			}
+		}
+		p {
+			color: #767676;
+		}
+	}
+}
+
+.padding--top--lg {
+	@include touch(){
+		padding-top: 0 !important;
+	}
 }
 
 // Pagination
 .pagination {
 	span {
 		&:hover {
-            border-color: $secondary;
-            color: $secondary;
+			border-color: $secondary;
+			color: $secondary;
 		}
-        &.selected-page:hover {
-            background-color: $secondary;
-            border-color: $secondary;
-        }
+		&.selected-page:hover {
+			background-color: $secondary;
+			border-color: $secondary;
+		}
 	}
-    .selected-page {
-        background-color: $secondary;
-        border-color: $secondary;
-    }
+	.selected-page {
+		background-color: $secondary;
+		border-color: $secondary;
+	}
 }
 
+//horizontal rule
+hr {
+	margin-top: 1rem !important;
+	margin-bottom: 1rem !important;
+}
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $primary !important;
 	.col {
 		border-left:1px solid darken($primary,10%);
 		@include touch(){
@@ -233,129 +351,435 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+//h1 header (e.g. in frontpage banner)
+.display {
+	font-size: 4rem;
+	@include tablet(){
+		font-size: 2.8rem;
+	}
+	b {
+		text-shadow: 2px 2px 4px $secondary;
+	}
+	& + p {
+		text-shadow: 2px 2px 4px $secondary;
+	}
+}
+
 // Navbar
 .navbar{
-  &-start{
-    .navbar-item{
-      a{
-        &.active{
-          @include touch(){
-            border-bottom:2px solid $secondary;
-          }
-        }
-      }
-    }
-  }
-  .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
-  }
+	&-start{
+		@include desktop(){  //homepage top nav bar (shorten width so that entire length is visible)
+			margin: 0 0.5rem;
+		}
+		.navbar-item{
+			a{
+				&.active{
+					@include touch(){
+						border-bottom:2px solid $secondary;
+					}
+				}
+			}
+			&.has-dropdown {
+				a.navbar-link{
+					@include desktop(){
+						pointer-events: none !important;
+					}
+				}	
+			}
+		}	
+	}
+	&-burger{	//increase the size of the navbar-burger icon on mobile screen  
+		span{   
+			width: 24px;
+			height: 2px;
+			&:nth-child(1){
+				top: calc(50% - 9px);
+			}
+			&:nth-child(3){
+				top: calc(50% + 7px);
+			} 	    
+		}
+		&.is-active{
+			span{
+				&:nth-child(1){
+					transform: translateY(8px) rotate(45deg);
+				}
+				&:nth-child(3){
+					transform: translateY(-8px) rotate(-45deg);
+				} 	    
+			}
+		}	    
+	}
+	.navbar-link{
+		&:hover:after{
+			border-bottom: 1px solid $secondary;
+			border-left: 1px solid $secondary;
+			border-right: 0;
+			border-top:0;
+		}  
+		&.is-active:after{
+			border-bottom: 0;
+			border-left: 0;
+			border-right: 1px solid $secondary;
+			border-top: 1px solid $secondary;
+		}	  
+	}	  
+	.navbar-item{
+		& + .has-dropdown {
+			@include desktop(){
+				margin: 0 0.65rem;
+			}
+		}
+		.sub-link.is-active{
+			color:$secondary;
+		}
+		.selector{
+			&.active{
+				background-color:$secondary;
+			}
+		}
+		&.active{
+			@include desktop(){
+				border-bottom:1px solid $secondary;
+			}
+		}
+		&:hover {
+			a {
+				color:$secondary;
+			}
+			.selector {
+				background-color:$secondary;
+			}
+		}
+	}	
+}
 
-  .navbar-item{
-    .sub-link.is-active{
-      color:$secondary;
-    }
-
-    .selector{
-      &.active{
-        background-color:$secondary;
-      }
-    }
-    &.active{
-      @include desktop(){
-        border-bottom:1px solid $secondary;
-      }
-    }
-  }
-.navbar-item:hover {
-  a {
-    color:$secondary;
-  }
-  .selector {
-      background-color:$secondary;
-    }
-  }
+//increase size of search bar icon for mobile screen
+.search-bar.sgds-icon.sgds-icon-search { 
+	font-size: 1.5rem;
+	top: 0.5rem;
+	left: 0.5rem;
 }
 
 // Post-content
 .content {
+	p {
+		@include desktop(){
+			text-align: justify;
+		}
+	}
 	h1, h2, h3, h4, h5 {
 		color: $secondary;
 		strong {
 			color: $secondary;
 		}
+		&.has-equal-vertical-spacing {
+			margin-top: 2rem !important;
+			margin-bottom: 2rem !important;
+		}
+		img {
+			
+			@include desktop() {
+				max-height: 100px;
+				display: inline-block;
+				vertical-align:middle;
+				margin: 0 1rem;
+			}
+			@include touch() {
+				max-width: 120px;
+				margin-left: 0;
+			}
+		}
+	}
+	h2 {
+		@include touch() {
+			line-height: 3rem !important;
+		}
+	}
+	h4 {
+		@include desktop() {
+			line-height: 2.5rem !important;
+		}
 	}
 	blockquote {
 		border-left-color: $secondary;
+		p {
+			color: $secondary;
+		}
+		ul {
+			color: $secondary;
+		}
 	}
-	blockquote > p {
-		color: $secondary;
+	table {
+		border: 0;
+		&.brochures-table {
+			table-layout:fixed;	
+			td {
+				border: 0;
+				width: 33%;
+				text-align: center;
+				vertical-align:top;
+				padding-left: 2rem;
+				padding-right: 2rem;
+				padding-bottom: 2rem;
+				img {
+					margin-bottom: 0.8rem;
+				}
+				&:empty {
+					@include tablet() {
+						display:none;
+					}		
+				}
+				@include tablet() {
+					display:block;		 
+					width: 100%;			
+				}
+			}
+			a {
+				text-decoration:none;
+				color:inherit;
+			}
+		}
+		&#mra-table {
+			tr > td {
+				&:first-child{
+					width:70%;
+					@include touch() {
+						width: 100%;
+						border-bottom-width:0;
+					}
+				}
+				&:second-child {
+					width: 30%;
+					@include touch() {
+						width: 100%;
+					}
+				}
+				@include touch() {
+					display:block;
+				}
+			}
+		}
+		tbody:not(:only-of-type) {
+			tr {
+				td {
+					border-bottom-width: 0;
+				}
+				&:last-child td {
+					border-bottom-width: 1px;
+				}
+			}
+		}
+		li {
+			font-size:inherit;
+			line-height:inherit;
+			margin:0;
+		}
 	}
-	blockquote > ul {
-		color: $secondary;
+	a {
+		color: $primary;
+		text-decoration: none;
+	}
+	a:hover, a:active{
+		color: $primary;
+		text-decoration: underline;
+	}
+	img {
+		width: auto;
+		height: auto;
+		max-width: 100%;
+	}
+	li > ul {
+    		margin-top: 1rem;
 	}
 }
 
-// Media category buttons - not used now but will be used in the future
-
-.media-category-button {
-  text-decoration: none !important;
-  color: #323232;
-  margin-right: 2.5rem;
-  letter-spacing: 0.5px;
-}
-
-.media-category-button:hover, .media-category-button.selected {
-  color: $secondary;
-  border-bottom: 2px solid $secondary;
-}
-
-// CSS to be refactored
-.content img.digital-transformation-icon {
-  height: 80px;
-  width: 80px;
-  margin-left: 0;
-}
-
+/*
 .news-content {
-  position: relative;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  padding: 2rem;
-  margin-top: -5rem;
-  background-color: white;
-}
-
-.tag {
-  display: block;
-}
-
-#business {
-  display: none;
-}
-#government {
-  display: none;
+	position: relative;
+ 	margin-left: 1rem;
+ 	margin-right: 1rem;
+ 	padding: 2rem;
+ 	margin-top: -5rem;
+ 	background-color: white;
 }
 
 .image-card:hover {
-  .news-content {
-    background-color: darken(#ffffff, 10%);
-  }
+	.news-content {
+		background-color: darken(#ffffff, 10%);
+  	}
 }
+*/
 
 .hero-dropdown {
-  display: flex;
-  padding-top: 1.75rem;
-  padding-bottom: 1.75rem;
+	display: flex;
+ 	padding-top: 1.75rem;
+ 	padding-bottom: 1.75rem;
 }
 
 .is-centered {
-  margin: auto;
+ 	margin: auto;
 }
 
-.is-three-fifths-mobile {
-  width: 50%;
-  @include touch() {
-    width: 100%;
-  }
+img + em {
+	display: block;
+	font-size: 1rem;
+	line-height: 1.5;
+	text-align: center;
 }
+
+#search-activate
+{
+	padding-left:0;
+	padding-right:0;	
+}
+
+.back-to-top {
+	text-align:right;
+    	font-size:0.9rem;
+	margin-top: 1rem !important;
+	@include touch() {
+		display:none;
+	}
+}
+
+#back-to-top-mobile {
+	display: none;
+	position: fixed;
+	bottom: 0.8rem;
+	right: 0.5rem;
+	z-index: 99;
+	border: none;
+	outline: none;
+	background-color: $primary;
+	color: white;
+	opacity: 0.8;
+	padding: 0.5rem;
+	border-radius: 0.2rem;
+	&:hover{
+		background-color: darken($primary,10%);
+	}
+}
+
+/*
+.person-info-card > div {
+	@include tablet() {
+		margin-right: 0.75rem !important;
+    		margin-left: 0.75rem !important;
+		text-align:center;
+	}
+	.image-col {
+		@include tablet() {
+			width: 100%;
+			display: block;
+		}
+		img {
+			width: 150px;
+			height: 100%;
+			@include tablet() {
+				width: 100%;
+			}
+		}
+	}
+}
+*/
+
+.bp-accordion-body {
+	.margin--top--none > a {
+		font-size: 1.1rem;
+	}
+}
+
+.trainingCoursesTable {
+	display:none;
+	background:url('/images/services/training-table-bg.jpg') no-repeat center;
+	background-size: cover;
+	.trainingCoursesTableHeaderBar {
+		background-color:#53565A;
+		color:white;
+		text-align:center;
+		font-size:1.4rem;
+	}
+	thead {	
+		@include tablet() {
+			display:none;
+		}
+	}
+	tbody > tr {	
+		td {
+			border-right:1px dashed #d6d6d6;
+			font-size:0.9rem;
+			@include tablet() {
+				display:block;
+				width: 100%;
+				font-size:1.0625rem;
+				border:1px dashed #d6d6d6;
+			}
+			&:last-child {
+				@include tablet-larger() {
+					border-right:0;
+				}
+			}
+			.trainingCoursesTableHeaderBar {
+				display:none;
+				@include tablet() {
+					display:block;
+				}
+			}			
+		}
+	}
+	tfoot > tr {
+		td {
+			position: relative;
+			padding-top:2.4rem;
+			border-top-style: dashed;
+			border-top-width: 1px;
+		}
+		a {
+			display:inline-block;
+			margin-bottom:0;
+			position:absolute;
+			top:1rem;
+			font-size:1.2rem;
+			font-weight:bold;
+			color: $secondary !important;
+			&:hover {
+				color: $secondary !important;
+				text-decoration:none !important;
+			}
+		}
+	}
+}
+
+//styling for smaller font-size and better alignment of icons for publications
+#publications-list ~ ul > li {
+	font-size: 1.1rem;
+	a[href$=".pdf"] {
+	   	margin-left: 0;
+		&::before {
+			content: none;
+		}
+		&::after {
+			display:inline-block;
+			font-family: "sgds-icons";
+			content: "";
+			padding-left:0.25rem;
+			font-weight: 400;
+		}
+	}	
+}
+
+/*
+@media screen and (min-width: 640px) {	
+	.person-info-card {
+		flex: none;
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 639px) {
+	.person-info-card {
+		flex-basis:auto;
+	}
+}
+*/

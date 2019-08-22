@@ -1,6 +1,5 @@
 ---
 layout: contact-us
-permalink: /contact-us/
-breadcrumb: Contact Us
+permalink: /contact-us
 title: Contact Us
 ---

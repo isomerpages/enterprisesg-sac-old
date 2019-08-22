@@ -4,87 +4,109 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: Who We Are
-  url: /who-we-are/our-role/
+- title: About
+  url: /about/
   sub-links:
   - title: Our Role
-    url: /who-we-are/our-role/
-  - title: Our Vision Mission And Strategic Outcome
-    url: /who-we-are/our-vision-mission-and-strategic-outcome/
+    url: /about/our-role
+  - title: Our Vision, Mission And Strategic Outcomes
+    url: /about/our-vision-mission-and-strategic-outcomes
   - title: Our History
-    url: /who-we-are/our-history/
+    url: /about/our-history
   - title: Our Organisation And Structure
-    url: /who-we-are/our-organisation-and-structure/
+    url: /about/our-organisation-and-structure
   - title: Collaborations And Recognitions
-    url: /who-we-are/collaborations-and-recognitions/
+    url: /about/collaborations-and-recognitions
   - title: The SAC Mark
-    url: /who-we-are/the-sac-mark/
+    url: /about/the-sac-mark
   - title: About Accreditation
-    url: /who-we-are/about-accreditation/
+    url: /about/about-accreditation
   - title: Benefits Of Accreditation
-    url: /who-we-are/benefits-of-accreditation/
-  - title: Working With Regulators
-    url: /who-we-are/working-with-regulators/
+    url: /about/benefits-of-accreditation
+  - title: Working with Regulators
+    url: /about/working-with-regulators
   - title: Working With Businesses
-    url: /who-we-are/working-with-businesses/
+    url: /about/working-with-businesses 
   - title: Join Us
-    url: /who-we-are/join-us/
+    url: /about/join-us
 - title: Industries
-  url: /industries/testing-inspection-certification-industries/
+  url: /industries/
   sub-links:
-  - title: Testing Inspection Certification Industries
-    url: /industries/testing-inspection-certification-industries/
-  - title: Manufacturing
-    url: /industries/manufacturing/
-  - title: Construction
-    url: /industries/construction/
-  - title: Engineering
-    url: /industries/engineering/
-  - title: Healthcare
-    url: /industries/healthcare/
-  - title: Biochemical
-    url: /industries/biochemical/
-  - title: Marine And Offshore
-    url: /industries/marine-and-offshore/
+  - title: Testing, Inspection, Certification (TIC)
+    url: /industries/testing-inspection-certification
+  - title: Aviation & Aerospace
+    url: /industries/aviation-and-aerospace
+  - title: Construction & Built Environment
+    url: /industries/construction-and-built-environment
+  - title: Digital / ICT
+    url: /industries/digital-ict
+  - title: Electrical & Electronics Engineering
+    url: /industries/electrical-and-electronics-engineering
+  - title: Energy & Chemicals
+    url: /industries/energy-and-chemicals
+  - title: Environment & Sustainability
+    url: /industries/environment-and-sustainability
+  - title: Food Manufacturing & Services
+    url: /industries/food-manufacturing-and-services
+  - title: Healthcare & Biomedical Engineering
+    url: /industries/healthcare-and-biomedical-engineering
+  - title: Land Transport
+    url: /industries/land-transport
   - title: Logistics
-    url: /industries/logistics/
-  - title: Food Safety
-    url: /industries/food-safety/
-  - title: Chemicals
-    url: /industries/chemicals/
-  - title: Infocomm
-    url: /industries/infocomm/
-  - title: Others
-    url: /industries/others/
+    url: /industries/logistics
+  - title: Marine & Offshore Engineering
+    url: /industries/marine-and-offshore-engineering
+  - title: Precision Engineering & Industry 4.0
+    url: /industries/precision-engineering-and-industry-4
+  - title: Retail / Wholesale Trade
+    url: /industries/retail-wholesale-trade
 - title: Services
-  url: /services/accreditation-services/
+  url: /services/
   sub-links:
   - title: Accreditation Services
-    url: /services/management-systems-accreditation/
-  - title: Training And Events
-    url: /services/training/
+    url: /services/accreditation-services
+  - title: Training, Courses & Seminars
+    url: /services/training
+  - title: e-Services - SACiNet
+    url: https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form
+    external: true
+  - title: e-Services - eLearning Portal
+    url: https://lms.wizlearn.com/saclearning
+    external: true
 - title: Resources
   url: /resources/
   sub-links:
-  - title: All
-    url: /resources/
-  - title: Publications
-    url: /resources/publications/
-  - title: News And Media
-    url: /resources/news-and-media/
   - title: Brochures
-    url: /resources/brochures/
+    url: /resources/brochures
+  - title: Publications
+    url: /resources/publications
+  - title: How to use SAC / ILAC / IAF Marks
+    url: /resources/how-to-use-sac-ilac-iaf-marks
   - title: FAQ
-    url: /resources/faq/
-  - title: Cab Success Stories
-    url: /resources/cab-success-stories/
-  - title: Case Studies
-    url: /resources/case-studies/
+    url: /resources/faq
+- title: NewsRoom
+  url: /newsroom/
+  sub-links:
+  - title: All
+    url: /newsroom/
+  - title: News Releases
+    url: /newsroom/news-releases
+  - title: Events
+    url: /newsroom/events
   - title: Videos
-    url: /resources/videos/
-- title: Accredited Organizations
-  url: https://www.sac-accreditation.gov.sg/cab/acab/Pages/search_acab.aspx
-- title: Member Login
-  url: https://sacinet.enterprisesg.gov.sg/
+    url: /newsroom/videos
+  - title: Case Studies
+    url: /newsroom/case-studies
+  - title: CAB Success Stories
+    url: /newsroom/cab-success-stories    
+- title: Accredited Org
+  url: /accredited-org/
+  sub-links:
+  - title: Search Accredited Org
+    url: https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx
+  - title: Certified CAB Companies
+    url: /accredited-org/certified-cab-companies
+  - title: CAB Status Update
+    url: /accredited-org/cab-status-update
+- title: Contact Us
+  url: /contact-us
