@@ -32,11 +32,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Members** | Dr Wu Yuan Sheng | Agri-food & Veterinary Authority of Singapore - Veterinary Public Health Laboratories |
+| **Members** | Dr Wu Yuan Sheng | Singapore Food Agency - Veterinary Public Health Laboratoriess |
 | | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
-| | Mr Jonathan Goh Peng Teck<br/>(Alt member : Dr Ng Khee Yang) | Environmental Engineering Society of Singapore (EESS) |
+| | Mr Jonathan Goh Peng Teck (Alt member : Dr Ng Khee Yang) | Environmental Engineering Society of Singapore (EESS) |
 | | Dr Liu Qinde | Health Sciences Authority |
-| | Ms Evelyn Koh Poh | Ngee Ann Polytechnic |
+| | Ms Evelyn Koh Poh Cheng | Ministry of Manpower |
+| | Dr Wayne Lee Forday	| Ngee Ann Polytechnic |
 | | Ms Nuraini Bte Supaat | National Environmental Agency |
 | | Dr Zhang Lifeng | Public Utilities Board |
 | | Ms Ng Su Ling | Singapore Polytechnic |
@@ -61,8 +62,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Pablo Valdivia | Singapore University of Technology and Design |
 | | Ms Goh Yoke Mun | Sustainable Energy Association of Singapore |
 | | Dr Alvin Chan | Singapore Institute of Technology |
-| | Mr Henry W. Shang | Singapore Manufacturing Federation -TIC Interest Group - UL International Singapore Pte Lt |
-| **Secretary** | Mr Addison Bain | SAC Secretariat |
+| | Mr Henry W. Shang | Singapore Manufacturing Federation -TIC Interest Group - UL International Singapore Pte Ltd |
+| **Secretary** | Ms Lim Lee Fang (covering) | SAC Secretariat |
 
 ## Good Laboratory Practice
 ### Term : 1 July 2018 - 30 June 2021
@@ -103,7 +104,10 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
-| **Members** | Dr Tan Soo See, Susanna | National Healthcare Group |
+| **Members** | Pending | Academy of Medicine - College of Radiologist |
+| | Dr Tan Soo See, Susanna | National Healthcare Group |
+| | Dr Hoo Wee Teck	| National Environment Agency |
+| | A/Prof Goh Poh Sun | National University Health System |
 | | Dr Cheryl Lian | Society of Medical Physicists Singapore |
 | | Mr Chong Chun Meng | Singapore Society of Radiographers |
 | | Mr Somanesan Satchithanantham | Singapore Health Services |
