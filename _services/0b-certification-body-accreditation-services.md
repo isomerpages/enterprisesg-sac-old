@@ -28,9 +28,9 @@ In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) 
 *Accreditation Scheme for Food Safety Management System*
 <!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
  
-The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimize our limited resources and the "Green" movement.
+The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimise our limited resources and the "green" movement.
  
-The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification by providing third-party assuance of the competency and impartiality of accredited Personnel Certification Bodies.
+The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification by providing third-party assurance of the competency and impartiality of accredited Personnel Certification Bodies.
 
 ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg)
 *Accreditation Scheme for Personnel Certification*
