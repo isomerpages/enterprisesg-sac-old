@@ -17,6 +17,7 @@ SAC is represented by various interested parties from the industry, government, 
 ## What does SAC do?
 
 SAC manages and promotes accreditation schemes and registration programmes by performing these functions.  
+
 * Assessing and giving recognition to competent conformity assessment bodies
 * Facilitating partnerships with government bodies and the industry on accreditation matters
 * Establishing and maintaining an international network for the mutual recognition and acceptance of conformity assessment reports and certificates across national borders
