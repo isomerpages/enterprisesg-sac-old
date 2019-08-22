@@ -10,7 +10,7 @@ second_nav_title: "Accreditation Services"
 
 Proficiency testing involves the use of inter-laboratory comparisons for the determination of laboratory performance. The need for ongoing confidence in laboratory performance is not only essential for laboratories and their customers, but also for other interested parties such as regulators and accreditation bodies. 
 
-Proficiency testing providers play an important role in the value chain for assurance of products and services. Their proficiency testing programmes should be properly designed and statistically robust so that the benchmarking of participants' performance is properly conducted and the participants can monitor trend and identify gaps in their performance for corrective actions and improvements.
+Proficiency testing providers play an important role in the value chain for assurance of products and services. Their proficiency testing programmes should be properly designed and statistically robust, so that the benchmarking of participants' performance is properly conducted, and the participants can monitor trends and identify gaps in their own performances for corrective actions and improvements.
 
 For proficiency testing providers to demonstrate their capabilities and boost confidence in customers, they need third-party endorsement that they have met international standard so as to give credibility to their programmes. SAC can provide that recognition and with accreditation, the local PT providers will be able to market their services with confidence within Singapore and also in the ASEAN and international arena.
 
