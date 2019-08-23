@@ -12,7 +12,7 @@ imgFolderPath: /images/how-to-use-marks/
 
 ![SAC Accreditation Marks]({{page.imgFolderPath}}SAC-accreditation-marks.jpg)
 
-* When reference to SAC accreditation status is made by an accredited organisation using SAC accreditation marks, the Certificate Number issued to the accredited organisation shall be indicated. Specimens of the SAC accreditation marks are shown in Annex 1, which include
+* When reference to SAC accreditation status is made by an accredited organisation using SAC accreditation marks, the Certificate Number issued to the accredited organisation shall be indicated. Specimens of the SAC accreditation marks are shown above, which include
 the logo, the accredited scheme and the certificate number. The accreditation marks must be reproduced in the official colours, red (Pantone 032C) and dark grey (Pantone 432C); or in a single colour only. The font used for the certificate number is Arial. When an accredited organisation is accredited for more than 1 programme/field, the accredited organisation can choose to list all certificate numbers under 1 SAC mark, after obtaining approval from SAC in writing.
 
 * The SAC accreditation mark may be uniformly enlarged or reduced, but shall not be less than 30mm in width and 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated.  
