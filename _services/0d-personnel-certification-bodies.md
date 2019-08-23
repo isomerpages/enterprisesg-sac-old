@@ -6,16 +6,9 @@ collection_name: services
 second_nav_title: "Accreditation Services"
 ---
 
-### About Accreditation
-
-Accreditation is an endorsement of a certification body's independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
-
-### About the Scheme
+## About the Scheme
 
 ![Personnel Certification](/images/services/personnel-certification-accreditation.jpg)
-*Accreditation Scheme for Personnel Certification*
-
-<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
 
 The accreditation scheme for Certification of Persons was launched in August 2013. This new scheme aims to increase the industry's confidence in personnel certification by providing third-party assurance of the competency and impartiality of accredited Personnel Certification Bodies.
 
@@ -43,8 +36,7 @@ visits to ensure continual compliance to the SAC accreditation requirements.
 
 The scheme requires Personnel CBs to follow a systematic and impartial approach in the assessment of the competence of professionals such as welders, medical technologists, NDT personnel, financial planners and business consultants.
 
-This accreditation scheme will provide a transparent system for assessment and recognition of competence and qualifications
-of workers, which is needed to support the workforce development efforts of the public and private sectors.
+This accreditation scheme will provide a transparent system for assessment and recognition of competence and qualifications of workers, which is needed to support the workforce development efforts of the public and private sectors.
 
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
