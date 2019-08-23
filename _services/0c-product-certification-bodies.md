@@ -21,9 +21,9 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
 |------------------|----------------------------|-------------------------|
-| British Retailer Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety |
+| British Retail Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety |
 | Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards |
-| Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards |
+| Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable standards |
 | Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12 | Refer to SCDF Fire Safety Guidelines 1 |
 | Food Products | ISO/IEC 17065 | Various applicable standards |
 | Gas Appliances and Accessories | ISO/IEC 17065 | Various applicable standards |
