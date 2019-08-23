@@ -16,7 +16,7 @@ Our accreditation schemes provide independent third-party attestation of
 * [Personnel Certification Bodies](/certification-bodies)
 * [Product Certification Bodies](/certification-bodies)
 * [Laboratories](/laboratories) 
-* [Inspection Bodies]/(inspection-bodies) 
+* [Inspection Bodies](/inspection-bodies) 
 * [Proficiency Testing Providers](/proficiency-testing-providers)
 * [Greenhouse Gas Validation & Verification Bodies](/validation-and-verification-bodies)
 
