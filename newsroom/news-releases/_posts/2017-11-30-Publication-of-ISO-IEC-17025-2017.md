@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Publication of ISO/IEC 17025: 2017
+title:  "Publication of ISO/IEC 17025: 2017"
 date:   2017-11-30
 permalink: /newsroom/news-releases/Publication-of-ISO-IEC-17025-2017
 ---
