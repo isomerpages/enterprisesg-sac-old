@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  QS Conference Congratulatory Advertisement
+title:  "QS Conference Congratulatory Advertisement"
 date:   2014-10-07
 permalink: /newsroom/news-releases/QS-Conference-Congratulatory-Advertisement
 ---
