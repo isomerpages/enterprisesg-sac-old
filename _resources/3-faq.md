@@ -37,7 +37,7 @@ These are some of the key benefits of being accredited.
 
 **Reduce Costs:** Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc.
 
-**Demonstrate Credibility:** No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competence personnel.
+**Demonstrate Credibility:** No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competent personnel.
 
 {: #qn4}
 #### What are the SAC accreditation schemes?
@@ -102,13 +102,13 @@ If you have any questions or doubts, you can drop us an email or call us directl
 
 {: #qnb1}
 #### What is the difference between GLP recognition and ISO/IEC 17025 accreditation?
-GLP is a quality system concerned with the organisation process and conditions under which the non-clinical studies are planned, recorded, archived and reported. ISO/IEC 17025 accreditation is a formal recognition for technical competence to undertake specific tests or calibrations. In general GLP is used for non-clinical health & safety studies that are often called for in regulations while ISO/IEC 17025 accreditation is used normally voluntary. Laboratory accreditation to ISO/IEC 17025 is for routine testing and measurement while GLP covers often a series of experiments. Only GLP recognition can provide an effective quality system that gives regulators the necessary confidence in relation to how non-clinical health and safety studies are planned, performed, monitored, recorded, reported and archived.
+GLP is a quality system concerned with the organisational process and the conditions under which the non-clinical studies are planned, recorded, archived and reported. ISO/IEC 17025 accreditation is a formal recognition for technical competence to undertake specific tests or calibrations. In general GLP is used for non-clinical health & safety studies that are often called for in regulations while ISO/IEC 17025 accreditation is used normally voluntary. Laboratory accreditation to ISO/IEC 17025 is for routine testing and measurement while GLP covers often a series of experiments. Only GLP recognition can provide an effective quality system that gives regulators the necessary confidence in relation to how non-clinical health and safety studies are planned, performed, monitored, recorded, reported and archived.
 
 {: #qnb2}
 #### Why should I Seek GLP Recognition with SAC?
 Any facility claiming to be in compliance with the Principles of Good Laboratory Practice of the Organisation for Economic Cooperation and Development (OECD) under the Singapore compliance-monitoring programme must be recognised by SAC for that compliance.
  
-In 1981, a decision of OECD Council, data generated in an OECD member country under its national compliance monitoring programme is accepted in other OECD member countries for the purposes of product registration (Mutual Acceptance of Data). Since January 2010, Singapore has been accepted as a non-OECD member country to be a member of the OECD Mutual Acceptance of Data framework. With this adherence, GLP studies conducted in Singapore will be accepted in more than 30 OECD and non-OECD member countries.
+In 1981, a decision was made by the OECD Council that data generated in an OECD member country under its national compliance monitoring programme is accepted in other OECD member countries for the purposes of product registration (Mutual Acceptance of Data). Since January 2010, Singapore has been accepted as a non-OECD member country to be a member of the OECD Mutual Acceptance of Data framework. With this adherence, GLP studies conducted in Singapore will be accepted in more than 30 OECD and non-OECD member countries.
  
 Product registration in overseas markets are typically referred to the US FDA for pharmaceuticals and the European authority (EMEA). In Singapore, the relevant registration authorities are Health Sciences Authority (HSA for pharmaceuticals), Agri-Food & Veterinary Authority (AVA for biologics and agricultural chemicals) and National Environment Agency (NEA for pesticides and industrial chemicals). With the MAD adherence, the Singapore GLP Compliance programme will provide greater assurance of test data for non-clinical studies. These regulators will be able to accept the test data with confidence in the assessment of health and safety for product approvals.
 
@@ -133,7 +133,7 @@ c. Information on names of Study Director, Study Sponsor
 
 d. Persons in charge of Quality Assurance and the Archive
 
-e. Quality Manual and Standard Operation Procedures Structure, Master Schedule etc.
+e. Quality Manual and Standard Operating Procedures Structure, Master Schedule etc.
 
 {: #qnb6}
 #### What are the criteria that a facility must follow?
@@ -193,7 +193,7 @@ Companies that can benefit from GLP registration include:
 {: #qnb12}
 #### What about GLP and Clinical Studies?
 
-There is a misconception that GLP is required for the conduct of clinical studies. That is not correct. The introduction to the OECD Principles of GLP makes it clear that they only apply to non-clinical (pre-clinical) studies. Clinical studies, such as pharmaco-kinetic and efficacy studies, are excluded.  The relevant documents for clinical studies are the various codes, such as International Conference on Harmonisation (ICH). The USFDA and other registration authorities do require a demonstration of the quality of test data from clinical studies. In the US, this may be by means of conformance with CLIA (Clinical Laboratories Improvement Act). In Singapore, this is best demonstrated by the testing laboratory's SAC-SINGLAS accreditation (in Medical Testing, Chemical & Biological Testing etc).
+There is a misconception that GLP is required for conducting clinical studies. That is not correct. The introduction to the OECD Principles of GLP makes it clear that they only apply to non-clinical (pre-clinical) studies. Clinical studies, such as pharmaco-kinetic and efficacy studies, are excluded.  The relevant documents for clinical studies are the various codes, such as International Conference on Harmonisation (ICH). The USFDA and other registration authorities do require a demonstration of the quality of test data from clinical studies. In the US, this may be by means of conformance with CLIA (Clinical Laboratories Improvement Act). In Singapore, this is best demonstrated by the testing laboratory's SAC-SINGLAS accreditation (in Medical Testing, Chemical & Biological Testing etc).
 
 {: #qnb13}
 #### How do I gain GLP Recognition?
