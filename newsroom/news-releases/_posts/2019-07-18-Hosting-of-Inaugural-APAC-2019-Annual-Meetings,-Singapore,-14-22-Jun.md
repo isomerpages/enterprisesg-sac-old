@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hosting of Inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meetings, Singapore, 14-22 Jun
+title:  "Hosting of Inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meetings, Singapore, 14-22 Jun"
 date:   2019-07-18
 permalink: /newsroom/news-releases/Hosting-of-Inaugural-APAC-2019-Annual-Meetings
 ---
