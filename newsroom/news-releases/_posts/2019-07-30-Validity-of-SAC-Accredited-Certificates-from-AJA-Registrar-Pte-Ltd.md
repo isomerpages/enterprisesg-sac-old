@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Validity of SAC Accredited Certificates from AJA Registrar Pte Ltd
+title:  "Validity of SAC Accredited Certificates from AJA Registrar Pte Ltd"
 date:   2019-07-30
 permalink: /newsroom/news-releases/Validity-of-SAC-Accredited-Certificates-from-AJA-Registrar-Pte-Ltd
 ---
