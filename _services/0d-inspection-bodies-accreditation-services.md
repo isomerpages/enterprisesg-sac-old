@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Inspection Body
-permalink: /services/accreditation-services/inspection-body
+title: "Inspection Bodies"
+permalink: /services/accreditation-services/inspection-bodies
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
