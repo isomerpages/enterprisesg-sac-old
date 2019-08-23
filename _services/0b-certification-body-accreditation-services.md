@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Certification Body
+title: "Certification Bodies"
 permalink: /services/accreditation-services/certification-bodies
 collection_name: services
 second_nav_title: "Accreditation Services"
