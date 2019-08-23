@@ -27,11 +27,11 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 Accreditation will:
 
 * Provide assurance to employers, industries and the general public on the competence of certified individuals
-* Endorse professionals having the necessary skills and knowledge to perform their duties well 
-* Enable international recognition of professionals that are recognised for their abilities
+* Endorse professionals who have the necessary skills and knowledge to perform their duties well 
+* Enable international recognition of professionals for their abilities
 
 ### Process
-The accreditation process involves an onsite assessment to validate if the CB operating a PC programme is competent and meet the globally accepted benchmark for personnel certification. After the initial award of accreditation, there will be surveillance
+The accreditation process involves an onsite assessment to validate if the CB operating a PC programme is competent and meets the globally accepted benchmark for personnel certification. After the initial award of accreditation, there will be surveillance
 visits to ensure continual compliance to the SAC accreditation requirements.
 
 The scheme requires Personnel CBs to follow a systematic and impartial approach in the assessment of the competence of professionals such as welders, medical technologists, NDT personnel, financial planners and business consultants.
