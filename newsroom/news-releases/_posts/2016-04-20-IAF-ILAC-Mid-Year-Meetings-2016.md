@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  IAF-ILAC Mid-Year Meetings 2016
+title:  "IAF-ILAC Mid-Year Meetings 2016"
 date:   2016-04-20
-permalink: /newsroom/events/IAF-ILAC-Mid-Year-Meetings-2016
+permalink: /newsroom/news-releases/IAF-ILAC-Mid-Year-Meetings-2016
 ---
 
 ![IAF-ILAC](/images/press-release/photos/ILAC-IAF-Mid-2016.png)
