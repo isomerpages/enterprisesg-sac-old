@@ -6,19 +6,14 @@ collection_name: services
 second_nav_title: "Accreditation Services"
 ---
 
-### About Accreditation
-
-Accreditation is an endorsement of a certification body's independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
-
-### About the Scheme
+## About the Scheme
 
 ![Product Certification](/images/services/product-certification-accreditation.jpg)
-*Accreditation Scheme for Product Certification*
-
-<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
 
 The Accreditation Scheme for Product Certification Bodies was launched in November 2001 to accredit certification bodies which certify products based on an appropriate ISO product certification system. The certification system ranges from type testing to a more
-comprehensive system, which includes testing and auditing of the quality system, followed by regular surveillance and testing of the products. The scheme was extended in April 2009 to cover the certification of ready-mixed concrete in a bid to support the Building and Construction Authority's initiative to ensure high quality of ready-mixed concrete.
+comprehensive system, which includes testing and auditing of the quality system, followed by regular surveillance and testing of the products. 
+
+The scheme was extended in April 2009 to cover the certification of ready-mixed concrete in a bid to support the Building and Construction Authority's initiative to ensure high quality of ready-mixed concrete.
 
 ### Accreditation Criteria
 
