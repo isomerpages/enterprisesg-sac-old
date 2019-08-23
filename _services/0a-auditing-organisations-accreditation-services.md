@@ -8,9 +8,10 @@ second_nav_title: "Accreditation Services"
 
 ## The Scheme
 
-The Accreditation Scheme for Auditing Organisations (AOs) is one of the accreditation schemes under the Singapore Accreditation Council (SAC) which is managed by Enterprise Singapore.
+The Accreditation Scheme for Auditing Organisations (AOs) was launched in 2017. It is one of the accreditation schemes under the Singapore Accreditation Council (SAC) which is managed by Enterprise Singapore.
 
 The primary objectives of Auditing Organisations Scheme are to
+
 * provide by means of assessment, the assurance that the professional practice by auditing organisations are in accordance with relevant criteria such as [CT 17](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="&#95;blank"}, regulatory requirements and relevant SAC documents;
 * ensure that the auditing processes are carried out with professionalism and integrity;
 * build the capabilities of auditing organisations and auditors to meet regulatory requirements.
