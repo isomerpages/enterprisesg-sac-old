@@ -65,6 +65,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 |===
 | Note:<br/>(1) AF MD: IAF Mandatory Documents<br/>(2) Please see Annex 1 for the list of above-mentioned standards. |
 
+{: #product-certification-body}
 #### (II) Product Certification Body
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
@@ -82,6 +83,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19 | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
 | All Other Products | ISO/IEC 17065 | Various applicable standards |
 
+{: #personnel-certification-body}
 #### (III) Personnel Certification Body
 
 | Programmes | Accreditation Requirements | Certification Standards |
