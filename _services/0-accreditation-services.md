@@ -13,8 +13,8 @@ The accreditation criteria for determining the competence of companies are based
 Our accreditation schemes provide independent third-party attestation of 
 * [Auditing Organisations](auditing-organisations)
 * [Management System Certification Bodies](certification-bodies)
-* [Product Certification Bodies](certification-bodies#product-certification-body)
-* [Personnel Certification Bodies](certification-bodies#personnel-certification-body)
+* [Product Certification Bodies](certification-bodies)
+* [Personnel Certification Bodies](certification-bodies)
 * [Laboratories](laboratories) 
 * [Inspection Bodies](inspection-bodies) 
 * [Proficiency Testing Providers](proficiency-testing-providers)
