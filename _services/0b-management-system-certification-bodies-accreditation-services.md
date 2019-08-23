@@ -6,13 +6,14 @@ collection_name: services
 second_nav_title: "Accreditation Services"
 ---
 
-### About Accreditation
+## About
 
 Accreditation is an endorsement of a certification body's independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
 
 ### About the Scheme
 
 The Accreditation Scheme for Quality Management System Certification Bodies was launched in October 1996 to maintain the standard of certification activities in Singapore. launched such as the Accreditation programmes for:
+
 * Environmental Management System Certification Bodies
 * Occupational Safety and Health Management System Certification Bodies
 * Hazard Analysis Critical Control Point - based Food Management System Certification Bodies
@@ -61,7 +62,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16 | ISO 55001 |
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
-|===
+|===|
 | Note:<br/>(1) AF MD: IAF Mandatory Documents<br/>(2) Please see Annex 1 for the list of above-mentioned standards. |
 
 ### Benefits
