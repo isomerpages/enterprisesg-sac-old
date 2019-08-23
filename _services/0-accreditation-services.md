@@ -12,13 +12,13 @@ The accreditation criteria for determining the competence of companies are based
 
 Our accreditation schemes provide independent third-party attestation of 
 * [Auditing Organisations](/services/accreditation-services/auditing-organisation)
-* [Greenhouse Gas Validation & Verification Bodies](/services/accreditation-services/validation-and-verification-bodies)
-* [Inspection Bodies](/services/accreditation-services/inspection-body) 
-* [Laboratories](/services/accreditation-services/laboratory) 
 * [Management System Certification Bodies](/services/accreditation-services/certification-body)
 * [Personnel Certification Bodies](/services/accreditation-services/certification-body)
 * [Product Certification Bodies](/services/accreditation-services/certification-body)
+* [Laboratories](/services/accreditation-services/laboratory) 
+* [Inspection Bodies](/services/accreditation-services/inspection-body) 
 * [Proficiency Testing Providers](/services/accreditation-services/proficiency-testing-providers)
+* [Greenhouse Gas Validation & Verification Bodies](/services/accreditation-services/validation-and-verification-bodies)
 
 We also administer the [Singapore Good Laboratory Practice (GLP) Compliance Programme](/services/accreditation-services/glp-compliance-monitoring).
 
