@@ -1,45 +1,10 @@
 {%- comment -%} add script for mobile view navigation {%- endcomment -%}
 <script src="{{- "/misc/mobile-view.js" | relative_url -}}" crossorigin="anonymous"></script>   
 
-{%- if page.layout == 'leftnav-page-content' -%}
-<script crossorigin="anonymous">
-    //edit nav title for leftnav layout pages with 'overview' titles  
-    var titleSections = document.getElementsByClassName('bp-section-pagetitle');
-    if (titleSections.length > 0) {
-        var pageTitles = titleSections[0].getElementsByTagName('h1');
-        if (pageTitles.length > 0) {
-            var title = pageTitles[0].textContent;
-            if (title.search(/overview/i) === 0) {
-                var activeSecondLevelNavHeaders = document.getElementsByClassName('is-active second-level-nav-header'); 
-                if (activeSecondLevelNavHeaders.length > 0) {
-                    pageTitles[0].textContent += " (" + activeSecondLevelNavHeaders[0].textContent + ")";
-                }
-            }
-        }
-    }
-</script>    
-{%- endif -%} 
-
 {%- comment -%} add Isomer accordion template javascript to FAQ and Certified Companies pages {%- endcomment -%}
 {%- if page.layout == 'faq' or page.layout == 'certified-companies' or page.layout == 'committee' -%}
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
-
-{%- if page.layout == 'post' -%}
-<script>
-    //add a 'back-to-top' link for 'post' layout pages
-    var printContents = document.getElementsByClassName('print-content');
-    if (printContents.length > 0) {
-        var linkNode = document.createElement('a');
-        linkNode.setAttribute('href','#');
-        linkNode.innerHTML = '↑ Back to top';
-        var paragraphNode = document.createElement('p');
-        paragraphNode.setAttribute('class','back-to-top');
-        paragraphNode.appendChild(linkNode);
-        printContents[0].appendChild(paragraphNode);
-    }
-</script>
-{%- endif -%} 
 
 {%- if page.permalink contains 'services/training' -%}
 <script src="{{- "/misc/training.js" | relative_url -}}" crossorigin="anonymous"></script>
