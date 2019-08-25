@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Discover Quality and Standards with the Kiang Family
+title:  "Discover Quality and Standards with the Kiang Family"
 date:   2015-06-23
 permalink: /newsroom/news-releases/Discover-Quality-and-Standards-with-the-Kiang-Family
 ---
