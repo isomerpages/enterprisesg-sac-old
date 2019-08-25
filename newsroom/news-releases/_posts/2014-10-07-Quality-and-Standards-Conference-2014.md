@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Quality and Standards Conference 2014
+title:  "Quality and Standards Conference 2014"
 date:   2014-10-07
 permalink: /newsroom/news-releases/Quality-and-Standards-Conference-2014
 ---
