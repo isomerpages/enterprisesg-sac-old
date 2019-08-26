@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  World Accreditation Day 2017
+title:  "World Accreditation Day 2017"
 date:   2017-06-09
 permalink: /newsroom/news-releases/World-Accreditation-Day-2017
 ---
