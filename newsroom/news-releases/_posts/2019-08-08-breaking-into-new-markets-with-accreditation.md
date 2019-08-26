@@ -18,7 +18,7 @@ Accreditation – providing confidence in companies performing testing, calibrat
  
 As more businesses around the world specify accredited services as part of their supplier qualification requirements, companies which had been adopting them would gain a headstart and a competitive advantage over competitors. Accreditation underpins the credibility of goods and services and adoption of standards, and can be used by businesses as a cost-effective technical assurance as overseas markets are more ready to accept the reports of an accredited conformity assessment body (CAB).
  
-With accreditation, businesses are able to reduce the need for re-testing, re-inspection or re-certification of their products, thus lowering costs and time when entering foreign markets. Regulators are also leveraging accredited Testing, Inspection & Certification (TIC) services to ensure the quality and standards of products and services across different application areas.
+With accreditation, businesses are able to reduce the need for re-testing, reinspection or re-certification of their products, thus lowering costs and time when entering foreign markets. Regulators are also leveraging accredited Testing, Inspection & Certification (TIC) services to ensure the quality and standards of products and services across different application areas.
  
 “Just as divergence of technical regulations and standards can be barriers to trade for manufacturers, deferring accreditation with certification body can pose inefficiencies as well”, Mr Anthony Tan, Vice President & Managing Director, UL (ASEAN & Australasia), said.
 
