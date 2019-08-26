@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New Accreditation Scheme for Greenhouse Gas Validation & Verification Body
+title:  "New Accreditation Scheme for Greenhouse Gas Validation & Verification Body"
 date:   2018-08-24
 permalink: /newsroom/news-releases/New-Accreditation-Scheme-for-Greenhouse-Gas-Validation-Verification-Body
 ---
@@ -9,6 +9,6 @@ The Singapore Accreditation Council (SAC) is pleased to launch a new Accreditati
 
 The accreditation criteria for this new scheme is based on ISO 14065 Greenhouse gases – Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition and IAF MD 6: IAF Mandatory Document for the application of ISO 14065:2013.
 
-SAC will be conducting a pilot run for this new scheme and is inviting expression of interest from organisations that wish to seek accreditation from SAC. If you wish to participate and find out more details on the pilot run, please contact Ms Lee Ham Eng at <lee_ham_eng@enterprisesg.gov.sg>. The pilot run is for applicants that apply by 31 December 2018. 
+SAC will be conducting a pilot run for this new scheme and is inviting interested organisations that wish to seek accreditation from SAC. If you wish to participate and find out more details on the pilot run, please contact Ms Lee Ham Eng at <lee_ham_eng@enterprisesg.gov.sg>. The pilot run is for applicants that apply by 31 December 2018. 
  
 Application for accreditation of GHG validation & verification is now open through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}.
