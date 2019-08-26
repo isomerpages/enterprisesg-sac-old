@@ -12,7 +12,7 @@ Accreditation is an endorsement of a certification body's independence, integrit
 
 ### About the Scheme
 
-The Accreditation Scheme for Quality Management System Certification Bodies was launched in October 1996 to maintain the standard of certification activities in Singapore. launched such as the Accreditation programmes for:
+The Accreditation Scheme for Quality Management System Certification Bodies was launched in October 1996 to maintain the standard of certification activities in Singapore. Since then, there are other related programmes launched such as the Accreditation programmes for:
 
 * Environmental Management System Certification Bodies
 * Occupational Safety and Health Management System Certification Bodies
@@ -24,7 +24,7 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Energy Management System Certification Bodies
 * Water Efficiency Management System Certification Bodies
 * Multi-Tiered Cloud Computing Security Certification Bodies
-* End of Life ICT Equipment Certification Bodies
+* End-of-Life ICT Equipment Certification Bodies
  
 The scheme was extended in August 2003 to cover the certification of bunker suppliers, in a show of support for the Maritime and Port Authority of Singapore's initiative to highlight Singapore's status as a bunkering hub. In April 2008, the scheme was further extended to cover the certification of good distribution practice of medical devices (GDPMDS). This was an effort to support the Health Sciences Authority's initiative to ensure the quality and integrity of medical devices throughout the distribution process.
  
