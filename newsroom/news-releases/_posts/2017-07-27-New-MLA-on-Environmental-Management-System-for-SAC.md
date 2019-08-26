@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New MLA on Environmental Management System for SAC
+title:  "New MLA on Environmental Management System for SAC"
 date:   2017-07-27
 permalink: /newsroom/news-releases/New-MLA-on-Environmental-Management-System-for-SAC
 ---
