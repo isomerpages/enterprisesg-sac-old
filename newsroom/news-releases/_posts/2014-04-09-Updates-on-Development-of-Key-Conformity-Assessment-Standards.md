@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Updates on Development of Key Conformity Assessment Standards
+title:  "Updates on Development of Key Conformity Assessment Standards"
 date:   2014-04-09
 permalink: /newsroom/news-releases/Updates-on-Key-Conformity-Assessment-Standard
 ---

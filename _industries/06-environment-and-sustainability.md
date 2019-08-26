@@ -8,7 +8,7 @@ collection_name: industries
 
 ![Environment & Sustainability](/images/industries/environment-and-sustainability.jpg)
 
-There is increasing emphasis on sustainability across different industries on a global level. Innovation and technology are now driving forces in the development of long-term sustainable solutions, which are needed to overcome challenges in resource availability.
+There is an increasing emphasis on sustainability across different industries on a global level. Innovation and technology are driving forces in the development of long-term sustainable solutions, which are needed to overcome challenges in resource availability.
 
 To meet rising water demand, for example, new methods – such as the recycling of used water and desalination of seawater – are being adopted. In the field of waste management, waste collection vehicles – along with sustainable waste storage and disposal facilities – are seeing increased demand. 
 

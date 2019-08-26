@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Launch of New Online Learning Portal
+title:  "Launch of New Online Learning Portal"
 date:   2018-01-02
 permalink: /newsroom/news-releases/Launch-of-New-Online-Learning-Portal
 ---

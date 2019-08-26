@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Joint General Assembly of APLAC-PAC 2014
+title:  "Joint General Assembly of APLAC-PAC 2014"
 date:   2014-07-02
 permalink: /newsroom/news-releases/Joint-General-Assembly-of-APLAC-PAC-2014
 ---
 
 ![APLACPic1](/images/press-release/photos/APLAC-pic1.jpg)
 
-The inaugural Joint General Assembly (GA) for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the Pacific Accreditation Cooperation (PAC) was held in Guadalajara, Mexico, from 21 to 27 June 2014. These joint meetings between the two regional groups are to facilitate closer collaborations and joint activities to achieve the common outcomes of both organisations.
+The inaugural Joint General Assembly (GA) for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the Pacific Accreditation Cooperation (PAC) was held in Guadalajara, Mexico, from 21 to 27 June 2014. These joint meetings between the two regional groups facilitate closer collaborations and joint activities to achieve the common outcomes of both organisations.
  
-SAC is a full member of both APLAC and PAC, and has contributed significantly as immediate past Chair of APLAC and as a member of the PAC Executive Committee. As a MRA signatory member of APLAC and PAC, SAC participates in key meetings to ensure the equivalence of accreditations provided by our counterparts and influence related accreditation and certification issues where necessary.
+SAC is a full member of both APLAC and PAC, and has contributed significantly as an immediate former Chair of APLAC and as a member of the PAC Executive Committee. As a MRA signatory member of APLAC and PAC, SAC participates in key meetings to ensure the equivalence of accreditations provided by our counterparts and influence related accreditation and certification issues where necessary.
  
 The key highlight for SAC at this Joint Meeting is our signing of the inaugural APLAC MRA for Proficiency Testing Providers (PTP) and the PAC MLA for Food Safety Management System (FSMS). We have also successfully renewed both our APLAC MRA and PAC MLA signatory status for another 4 years for Testing, Calibration, Medical and Inspection, and for Quality Management System and Product respectively. With these MRAs, SAC accreditation facilitates market access to over 75 economies.
  

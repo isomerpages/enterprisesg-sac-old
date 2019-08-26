@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  SAC Celebrating 30 Years of Accreditation
+title:  "SAC Celebrating 30 Years of Accreditation"
 date:   2016-08-25
 permalink: /newsroom/news-releases/SAC-Celebrating-30-Years-of-Accreditation
 ---
 
 This year, SPRING Singapore and SAC celebrates 50 years of the Singapore Standardisation Programme and 30 years of the Singapore Accreditation Programme.
  
-Over the past 50 years, the Singapore's Quality and Standards (Q&S) initiative has played a critical role in our nation-building efforts and supported development of key industries as well as contributed to the health and safety of our workers and the general public. It has built trust in Singapore’s products and services, thus enabling local enterprises to grow and access new markets.
+Over the past 50 years, the Singapore's Quality and Standards (Q&S) initiative has played a critical role in our nation-building efforts and supported the development of key industries as well as contributed to the health and safety of our workers and the general public. It has built trust in Singapore’s products and services, thus enabling local enterprises to grow and access new markets.
  
 In conjunction with the anniversary celebration, the Q&S Gala Dinner and Conference were held on 26 and 27 July 2016 at Resorts World Sentosa Convention Centre. The Gala Dinner was graced by Mr Tharman Shanmugaratnam, Deputy Prime Minister and Coordinating Minister for Economic and Social Policies, who envisioned quality and standards as a key pillar of the future economy.
 
-![qualityandstandardsdinner](/images/press-release/photos/Quality-and-Standards-Dinner.jpg)
+![quality and standards dinner](/images/press-release/photos/Quality-and-Standards-Dinner.jpg)
 *A celebratory toast and cake-cutting to mark the golden jubilee of the Singapore’s Quality & Standards journey*
 
 More than 500 guests attended the gala dinner including foreign dignitaries, key government agencies, institutes of higher learning, trade associations, enterprises, accredited conformity assessment bodies, and partners of the standardisation and accreditation programmes.

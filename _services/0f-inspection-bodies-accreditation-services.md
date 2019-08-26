@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Inspection Body
-permalink: /services/accreditation-services/inspection-body
+title: "Inspection Bodies"
+permalink: /services/accreditation-services/inspection-bodies
 collection_name: services
 second_nav_title: "Accreditation Services"
 ---
@@ -26,14 +26,14 @@ Inspection bodies are accredited based on the international standard, ISO/IEC 17
 
 Aside from the international standard, there are also specific technical notes that the inspection body has to comply with, which depends on the area of inspection.
 
-Accreditation for inspection bodies is only granted for a specific scope of inspection activities; only the accredited inspection activities can bear the accreditation mark, thus increasing confidence in users.
+Accreditation for inspection bodies is granted for a specific scope of inspection activities; only the accredited inspection activities can bear the accreditation mark, thus increasing confidence in users.
 
 ### Benefits
 Accreditation will: 
 
-* **Gain new business**: As more specifiers and users are stipulating the use of accredited services, an SAC accredited inspection body will help you to garner acceptance of your products and services. This results in better competitiveness and market access.
+* **Gain new business**: As more specifiers and users are stipulating the use of accredited services, a SAC-accredited inspection body will help you to garner acceptance of your products and services. This results in better competitiveness and market access.
 
-* **Reduce cost**: Properly inspected products and services are more cost-effective, thus reducing downtime and avoiding any unnecessary cost for re-work or re-inspection.
+* **Reduce cost**: Properly inspected products and services are more cost-effective, thus reducing downtime and avoiding any unnecessary cost for rework or re-inspection.
 
 * **Lower risk**: With the technical proficiency of a SAC-accredited inspection body, your products are assured of their reliability and competence. This mitigates claims and unnecessary recall of your products. 
 

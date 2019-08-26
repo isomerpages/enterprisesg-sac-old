@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New Standard Raises the Bar on Management System Certification
+title:  "New Standard Raises the Bar on Management System Certification"
 date:   2015-07-14
 permalink: /newsroom/news-releases/New-Standard-Raises-the-Bar-on-Management-System-Certification
 ---

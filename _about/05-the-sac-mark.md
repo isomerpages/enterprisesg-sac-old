@@ -11,7 +11,7 @@ collection_name: about
 
 The SAC logo combines the stylised star and the tick. It is the most recognized element of our visual brand.
 
-The stylised star and the tick of the SAC Accreditation Mark depicts excellence and approval. The brush stroke reflects vibrancy and dynamism of the system. The colour red is chosen as it is the national colour of Singapore. The SAC Accreditation Mark on the whole represents global quality standards and outstanding results.
+The stylised star and the tick of the SAC Accreditation Mark depicts excellence and approval. The brush stroke reflects the vibrancy and dynamism of the system. The colour red is chosen as it is the national colour of Singapore. The SAC Accreditation Mark on the whole represents global quality standards and outstanding results.
 
 ## SAC Accreditation Marks
 

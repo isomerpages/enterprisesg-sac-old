@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New Accreditation Programme for ISO 13485 Certification
+title:  "New Accreditation Programme for ISO 13485 Certification"
 date:   2017-08-14
 permalink: /newsroom/news-releases/New-Accreditation-Programme-for-ISO-13485-Certification
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SAC Unveils 30th Anniversary Logo
+title:  "SAC Unveils 30th Anniversary Logo"
 date:   2016-05-16
 permalink: /newsroom/news-releases/SAC-Unveils-30th-Anniversary-Logo
 ---

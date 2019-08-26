@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Assessors Enclave 2014
+title:  "Assessors Enclave 2014"
 date:   2014-11-21
 permalink: /newsroom/events/Assessors-Enclave-2014
 ---

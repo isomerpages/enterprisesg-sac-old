@@ -6,11 +6,11 @@ breadcrumb: Terms of Use
 ---
 
 #### 1. Agreement - Terms  
-All access of any area of our website is governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms , we would advise you to exit. Please continue only if you can accept these Terms.  
+All access to any area of our websiteare governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  
 In these Terms, the words "we", "our" and "us" refers to Singapore Accreditation Council.
 
 #### 2. Access To SAC  
-The accessibility and operation of our website relies on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
+The accessibility and operation of our website rely on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
 
 #### 3. Relying On Information  
 We provide our website as a general information source only. Do note that we are not involved in giving professional advice here. The website may not cover all information available on a particular issue. We would advise that you conduct your own checks or obtain professional advice relevant to your particular circumstances, outside of our website.

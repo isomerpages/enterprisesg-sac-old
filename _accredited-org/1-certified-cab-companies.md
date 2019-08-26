@@ -33,7 +33,7 @@ company-list:
       - name: "ICR Singapore Certification Pte Ltd"
         link: http://www.icrsgcert.com/ 
       - name: "ISOCERT Pte Ltd"
-        link: https://www.isocert.sg/latest-news 
+        link: https://www.isocert.sg/ 
       - name: "KW Certification Pte Ltd"
         link: http://www.kwcert.com/contact-us/   
       - name: "Lloyd's Register Quality Assurance Limited"
@@ -45,9 +45,9 @@ company-list:
       - name: "Setsco Services Pte Ltd"
         link: http://www.setsco.com/setsco/Info/html/service-enquiry.html
       - name: "SGS International Certification Services Pte Ltd"
-        link: http://www.sgs.sg/en/Our-Company/Certified-Clients-and-Products/Certified-Client-Directory.aspx
+        link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
       - name: "Singapore Test Services Pte Ltd"
-        link: https://singaporetestservices.com/customer-result/?_sft_category=management-system
+        link: https://sts.calvinseng.com/certified-customers/
       - name: "Singapore ISC Pte Ltd"
         link: http://www.isc-global.net/our-clients/
       - name: "TQCSI Certification Pte Ltd"
@@ -63,7 +63,7 @@ company-list:
   - category: "Product Certification"
     list:
       - name: Admaterials Technologies Pte Ltd
-        link: https://www.admaterials.com.sg/services/certification/index.html
+        link: https://www.admaterials.com/certification/
       - name: CAST Laboratories Pte Ltd
         link: http://www.castlab.com.sg/our-services/certification-body-for-ready-mixed-concrete/
       - name: Centre Testing International Pte Ltd
@@ -75,19 +75,19 @@ company-list:
       - name: Intertek Testing Services (Singapore) Pte Ltd
         link: http://www.intertek.com/directories/
       - name: Setsco Services Pte Ltd
-        link: http://www.setsco.com/setsco/Info/html/prdtcertification.html
+        link: https://www.setsco.com/setsco/Info/html/prdtcertification.html
       - name: SGS Testing & Control Services Singapore Pte Ltd
-        link: http://www.sgs.sg/en/Our-Company/Certified-Clients-and-Products/Certified-Client-Directory.aspx
+        link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
       - name: Singapore Laboratory Services Pte Ltd
         link: http://sls-singapore.sg/certification/
       - name: Singapore Test Services Pte Ltd
-        link: https://singaporetestservices.com/customer-result/?_sft_category=fire-safety-products
+        link: https://sts.calvinseng.com/certified-customers/
       - name: TÜV Rheinland Singapore Pte Ltd
         link: https://www.certipedia.com/?locale=en#product-search
       - name: TÜV SÜD PSB Pte Ltd - Product Listing Scheme (PLS)
-        link: https://www.tuv-sud-psb.sg/sg-en/activity/testing-product-certification/product-listing-scheme
+        link: https://www.tuvsud.com/en-sg/resource-centre/certificate-finder/product-listing-scheme
       - name: TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme
-        link: http://www.tuv-sud-psb.sg/sg-en/activity/testing-product-certification/ready-mixed-concrete-certification-scheme
+        link: https://www.tuvsud.com/en-sg/services/product-certification/ready-mixed-concrete-certification-scheme
       - name: UL International-Singapore Pte Ltd
         link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html    
   - category: "Personnel Certification"
@@ -97,11 +97,11 @@ company-list:
       - name: Non-Destructive Testing Society (Singapore)
         link: http://www.ndtss.org.sg/
       - name: Singapore PMC Certification Pte Ltd
-        link: http://www.pmccertification.sg/pmc-search-directory
+        link: https://www.pmccertification.sg/pmc-search-directory
       - name: Singapore Rope Access Association Limited
         link: http://sraa.asia/members/cert/
       - name: TÜV SÜD PSB Pte Ltd
-        link: https://www.tuv-sud-psb.sg/sg-en/activity/certification-of-persons/singapore-certified-management-consultants-scmc
+        link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/singapore-certified-management-consultants
 
 ###############
 # End of Data #

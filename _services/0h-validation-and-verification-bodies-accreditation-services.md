@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Validation and Verification Bodies
+title: "Validation and Verification Bodies"
 permalink: /services/accreditation-services/validation-and-verification-bodies
 collection_name: services
 second_nav_title: "Accreditation Services"
@@ -20,7 +20,7 @@ The Accreditation Scheme for Greenhouse Gas Validation & Verification Body was l
 
 SAC accredits V/VBs that can demonstrate compliance with the following requirements: 
 
-* ISO 14065 Greenhouse Gases - Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recignition  
+* ISO 14065 Greenhouse Gases - Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition  
 * ISO 14066 Greenhouse Gases - Competence requirements for Greenhouse gas validation reams and verification teams  
 * ISO 14064-3 Greenhouse Gases - Part 3: Specification with Guidance for the validation and verification of Greenhouse gas assertions  
 * IAF MD 6: IAF Mandatory Document for the application of ISO 14065:2013 
@@ -32,7 +32,7 @@ Accreditation will:
 * **Increase confidence**: Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited V/VBs.
  
 ### Process
-Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the V/VBs and the competence of the validators/verifiers. This will be carried out through a document review, assessments at the V/VB's office as well as on-site witnessed assessments of validation/ verification - all conducted by the V/VB. When the V/VB has demonstrated compliance with our requirements, it will be recommended for accreditation. One approved, SAC will grant a certificate or accreditation. The detailed description of the type of assessments is stipulated in CT 01, Accreditation Prodcess.
+Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the V/VBs and the competence of the validators/verifiers. This will be carried out through a document review, assessments at the V/VB's office as well as on-site witnessed assessments of validation/ verification - all conducted by the V/VB. When the V/VB has demonstrated compliance with our requirements, it will be recommended for accreditation. One approved, SAC will grant a certificate or accreditation. The detailed description of the type of assessments is stipulated in CT 01, Accreditation Process.
  
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 

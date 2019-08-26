@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ISO/IEC 17025 at Final Stage of Revision
+title:  "ISO/IEC 17025 at Final Stage of Revision"
 date:   2017-10-11
 permalink: /newsroom/news-releases/ISO-IEC-17025-at-Final-Stage-of-Revision
 ---
