@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Launch of New Accreditation Programme for ISMS Certification
+title:  "Launch of New Accreditation Programme for ISMS Certification"
 date:   2018-09-28
 permalink: /newsroom/news-releases/Launch-of-New-Accreditation-Programme-for-ISMS-Certification
 ---
