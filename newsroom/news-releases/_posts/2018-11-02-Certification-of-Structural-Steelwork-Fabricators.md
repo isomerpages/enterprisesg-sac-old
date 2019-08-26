@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Certification of Structural Steelwork Fabricators
+title:  "Certification of Structural Steelwork Fabricators"
 date:   2018-11-02
 permalink: /newsroom/news-releases/Certification-of-Structural-Steelwork-Fabricators
 ---
