@@ -385,9 +385,6 @@ hr {
 						pointer-events: none !important;
 					}
 				}
-				@include desktop(){
-					max-width:151px;
-				}
 			}
 		}	
 	}
