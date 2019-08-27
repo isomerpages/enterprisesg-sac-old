@@ -1,22 +1,18 @@
 ---
 layout: post
-title: CAB Success Stories
+title: "CAB Success Stories"
 date:  2019-08-01
 permalink: /newsroom/cab-success-stories
-imgFolderPath: /images/success-stories/
-# Comment: 'imgFolderPath' is used as a shortcut variable to replace the image folder path for the Markdown images in the content below
 ---
 
 ## Thumbs up from the Industry
-![Success Stories]({{page.imgFolderPath}}success-stories-business-setting.jpg)
-<!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
+![Success Stories](/images/success-stories/success-stories-business-setting.jpg)
 
 Often during the accreditation process, organisations that embrace quality will find ways to continually streamline and improve their operations, thus becoming more efficient and effective at managing their resources. Their ability to meet rigorous international standards and processes shows that they have proper systems in place. This ensures better record keeping and higher competency so that the data is reliable and credible. Ultimately, this enhances their reputation and the quality of services provided, propelling them to greater heights in operational excellence as well as in gaining new business.
 
 Our valued Customers and Stakeholders share their congratulatory messages here, as we mark the 10th anniversary of the SAC and 20th anniversary of accreditation in Singapore.
 
-### ![Analabs Logo]({{page.imgFolderPath}}analab-logo.png) Analytical Laboratories (Singapore) Pte Ltd 
-<!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
+### ![Analabs Logo](/images/success-stories/analab-logo.png) Analytical Laboratories (Singapore) Pte Ltd 
 
 "By getting accredited, ANALABS has gained international acceptance of our test results through various Mutual Recognition Arrangements among accreditation bodies. This has greatly enhanced the credibility of our operations."
 
@@ -24,8 +20,7 @@ Our valued Customers and Stakeholders share their congratulatory messages here, 
 *Managing Director*  
 Analytical Laboratories (Singapore) Pte Ltd
  
-### ![SETSCO Logo]({{page.imgFolderPath}}setsco-logo.png) SETSCO Services Pte Ltd
-<!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
+### ![SETSCO Logo](/images/success-stories/setsco-logo.png) SETSCO Services Pte Ltd
 
 "SETSCO Services became the first testing laboratory to be accredited by SINGLAS in 1987 in the field of Mechanical Testing. We have not looked back since and went on to garner five other fields of testing and two fields under the Accreditation Scheme for Inspection Body, bringing a total of eight accreditation certificates to date.
 
@@ -36,8 +31,7 @@ Being an accredited laboratory has significantly contributed to Setsco’s busin
 SETSCO Services Pte Ltd
  
  
-### ![SGS-logo.logo]({{page.imgFolderPath}}sgs-logo.png) SGS Testing & Control Services Singapore Pte Ltd
-<!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
+### ![SGS-logo.logo](/images/success-stories/sgs-logo.png) SGS Testing & Control Services Singapore Pte Ltd
 
 "We realised the benefits of being an accredited organisation and having an accredited laboratory management system very early into the programme. We were one of the earlier laboratories in Singapore to be accredited under SAC-SINGLAS, and also to the other SAC programmes. As a multinational company servicing borderless clients, a well-planned, implemented and accredited laboratory management system promotes consistency, efficiency and improves customer satisfaction. The Mutual Recognition Arrangements that come with SAC schemes provide us recognition and increased client confidence not only locally but also worldwide. Our continuous accreditation by meeting requirements of regular assessments of our system required by SAC is an objective endorsement of and testament to our technical competence and integrity."
 
@@ -46,8 +40,7 @@ SETSCO Services Pte Ltd
 SGS Testing & Control Services Singapore Pte Ltd
  
  
-### ![TÜV SÜD-Logo]({{page.imgFolderPath}}TUV-SUD-logo.png) TÜV SÜD PSB Pte Ltd
-<!-- Comment: use '{{page.imgFolderPath}}' to replace the full image folder path -->
+### ![TÜV SÜD-Logo](/images/success-stories/TUV-SUD-logo.png) TÜV SÜD PSB Pte Ltd
 
 "TÜV SÜD PSB was honoured to be the first certification body in Singapore to be accredited by the SAC in 1997. As a globally recognised testing and certification body, we needed accreditations that could enhance our international stature so as to ensure our test reports and certificates are recognised and accepted by local and overseas markets.
 
