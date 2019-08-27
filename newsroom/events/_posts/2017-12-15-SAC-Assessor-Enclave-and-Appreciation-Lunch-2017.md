@@ -11,8 +11,7 @@ SAC shared on the recently revised key international standards ISO/IEC 17011 and
 
 The subsequent breakout sessions for laboratory and inspection body assessors provided a platform for in-depth discussion and clarification on some of the key requirements in the revised standards and the classification of non-conformities in their specific areas.
 
-|![enclave2017_1](/images/press-release/photos/enclave2017_1.png) | ![enclave2017_2](/images/press-release/photos/enclave2017_2.png) |
-
+![enclave2017_1](/images/press-release/photos/enclave2017_1.png){: style="width:49%;display:inline-block;"} ![enclave2017_2](/images/press-release/photos/enclave2017_2.png){: style="width:49%;display:inline-block;"}  
 *(Above) Breakout Groups for Laboratory and Inspection Body Assessors*
 
 SAC also took the opportunity to recognise our assessors’ contribution and support for our various accreditation programmes. 53 assessors received their awards during the event. We look forward to all the assessors' support in the years to come.
