@@ -20,7 +20,7 @@ Tai Sing Electric Ltd
 
 | Designation	| Name	| Organisation |
 |-------------|-------|--------------|
-|{: rowspan="2"} **Deputy Chairmen** | Mr Alok Mishra | Value Addition, Singapore |
+| **Deputy Chairmen** | Mr Alok Mishra | Value Addition, Singapore |
 | | Mr Tan Kai Hoe | Accuron Technologies Limited |
 | **Members** | Mr Albert Kee | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
