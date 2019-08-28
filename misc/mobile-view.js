@@ -1,6 +1,5 @@
 //script to toggle navbar dropdown menu in mobile view
 var navbarBurgers = document.getElementsByClassName('navbar-burger');
-console.log(navbarBurgers.length);
 if (navbarBurgers.length > 0) {
 
     //this is used to check that the website is in mobile view because the navbar-burger only appears on mobile site
