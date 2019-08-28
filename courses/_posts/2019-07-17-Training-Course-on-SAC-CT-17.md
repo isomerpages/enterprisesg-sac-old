@@ -8,7 +8,7 @@ course_date: 27 September 2019
 
 ## Course Details
 **{{page.course_date}}**
-<!-- comment: page.course_date will display the same data as the 'course_date' in the top header code snippet -->
+<!-- comment: {{page.course_date}} will display the same data as the 'course_date' in the top header code snippet -->
 
 **Course Fee:** SGD $171.20 (inclusive of GST)
 
