@@ -6,7 +6,7 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 
 * Create a new article
   1. Upload any photos([*images->press-release->photos*](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/photos)) or documents([*images->press-release->documents*](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/documents)) needed for the article.  
-  2. Create a new post for [news release](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/news-releases/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+"Title+of+Post"%0Adate:+YYYY-MM-DD%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) , [events](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/events/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+Title+of+Post%0Adate:+YYYY-MM-DD%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) etc.  
+  2. Create a new post for [news release](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/news-releases/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+"Title+of+Post"%0Adate:+YYYY-MM-DD%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) , [events](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/events/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+"Title+of+Post"%0Adate:+YYYY-MM-DD%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) etc.  
     *For a complete template, refer to a [sample news release page](https://github.com/isomerpages/enterprisesg-sac/edit/staging/newsroom/news-releases/_posts/2019-08-08-breaking-into-new-markets-with-accreditation.md)*
  
 * Upload / Replace new publication
@@ -15,7 +15,7 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 
 * Create a new training course
   1. Create a new course registration form on the [formSG platform](https://form.gov.sg)
-  2. Create a new [training course post](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+"Title+of+Course+Page"%0Acourse_date:+DD+Month+YYYY%0Apermalink:+/services/training/courses-2019/title-of-course-page%0A---)  
+  2. Create a new [training course post](https://github.com/isomerpages/enterprisesg-sac/new/staging/courses/_posts?filename=YYYY-MM-DD-title-of-course-page.md&value=---%0Alayout:+simple-page%0Atitle:+"Title+of+Course+Page"%0Apermalink:+/services/training/courses-2019/title-of-course-page%0Acourse_date:+DD+Month+YYYY%0A#+Comment:+course_date+is+the+actual+date+of+the+course%0A---)  
   *For a complete template, refer to a [sample course page](https://github.com/isomerpages/enterprisesg-sac/edit/staging/courses/_posts/2019-07-17-Training-Course-on-SAC-CT-17.md) to copy and paste into your file editor*
 
 * Edit SAC committee (Note: all SAC committee pages are located in [*'_about'*](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_about))
