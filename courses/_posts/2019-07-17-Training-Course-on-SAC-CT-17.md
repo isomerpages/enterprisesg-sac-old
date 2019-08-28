@@ -9,6 +9,7 @@ course_date: 27 Sept 2019  # Comment: 'course_date' is used to indicate the actu
 
 ## Course Details
 **{{page.course_date}}**
+<!-- comment: page.course_date will display the same data as the 'course_date' in the top header code snippet -->
 
 **Course Fee:** SGD $171.20 (inclusive of GST)
 
@@ -33,6 +34,6 @@ Enterprise Singapore\\
 2 Fusionopolis Way,\\
 #15-01 Innovis\\
 Singapore 138634
-<!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
+<!-- COMMENT: The double backslashes are used to denote a new line break without the paragraph spacing -->
 
 All cheques should be crossed and made payable to "Enterprise Singapore." An email confirmation will be sent before the course date. 
