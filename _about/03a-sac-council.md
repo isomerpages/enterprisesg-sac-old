@@ -22,13 +22,13 @@ Tai Sing Electric Ltd
 |-------------|-------|--------------|
 | **Deputy Chairmen** | Mr Alok Mishra | Value Addition, Singapore |
 | | Mr Tan Kai Hoe | Accuron Technologies Limited |
-| **Members** | Mr Albert Kee | Association of Singapore Marine Industries (ASMI) |
-| | Er Thanabal Kaliannan (Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
+| **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
+| | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
 | | Ms Low Min Yong | Health Sciences Agency (HSA) |
-| | Mr Martin Khoo (Alternate: pending) | Info-Communications Media Development Authority (IMDA) |
+| | Mr Martin Khoo<br/>(Alternate: pending) | Info-Communications Media Development Authority (IMDA) |
 | | Adj. A/Prof Raymond Chua | Ministry of Health (MOH) |
 | | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
-| | Ms Mary Elizabeth Chelliah (Alternate:  Mr Andrew Chua) | Ministry of Trade and Industry (MTI) |
+| | Ms Mary Elizabeth Chelliah<br/>(Alternate:  Mr Andrew Chua) | Ministry of Trade and Industry (MTI) |
 | | Ms Chan Wai San | National Environment Agency (NEA) |
 | | Dr Leslie Retnam | National University of Singapore |
 | | Ms Ong Shwu Hoon | Singapore Business Federation (SBF) |
