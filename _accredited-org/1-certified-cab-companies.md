@@ -62,55 +62,55 @@ company-list:
         link: http://www.urs-holdings.com/verify-the-validity-of-a-certificate
   - category: "Product Certification"
     list:
-      - name: Admaterials Technologies Pte Ltd
+      - name: "Admaterials Technologies Pte Ltd"
         link: https://www.admaterials.com/certification/
-      - name: CAST Laboratories Pte Ltd
+      - name: "CAST Laboratories Pte Ltd"
         link: http://www.castlab.com.sg/our-services/certification-body-for-ready-mixed-concrete/
-      - name: Centre Testing International Pte Ltd
+      - name: "Centre Testing International Pte Ltd"
         link: http://www.cti-cert.com/en/resourceInit.do?id=116
-      - name: Control Union Singapore Pte Ltd
+      - name: "Control Union Singapore Pte Ltd"
         link: https://cucpublications.controlunion.com/publications.aspx?Subprogram_ID=1641&Program_ID=1
-      - name: Guardian Independent Certification Pte Ltd
+      - name: "Guardian Independent Certification Pte Ltd"
         link: http://gicg.com.sg/information/client-directory/
-      - name: Intertek Testing Services (Singapore) Pte Ltd
+      - name: "Intertek Testing Services (Singapore) Pte Ltd"
         link: http://www.intertek.com/directories/
-      - name: Majlis Ugama Islam Singapura
+      - name: "Majlis Ugama Islam Singapura"
         link: https://www.muis.gov.sg/halal
-      - name: Setsco Services Pte Ltd
+      - name: "Setsco Services Pte Ltd"
         link: https://www.setsco.com/setsco/Info/html/prdtcertification.html
-      - name: SGS Testing & Control Services Singapore Pte Ltd
+      - name: "SGS Testing & Control Services Singapore Pte Ltd"
         link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
-      - name: Singapore Environment Council
+      - name: "Singapore Environment Council"
         link: http://sec.org.sg/our-programmes/sglsandenhancedsgls/
-      - name: Singapore Laboratory Services Pte Ltd
+      - name: "Singapore Laboratory Services Pte Ltd"
         link: http://sls-singapore.sg/certification/
-      - name: Singapore Test Lab
+      - name: "Singapore Test Lab Pte Ltd"
         link: https://singaporetestlab.sg/certification/
-      - name: Singapore Test Services Pte Ltd
+      - name: "Singapore Test Services Pte Ltd"
         link: https://sts.calvinseng.com/certified-customers/
-      - name: SOCOTEC Certification Singapore Pte Ltd
+      - name: "SOCOTEC Certification Singapore Pte Ltd"
         link: http://www.socotec-certification-international.sg/certification/product-certification  
-      - name: TÜV Rheinland Singapore Pte Ltd
+      - name: "TÜV Rheinland Singapore Pte Ltd"
         link: https://www.certipedia.com/?locale=en#product-search
-      - name: TÜV SÜD PSB Pte Ltd - Product Listing Scheme (PLS)
+      - name: "TÜV SÜD PSB Pte Ltd - Product Listing Scheme (PLS)"
         link: https://www.tuvsud.com/en-sg/resource-centre/certificate-finder/product-listing-scheme
-      - name: TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme
+      - name: "TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme"
         link: https://www.tuvsud.com/en-sg/services/product-certification/ready-mixed-concrete-certification-scheme
-      - name: UK Certification Authority for Reinforcing Steels
+      - name: "UK Certification Authority for Reinforcing Steels"
         link: https://www.ukcares.com/certification/steel-for-the-reinforcement-of-concrete
-      - name: UL International-Singapore Pte Ltd
+      - name: "UL International-Singapore Pte Ltd"
         link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html    
   - category: "Personnel Certification"
     list:
-      - name: Institute of Management Consultants (Singapore)
+      - name: "Institute of Management Consultants (Singapore)"
         link: http://rmcsingapore.org/images/PDF/Register-of-RMC.pdf
-      - name: Non-Destructive Testing Society (Singapore)
+      - name: "Non-Destructive Testing Society (Singapore)"
         link: http://www.ndtss.org.sg/
-      - name: Singapore PMC Certification Pte Ltd
+      - name: "Singapore PMC Certification Pte Ltd"
         link: https://www.pmccertification.sg/pmc-search-directory
-      - name: Singapore Rope Access Association Limited
+      - name: "Singapore Rope Access Association Limited"
         link: http://sraa.asia/members/cert/
-      - name: TÜV SÜD PSB Pte Ltd
+      - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/singapore-certified-management-consultants
 
 ###############
