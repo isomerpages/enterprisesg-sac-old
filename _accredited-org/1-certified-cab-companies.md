@@ -9,7 +9,7 @@ collection_name: accredited-org
 ######################################################################################
 company-list:
   - category: "Management System Certification"
-    list:
+    list:  
       - name: "ACE International Certification Pte Ltd"
         link: http://www.aicpl.com.sg/index.php?lang=en
       - name: "BSI Group Pte Ltd"
@@ -18,18 +18,16 @@ company-list:
         link: https://www.bca.gov.sg/Professionals/IQUAS/IQUAS/StaticPages/iso_company.aspx?menuID=7
       - name: "Bureau Veritas Singapore Pte Ltd"
         link: http://www.bureauveritas.com/home/contact   
-      - name: "SOCOTEC Certification Singapore Pte Ltd"
-        link: http://www.socotec-certification-international.sg/certification/certified-companies
       - name: "DAS Certification Singapore Pte Ltd"
         link: http://dascert.com.sg/client-zone?field_certification_number_value=&field_standard_value=All  
       - name: "DNV GL Business Assurance Pte Ltd"
-        link: https://certificatechecker.dnvgl.com/ 
+        link: https://certificatechecker.dnvgl.com/  
+      - name: "EPI Certification Pte Ltd"
+        link: https://www.epi-certification.com/    
       - name: "EQA IMS Certification Pte Ltd"
         link: http://eqaims.com/client-directory/ 
-      - name: "EPI Certification Pte Ltd"
-        link: https://www.epi-certification.com/  
       - name: "Guardian Independent Certification Pte Ltd"
-        link: http://gicg.com.sg/information/client-directory/ 
+        link: http://www.gicg.com.sg/ 
       - name: "ICR Singapore Certification Pte Ltd"
         link: http://www.icrsgcert.com/ 
       - name: "ISOCERT Pte Ltd"
@@ -50,6 +48,8 @@ company-list:
         link: https://sts.calvinseng.com/certified-customers/
       - name: "Singapore ISC Pte Ltd"
         link: http://www.isc-global.net/our-clients/
+      - name: "SOCOTEC Certification Singapore Pte Ltd"
+        link: http://www.socotec-certification-international.sg/certification/certified-companies  
       - name: "TQCSI Certification Pte Ltd"
         link: http://www.tqcsi.com/certified-organisations
       - name: "Transpacific Certification Singapore Pte Ltd"
@@ -68,20 +68,14 @@ company-list:
         link: http://www.castlab.com.sg/our-services/certification-body-for-ready-mixed-concrete/
       - name: "Centre Testing International Pte Ltd"
         link: http://www.cti-cert.com/en/resourceInit.do?id=116
-      - name: "Control Union Singapore Pte Ltd"
-        link: https://cucpublications.controlunion.com/publications.aspx?Subprogram_ID=1641&Program_ID=1
       - name: "Guardian Independent Certification Pte Ltd"
         link: http://gicg.com.sg/information/client-directory/
       - name: "Intertek Testing Services (Singapore) Pte Ltd"
         link: http://www.intertek.com/directories/
-      - name: "Majlis Ugama Islam Singapura"
-        link: https://www.muis.gov.sg/halal
       - name: "Setsco Services Pte Ltd"
         link: https://www.setsco.com/setsco/Info/html/prdtcertification.html
       - name: "SGS Testing & Control Services Singapore Pte Ltd"
         link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
-      - name: "Singapore Environment Council"
-        link: http://sec.org.sg/our-programmes/sglsandenhancedsgls/
       - name: "Singapore Laboratory Services Pte Ltd"
         link: http://sls-singapore.sg/certification/
       - name: "Singapore Test Lab Pte Ltd"
@@ -96,8 +90,6 @@ company-list:
         link: https://www.tuvsud.com/en-sg/resource-centre/certificate-finder/product-listing-scheme
       - name: "TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme"
         link: https://www.tuvsud.com/en-sg/services/product-certification/ready-mixed-concrete-certification-scheme
-      - name: "UK Certification Authority for Reinforcing Steels"
-        link: https://www.ukcares.com/certification/steel-for-the-reinforcement-of-concrete
       - name: "UL International-Singapore Pte Ltd"
         link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html    
   - category: "Personnel Certification"
