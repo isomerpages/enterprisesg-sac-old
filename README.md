@@ -6,11 +6,13 @@ The detailed documentation for the enterprisedg-sac Github Repository is stored 
 
 * Create a new article
   1. Upload any photos([*images->press-release->photos*](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/photos)) or documents([*images->press-release->documents*](https://github.com/isomerpages/enterprisesg-sac/upload/staging/images/press-release/documents)) needed for the article.  
+  *Tip: Click on the description beside the 'images' folder to view and copy the full path of the most recently updated image*  
   2. Create a new post for [news release](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/news-releases/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+"Title+of+Post"%0Adate:+YYYY-MM-DD%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) , [events](https://github.com/isomerpages/enterprisesg-sac/new/staging/newsroom/events/_posts?filename=YYYY-MM-DD-title-of-post.md&value=---%0Alayout:+post%0Atitle:+"Title+of+Post"%0Adate:+YYYY-MM-DD%0Apermalink:+/newsroom/news-releases/title-of-post%0A---%0A<!--+example+syntax+for+image:+![Image+name](/images/press-release/photos/{image-name.jpg})+-->) etc.  
     *For a complete template, refer to a [sample news release page](https://github.com/isomerpages/enterprisesg-sac/edit/staging/newsroom/news-releases/_posts/2019-08-08-breaking-into-new-markets-with-accreditation.md)*
  
 * Upload / Replace new publication
   1. Upload the document into the relevent folder in [*files->documents*](https://github.com/isomerpages/enterprisesg-sac/tree/staging/files/documents)
+  *Tip: Click on the description beside the 'files' folder to view and copy the full path of the most recently updated file*    
   2. Edit the document name and file path in the corresponding Publications page in [*_resources*](https://github.com/isomerpages/enterprisesg-sac/tree/staging/_resources)
 
 * Create a new training course
