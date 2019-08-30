@@ -61,3 +61,17 @@ faq_url_external: false
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+include: [_redirects]
