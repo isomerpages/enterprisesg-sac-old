@@ -52,6 +52,9 @@ collection_name: accredited-org
 * Hook-Lift & Container Inspection 
   * AJK Engineering Pte Ltd (Suspended 29 March 2019 - 28 June 2019)
   
+* Site Inspection
+  * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
+  
 #### Certification Body    
 * Auditing Organisation 
   * A Star Safety Consultants Pte Ltd (Suspended 14 June 2019 - 13 September 2019)
