@@ -253,7 +253,13 @@ $tablet: 768px !default;
 }
 
 .bp-dropdown.is-hoverable .bp-dropdown-button span{
-    white-space:normal;
+	white-space:normal;
+}
+
+#search-activate
+{
+	padding-left:0;
+	padding-right:0;	
 }
 
 // Bottom navigation bar
