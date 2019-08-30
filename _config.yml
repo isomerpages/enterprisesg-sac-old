@@ -6,9 +6,7 @@
 title: Singapore Accreditation Council
 title-abbreviated: SAC
 description: >- # this means to ignore newlines until "baseurl:"
-  Your Trusted Partner in Accreditation. Managed by Enterprise Singapore, SAC maintains the integrity and impartiality of conformity assessment practices. 
-  The Council builds global trust in Singapore's products and services by strengthening our country's technical infrastructure for conformity assessments, 
-  as well as forging Mutual Recognition Arrangements (MRAs) with our economic partners.
+  Your Trusted Partner in Accreditation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sac-accreditation.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
