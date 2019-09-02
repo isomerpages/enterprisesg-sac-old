@@ -2,6 +2,8 @@
   skip_processing = false
 [build.processing.aspx]
   pretty_urls = true 
+[build.processing.md]
+  pretty_urls = true   
 [build.processing.html]
   pretty_urls = true   
 [[headers]]
