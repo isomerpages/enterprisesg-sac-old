@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/news/pressrelease/pages/:title.aspx /newsroom/news-releases/:splat
+/news/pressrelease/pages/:slug.aspx /newsroom/news-releases/:slug
 /about/Pages/Introduction-to-SAC.aspx /about/our-role
 /about/Collaboration-International-Recognition/Pages/LOUMOU.aspx /about/collaborations-and-recognitions/loumou
