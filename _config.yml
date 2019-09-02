@@ -73,5 +73,3 @@ custom_print_css_path: "/assets/css/print.css"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-include: [".htaccess", "_redirects"]
