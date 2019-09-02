@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/news/pressrelease/pages/* /newsroom/news-releases/
+/news/pressrelease/pages/*.aspx /newsroom/news-releases/*
