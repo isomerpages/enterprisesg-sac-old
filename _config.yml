@@ -19,6 +19,7 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sitemap
+  - jekyll-redirect-from
   
 # Breadcrumbs
 breadcrumbs:
