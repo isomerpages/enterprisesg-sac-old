@@ -1,3 +1,5 @@
+[build.processing.aspx]
+  pretty_urls = true
 [[headers]]
   for = "/*"
   [headers.values]
