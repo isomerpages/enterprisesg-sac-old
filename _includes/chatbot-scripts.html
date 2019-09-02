@@ -11,7 +11,6 @@
 {%- endif -%} 
 
 {%- comment -%} redirect older SAC website pages {%- endcomment -%}
-<p id="page-url">{{page.url}}</p>
-{%- if page.url contains '/pressrelease/' -%}
+{%- if page.url contains '/404.html' -%}
 <script src="{{- "/misc/redirect.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
