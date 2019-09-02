@@ -37,6 +37,8 @@ collections:
     output: true
   accredited-org:
     output: true
+    
+ include: [".htaccess"]   
   courses:
     output: true
       
@@ -73,3 +75,5 @@ custom_print_css_path: "/assets/css/print.css"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: [.htaccess]
