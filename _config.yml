@@ -37,8 +37,6 @@ collections:
     output: true
   accredited-org:
     output: true
-    
- include: [".htaccess"]   
   courses:
     output: true
       
