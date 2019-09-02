@@ -11,6 +11,6 @@
 {%- endif -%} 
 
 {%- comment -%} redirect older SAC website pages {%- endcomment -%}
-{%- if page.permalink contains 'newsroom' -%}
+{%- if page.url contains '/pressrelease/' -%}
 <script src="{{- "/misc/redirect.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
