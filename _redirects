@@ -1,6 +1,27 @@
 # Redirects from what the browser requests to what we serve
-/news/pressrelease/pages/Breaking-into-new-markets-with-accreditation.aspx /newsroom/news-releases/breaking-into-new-markets-with-accreditation
 /news/pressrelease/pages/MoU-between-SAC-and-ASCI-for-ISASecure%C2%AE-Industrial-Cybersecurity-Certification-Scheme.aspx /newsroom/news-releases/mou-between-sac-and-asci-for-isasecure®-industrial-cybersecurity-certification-scheme
 /news/pressrelease/pages/* /newsroom/news-releases/:splat
+/news/Pages/CAB-Status-Update.aspx /accredited-org/cab-status-update
+/services/Accreditation-Services/Pages/* /services/accreditation-services/
+/services/Pages/GLP%20Compliance%20Monitoring.aspx /services/accreditation-services/glp-compliance-monitoring
+/services/Pages/Training.aspx /services/training/
+/events/courses/Pages/Overview.aspx /services/training/
+/Resources/sac_documents/Pages/* /resources/publications
+/Resources/Brochures/Pages/Brochures.aspx /resources/brochures
+/Resources/certifiedcompanies/Pages/List-of-Certified-Companies.aspx /accredited-org/certified-cab-companies
+/cab/acab/Pages/search_acab.aspx https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx
+/cab/Pages/cab_get_accredited.aspx /services/accreditation-services/apply-for-accreditation
 /about/Pages/Introduction-to-SAC.aspx /about/our-role
+/about/Pages/Milestone.aspx /about/our-history
+/about/organisation-structure/Pages/Organisation-Chart.aspx /about/our-organisation-and-structure
+/about/organisation-structure/Pages/SAC-Council.aspx /about/our-organisation-and-structure/sac-council
+/about/organisation-structure/CouncilCommittees/Pages/Council-Committees.aspx /about/our-organisation-and-structure/council-committees
+/about/organisation-structure/LabTechnicalCommittee/Pages/Technical-Committees.aspx /about/our-organisation-and-structure/laboratory-technical-committees
+/about/organisation-structure/IB_Technical_Committee/Pages/Technical-Committees.aspx /about/our-organisation-and-structure/inspection-body-technical-committees
+/about/organisation-structure/Pages/Secretariat.aspx /about/our-organisation-and-structure/secretariat
+/about/Collaboration-International-Recognition/Pages/Collaboration-International-Recognition.aspx /about/collaborations-and-recognitions
+/about/Collaboration-International-Recognition/Pages/International-Membership.aspx /about/collaborations-and-recognitions/international-membership
+/about/Collaboration-International-Recognition/Pages/Mutual%20Recognition%20Arrangement.aspx /about/collaborations-and-recognitions/mutual-recognition-arrangement
 /about/Collaboration-International-Recognition/Pages/LOUMOU.aspx /about/collaborations-and-recognitions/loumou
+/about/Pages/Join%20Us.aspx /about/join-us
+
