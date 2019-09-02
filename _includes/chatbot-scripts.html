@@ -9,3 +9,8 @@
 {%- if page.permalink contains 'services/training' -%}
 <script src="{{- "/misc/training.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%} 
+
+{%- comment -%} redirect older SAC website pages {%- endcomment -%}
+{%- if page.url contains '/404.html' -%}
+<script src="{{- "/misc/redirect.js" | relative_url -}}" crossorigin="anonymous"></script>
+{%- endif -%}
