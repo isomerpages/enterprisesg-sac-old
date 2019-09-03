@@ -1,3 +1,6 @@
+{%- comment -%} redirect older SAC website pages {%- endcomment -%}
+<script src="{{- "/misc/redirect.js" | relative_url -}}" crossorigin="anonymous"></script>
+
 {%- comment -%} add script for mobile view navigation {%- endcomment -%}
 <script src="{{- "/misc/mobile-view.js" | relative_url -}}" crossorigin="anonymous"></script>   
 
@@ -9,8 +12,3 @@
 {%- if page.permalink contains 'services/training' -%}
 <script src="{{- "/misc/training.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%} 
-
-{%- comment -%} redirect older SAC website pages {%- endcomment -%}
-{%- if page.url contains '/404.html' or page.url contains '.aspx' -%}
-<script src="{{- "/misc/redirect.js" | relative_url -}}" crossorigin="anonymous"></script>
-{%- endif -%}
