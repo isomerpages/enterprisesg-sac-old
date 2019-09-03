@@ -11,6 +11,6 @@
 {%- endif -%} 
 
 {%- comment -%} redirect older SAC website pages {%- endcomment -%}
-{%- if page.url contains '/404.html' -%}
+{%- if page.url contains '/404.html' or page.url contains '.aspx' -%}
 <script src="{{- "/misc/redirect.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
