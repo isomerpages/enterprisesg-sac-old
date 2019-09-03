@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /news/pressrelease/pages/MoU-between-SAC-and-ASCI-for-ISASecure%C2%AE-Industrial-Cybersecurity-Certification-Scheme.aspx /newsroom/news-releases/mou-between-sac-and-asci-for-isasecure®-industrial-cybersecurity-certification-scheme
-/news/pressrelease/pages/* /newsroom/news-releases/
+/news/pressrelease/pages/* /newsroom/news-releases/:splat
 /news/Pages/CAB-Status-Update.aspx /accredited-org/cab-status-update
 /services/Accreditation-Services/Pages/* /services/accreditation-services/
 /services/Pages/GLP%20Compliance%20Monitoring.aspx /services/accreditation-services/glp-compliance-monitoring
