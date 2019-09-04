@@ -2,8 +2,9 @@
 /news/pressrelease/pages/MoU-between-SAC-and-ASCI-for-ISASecure%C2%AE-Industrial-Cybersecurity-Certification-Scheme.aspx /newsroom/news-releases/mou-between-sac-and-asci-for-isasecure®-industrial-cybersecurity-certification-scheme
 /news/pressrelease/pages/Breaking-into-new-markets-with-accreditation.aspx /newsroom/news-releases/breaking-into-new-markets-with-accreditation
 /news/pressrelease/pages/Hosting-of-.aspx /newsroom/news-releases/hosting-of-inaugural-apac-2019-annual-meetings
-/news/pressrelease/pages/* /newsroom/news-releases/:splat
+/news/pressrelease/pages/* /newsroom/news-releases/
 /news/Pages/CAB-Status-Update.aspx /accredited-org/cab-status-update
+/news/pages/cab-status-update.aspx /accredited-org/cab-status-update
 /services/Accreditation-Services/Pages/* /services/accreditation-services/
 /services/accreditation-Services/pages/* /services/accreditation-services/
 /services/Pages/GLP%20Compliance%20Monitoring.aspx /services/accreditation-services/glp-compliance-monitoring
@@ -17,7 +18,7 @@
 /Resources/Brochures/Pages/Brochures.aspx /resources/brochures
 /resources/brochures/pages/brochures.aspx /resources/brochures
 /Resources/certifiedcompanies/Pages/List-of-Certified-Companies.aspx /accredited-org/certified-cab-companies
-/resources/certifiedcompanies/pages/List-of-Certified-Companies.aspx /accredited-org/certified-cab-companies
+/resources/certifiedcompanies/pages/list-of-certified-companies.aspx /accredited-org/certified-cab-companies
 /cab/acab/Pages/search_acab.aspx https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx
 /cab/acab/pages/search_acab.aspx https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx
 /cab/Pages/cab_get_accredited.aspx /services/accreditation-services/apply-for-accreditation
