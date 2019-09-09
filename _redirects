@@ -1,4 +1,5 @@
 # Redirects from what the browser requests to what we serve
+/Pages/Homepage.aspx /
 /news/pressrelease/pages/MoU-between-SAC-and-ASCI-for-ISASecure%C2%AE-Industrial-Cybersecurity-Certification-Scheme.aspx /newsroom/news-releases/mou-between-sac-and-asci-for-isasecure®-industrial-cybersecurity-certification-scheme
 /news/pressrelease/pages/Breaking-into-new-markets-with-accreditation.aspx /newsroom/news-releases/breaking-into-new-markets-with-accreditation
 /news/pressrelease/pages/Hosting-of-.aspx /newsroom/news-releases/hosting-of-inaugural-apac-2019-annual-meetings
@@ -13,6 +14,7 @@
 /services/pages/training.aspx /services/training/
 /events/courses/Pages/Overview.aspx /services/training/
 /events/courses/pages/overview.aspx /services/training/
+/Resources/sac_documents/Pages/Certification_Body_Accreditation.aspx /resources/publications/certification-body-accreditation
 /Resources/sac_documents/Pages/* /resources/publications
 /resources/sac_documents/pages/* /resources/publications
 /Resources/Brochures/Pages/Brochures.aspx /resources/brochures
