@@ -6,7 +6,7 @@ if (index > -1) {
 }
 
 var notificationBar = document.getElementById("notification-bar");
-if (notificationBar.length > 0) {
+if (notificationBar != null) {
   var expiry = new Date("2019-09-09 16:30:00");
   var currentDate = new Date();
   if(expiry - currentDate < 0) {
@@ -16,5 +16,8 @@ if (notificationBar.length > 0) {
   else {
     console.log("not expired");
   }
+}
+else {
+  console.log("cannot find notification bar");
 }
 
