@@ -6,6 +6,15 @@ collection_name: accredited-org
 
 ---
 
+{:#top}
+Click on the quick links below to jump to the CAB Status:
+
+**[1. Newly Accredited](#newly-accredited)**\\
+**[2. Suspended](#suspended)**\\
+**[3. Withdrawn](#withdrawn)**\\
+**[4. Others - Inoperative](#others)**
+
+{: #newly-accredited}
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
 
 #### Laboratory
@@ -41,7 +50,12 @@ collection_name: accredited-org
   * Safety First Pte Ltd (18 July 2019)
   * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
   * Aegis Certification Pte Ltd (29 July 2019) 
-    
+
+[Back to top ↑](#top)
+
+---
+
+{: #suspended}
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
 #### Laboratory
@@ -59,7 +73,11 @@ collection_name: accredited-org
 * Auditing Organisation 
   * A Star Safety Consultants Pte Ltd (Suspended 14 June 2019 - 13 September 2019)
 
+[Back to top ↑](#top)
 
+---
+
+{: #withdrawn}
 ### 3. Withdrawn Laboratory / Certification Body / Inspection Body 
 
 #### **Voluntary Withdrawal by CABs**
@@ -105,6 +123,11 @@ collection_name: accredited-org
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
 
+[Back to top ↑](#top)
 
+---
+
+{: #others}
 ### 4. Others - Inoperative
  
+[Back to top ↑](#top)
