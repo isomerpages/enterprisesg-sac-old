@@ -6,12 +6,9 @@ collection_name: accredited-org
 
 ---
 
-[1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider](#newly-accredited)
-
-[2. Suspended Laboratory / Certification Body / Inspection Body](#suspended)
-
-[3. Withdrawn Laboratory / Certification Body / Inspection Body](#withdrawn)
-
+[1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider](#newly-accredited)\\
+[2. Suspended Laboratory / Certification Body / Inspection Body](#suspended)\\
+[3. Withdrawn Laboratory / Certification Body / Inspection Body](#withdrawn)\\
 [4. Others - Inoperative](#others)
 
 {: #newly-accredited}
@@ -51,6 +48,8 @@ collection_name: accredited-org
   * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
   * Aegis Certification Pte Ltd (29 July 2019) 
 
+---
+
 {: #suspended}
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
@@ -68,6 +67,8 @@ collection_name: accredited-org
 #### Certification Body    
 * Auditing Organisation 
   * A Star Safety Consultants Pte Ltd (Suspended 14 June 2019 - 13 September 2019)
+
+---
 
 {: #withdrawn}
 ### 3. Withdrawn Laboratory / Certification Body / Inspection Body 
@@ -114,6 +115,8 @@ collection_name: accredited-org
   
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
+
+---
 
 {: #others}
 ### 4. Others - Inoperative
