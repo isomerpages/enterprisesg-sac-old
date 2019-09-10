@@ -617,6 +617,13 @@ img + em {
 	text-align: center;
 }
 
+a[href="#top"] {
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 0;
+    text-align: right;
+}
+
 #back-to-top-mobile {
 	display: none;
 	position: fixed;
