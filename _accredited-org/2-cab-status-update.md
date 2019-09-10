@@ -6,7 +6,8 @@ collection_name: accredited-org
 
 ---
 
-Quick links to CAB Status:\\
+{:#top}Click on the quick links below to jump to the CAB Status:
+
 **[1. Newly Accredited](#newly-accredited)**\\
 **[2. Suspended](#suspended)**\\
 **[3. Withdrawn](#withdrawn)**\\
@@ -49,7 +50,7 @@ Quick links to CAB Status:\\
   * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
   * Aegis Certification Pte Ltd (29 July 2019) 
 
-[Back to top](#)
+[Back to top ↑](#top)
 
 ---
 
@@ -70,6 +71,8 @@ Quick links to CAB Status:\\
 #### Certification Body    
 * Auditing Organisation 
   * A Star Safety Consultants Pte Ltd (Suspended 14 June 2019 - 13 September 2019)
+
+[Back to top ↑](#top)
 
 ---
 
@@ -118,6 +121,8 @@ Quick links to CAB Status:\\
   
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
+
+[Back to top ↑](#top)
 
 ---
 
