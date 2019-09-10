@@ -6,10 +6,12 @@ collection_name: accredited-org
 
 ---
 
-[1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider](#newly-accredited)\\
-[2. Suspended Laboratory / Certification Body / Inspection Body](#suspended)\\
-[3. Withdrawn Laboratory / Certification Body / Inspection Body](#withdrawn)\\
-[4. Others - Inoperative](#others)
+Quick links:
+
+[**1. Newly Accredited**](#newly-accredited)\\
+[**2. Suspended**](#suspended)\\
+[**3. Withdrawn**](#withdrawn)\\
+[**4. Others**](#others)
 
 {: #newly-accredited}
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
