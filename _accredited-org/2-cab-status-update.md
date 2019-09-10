@@ -6,11 +6,10 @@ collection_name: accredited-org
 
 ---
 
-Quick links:
-
-**[1. Newly Accredited](#newly-accredited)**  
-**[2. Suspended**](#suspended)**  
-**[3. Withdrawn**](#withdrawn)**  
+Quick links to CAB Status:\\
+**[1. Newly Accredited](#newly-accredited)**\\
+**[2. Suspended](#suspended)**\\
+**[3. Withdrawn](#withdrawn)**\\
 **[4. Others](#others)**
 
 {: #newly-accredited}
@@ -49,6 +48,8 @@ Quick links:
   * Safety First Pte Ltd (18 July 2019)
   * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
   * Aegis Certification Pte Ltd (29 July 2019) 
+
+[Back to top](#)
 
 ---
 
