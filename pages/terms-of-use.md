@@ -23,6 +23,6 @@ Internet communications may be susceptible to interference or interception by th
 We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from our website. Access to any other Internet site is at your own risk. If you create a link or frame to our website, you do so at your own risk.  
 We reserve the right to object or disable any link or frame to or from our website.
 
-#### 6.Video and Audio Contents  
+#### 6. Video and Audio Contents  
 Do take note that you may not copy, reproduce, edit, adapt, alter, republish, post, broadcast, transmit, make available to the public, or otherwise use the audio or video on our website in any way except for your own personal, non-commercial use.  
-You may not download, or use our files for the purpose of promoting, advertising, endorsing or implying a connection with you (or any third party) and Singapore Accreditation Council, its agents or employees.
+You may not download or use our files for the purpose of promoting, advertising, endorsing or implying a connection with you (or any third party) and Singapore Accreditation Council, its agents or employees.
