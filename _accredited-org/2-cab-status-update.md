@@ -6,7 +6,8 @@ collection_name: accredited-org
 
 ---
 
-{:#top}Click on the quick links below to jump to the CAB Status:
+{:#top}
+Click on the quick links below to jump to the CAB Status:
 
 **[1. Newly Accredited](#newly-accredited)**\\
 **[2. Suspended](#suspended)**\\
