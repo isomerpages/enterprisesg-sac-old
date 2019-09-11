@@ -388,7 +388,7 @@ hr {
 			&.has-dropdown {
 				a.navbar-link{
 					@include desktop(){
-						pointer-events: none !important;
+						cursor: default;
 					}
 				}
 			}
@@ -618,10 +618,13 @@ img + em {
 }
 
 a[href="#top"] {
-    font-size: 1rem;
-    display: block;
-    margin-bottom: 0;
-    text-align: right;
+    	font-size: 1rem;
+    	display: block;
+    	margin-bottom: 0;
+    	text-align: right;
+	@include touch() {
+		display:none;
+	}
 }
 
 #back-to-top-mobile {
