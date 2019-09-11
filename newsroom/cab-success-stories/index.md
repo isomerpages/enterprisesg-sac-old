@@ -44,7 +44,7 @@ SGS Testing & Control Services Singapore Pte Ltd
 
 "TÜV SÜD PSB was honoured to be the first certification body in Singapore to be accredited by the SAC in 1997. As a globally recognised testing and certification body, we needed accreditations that could enhance our international stature so as to ensure our test reports and certificates are recognised and accepted by local and overseas markets.
 
-In this context, SAC accreditation has served TÜV SÜD PSB well.  SAC has always participated and played an influential role in the regional and international accreditation arena and TÜV SÜD PSB has benefited from the formulation of international, strategic partnerships. Our certificates carrying the SAC Mark are well accepted.
+In this context, SAC accreditation has served TÜV SÜD PSB well. SAC has always participated and played an influential role in the regional and international accreditation arena and TÜV SÜD PSB has benefited from the formulation of international, strategic partnerships. Our certificates carrying the SAC Mark are well accepted.
 
 Furthermore, SAC facilitates cross frontier accreditation through its mutual recognition arrangements (MRA) with accreditation bodies in IAF. With this arrangement, it reduces cost through mutual acceptance of each other's accreditation audits. I am sure the SAC will continue to provide more value-added services to all its clients."
 
