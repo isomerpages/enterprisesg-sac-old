@@ -45,4 +45,3 @@ Please click the links below for the fee schedule for different schemes:
 * [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf){:target="&#95;blank"}
 * [Auditing Organisations](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [Validation and Verification Bodies](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="&#95;blank"}
-* [Auditing Organisations](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="&#95;blank"}
