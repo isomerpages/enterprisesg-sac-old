@@ -28,20 +28,6 @@ Because government bodies and regulations constantly have to make informed decis
 
 An accreditation body conducts a thorough evaluation of a CAB in its practises, staff and management. CABs are evaluated against international standards such as the ISO/IEC 17020, 17021, 17025, Guide 65. Accredited CABs are regularly re-examined to ensure continual compliance with the accreditation requirements, so that they maintain a high quality standard of technical expertise and competency.
 
-Some benefits of accreditation include:
-
-* **Allowing flexibility**:  
-Regulators are able to set the overall policy and regulation, while relying on the accredited conformity assessment bodies to evaluate compliance.
- 
-* **Reducing overheads**:  
-Costs are lowered due to the elimination of re-testing, re-sampling and lost time (both locally and globally), improved efficiency of the assessment process, as well as removing the need for regulators to employ and manage its own audit personnel, thus avoiding duplicate audits.
-
-* **Increasing confidence**:  
-As a demonstration of competency, accreditation increases confidence in data that is crucial in decision-making, thus increasing public confidence and reinforcing its commitment to ensuring public safety, health and environment protection.
- 
-* **Procurement decision**:  
-As the major procurers of goods and services, the government may rely on accredited services to inform their buying decisions, as it provides confidence that suppliers have the appropriate systems in place to deliver the requirements.
-
 ## Search for CABs
 
 The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification & Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
