@@ -35,7 +35,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-18-(29-March-2019).pdf){:target="&#95;blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-21-(29-March-2019).pdf){:target="&#95;blank"}
-
 <!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Management Systems Fees Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="&#95;blank"}
