@@ -11,11 +11,19 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Publications for All Certification Programmes
 
+<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"}
+
+<!-- NOTE: changes to SAC 02 must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
+
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"}
+
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="&#95;blank"}
+
 * [CT 01, 14 June 2019: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01,14-June-2019.pdf){:target="&#95;blank"}
+
+<!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="&#95;blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
@@ -103,6 +111,7 @@ A certification body must be fully conversant and comply with the relevant stand
 <!-- NOTE: changes to CT 17 document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
 * [CT 17 - SAC Criteria for Auditing Organisations - Oct 2018](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="&#95;blank"} 
 
+<!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="&#95;blank"}
 
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="&#95;blank"}
