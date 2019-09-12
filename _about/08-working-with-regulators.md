@@ -28,6 +28,9 @@ Because government bodies and regulations constantly have to make informed decis
 
 An accreditation body conducts a thorough evaluation of a CAB in its practises, staff and management. CABs are evaluated against international standards such as the ISO/IEC 17020, 17021, 17025, Guide 65. Accredited CABs are regularly re-examined to ensure continual compliance with the accreditation requirements, so that they maintain a high quality standard of technical expertise and competency.
 
+Additionally, accreditation helps to improve efficiency by eliminating the need for re-testing and re-sampling of goods and services. This is done through SAC's independent assessment of CABs, which provides objective assurance that that they have met applicable standards.
+
+
 ## Search for CABs
 
 The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification & Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
