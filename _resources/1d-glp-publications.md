@@ -13,6 +13,5 @@ The facility applying for registration under the Singapore GLP Compliance progra
 
 <!-- NOTE: changes to GLP 01 must also be updated in 'Services -> Apply for Accreditation' -->
 * [GLP 01 Procedures and Conditions for GLP Registration - 18 April 2018](/files/documents/glp/GLP01-Procedures-and-Conditions-for-GLP-Registration-18-April-2018.pdf){:target="&#95;blank"}
-
 <!-- NOTE: changes to GLP02 Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [GLP 02 Fee Schedule for Registration of GLP Facilities - 18 April 2018](/files/documents/glp/GLP02-GLP-Fee-structure-18-April-2018.pdf){:target="&#95;blank"}
