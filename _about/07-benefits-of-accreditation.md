@@ -30,7 +30,7 @@ As SAC is a signatory to many regional and international arrangements, this mean
 As a demonstration of competency, accreditation increases confidence in data that is crucial in decision-making, thus increasing public confidence and reinforcing its commitment to ensuring public safety, health and environment protection.
 
 * **Reducing overheads**:  
-Costs are lowered due to the elimination of re-testing, re-sampling and lost time (both locally and globally), improved efficiency of the assessment process, as well as removing the need for regulators to employ and manage its own audit personnel, thus avoiding duplicate audits. This is done through SAC's independent assessment of CABs, which provides objective assurance that that they have met applicable standards.
+Costs are lowered due to the elimination of re-testing, re-sampling and lost time (both locally and globally), improved efficiency of the assessment process, as well as removing the need for regulators to employ and manage its own audit personnel, thus avoiding duplicate audits.
 
 * **Allowing flexibility**:  
 Regulators are able to set the overall policy and regulation, while relying on the accredited conformity assessment bodies to evaluate compliance.
