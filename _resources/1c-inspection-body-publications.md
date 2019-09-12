@@ -13,13 +13,22 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 * [ILAC P15:07/2016 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies](/files/documents/inspection-body-accreditation/ILAC-P15-07-2016.pdf){:target="&#95;blank"}
+
 * [Rules for the Use of ILAC MRA Mark](/files/documents/inspection-body-accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="&#95;blank"}
+
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"}
+
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
+
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"}
+
 * [IB 01: 28 March 2019 - Accreditation Process](/files/documents/inspection-body-accreditation/IB-01-(28-March-2019).pdf){:target="&#95;blank"}
+
+<!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [IB 02: 09 Jul 2018 - Fee Schedule](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="&#95;blank"}
+
 * [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/documents/inspection-body-accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="&#95;blank"}
+
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="_blank"}
  
 **Cargo Inspection Field**
