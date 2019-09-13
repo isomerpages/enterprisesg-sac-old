@@ -11,11 +11,14 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Publications for All Certification Programmes
 
+<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC 01 - 02 April 2018: Terms and Conditions for Accreditation](/files/documents/SAC-01-(02-April-2018).pdf){:target="&#95;blank"}
+<!-- NOTE: changes to SAC 02 must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="&#95;blank"}
 * [CT 01, 14 June 2019: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01,14-June-2019.pdf){:target="&#95;blank"}
+<!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="&#95;blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
@@ -32,6 +35,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-18-(29-March-2019).pdf){:target="&#95;blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-21-(29-March-2019).pdf){:target="&#95;blank"}
+<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Management Systems Fees Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="&#95;blank"}
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/management-system-and-products-certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="&#95;blank"}
@@ -72,17 +76,24 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-19-(29-March-2019).pdf){:target="&#95;blank"}
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="&#95;blank"}
 * [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 04 May 2018](/files/documents/management-system-and-products-certification/WELS-Guidebook-(4-May-18).pdf){:target="&#95;blank"}
+<!-- NOTE: changes to Product Certification Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Product Certification Fees Schedule - 5 Jul 2018](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [Assessment Checklist (ISO/IEC 17065) - Sept 2013](/files/documents/management-system-and-products-certification/17065-checklist-Sep-13.docx){:target="&#95;blank"}
 
 ### Standards and Criteria Document for Personnel Certification
 **ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons**
+
+<!-- NOTE: changes to Personnel Certification Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Personnel Certification Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/documents/management-system-and-products-certification/17024-checklist-Sep-13.docx){:target="&#95;blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
 **Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
+
+<!-- NOTE: changes to CT 01A document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
 * [CT 01A, 14 June 2019 - Accreditation Process for Auditing Organisations](/files/documents/management-system-and-products-certification/CT-01A-14-June-2019.pdf){:target="&#95;blank"}
-* [CT 17 - SAC Criteria for Auditing Organisations - Oct 2018](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="&#95;blank"}
+<!-- NOTE: changes to CT 17 document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
+* [CT 17 - SAC Criteria for Auditing Organisations - Oct 2018](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="&#95;blank"} 
+<!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="&#95;blank"}

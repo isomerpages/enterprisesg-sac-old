@@ -18,6 +18,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="&#95;blank"}
 * [IB 01: 28 March 2019 - Accreditation Process](/files/documents/inspection-body-accreditation/IB-01-(28-March-2019).pdf){:target="&#95;blank"}
+<!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [IB 02: 09 Jul 2018 - Fee Schedule](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="&#95;blank"}
 * [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/documents/inspection-body-accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="&#95;blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="_blank"}

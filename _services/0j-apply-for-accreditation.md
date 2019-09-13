@@ -43,3 +43,5 @@ Please click the links below for the fee schedule for different schemes:
 * [Product Certification Accreditation](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-5-July-2018.pdf){:target="&#95;blank"}
 * [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf){:target="&#95;blank"}
+* [Auditing Organisations](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="&#95;blank"}
+* [Validation and Verification Bodies](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="&#95;blank"}
