@@ -2,7 +2,7 @@
 layout: post
 title:  "Six new accreditation programmes to ensure businesses meet standards"
 date:  2019-08-30
-permalink: /newsroom/events/Six-new-accreditation-programmes-to-ensure-businesses-meet-standards
+permalink: /newsroom/news-releases/Six-new-accreditation-programmes-to-ensure-businesses-meet-standards
 ---
 
 Six new accreditation programmes have been developed in the past year to ensure businesses in growth sectors meet quality standards.
