@@ -69,9 +69,7 @@ Click on the quick links below to jump to the CAB Status:
 * Site Inspection
   * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
   
-#### Certification Body    
-* Auditing Organisation 
-  * A Star Safety Consultants Pte Ltd (Suspended 14 June 2019 - 13 September 2019)
+
 
 [Back to top ↑](#top)
 
