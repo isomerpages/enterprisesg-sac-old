@@ -1,0 +1,81 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+# <b>BOLD ME</b> is the syntax to bold things
+# <i>ITALICIZE ME</i> is the syntax to italicize things
+
+- title: 1986-1996
+  years:
+    - subtitle: 1986
+      description:
+      - line: "<b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR)."
+    - subtitle: 1996
+      description:
+      - line: "<b>29 January:</b> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) & Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation."
+      - line: "<b>2 February:</b> Singlas hosted APLAC 1st General Assembly."
+      - line: "<b>11 October:</b> 1st SAC Council was appointed."
+      - line: "<b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI)."
+      - line: "Launch of Accreditation Programme for Quality Management System (QMS) Certification."
+    - subtitle: 1997
+      description:
+      - line: "<b>19 November:</b> SINGLAS becomes one of the inaugural signatories of the APLAC MRA."  
+- title: 1997-2007
+  years:
+    - subtitle: 1995
+      description:
+        - line: "<b>One-Stop Change of Address Reporting Service (OSCARS):</b> Only one step required to update participating government agencies and statutory boards of your change of address."
+- title: 2008-2017
+  years:
+    - subtitle: 2001
+      description:
+        - line: "<b>GeBIZ:</b> A one-stop e-procurement portal for suppliers to access government procurement opportunities, anytime, anywhere, via the Internet."
+        - line: "<b>Government Data Centre:</b> A secure and resilient data centre facility and network for government ICT systems."
+    - subtitle: 2003
+      description:
+        - line: "<b>BizFile:</b> A single system offering more than 300 digital services for all your business requirements."
+    - subtitle: 2004
+      description:
+        - line: "<b>myCPF:</b> Get instant access to your own Central Provident Fund information."
+- title: 2005-2009
+  years:
+    - subtitle: 2006
+      description:
+        - line: "<b>Enhanced Immigration Automated Clearance System (eIACS):</b> Breeze through immigration checkpoints in 8 seconds with just your passport and thumbprint."
+    - subtitle: 2007
+      description:
+        - line: "<b>No-Filing Service/IRAS e-Filing:</b> File your income tax returns at your own convenience, 24x7, from the comfort of your home."
+        - line: "<b>PublicTransport@SG:</b> Real-time public transport information, at your fingertips."
+    - subtitle: 2008
+      description:
+        - line: "<b>Standard Operating Environment (SOE):</b> A platform for public officers to access government resources and work-related data securely from any location."
+    - subtitle: 2009
+      description:
+        - line: "<b>Unique Entity Number (UEN):</b> A single identification number for corporate entities operating in Singapore."
+- title: 2010-Present
+  years:
+    - subtitle: 2010
+      description:
+        - line: "<b>Onemap:</b> An integrated online platform for government agencies to publish geospatial information and deliver map-based services."
+    - subtitle: 2011
+      description:
+        - line: "Launch of <b>eGov2015 Masterplan</b> with “Government with you” vision to bring service delivery beyond Government (2011 - 2015)."
+        - line: "Under the Masterplan, the mGov programme had some 300 feature-reach mobile services capable of sending timely information to citizens."
+    - subtitle: 2012
+      description:
+        - line: "The tender award was announced for G-Cloud, which will provide Government agencies with efficient, scalable and resilient cloud computing resources that meet different levels of security and governance requirements."
+    - subtitle: 2013
+      img: /images/our-journey/govtech-logo.png
+      description:
+        - line: "The Government launched a five-year National Cyber Security Masterplan 2018 to further secure Singapore’s cyber environment."
+    - subtitle: 2014
+      img: /images/our-journey/govtech-logo.png
+      description:
+        - line: "Announcement of the Smart Nation Platform, a technical architecture built by GovTech. This will bring together a nationwide sensor network and data analytics capabilities for better situational awareness."
+    - subtitle: 2015
+      img: /images/our-journey/govtech-logo.png
+      description:
+        - line: "GovTech worked with the Municipal Services Office to develop the OneService app, which automatically sends feedback on various issues to the relevant agency, bringing about more timely response."
+        
