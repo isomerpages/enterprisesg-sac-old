@@ -14,6 +14,7 @@ if (content != null) {
     href = links[i].getAttribute("href");
     console.log(href);
     if (href.indexOf("/") != 0 && href.indexOf(location.origin) < 0) {
+      console.log("open in new window");
       if (links[i].getAttribute("target") != "_blank") {
         links[i].addEventListener('click', function (event) {
           event.preventDefault();
