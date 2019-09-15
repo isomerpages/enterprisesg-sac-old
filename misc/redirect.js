@@ -17,7 +17,7 @@ if (content != null) {
       if (links[i].getAttribute("target") != "_blank") {
         links[i].addEventListener('click', function (event) {
           event.preventDefault();
-          links[i].open(href,"_blank");
+          window[i].open(href,"_blank");
         });
       }
     }
