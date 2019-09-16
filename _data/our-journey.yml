@@ -7,7 +7,7 @@
 # <b>BOLD ME</b> is the syntax to bold things
 # <i>ITALICIZE ME</i> is the syntax to italicize things
 
-- title: 1986-1996
+- title: 1986-1990
   years:
     - subtitle: 1986
       description:
@@ -19,7 +19,7 @@
       - line: "<b>11 October:</b> 1st SAC Council was appointed."
       - line: "<b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI)."
       - line: "Launch of Accreditation Programme for Quality Management System (QMS) Certification."
-- title: 1997-2001
+- title: 1991-2000
   years:
     - subtitle: 1997
       description:
@@ -38,15 +38,15 @@
         - line: "<b>27 March:</b> SAC signed the Bilateral MRA with the European Co-operation for Accreditation (EA) for laboratory accreditation."  
         - line: "<b>27-28 March:</b> SAC hosted the ILAC Accreditation Policy Committee Meeting."  
         - line: "<b>2 October:</b> Launch of Registration Scheme for QMS Internal Auditor." 
-        - line: "<b>2 November:</b> SAC signed the inaugural ILAC MRA for laboratory accreditation." 
+        - line: "<b>2 November:</b> SAC signed the inaugural ILAC MRA for laboratory accreditation."  
+- title: 2001-2009
+  years:
     - subtitle: 2001
       description:
         - line: "<b>9 April:</b> Launch of Accreditation Scheme for Inspection Bodies."  
         - line: "SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Ministry of Development, Brunei Darussalam."  
         - line: "<b>6 September:</b> SAC served as a member of the PAC Executive Committee."  
-        - line: "<b>15 November:</b> Launch of Accreditation Scheme for Product Certification Bodies."     
-- title: 2002-2005
-  years:
+        - line: "<b>15 November:</b> Launch of Accreditation Scheme for Product Certification Bodies."    
     - subtitle: 2002
       description:
         - line: "<b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration."  
@@ -54,47 +54,93 @@
         - line: "<b>29 August:</b> SAC signed the Agreement for Joint Accreditation of Medical Laboratories with the College of American Pathologists." 
     - subtitle: 2003
       description:
-        - line: "<b>BizFile:</b> A single system offering more than 300 digital services for all your business requirements."
+        - line: "<b>13 October:</b> Launch of Accreditation Programme for Certification of Bunker Supply."
+        - line: "<b>13 November:</b> SAC became one of the inaugural members of the APLAC MRA for Inspection."
     - subtitle: 2004
       description:
-        - line: "<b>myCPF:</b> Get instant access to your own Central Provident Fund information."
-- title: 2006-2009
-  years:
-    - subtitle: 2006
+        - line: "<b>6 - 10 September:</b> SAC hosted the 10th IATCA Plenary Meeting."
+    - subtitle: 2005
       description:
-        - line: "<b>Enhanced Immigration Automated Clearance System (eIACS):</b> Breeze through immigration checkpoints in 8 seconds with just your passport and thumbprint."
-    - subtitle: 2007
+        - line: "<b>1 January:</b> SAC served as a member of the APLAC Board of Management."    
+        - line: "<b>8 March:</b> Launch of Accreditation Programme for Structural Steelwork Inspection."   
+        - line: "<b>1 July:</b> Launch of Occupational Safety and Health Management System (OSHMS) Accreditation Programme." 
+        - line: "<b>31 August:</b> Launch of SAC-CAP Joint Accreditation Programme for Medical Testing."    
+        - line: "<b>9 September:</b> Launch of HAACP-based Food Management System Accreditation Programme."    
+     - subtitle: 2006
       description:
-        - line: "<b>No-Filing Service/IRAS e-Filing:</b> File your income tax returns at your own convenience, 24x7, from the comfort of your home."
-        - line: "<b>PublicTransport@SG:</b> Real-time public transport information, at your fingertips."
-    - subtitle: 2008
+        - line: "<b>22 - 26 May:</b> SAC hosted the 17th APLAC MRA Council Meeting and Board of Management Meeting."
+        - line: "<b>19 October:</b> SAC celebrated its 10th anniversary and 20 years of laboratory accreditation."   
+        - line: "Launch of Accreditation Programme for ISO 22000 Food Safety Management System (FSMS) Certification."   
+        - line: "<b>19 December:</b> SAC signed the PAC MLA for Product Certifcation."   
+     - subtitle: 2007
       description:
-        - line: "<b>Standard Operating Environment (SOE):</b> A platform for public officers to access government resources and work-related data securely from any location."
-    - subtitle: 2009
+        - line: "<b>23 January:</b> SAC signed the IAF MLA for Product Certifcation."
+        - line: "<b>7 - 13 July:</b> SAC hosted the 14th PAC Plenary Meeting."   
+        - line: "<b>5 November:</b> Launch of Accreditation Programme for Cargo Inspection and Medical Imaging."  
+     - subtitle: 2008
       description:
-        - line: "<b>Unique Entity Number (UEN):</b> A single identification number for corporate entities operating in Singapore."
+        - line: "<b>28 April:</b> Launch of Accreditation Programme for Certification of Ready-Mixed Concrete."
+        - line: "<b>1 October:</b> SAC hosted the 14th APLAC General Assembly and Technical Meetings."   
+     - subtitle: 2009
+      description:
+        - line: "<b>6 April:</b> Launch of Accreditation Programme for Certification of Good Distribution Practice for Medical Devices (GDPMDS)."
+        - line: "<b>1 October:</b> Launch of Gaming Testing Accreditation Programme."      
 - title: 2010-Present
   years:
     - subtitle: 2010
       description:
-        - line: "<b>Onemap:</b> An integrated online platform for government agencies to publish geospatial information and deliver map-based services."
+        - line: "<b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data."
+        - line: "<b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification."
+        - line: "<b>25 May:</b> Launch of Functional Food Testing Accreditation Programme."
     - subtitle: 2011
       description:
-        - line: "Launch of <b>eGov2015 Masterplan</b> with “Government with you” vision to bring service delivery beyond Government (2011 - 2015)."
-        - line: "Under the Masterplan, the mGov programme had some 300 feature-reach mobile services capable of sending timely information to citizens."
+        - line: "<b>1 January:</b> SAC took on the APLAC Chairmanship."
+        - line: "<b>19 May:</b> Launch of Accreditation Programme for Central Alarm Monitoring Stations (CAMS)."
     - subtitle: 2012
       description:
-        - line: "The tender award was announced for G-Cloud, which will provide Government agencies with efficient, scalable and resilient cloud computing resources that meet different levels of security and governance requirements."
+        - line: "<b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme."
+        - line: "<b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification."
+        - line: "<b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels."
+        - line: "<b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies."
     - subtitle: 2013
       img: /images/homepage/sac-esg-logo.png
       description:
-        - line: "The Government launched a five-year National Cyber Security Masterplan 2018 to further secure Singapore’s cyber environment."
+        - line: "<b>14 - 15 March:</b> SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management."
+        - line: "<b>24 May:</b> SAC elected to the PAC Executive Committee."
+        - line: "<b>27 June:</b> Launch of Accreditation Programme for Water Efficiency Management System (WEMS) Certification."
+        - line: "<b>14 August:</b> Launch of Accreditation Scheme for Proficiency Testing Providers (PTP)."
+        - line: "Launch of Accreditation Scheme for Personnel Certification."
+        - line: "SAC signed a MOU with Temasek Polytechnic to upgrade industry capability."
     - subtitle: 2014
       img: /images/homepage/sac-esg-logo.png
       description:
-        - line: "Announcement of the Smart Nation Platform, a technical architecture built by GovTech. This will bring together a nationwide sensor network and data analytics capabilities for better situational awareness."
+        - line: "<b>7 May:</b> Launch of Accreditation Programme for Hook-Lift and Container (HL) Inspection."
+        - line: "<b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP)."
+        - line: "<b>5 August:</b> SAC signed a MOU with Joint Accreditation System of Australia and New Zealand (JAS-ANZ) for closer collaboration."
+        - line: "SAC signed a MOU with Singapore Polytechnic to upgrade industry capability."
+        - line: "Launch of Accreditation Scheme for Learning Service Providers (LSP) Certification."
+        - line: "<b>9 September:</b> SAC signed a MOU with the GCC Accreditation Centre (GAC) for closer collaboration."
+        - line: "<b>29 October:</b> Launch of Accreditation Programme for Multi-Tiered Cloud Computing Security (MTCS) Certification."
+        - line: "<b>12 November:</b> Launch of Accreditation Programme for End-of-Life ICT Equipment Management (EIMS) Certification."
     - subtitle: 2015
       img: /images/homepage/sac-esg-logo.png
       description:
-        - line: "GovTech worked with the Municipal Services Office to develop the OneService app, which automatically sends feedback on various issues to the relevant agency, bringing about more timely response."
+        - line: "<b>12 August:</b> Launch of Accreditation Programme for Asset Management (AM) Certification."
+        - line: "<b>13 August:</b> SAC signed a MOU with the Chemical Metrology Division (CMD) of Health Sciences Authority for closer collaboration."
+        - line: "<b>5 November:</b> SAC signed the IAF MLA for Food Safety Management System (FSMS)."
+    - subtitle: 2016
+      img: /images/homepage/sac-esg-logo.png
+      description:
+        - line: "<b>9 June:</b> SAC organised its 1st Regulator Workshop to promote accreditation as a tool to support public policy."
+        - line: "<b>16 June:</b> SAC elected to PAC Chairmanship."
+        - line: "<b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme."    
+    - subtitle: 2017
+      img: /images/homepage/sac-esg-logo.png
+      description:
+        - line: "<b>25 March:</b> SAC signed the PAC MLA for Energy Management System (EnMS) and Environmental Management System (EMS)."
+        - line: "<b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body."
+        - line: "<b>27 July:</b> SAC signed the IAF MLA for Environmental Management System (EMS)."
+        - line: "<b>14 August:</b> Launch of Accreditation Programme for Medical Devices Quality Management System (ISO 13485) Certification."
+        - line: "<b>15 September:</b> Launch of Accreditation Programme for Auditing Organisations."
+        - line: "<b>26 December:</b> Launch of Accreditation Programme for Anti-Bribery Management System Certification."
         
