@@ -120,6 +120,12 @@ Click on the quick links below to jump to the CAB Status:
   
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
+  
+#### Certification Body
+
+* Certification
+  * Transpacific Certifications (Singapore) Pte Ltd (13 August 2019)
+
 
 [Back to top ↑](#top)
 
