@@ -257,9 +257,11 @@ $tablet: 768px !default;
 }
 
 .bp-image-milestone {
-    border: 0;
-    border-bottom: 0;
-    padding-top: 50%;
+    	border: 0;
+    	border-bottom: 0;
+	@include desktop(){
+		padding-top: 50%;
+	}
 }
 
 #search-activate
