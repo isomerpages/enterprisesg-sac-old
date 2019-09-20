@@ -65,7 +65,7 @@ company-list:
       - name: "Admaterials Technologies Pte Ltd"
         link: https://www.admaterials.com/certification/
       - name: "CAST Laboratories Pte Ltd"
-        link: http://www.castlab.com.sg/our-services/certification-body-for-ready-mixed-concrete/
+        link: http://castlab.com.sg/our-services/product-certification-body-for-ready-mixed-concrete/
       - name: "Centre Testing International Pte Ltd"
         link: http://www.cti-cert.com/en/resourceInit.do?id=116
       - name: "Guardian Independent Certification Pte Ltd"
