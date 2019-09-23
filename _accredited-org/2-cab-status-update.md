@@ -22,6 +22,9 @@ Click on the quick links below to jump to the CAB Status:
 * Chemical & Biological Testing
   * Myanmar Department of Food and Drug Administration (14 June 2019)
 
+* Non-Destructive Testing
+  * Team Industrial Services Asia Private Limited (16 September 2019)
+
 #### Inspection Body
 
 * Site Investigation
