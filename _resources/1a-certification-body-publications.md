@@ -19,7 +19,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="&#95;blank"}
 * [CT 01, 14 June 2019: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01,14-June-2019.pdf){:target="&#95;blank"}
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
-* [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf)
+* [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="&#95;blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
 **ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
