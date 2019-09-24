@@ -11,4 +11,4 @@ These programmes cover areas such as infrastructure, food, infocomm technology a
 
 They were announced at a media briefing on Thursday (Aug 29) by Enterprise Singapore and the Singapore Accreditation Council, which the agency oversees.
 
-[Click here to view the full article](https://www.enterprisesg.gov.sg/media-centre/news/2019/august/six-new-accreditation-programmes-to-ensure-businesses-meet-standards)
+[Click here to view the full article](https://www.enterprisesg.gov.sg/media-centre/news/2019/august/six-new-accreditation-programmes-to-ensure-businesses-meet-standards){:target="_blank"}
