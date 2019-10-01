@@ -19,7 +19,6 @@ Training Room: Concorde 3, Level 3\\
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
  
 **Objective:**\\
-This 2-day course is to help the participants:
 
 This 2-day course is to help the participants:  
 * Learn the essentials of auditing, which include the techniques in assessing the effectiveness of quality systems and indentifying areas for improvement.\\
