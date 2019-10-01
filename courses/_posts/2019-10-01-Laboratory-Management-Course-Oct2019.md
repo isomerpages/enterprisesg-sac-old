@@ -44,24 +44,4 @@ Singapore 138634
 <!-- COMMENT: The double backslashes are used to denote a new line break without the paragraph spacing -->
 
 All cheques should be crossed and made payable to "Enterprise Singapore." An email confirmation will be sent before the course date. 
- 
- 
- 
-**Objective:**\\
-This 3-day course is to provide the participants:
-
-* An overview of the assessment requirements established in SAC CT17 for auditing organisations through lectures, discussions and work exercises.
-
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d3036df5f62720018314389){:target="&#95;blank"}.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
-
-Please complete the online forms and mail cheques to:
-
-Accreditation Division\\
-Enterprise Singapore\\
-2 Fusionopolis Way,\\
-#15-01 Innovis\\
-Singapore 138634
-<!-- COMMENT: The double backslashes are used to denote a new line break without the paragraph spacing -->
-
-All cheques should be crossed and made payable to "Enterprise Singapore." An email confirmation will be sent before the course date. 
+  
