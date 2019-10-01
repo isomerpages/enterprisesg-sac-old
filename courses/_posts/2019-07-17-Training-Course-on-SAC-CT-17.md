@@ -17,24 +17,17 @@ Meeting Room 1, Level 2,\\
 Village Hotel Albert Court\\
 180 Albert Street, Singapore 189971
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
- 
+
 **Objective:**\\
-This 3-day course is to help the participants:
-* Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and
 
-* Develop a quality system which can improve the laboratory operations to meet the needs of their clients understand the SAC requirements for accreditation
+This 1-day course is to provide the participants:
 
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92c4a2ce0ed40012a9ced9){:target="&#95;blank"}.
+* An overview of the assessment requirements established in SAC CT17 for auditing organisations through lectures, discussions and work exercises.
+
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d3036df5f62720018314389){:target="&#95;blank"}.
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
-For payment by GIRO or interbank transfer, please see details to send payment to:-
-
-Agency:  Enterprise Singapore\\
-Account No:  032-001110-1\\
-Bank Code:  7171\\
-Branch No:  032\\
-
-For payment by cheques, please complete the online forms and mail cheques to:
+Please complete the online forms and mail cheques to:
 
 Accreditation Division\\
 Enterprise Singapore\\
