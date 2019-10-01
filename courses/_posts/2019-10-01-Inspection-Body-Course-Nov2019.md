@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: "Training Course on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations"
-permalink: /services/training/courses-2019/Training-Course-on-SAC-CT-17
-course_date: 27 Sept 2019
+title: "Inspection Body Course-Nov2019"
+permalink: /services/training/courses-2019/Inspection-Body-Course-Nov2019
+course_date: 6 to 7 Nov 2019
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
 ---
 
@@ -10,24 +10,32 @@ course_date: 27 Sept 2019
 **{{page.course_date}}**
 <!-- comment: {{page.course_date}} will display the same data as the 'course_date' in the top header code snippet -->
 
-**Course Fee:** SGD $171.20 (inclusive of GST)
+**Course Fee:** SGD $1059.30 (inclusive of GST)
 
 **Course Venue:**\\
-Meeting Room 1, Level 2,\\
-Village Hotel Albert Court\\
-180 Albert Street, Singapore 189971
+Concorde Hotel Singapore\\
+100 Orchard Road, Singapore 238840\\
+Training Room: Studio 3, Level 3\\
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
-
+ 
 **Objective:**\\
 
-This 1-day course is to provide the participants:
+This 2-day course is to help the participants to:
+* Understand the ISO/IEC 17020:2012 requirements as applied to inspection bodies; and
 
-* An overview of the assessment requirements established in SAC CT17 for auditing organisations through lectures, discussions and work exercises.
+* Provide guidance on the implementation of these requirements
 
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d3036df5f62720018314389){:target="&#95;blank"}.
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92f10c7ed5070012452fa5){:target="&#95;blank"}.
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
-Please complete the online forms and mail cheques to:
+For payment by GIRO or interbank transfer, please see details to send payment to:-
+
+Agency:  Enterprise Singapore\\
+Account No:  032-001110-1\\
+Bank Code:  7171\\
+Branch No:  032\\
+
+For payment by cheques, please complete the online forms and mail cheques to:
 
 Accreditation Division\\
 Enterprise Singapore\\
