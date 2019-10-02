@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: "Inspection Body Course-Nov2019"
+title: "Inspection Body Course"
 permalink: /services/training/courses-2019/Inspection-Body-Course-Nov2019
 course_date: 6 to 7 Nov 2019
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
@@ -15,12 +15,13 @@ course_date: 6 to 7 Nov 2019
 **Course Venue:**\\
 Concorde Hotel Singapore\\
 100 Orchard Road, Singapore 238840\\
-Training Room: Studio 3, Level 3\\
+Training Room: Studio 3, Level 3
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
  
-**Objective:**\\
+**Objective:**
 
 This 2-day course is to help the participants to:
+
 * Understand the ISO/IEC 17020:2012 requirements as applied to inspection bodies; and
 
 * Provide guidance on the implementation of these requirements
@@ -33,9 +34,9 @@ For payment by GIRO or interbank transfer, please see details to send payment to
 Agency:  Enterprise Singapore\\
 Account No:  032-001110-1\\
 Bank Code:  7171\\
-Branch No:  032\\
+Branch No:  032
 
-For payment by cheques, please complete the online forms and mail cheques to:
+For payment by cheques, please mail cheques to:
 
 Accreditation Division\\
 Enterprise Singapore\\
