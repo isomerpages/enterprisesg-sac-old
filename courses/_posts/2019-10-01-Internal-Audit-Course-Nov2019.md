@@ -34,7 +34,7 @@ For payment by GIRO or interbank transfer, please see details to send payment to
 Agency:  Enterprise Singapore\\
 Account No:  032-001110-1\\
 Bank Code:  7171\\
-Branch No:  032\\
+Branch No:  032
 
 For payment by cheques, please mail cheques to:
 
