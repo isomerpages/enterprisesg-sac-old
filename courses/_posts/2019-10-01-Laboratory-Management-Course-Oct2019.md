@@ -15,10 +15,11 @@ course_date: 30 Oct to 1 Nov 2019
 **Course Venue:**\\
 Concorde Hotel Singapore\\
 100 Orchard Road, Singapore 238840\\
-Training Room: Concorde 3, Level 3\\
+Training Room: Concorde 3, Level 3
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
  
-**Objective:**\\
+**Objective:**
+
 This 3-day course is to help the participants:
 * Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and
 
@@ -34,7 +35,7 @@ Account No:  032-001110-1\\
 Bank Code:  7171\\
 Branch No:  032\\
 
-For payment by cheques, please complete the online forms and mail cheques to:
+For payment by cheques, please mail cheques to:
 
 Accreditation Division\\
 Enterprise Singapore\\
