@@ -27,11 +27,7 @@ layout: leftnav-page-content
 								<p class="margin--top--none">{{- information.line -}}</p>
 							{%- endfor -%}						
 						</div>
-						{%- if year.description.size > 1 -%}
-						<div class="col is-4" style="margin-top:{{- year.description.size | times: 1.5 | plus: 2 -}}rem;">
-						{%- else -%}
 						<div class="col is-4">
-						{%- endif -%}
 							<img class="bp-image-milestone" src="{{site.baseurl}}{{year.img}}">
 						</div>
 					</div>
