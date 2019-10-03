@@ -5,7 +5,7 @@
 <script src="{{- "/misc/mobile-view.js" | relative_url -}}" crossorigin="anonymous"></script>   
 
 {%- comment -%} add Isomer accordion template javascript to FAQ and Certified Companies pages {%- endcomment -%}
-{%- if page.layout == 'faq' or page.layout == 'certified-companies' or page.layout == 'committee' -%}
+{%- if page.layout == 'faq' or page.layout == 'certified-companies' or page.layout == 'committee' or page.layout == 'history-milestone'-%}
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
 
