@@ -28,7 +28,11 @@ layout: leftnav-page-content
 							{%- endfor -%}						
 						</div>
 						<div class="col is-4">
-							<img class="bp-image-milestone{%- if year.description.size > 1 -%} vertical-middle{%- endif -%}" src="{{site.baseurl}}{{year.img}}">
+							{%- if year.description.size > 1 -%}
+								<img class="bp-image-milestone vertical-center" src="{{site.baseurl}}{{year.img}}">
+							{%- else -%}
+								<img class="bp-image-milestone" src="{{site.baseurl}}{{year.img}}">
+							{%- endif -%}
 						</div>
 					</div>
 				</div>
