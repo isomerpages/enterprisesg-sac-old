@@ -259,6 +259,9 @@ $tablet: 768px !default;
 .bp-image-milestone {
     	border: 0;
     	border-bottom: 0;
+	@include desktop(){
+		margin-top:3rem;
+	}
 }
 
 .milestone-arrow {
