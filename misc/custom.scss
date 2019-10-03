@@ -268,10 +268,10 @@ $tablet: 768px !default;
 
 .milestone-arrow::after {
 	@include touch(){
-		content: "▾";
+		content: "⮟";
 	}
 	@include desktop(){
-		content: "▸";
+		content: "⮞";
 	}
 }
 
