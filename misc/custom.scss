@@ -256,12 +256,6 @@ $tablet: 768px !default;
 	white-space:normal;
 }
 
-.col.milestone-vertical-center {
-	@include desktop(){
-		margin-top: 40%;
-	}
-}
-
 .bp-image-milestone {
     	border: 0;
     	border-bottom: 0;
