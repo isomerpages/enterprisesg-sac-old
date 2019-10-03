@@ -266,6 +266,15 @@ $tablet: 768px !default;
 	*/
 }
 
+.milestone-arrow::after {
+	@include touch(){
+		content: "▾";
+	}
+	@include desktop(){
+		content: "▸";
+	}
+}
+
 #search-activate
 {
 	padding-left:0;
