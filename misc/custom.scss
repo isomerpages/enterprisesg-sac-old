@@ -259,9 +259,11 @@ $tablet: 768px !default;
 .bp-image-milestone {
     	border: 0;
     	border-bottom: 0;
-	@include desktop(){
-		position: absolute !important;
-		top: 40%;
+	&.vertical-center {
+		@include desktop(){
+			position: absolute !important;
+			top: 35%;
+		}
 	}
 }
 
