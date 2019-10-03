@@ -260,7 +260,7 @@ $tablet: 768px !default;
     	border: 0;
     	border-bottom: 0;
 	@include desktop(){
-		margin-top:3rem;
+		padding-top:3rem;
 	}
 }
 
