@@ -4,6 +4,11 @@ title: Our History
 permalink: /about/our-history
 breadcrumb: Our History
 collection_name: about
+
+######################################################################################
+# COMMENT: Edit the data below to edit the list of milestones for this page #
+######################################################################################
+
 milestone:
   - title: 1986-1990
     years:
@@ -172,9 +177,13 @@ milestone:
       - line: "<b>14 - 22 June:</b> SAC hosted the inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting. <span class='milestone-arrow'></span>"
       - line: "<b>17 June:</b> Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification."
       - line: "<b>26 June:</b> SAC was admitted to APAC MRA for Medical Device - Quality Management System, Occupational Health & Safety Management System and Information Security Management System."
-        
+
+###############
+# End of Data #
+###############
 ---
 
+<!-- COMMENT: content of page starts here -->
 Formed in 1996, the Singapore Accreditation Council (SAC) is the national authority for the independent accreditation of conformity assessment bodies in Singapore. Operating under Enterprise Singapore, a statutory board of the Ministry of Trade and Industry, SAC also builds trust in Singapore products and services by strengthening Singapore's technical infrastructure for conformity assessments and forging mutual recognition agreements (MRAs) with our economic partners. SAC's primary function is to accredit conformity assessment services, such as testing, calibration, inspection and certification.
 
 ## **<center>Our Journey & Milestones</center>**
