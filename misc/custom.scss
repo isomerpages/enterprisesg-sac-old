@@ -259,8 +259,23 @@ $tablet: 768px !default;
 .bp-image-milestone {
     	border: 0;
     	border-bottom: 0;
-	@include desktop(){
-		padding-top: 50%;
+	&.vertical-center {
+		@include desktop(){
+			position: absolute !important;
+			top: 35%;
+		}
+	}
+}
+
+.milestone-arrow {
+	font-family: sgds-icons !important;	
+	&::after {
+		@include touch(){
+			content: "";
+		}
+		@include desktop(){
+			content: "";
+		}
 	}
 }
 
