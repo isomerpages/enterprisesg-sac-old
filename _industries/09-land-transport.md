@@ -14,7 +14,7 @@ The need to ensure the safety and reliability of transport underpins almost all 
 
 For vehicle manufacturers, functional testing and certification (e.g. ISO 26262) is particularly important. They can also benefit from accreditation via non-destructive testing of equipment and infrastructure components, as well as civil engineering-related testing. 
 
-Precision calibration and measurement may also be necessities; these are essential to businesses involved in constructing or operating transport hardware. In addition, electrical testing may be needed to assess compliance to safety requirements (this is common practice to validate the safety of vehicles and their individual parts). 
+Precision calibration and measurement may also be useful; these are essential to businesses involved in constructing or operating transport hardware. In addition, electrical testing may be needed to assess compliance to safety requirements (this is common practice to validate the safety of vehicles and their individual parts). 
 
 Special utility vehicles, such as waste collection vehicles, may require tests for devices such as hook lifts, to ascertain functionality and safety. 
 
