@@ -6,6 +6,7 @@ if (mainContent != null) {
     var links = content.getElementsByTagName('a');
     var href = "";
     for (var i=0; i<links.length; i++) {
+      console.log(links[i].getAttribute("href"));
       if (!links[i].hasAttribute("target")) {
         href = links[i].getAttribute("href");
         if (href != null) {
