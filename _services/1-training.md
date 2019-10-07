@@ -9,7 +9,7 @@ collection_name: services
 <!-- COMMENT: The HTML code in between the '{::nomarkdown}{:/}' tags is used to display the table of training courses in different quarters of the different years -->
 {::nomarkdown}
 
-{% assign posts = site.categories['courses'] %}
+{%- assign posts = site.categories['courses'] -%}
 {%- assign latestCourse = posts | first -%}
 {%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
 {%- assign currYear = site.time | date: '%Y' | plus:0 -%}
