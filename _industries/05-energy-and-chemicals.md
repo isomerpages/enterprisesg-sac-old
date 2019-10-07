@@ -8,7 +8,7 @@ collection_name: industries
 
 ![Energy & Chemicals](/images/industries/energy-and-chemicals.jpg)
 
-Singapore is one of the world's leading chemical hubs: over 100 global chemical firms conduct major operations in the country, and it is one of the world's largest refinery export hubs and chemical exporter. Singapore's chemicals industry is expected to reach $12.7 billion in value-add by 2025.
+Singapore is one of the world's leading chemical hubs: over 100 global chemical firms conduct major operations in the country, and it is among the largest refinery export hubs and chemical exporters worldwide. Singapore's chemicals industry is expected to reach $12.7 billion in value-add by 2025.
 
 This is on the back of rapid developments in production process and systems. The pace of change means that a more comprehensive and active form of safety monitoring is now a key priority. Conformity assessment is a crucial tool for this purpose – it ensures both safety and quality at every stage of production, and is a requirement from most regulators and customers.
 
