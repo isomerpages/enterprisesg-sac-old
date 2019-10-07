@@ -13,7 +13,7 @@ if (mainContent != null) {
             links[i].setAttribute("target", "_blank");
           }
           else {
-            if (href.indexOf("/") != 0 && href.indexOf("http") > 0 && href.indexOf(location.origin) < 0 && href.indexOf('www.sac-accreditations.gov.sg') < 0) {
+            if (href.indexOf("/") != 0 && href.indexOf("http") >= 0 && href.indexOf(location.origin) < 0 && href.indexOf('www.sac-accreditations.gov.sg') < 0) {
               links[i].setAttribute("target", "_blank");
             }
           }
