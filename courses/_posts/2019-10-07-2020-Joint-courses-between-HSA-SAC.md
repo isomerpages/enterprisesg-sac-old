@@ -8,13 +8,13 @@ permalink: /services/training/training-courses-2020/2020-Joint-courses-between-H
 ## Course Details
 **April, May, Jun 2020**
 
-Click [here](/files/training/Course-brochure-2020-MV-MU-BS.pdf){:target="\_blank"} to download the course brochure.
+Click [here](/files/training/Course-brochure-2020-MV-MU-BS.pdf){:target="_blank"} to download the course brochure.
  
 Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6775 1605** ext 125
 
 
 Please note link for registration:-\\
-[http://go.gov.sg/hsa-sac-courses2020](http://go.gov.sg/hsa-sac-courses2020)
+[http://go.gov.sg/hsa-sac-courses2020](http://go.gov.sg/hsa-sac-courses2020){:target="_blank"}
 
 
 
