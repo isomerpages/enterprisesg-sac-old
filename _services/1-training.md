@@ -12,14 +12,14 @@ collection_name: services
 {% assign posts = site.categories['courses'] %}
 {%- assign latestCourse = posts | first -%}
 {%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
+{%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 
 <div id="training-calendar">	
-	<h3>TRAINING CALENDAR&nbsp;<span id="training-calendar-year-title">{{- latestCourseYear -}}</span></h3>
+	<h3>TRAINING CALENDAR&nbsp;<span id="training-calendar-year-title">{{- currYear -}}</span></h3>
 	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
 		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
-	{%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
 		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
