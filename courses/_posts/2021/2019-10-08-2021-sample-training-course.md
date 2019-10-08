@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: 2025 Sample Training Course
+title: 2021 Sample Training Course
 course_date: Jan 2021
 permalink: /services/training/training-courses-2021/2021-sample-training-course
 ---
