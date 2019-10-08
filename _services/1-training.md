@@ -7,6 +7,7 @@ collection_name: services
 ---
 
 <!-- COMMENT: The HTML code in between the '{::nomarkdown}{:/}' tags is used to display the table of training courses in different quarters of the different years -->
+
 {::nomarkdown}
 
 {%- assign posts = site.categories['courses'] -%}
@@ -15,10 +16,12 @@ collection_name: services
 {%- assign earliestCourse = posts | first -%}
 {%- assign earliestCourseYear = earliestCourse.course_date | date: '%Y' -%}
 {%- assign currYear = site.time | date: '%Y' | plus:0 -%}
-{%- if latestCourseYear - currYear > 5  -%}
+{%- assign temp = latestCourseYear | minus: currYear -%}
+{%- if temp > 5  -%}
 	{%- assign latestCourseYear = currYear | plus: 5 -%}
 {%- endif -%}
-{%- if currYear - earliestCourseYear > 3  -%}
+{%- assign temp = currYear | minus: earliestCourseYear -%}
+{%- if temp > 3  -%}
 	{%- assign earliestCourseYear = currYear | minus: 3 -%}
 {%- endif -%}
 {%- assign numYears = latestCourseYear | minus: earliestCourseYear -%}
