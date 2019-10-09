@@ -28,10 +28,72 @@ collection_name: services
 		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
-	{%- for i in (0..4) -%}
-		{%- assign currCourseYear = latestCourseYear | minus:i -%}
-		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable"></table>
-	{%- endfor -%}		
+	{%- for i in (0..numYears) -%}
+		{%- assign currCourseYear = latestCourseYear | minus:i -%}		
+		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
+			<thead>
+				<tr>
+					{%- for j in (1..4) -%}
+					<th style="border:0;"><p class="trainingCoursesTableHeaderBar">Q{{- j -}}</p></th>
+					{%- endfor -%}
+				</tr>
+			</thead>						
+			<tbody>
+			{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
+			{%- if filteredCourses and filteredCourses.size > 0 -%}
+				<tr>
+				{%- assign currentQuarter = 0 -%}
+				{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+				{%- for course in filteredCourses -%}
+					{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
+					{%- if currentCourseMonth > currentQuarterEnd  -%}												{%- for j in (1..4) -%}
+							{%- if currentQuarter > 0 -%}</td>{%- endif -%}				
+							<td>								
+							{%- assign currentQuarter = currentQuarter | plus:1 -%}
+							{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+								<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
+							{%- if currentCourseMonth <= currentQuarterEnd -%}
+								{%- break -%}
+							{% endif %}
+						{%- endfor -%}	
+					{%- endif -%}	
+					<a href="{{- course.permalink -}}">
+						<span style="font-weight:bold;">{{- course.title -}}</span>
+						<br/>{{- course.course_date -}}
+					</a>
+					<br/><br/>	
+				{%- endfor -%}
+				{%- if currentQuarter < 4  -%}						
+					{%- for j in (1..4) -%}
+						{%- if currentQuarter > 0 -%}</td>{%- endif -%}					
+						<td>								
+						{%- assign currentQuarter = currentQuarter | plus:1 -%}
+						{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
+							<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
+						{%- if currentQuarter >= 4 -%}
+							{%- break -%}
+						{% endif %}
+					{%- endfor -%}	
+				{%- endif -%}	
+				</tr>
+			{% endif %}	
+			</tbody>	
+			<tfoot>
+				<tr>
+					<td colspan="4">
+					{%- if forloop.last == false -%}
+					{%- capture previousYear -%}{{- currCourseYear | minus:1 -}}{%- endcapture -%}
+					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
+					{%- endif -%}
+					{%- if forloop.first == false -%}
+					{%- capture nextYear -%}{{- currCourseYear | plus:1 -}}{%- endcapture -%}
+					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
+					{%- endif -%}
+					</td>
+				</tr>
+			</tfoot>
+		</table>		
+	{%- endfor -%}			
 </div>
 
 ---
