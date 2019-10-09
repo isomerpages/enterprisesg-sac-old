@@ -33,7 +33,7 @@ collection_name: services
 	</div>
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
-		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
+		
 	{%- endfor -%}		
 </div>
 
