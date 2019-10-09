@@ -17,11 +17,11 @@ collection_name: services
 {%- assign earliestCourseYear = earliestCourse.course_date | date: '%Y' | plus:0 -%}
 {%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 {%- assign temp = latestCourseYear | minus: currYear -%}
-{%- if temp > 5  -%}
+{%- if temp > 5 -%}
 	{%- assign latestCourseYear = currYear | plus: 5 -%}
 {%- endif -%}
 {%- assign temp = currYear | minus: earliestCourseYear -%}
-{%- if temp > 3  -%}
+{%- if temp > 3 -%}
 	{%- assign earliestCourseYear = currYear | minus: 3 -%}
 {%- endif -%}
 {%- assign numYears = latestCourseYear | minus: earliestCourseYear -%}
@@ -51,9 +51,8 @@ collection_name: services
 					{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
 					{%- for course in filteredCourses -%}
 						{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
-						{%- if currentCourseMonth > currentQuarterEnd  -%}						
-							{%- for j in (1..4) -%}
-								{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
+						{%- if currentCourseMonth > currentQuarterEnd  -%}												{%- for j in (1..4) -%}
+								{%- if currentQuarter > 0 -%}</td>{%- endif -%}				
 								<td>								
 								{%- assign currentQuarter = currentQuarter | plus:1 -%}
 								{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
@@ -71,7 +70,7 @@ collection_name: services
 					{%- endfor -%}
 					{%- if currentQuarter < 4  -%}						
 						{%- for j in (1..4) -%}
-							{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
+							{%- if currentQuarter > 0 -%}</td>{%- endif -%}					
 							<td>								
 							{%- assign currentQuarter = currentQuarter | plus:1 -%}
 							{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
