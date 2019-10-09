@@ -33,10 +33,6 @@ collection_name: services
 	</div>
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
-		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
-		{%- if filteredCourses.size == 0 -%}
-		    {%- break -%}
-		{%- else -%}			
 		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
 			<thead>
 				<tr>
@@ -46,6 +42,8 @@ collection_name: services
 				</tr>
 			</thead>						
 			<tbody>
+				{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
+				{%- if filteredCourses and filteredCourses.size > 0 -%}
 				<tr>
 					{%- assign currentQuarter = 0 -%}
 					{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
@@ -81,26 +79,27 @@ collection_name: services
 							{% endif %}
 						{%- endfor -%}	
 					{%- endif -%}	
-				</tr>	
+				</tr>
+				{% endif %}
 			</tbody>	
 			<tfoot>
-					<tr>
-						<td colspan="4">
-						{%- if forloop.last == false -%}
-						{%- capture previousYear -%}{{- currCourseYear | minus:1 -}}{%- endcapture -%}
-						<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
-						{%- endif -%}
-						{%- if forloop.first == false -%}
-						{%- capture nextYear -%}{{- currCourseYear | plus:1 -}}{%- endcapture -%}
-						<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
-						{%- endif -%}
-					</td>
-					</tr>
+				<tr>
+					<td colspan="4">
+					{%- if forloop.last == false -%}
+					{%- capture previousYear -%}{{- currCourseYear | minus:1 -}}{%- endcapture -%}
+					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
+					{%- endif -%}
+					{%- if forloop.first == false -%}
+					{%- capture nextYear -%}{{- currCourseYear | plus:1 -}}{%- endcapture -%}
+					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
+					{%- endif -%}
+				</td>
+				</tr>
 			</tfoot>
 		</table>
-		{% endif %}
 	{%- endfor -%}		
 </div>
+
 {:/}
 <!-- COMMENT: End of HTML code -->
 
