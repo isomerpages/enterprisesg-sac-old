@@ -11,8 +11,19 @@ collection_name: services
 
 {%- assign posts = site.categories['courses'] -%}
 {%- assign latestCourse = posts | first -%}
-{%- assign latestCourseYear = latestCourse.course_date | date: '%Y' -%}
+{%- assign latestCourseYear = latestCourse.course_date | date: '%Y' | plus:0 -%}
+{%- assign earliestCourse = posts | last -%}
+{%- assign earliestCourseYear = earliestCourse.course_date | date: '%Y' | plus:0 -%}
 {%- assign currYear = site.time | date: '%Y' | plus:0 -%}
+{%- assign temp = latestCourseYear | minus: currYear -%}
+{%- if temp > 5 -%}
+	{%- assign latestCourseYear = currYear | plus: 5 -%}
+{%- endif -%}
+{%- assign temp = currYear | minus: earliestCourseYear -%}
+{%- if temp > 3 -%}
+	{%- assign earliestCourseYear = currYear | minus: 3 -%}
+{%- endif -%}
+{%- assign numYears = latestCourseYear | minus: earliestCourseYear -%}
 
 <div id="training-calendar">	
 	<h3>TRAINING CALENDAR&nbsp;<span id="training-calendar-year-title">{{- currYear -}}</span></h3>
