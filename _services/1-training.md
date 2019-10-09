@@ -102,6 +102,7 @@ collection_name: services
 		</table>		
 	{%- endfor -%}		
 </div>
+
 {:/}
 <!-- COMMENT: End of HTML code -->
 
