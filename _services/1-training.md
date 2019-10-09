@@ -6,8 +6,6 @@ breadcrumb: training
 collection_name: services
 ---
 
-{::nomarkdown} 
-
 {%- assign posts = site.categories['courses'] -%}
 {%- assign latestCourse = posts | first -%}
 {%- assign latestCourseYear = latestCourse.course_date | date: '%Y' | plus:0 -%}
@@ -35,8 +33,6 @@ collection_name: services
 		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable"></table>
 	{%- endfor -%}		
 </div>
-
-{:/nomarkdown}
 
 ---
 
