@@ -31,7 +31,7 @@ collection_name: services
 		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
-	{%- for i in (0..4) -%}
+	{%- for i in (0..numYears) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
 		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
 		{%- if filteredCourses.size == 0 -%}
