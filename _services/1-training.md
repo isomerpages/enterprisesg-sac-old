@@ -34,8 +34,8 @@ collection_name: services
 	{%- for i in (0..numYears) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
 		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
-		{%- if filteredCourses.size == 0 -%}
-		    {%- break -%}
+		{%- if filteredCourses == nil or filteredCourses.size == 0 -%}
+		    {%- continue -%}
 		{%- else -%}			
 		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
 			<thead>
