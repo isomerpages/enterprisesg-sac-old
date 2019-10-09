@@ -13,7 +13,7 @@ collection_name: services
 {%- assign posts = site.categories['courses'] -%}
 {%- assign latestCourse = posts | first -%}
 {%- assign latestCourseYear = latestCourse.course_date | date: '%Y' | plus:0 -%}
-{%- assign earliestCourse = posts | first -%}
+{%- assign earliestCourse = posts | last -%}
 {%- assign earliestCourseYear = earliestCourse.course_date | date: '%Y' | plus:0 -%}
 {%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 {%- assign temp = latestCourseYear | minus: currYear -%}
