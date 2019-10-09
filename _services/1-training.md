@@ -33,7 +33,7 @@ collection_name: services
 	</div>
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
-		
+		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable"></table>
 	{%- endfor -%}		
 </div>
 
