@@ -33,6 +33,7 @@ collection_name: services
 	</div>
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
+		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
 		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
 			<thead>
 				<tr>
@@ -42,7 +43,6 @@ collection_name: services
 				</tr>
 			</thead>						
 			<tbody>
-				{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
 				{%- if filteredCourses and filteredCourses.size > 0 -%}
 				<tr>
 					{%- assign currentQuarter = 0 -%}
@@ -51,7 +51,7 @@ collection_name: services
 						{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
 						{%- if currentCourseMonth > currentQuarterEnd  -%}						
 							{%- for j in (1..4) -%}
-								{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
+								{%- if currentQuarter > 0 -%}</td>{%- endif -%}				
 								<td>								
 								{%- assign currentQuarter = currentQuarter | plus:1 -%}
 								{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
