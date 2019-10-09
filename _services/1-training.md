@@ -6,8 +6,7 @@ breadcrumb: training
 collection_name: services
 ---
 
-<!-- COMMENT: The HTML code in between the '{::nomarkdown}{:/}' tags is used to display the table of training courses in different quarters of the different years -->
-{::nomarkdown}
+{::nomarkdown} 
 
 {%- assign posts = site.categories['courses'] -%}
 {%- assign latestCourse = posts | first -%}
@@ -37,8 +36,7 @@ collection_name: services
 	{%- endfor -%}		
 </div>
 
-{:/}
-<!-- COMMENT: End of HTML code -->
+{:/nomarkdown}
 
 ---
 
