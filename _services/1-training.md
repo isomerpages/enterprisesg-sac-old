@@ -43,44 +43,7 @@ collection_name: services
 				</tr>
 			</thead>						
 			<tbody>
-				{%- if filteredCourses and filteredCourses.size > 0 -%}
-				<tr>
-					{%- assign currentQuarter = 0 -%}
-					{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
-					{%- for course in filteredCourses -%}
-						{%- assign currentCourseMonth = course.course_date | date: '%m' | plus: 0 -%}
-						{%- if currentCourseMonth > currentQuarterEnd  -%}						
-							{%- for j in (1..4) -%}
-								{%- if currentQuarter > 0 -%}</td>{%- endif -%}				
-								<td>								
-								{%- assign currentQuarter = currentQuarter | plus:1 -%}
-								{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
-									<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
-								{%- if currentCourseMonth <= currentQuarterEnd -%}
-									{%- break -%}
-								{% endif %}
-							{%- endfor -%}	
-						{%- endif -%}	
-						<a href="{{- course.permalink -}}">
-							<span style="font-weight:bold;">{{- course.title -}}</span>
-							<br/>{{- course.course_date -}}
-						</a>
-						<br/><br/>	
-					{%- endfor -%}
-					{%- if currentQuarter < 4  -%}						
-						{%- for j in (1..4) -%}
-							{%- if currentQuarter > 0 -%}</td>{%- endif -%}								
-							<td>								
-							{%- assign currentQuarter = currentQuarter | plus:1 -%}
-							{%- assign currentQuarterEnd = currentQuarter | times: 3 -%}
-								<p class="trainingCoursesTableHeaderBar">Q{{- currentQuarter -}}</p>
-							{%- if currentQuarter >= 4 -%}
-								{%- break -%}
-							{% endif %}
-						{%- endfor -%}	
-					{%- endif -%}	
-				</tr>
-				{% endif %}
+				<tr></tr>
 			</tbody>	
 			<tfoot>
 				<tr>
