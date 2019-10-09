@@ -27,7 +27,7 @@ collection_name: services
 {%- assign numYears = latestCourseYear | minus: earliestCourseYear -%}
 
 <div id="training-calendar">	
-	<h3>TRAINING CALENDAR&nbsp;<span id="training-calendar-year-title">{{- currYear -}}&nbsp;{{- latestCourseYear -}}&nbsp;{{- earliestCourseYear -}}&nbsp;{{- numYears -}}</span></h3>
+	<h3>TRAINING CALENDAR&nbsp;<span id="training-calendar-year-title">{{- currYear -}}</span></h3>
 	<div style="padding:1rem;font-size:1rem;background-color:#ED2E38;color:#FFFFFF;">
 		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
