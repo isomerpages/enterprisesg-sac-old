@@ -28,9 +28,9 @@ collection_name: services
 		<span style="display:inline-block;max-width:84%;vertical-align:middle;">ENHANCING THE CAPABILITIES OF CONFORMITY ASSESSEMENT BODIES</span>
 		<span style="display:inline-block;width:14%;height:50px;vertical-align:middle;background:url('/images/services/training-table-icon.png') no-repeat center center;background-size:contain;"></span>
 	</div>
+	{::nomarkdown}
 	{%- for i in (0..numYears) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}	
-		{::nomarkdown}
 		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
 			<thead>
 				<tr>
@@ -94,8 +94,8 @@ collection_name: services
 				</tr>
 			</tfoot>
 		</table>
-		{:/nomarkdown}
-	{%- endfor -%}			
+	{%- endfor -%}	
+	{:/nomarkdown}
 </div>
 
 ---
