@@ -34,32 +34,6 @@ collection_name: services
 	{%- for i in (0..4) -%}
 		{%- assign currCourseYear = latestCourseYear | minus:i -%}
 		{%- assign filteredCourses = posts | where_exp: "item", "item.course_date contains currCourseYear" | reverse -%}
-		<table id="training-table-{{- currCourseYear -}}" class="trainingCoursesTable" {%- if currCourseYear == currYear -%}style="display:table;"{%- endif -%}>
-			<thead>
-				<tr>
-					{%- for j in (1..4) -%}
-					<th style="border:0;"><p class="trainingCoursesTableHeaderBar">Q{{- j -}}</p></th>
-					{%- endfor -%}
-				</tr>
-			</thead>						
-			<tbody>
-				<tr></tr>
-			</tbody>	
-			<tfoot>
-				<tr>
-					<td colspan="4">
-					{%- if forloop.last == false -%}
-					{%- capture previousYear -%}{{- currCourseYear | minus:1 -}}{%- endcapture -%}
-					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- previousYear -}}" style="left:0;">&lt;&nbsp;{{- previousYear -}}</a>
-					{%- endif -%}
-					{%- if forloop.first == false -%}
-					{%- capture nextYear -%}{{- currCourseYear | plus:1 -}}{%- endcapture -%}
-					<a href="#training-calendar" class="trainingYearSelect" data-currYear="{{- currCourseYear -}}" data-refYear="{{- nextYear -}}" style="right:0;">{{- nextYear -}}&nbsp;&gt;</a>
-					{%- endif -%}
-				</td>
-				</tr>
-			</tfoot>
-		</table>
 	{%- endfor -%}		
 </div>
 
