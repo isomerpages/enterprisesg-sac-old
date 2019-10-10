@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: "Training Course on SAC CT 17 – SAC Criteria for Accreditation of Auditing Organisations"
-permalink: /services/training/courses-2019/Training-Course-on-SAC-CT-17
+permalink: /services/training/2019-Training-Course-on-SAC-CT-17
 course_date: 27 Sept 2019
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
 ---
@@ -24,7 +24,7 @@ This 1-day course is to provide the participants:
 
 * An overview of the assessment requirements established in SAC CT17 for auditing organisations through lectures, discussions and work exercises.
 
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d3036df5f62720018314389){:target="&#95;blank"}.
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d3036df5f62720018314389){:target="_blank"}.
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 Please complete the online forms and mail cheques to:
