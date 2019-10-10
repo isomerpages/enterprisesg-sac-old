@@ -2,7 +2,7 @@
 layout: simple-page
 title: ISO/IEC 17065 Product Certification Course
 course_date: 27 and 28 Aug 2019
-permalink: /services/training/courses-2019/ISOIEC-17065-Product-Certification-Course
+permalink: /services/training/ISOIEC-17065-Product-Certification-Course-Aug-2019
 ---
 
 ## Course Details
@@ -23,7 +23,7 @@ This 2-day course is to provide the participants:
 * An overview of the conformity assessment requirements established in ISO/IEC 17065:2012 through lectures, discussions and work exercises;
 * Gain insights into the content that would be useful in developing and maintaining effective product certification scheme.
 
-We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d1ed34b9ca58e0018fae30c){:target="\_blank"}. <!-- The {:target="\_blank"} syntax is used to open the form in a new tab / window -->
+We are now open for registration.  Click on this link for the online [registration form](https://form.gov.sg/5d1ed34b9ca58e0018fae30c){:target="_blank"}.
  
 All cheques should be crossed and made payable to "Enterprise Singapore." No invoices will be issued.
 
