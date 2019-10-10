@@ -1,14 +1,13 @@
 ---
 layout: simple-page
 title: "Laboratory Management Course"
-permalink: /services/training/courses-2019/Laboratory-Management-Course-Oct2019
+permalink: /services/training/Laboratory-Management-Course-Oct2019
 course_date: 30 Oct to 1 Nov 2019
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
 ---
 
 ## Course Details
-**{{page.course_date}}**
-<!-- comment: {{page.course_date}} will display the same data as the 'course_date' in the top header code snippet -->
+**30 October to 1 November 2019**
 
 **Course Fee:** SGD $1284.00 (inclusive of GST)
 
@@ -21,12 +20,12 @@ Training Room: Concorde 3, Level 3
 **Objective:**
 
 This 3-day course is to help the participants:
-* Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and
 
+* Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and
 * Develop a quality system which can improve the laboratory operations to meet the needs of their clients understand the SAC requirements for accreditation
 
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92c4a2ce0ed40012a9ced9){:target="&#95;blank"}.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92c4a2ce0ed40012a9ced9){:target="_blank"}.
+<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 For payment by GIRO or interbank transfer, please see details to send payment to:-
 

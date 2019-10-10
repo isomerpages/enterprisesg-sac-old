@@ -2,7 +2,7 @@
 layout: simple-page
 title: 2020 Joint courses between HSA-SAC
 course_date: April, May, Jun 2020
-permalink: /services/training/training-courses-2020/2020-joint-courses-between-HSA-SAC
+permalink: /services/training/2020-joint-courses-between-HSA-SAC
 ---
 
 ## Course Details

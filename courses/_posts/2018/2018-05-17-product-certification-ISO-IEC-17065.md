@@ -2,7 +2,7 @@
 layout: simple-page
 title: Product Certification (based on ISO/IEC 17065)
 course_date: 17-18 May 2018
-permalink: /services/training/courses-2018/product-certification-ISO-IEC-17065
+permalink: /services/training/product-certification-ISO-IEC-17065-May2018
 ---
 
 ## Course Details

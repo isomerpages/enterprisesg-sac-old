@@ -16,8 +16,8 @@ collection_name: services
 {%- assign earliestCourseYear = earliestCourse.course_date | date: '%Y' | plus:0 -%}
 {%- assign currYear = site.time | date: '%Y' | plus:0 -%}
 {%- assign temp = latestCourseYear | minus: currYear -%}
-{%- if temp > 5 -%}
-	{%- assign latestCourseYear = currYear | plus: 5 -%}
+{%- if temp > 1 -%}
+	{%- assign latestCourseYear = currYear | plus: 1 -%}
 {%- endif -%}
 {%- assign temp = currYear | minus: earliestCourseYear -%}
 {%- if temp > 3 -%}
@@ -61,11 +61,13 @@ collection_name: services
 								{% endif %}
 							{%- endfor -%}	
 						{%- endif -%}	
-						<a href="{{- course.permalink -}}">
-							<span style="font-weight:bold;">{{- course.title -}}</span>
-							<br/>{{- course.course_date -}}
-						</a>
-						<br/><br/>	
+						{%- unless course.title contains 'Sample Test Course' -%}
+							<a href="{{- course.permalink -}}">
+								<span style="font-weight:bold;">{{- course.title -}}</span>
+								<br/>{{- course.course_date -}}
+							</a>
+							<br/><br/>													 
+						{%- endunless -%}													 
 					{%- endfor -%}
 					{%- if currentQuarter < 4  -%}						
 						{%- for j in (1..4) -%}
