@@ -9,4 +9,4 @@ AC presented the accreditation plaques to our newly accredited conformity assess
 Congratulations to the achievements of these CABs!
  
 
-![Newly Accredited CABs 2019](/images/press-release/documents/SAC-Customer-Day-2019 (1).png)
+![Newly Accredited CABs 2019](/images/press-release/documents/SAC-Customer-Day-2019.png)
