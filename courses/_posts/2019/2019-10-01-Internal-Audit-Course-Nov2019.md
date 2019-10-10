@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: "Internal Audit Course"
-permalink: /services/training/courses-2019/Internal-Audit-Course-Nov2019
+permalink: /services/training/Internal-Audit-Course-Nov2019
 course_date: 4 to 5 Nov 2019
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
 ---
@@ -26,8 +26,8 @@ This 2-day course is to help the participants:
 
 * Acquire the skills to plan, implement and report on internal quality system audits.
 
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92eef07ed5070012452eba){:target="&#95;blank"}.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92eef07ed5070012452eba){:target="_blank"}.
+<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 For payment by GIRO or interbank transfer, please see details to send payment to:-
 
