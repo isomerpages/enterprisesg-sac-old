@@ -2,7 +2,7 @@
 layout: simple-page
 title: Laboratory Management course
 course_date: 21-23 Aug 2017
-permalink: /services/training/courses-2017/Laboratory-Management-course0620-1436
+permalink: /services/training/Laboratory-Management-course-Aug2017
 ---
 
 ## Course Details
