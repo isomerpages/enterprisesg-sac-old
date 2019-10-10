@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: "Laboratory Management Course"
-permalink: /services/training/courses-2019/Laboratory-Management-Course-Oct2019
+permalink: /services/training/Laboratory-Management-Course-Oct2019
 course_date: 30 Oct to 1 Nov 2019
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
 ---
