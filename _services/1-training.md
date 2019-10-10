@@ -61,13 +61,11 @@ collection_name: services
 								{% endif %}
 							{%- endfor -%}	
 						{%- endif -%}	
-						{%- unless course.title contains 'Sample Test Course' -%}
-							<a href="{{- course.permalink -}}">
-								<span style="font-weight:bold;">{{- course.title -}}</span>
-								<br/>{{- course.course_date -}}
-							</a>
-							<br/><br/>													 
-						{%- endunless -%}													 
+						<a href="{{- course.permalink -}}">
+							<span style="font-weight:bold;">{{- course.title -}}</span>
+							<br/>{{- course.course_date -}}
+						</a>
+						<br/><br/>											 
 					{%- endfor -%}
 					{%- if currentQuarter < 4  -%}						
 						{%- for j in (1..4) -%}
