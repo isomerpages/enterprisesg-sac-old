@@ -9,6 +9,8 @@ course_date: 30 Oct to 1 Nov 2019
 ## Course Details
 **30 October to 1 November 2019**
 
+Registration has closed.
+
 **Course Fee:** SGD $1284.00 (inclusive of GST)
 
 **Course Venue:**\\
@@ -23,9 +25,6 @@ This 3-day course is to help the participants:
 
 * Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and
 * Develop a quality system which can improve the laboratory operations to meet the needs of their clients understand the SAC requirements for accreditation
-
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92c4a2ce0ed40012a9ced9){:target="_blank"}.
-<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 For payment by GIRO or interbank transfer, please see details to send payment to:-
 
