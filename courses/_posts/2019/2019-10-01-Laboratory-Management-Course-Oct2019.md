@@ -9,7 +9,7 @@ course_date: 30 Oct to 1 Nov 2019
 ## Course Details
 **30 October to 1 November 2019**
 
-Registration has closed.
+*Registration has closed.*
 
 **Course Fee:** SGD $1284.00 (inclusive of GST)
 
