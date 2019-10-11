@@ -7,8 +7,9 @@ course_date: 4 to 5 Nov 2019
 ---
 
 ## Course Details
-**{{page.course_date}}**
-<!-- comment: {{page.course_date}} will display the same data as the 'course_date' in the top header code snippet -->
+**4 to 5 November 2019**
+
+*Registration has closed.*
 
 **Course Fee:** SGD $856.00 (inclusive of GST)
 
@@ -25,9 +26,6 @@ This 2-day course is to help the participants:
 * Learn the essentials of auditing, which include the techniques in assessing the effectiveness of quality systems and indentifying areas for improvement.
 
 * Acquire the skills to plan, implement and report on internal quality system audits.
-
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92eef07ed5070012452eba){:target="_blank"}.
-<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 For payment by GIRO or interbank transfer, please see details to send payment to:-
 
