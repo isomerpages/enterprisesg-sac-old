@@ -81,7 +81,7 @@ collection_name: services
 					{%- endif -%}	
 				</tr>	
 			</tbody>	
-			{% comment %} display the calendar year at the bottom of the table {% endcomment %}
+			{%- comment -%} display the calendar year at the bottom of the table {%- endcomment -%}
 			<tfoot>
 					<tr>
 						<td colspan="4">
