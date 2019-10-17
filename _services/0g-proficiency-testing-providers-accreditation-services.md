@@ -12,7 +12,7 @@ Proficiency testing involves the use of inter-laboratory comparisons for the det
 
 Proficiency testing providers play an important role in the value chain for assurance of products and services. Their proficiency testing programmes should be properly designed and statistically robust, so that the benchmarking of participants' performance is properly conducted, and the participants can monitor trends and identify gaps in their own performances for corrective actions and improvements.
 
-For proficiency testing providers to demonstrate their capabilities and boost confidence in customers, they need third-party endorsement that they have met international standards so as to give credibility to their programmes. SAC can provide that recognition and with accreditation, the local PT providers will be able to market their services confidently within Singapore and also in the ASEAN and international arena.
+Third-party endorsements are needed for proficiency testing providers to demonstrate their capabilities and that they have met international standards. SAC can provide that recognition so as to give credibility to their programmes and boost confidence in customers. With accreditation, the local PT providers will be able to market their services confidently within Singapore and also in the ASEAN and international arena.
 
 SAC officially launched the Accreditation Scheme for Proficiency Testing Providers (PTP) on 14 August 2013.
 
