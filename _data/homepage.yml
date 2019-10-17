@@ -11,7 +11,7 @@ favicon: /images/homepage/sac-esg-logo.png
 agency-logo: /images/homepage/sac-esg-logo.png
 
 # Google analytics
-google-analytics: UA-147056317-1
+google-analytics:
 
 # Hero Banner
 hero-title: Singapore Accreditation Council
