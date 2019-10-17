@@ -27,6 +27,11 @@ This 2-day course is to help the participants:
 
 * Acquire the skills to plan, implement and report on internal quality system audits.
 
+<!--
+COMMENT: This portion has been commented out as the course has been closed for registration.
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5d92eef07ed5070012452eba){:target="_blank"}.
+-->
+
 For payment by GIRO or interbank transfer, please see details to send payment to:-
 
 Agency:  Enterprise Singapore\\
