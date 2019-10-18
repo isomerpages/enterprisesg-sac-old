@@ -1,3 +1,4 @@
+//this script is used for displaying the interactive training calender under 'services > training, courses and seminars'
 var trainingYearSelects = document.getElementsByClassName('trainingYearSelect');
 if (trainingYearSelects.length > 0) {
     for (var i=0; i<trainingYearSelects.length; i++) {

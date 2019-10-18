@@ -81,6 +81,7 @@ collection_name: services
 					{%- endif -%}	
 				</tr>	
 			</tbody>	
+			{%- comment -%} display the calendar year at the bottom of the table {%- endcomment -%}
 			<tfoot>
 					<tr>
 						<td colspan="4">
@@ -113,13 +114,13 @@ Comprising local as well as overseas experts, SAC's team of trainers possess in-
 
 ### Our Training Programmes
 For more information on the course details, please click on the options below: 
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
-* [Laboratory Management Course (based on ISO/IEC 17025)](/files/training/Course-Objectives-LM.pdf){:target="&#95;blank"}
-* [Internal Audit Course](/files/training/Course-Objectives-IA.pdf){:target="&#95;blank"}
-* [ISO/IEC 17020 Course (for Inspection Body)](/files/training/ISO-17020-Course.pdf){:target="&#95;blank"}
-* [ISO 15189:2012 Course (for Medical Laboratory and Medical Imaging Facility)](/files/training/ISO-15189-Course-Overview-June-2013.pdf){:target="&#95;blank"}
-* [GLP Implementation Workshop](/files/training/GLP-Implementation-Workshop.pdf){:target="&#95;blank"}
-* [Method Validation in Chemical Analysis Workshop](/files/training/MV-(chemical)-workshop.pdf){:target="&#95;blank"}
-* [Measurement Uncertainty in Chemical Analysis Workshop](/files/training/MU-(chemical)-workshop.pdf){:target="&#95;blank"}
+<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
+* [Laboratory Management Course (based on ISO/IEC 17025)](/files/training/Course-Objectives-LM.pdf){:target="_blank"}
+* [Internal Audit Course](/files/training/Course-Objectives-IA.pdf){:target="_blank"}
+* [ISO/IEC 17020 Course (for Inspection Body)](/files/training/ISO-17020-Course.pdf){:target="_blank"}
+* [ISO 15189:2012 Course (for Medical Laboratory and Medical Imaging Facility)](/files/training/ISO-15189-Course-Overview-June-2013.pdf){:target="_blank"}
+* [GLP Implementation Workshop](/files/training/GLP-Implementation-Workshop.pdf){:target="_blank"}
+* [Method Validation in Chemical Analysis Workshop](/files/training/MV-(chemical)-workshop.pdf){:target="_blank"}
+* [Measurement Uncertainty in Chemical Analysis Workshop](/files/training/MU-(chemical)-workshop.pdf){:target="_blank"}
 
 For general enquiries on training courses, please contact Ms Angie Ng at DID: 62791800 or email: <angie_ng@enterprisesg.gov.sg>
