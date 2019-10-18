@@ -9,7 +9,7 @@ second_nav_title: "Collaborations And Recognitions"
 The objective of the Mutual Recognition Arrangement (MRA) is to develop a global network of conformity assessment bodies. This includes certification bodies, testing and calibration laboratories, and inspection bodies, which can be relied on to provide competent services, such as certification activities, testing, calibration and inspection. Key to international trade, the MRAs promote cross border stakeholder confidence and the acceptance of accredited conformity assessment bodies. 
 
 ### Benefit from MRAs?
-SAC’s signatory status in the MRAs is a global passport for enterprises in Singapore. There is no need for duplicative re-testing, re-inspection or re-calibration of goods upon entry to importing countries. Moreover, government agencies these days rely more on results from accredited facilities as well as those of the MRA partners, as they begin to realise the credibility of accreditation programmes that are based on internationally recognised standards. 
+SAC's signatory status in the MRAs is a global passport for enterprises in Singapore. There is no need for duplicative re-testing, re-inspection or re-calibration of goods upon entry to importing countries. Moreover, government agencies these days rely more on results from accredited facilities as well as those of the MRA partners, as they begin to realise the credibility of accreditation programmes that are based on internationally recognised standards. 
 
 ### How do MRAs work?
 An MRA is based on the results of intensive peer evaluation of its signatories. The accreditation body to the MRA must agree to abide by the requirements in ISO/IEC 17011: Conformity assessment - General Requirements for accreditation bodies accrediting conformity assessment bodies. They must ensure that the conformity assessment bodies that they accredit conform to standards, such as ISO/IEC 17025 and ISO 15189 for laboratories, ISO/IEC 17020 for inspection bodies, and ISO/IEC 17065 and ISO/IEC 17021 for accreditation of certification bodies.
@@ -36,11 +36,11 @@ We have established MRAs with the following regional and international organisat
 Note: To facilitate the recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
 Please click below for the respective MRA listings.
 
-* [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="&#95;blank"}
+* [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
 
-* [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="&#95;blank"}
+* [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="_blank"}
 
-<!-- NOTE: the '{:target="&#95;blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
+<!-- NOTE: the '{:target="_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
 
 ### OECD Mutual Acceptance of Data (MAD)
 Since January 2010, Singapore became an adherent member of the OECD Mutual Acceptance of Data (MAD) framework. GLP studies conducted in Singapore will now be recognised in more than 30 OECD member and non-member countries. 
