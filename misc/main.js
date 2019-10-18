@@ -1,4 +1,6 @@
 var mainContent = document.getElementById("main-content");
+
+//script to open external links in a new window
 if (mainContent != null) {
   var contentDivs = mainContent.getElementsByClassName('content');
   if (contentDivs.length > 0) {
