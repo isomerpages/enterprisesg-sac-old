@@ -13,4 +13,4 @@ World Accreditation Day 2018 focuses on how accreditation delivers a safer world
       <iframe width="560" height="315" src="https://www.youtube.com/embed/douGB7pLlYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Please click [here](https://www.iaf.nu/articles/World_Accreditation_Day_2018_Video_Now_Available/554){:target="&#95;blank"} for more information.
+Please click [here](https://www.iaf.nu/articles/World_Accreditation_Day_2018_Video_Now_Available/554){:target="_blank"} for more information.

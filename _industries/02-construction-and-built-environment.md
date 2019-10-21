@@ -10,7 +10,7 @@ collection_name: industries
 
 Singapore's infrastructure sector includes both real estate and built environment industries. Total construction demand in the country  amounted to about $30.5 billion in 2018.
 
-Emerging technologies now enable shorter construction times and innovative building methods; these are driving the growth of a "smart city", powered by data and online connectivity. Singapore's Smart Nation initiative is also gaining traction, with the development of a physical infrastructure that can support smart city technologies, as well as physical devices that are connected to IoT (Internet of Things) networks.
+Emerging technologies now enable shorter construction times and the development of innovative building methods; these are driving the growth of a "smart city", powered by data and online connectivity. Singapore's Smart Nation initiative is also gaining traction, with the development of a physical infrastructure that can support smart city technologies, as well as physical devices that are connected to IoT (Internet of Things) networks.
 
 However, safety remains a key consideration, especially in light of the growing need for faster and more cost-effective construction.
 

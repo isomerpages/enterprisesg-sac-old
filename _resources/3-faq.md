@@ -1,10 +1,11 @@
 ---
-# COMMENT: This page uses customised 'faq' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed exactly as written below. 
 layout: faq 
 title: FAQ
 permalink: /resources/faq
 collection_name: resources
 ---
+
+<!-- COMMENT: This page uses customised 'faq' layout to organise the content below. Go to "_layouts->faq.html" if you need to edit the layout for this page, or change the layout to 'leftnav-page-content' in the header code snippet above to switch to a standard page layout -->
 
 ### Frequently Asked Questions on SAC Accreditation Programmes
 
@@ -22,8 +23,8 @@ Accreditation is the endorsement by an authoritative body (such as SAC) of an or
 
 **Certification:** Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
-ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="&#95;blank"} in *Standards Engineering*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
+ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="_blank"} in *Standards Engineering*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qn3}
 #### What are the benefits of being accredited?
@@ -114,8 +115,8 @@ Product registration in overseas markets are typically referred to the US FDA fo
 
 {: #qnb3}
 #### What are the OECD Principles?
-The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="&#95;blank"}.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
+The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
+<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qnb4}
 #### Where do I apply the GLP studies?

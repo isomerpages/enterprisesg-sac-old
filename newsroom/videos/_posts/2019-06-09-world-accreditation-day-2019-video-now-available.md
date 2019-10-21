@@ -13,4 +13,4 @@ June 9th 2019 marks World Accreditation Day (#WAD2019), a global initiative esta
       <iframe width="560" height="315" src="https://www.youtube.com/embed/VB87krtT2Pk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Please click [here](https://www.iaf.nu/articles/World_Accreditation_Day_2019_Video_Now_Available/611){:target="&#95;blank"} for more information.
+Please click [here](https://www.iaf.nu/articles/World_Accreditation_Day_2019_Video_Now_Available/611){:target="_blank"} for more information.
