@@ -13,7 +13,7 @@ SAC officers are energetic, informed, have a 'can-do' attitude and are committed
 
 <!-- COMMENT: the '{:target="_blank"}' at the end of the Markdown webpage URL syntax is used to open the URL in a new window tab -->
 <!-- COMMENT: Markdown email addresses are enclosed using '<>' -->
-To apply for a vacancy, please click [here](http://careers-gov-search.jobstreet.com.sg/Careers-Gov/job-opening.php?src=3&organization=85&mode=org){:target="_blank"} or submit your CV to <sac@enterprisesg.gov.sg>.
+To apply for a vacancy, please click [here](https://careers.pageuppeople.com/688/cwlive/en/search/?=&search-keyword=accreditation&brand=enterprise%20singapore){:target="_blank"} or submit your CV to <sac@enterprisesg.gov.sg>.
 
 ## Assessors
 
