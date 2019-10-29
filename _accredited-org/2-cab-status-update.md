@@ -95,6 +95,7 @@ Click on the quick links below to jump to the CAB Status:
   * United Testing Company Pte Ltd (10 May 2019)
   * Brillion Pte. Ltd. (10 April 2019)
   * Applus Singapore Pte Ltd (22 October 2019)
+  * A*STAR Research Entities (7 October 2019)
 
 #### Certification Body
 
