@@ -40,7 +40,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="_blank"}
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/management-system-and-products-certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="_blank"}
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="_blank"}
-* [IAF MD 3:2008 - Advanced Surveillance and Recertification Procedures (ASRP)](/files/documents/management-system-and-products-certification/IAF-MD3-2008.pdf){:target="_blank"}
 * [IAF MD 4:2018 - Use of Computer Assisted Auditing Techniques ("CAAT") for Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD4-Issue-2-03072018.pdf){:target="_blank"}
 * [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/management-system-and-products-certification/IAF-MD5-Issue-4-18042019.pdf){:target="_blank"}
 * [IAF MD 5:2015 - Duration of QMS and EMS Audit](/files/documents/management-system-and-products-certification/IAF-MD-5.pdf){:target="&#95;blank"}
