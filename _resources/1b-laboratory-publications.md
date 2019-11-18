@@ -62,7 +62,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [C&B and ENV 002 - May 2018: Quality Assurance of Equipment commonly used in Chemical & Biological and Environmental Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/CB-and-ENV-Tech-Notes-002-15-May-18.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 001, Feb 2019 : Method Validation for Chemical Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-ENV-001-8-Feb-2019.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="_blank"}
-* [Guidance Note - C&B and ENV 003, 01 July 2019 : Guidance for Identification and Confirmation of Microorganisms](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/files/documents/CB-and-ENV-Guidance-Notes-003-1Jul2019.pdf){:target="_blank"}
+* [Guidance Note - C&B and ENV 003, 01 July 2019 : Guidance for Identification and Confirmation of Microorganisms](/files/documents/CB-and-ENV-Guidance-Notes-003-1Jul2019.pdf){:target="_blank"}
 * [Technical Guide 2 - Mar 2019: A Guide on Measurement Uncertainty in Chemical & Microbiological Analysis](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Technical-Guide-2-29-Mar-2019.pdf){:target="_blank"}
 
 **Functional Food Testing**
