@@ -17,7 +17,7 @@ The Accreditation Scheme for Inspection Bodies provides official recognition of 
 
 Launched in April 2011, the Accreditation Scheme for Inspection Bodies aims to upgrade the standard of inspection activities to support sound decision-making with regard to safety, health, performance and reliability. 
 
-Accreditation is offered to all inspection services – from one-man operations to in-house manufacturing inspection services to independent inspection bodies. Some areas of inspection include pressure vessels, lifting equipment, motor vehicle,  structural steelwork and site investigation.
+Accreditation is offered to all inspection services – from in-house to independent inspection bodies. Some areas of inspection include pressure vessels, lifting equipment, motor vehicle,  structural steelwork and site investigation.
 
 Accreditation allows an inspection body to benchmark its work practices against the world's best practices. 
 

@@ -14,17 +14,22 @@ Accreditation is an endorsement of a certification body's independence, integrit
 
 The Accreditation Scheme for Quality Management System Certification Bodies was launched in October 1996 to maintain the standard of certification activities in Singapore. Since then, there are other related programmes launched such as the Accreditation programmes for:
 
-* Environmental Management System Certification Bodies
-* Occupational Safety and Health Management System Certification Bodies
-* Hazard Analysis Critical Control Point - based Food Management System Certification Bodies
-* Food Safety Management System Certification Bodies
-* Certification of Good Distribution Practice for Medical Devices
-* Business Continuity Management Certification Bodies
+* Anti-Bribery Management System
+* Asset Management System
+* Business Continuity Management System
+* End-of-Life ICT Equipment Management System
+* Energy Management System
+* Environmental Management System
+* Food Safety Management System
+* Good Distribution Practice for Medical Devices
+* Hazard Analysis Critical Control Point-based Food Management System
+* Information Security Management System
 * Learning Service Providers
-* Energy Management System Certification Bodies
-* Water Efficiency Management System Certification Bodies
-* Multi-Tiered Cloud Computing Security Certification Bodies
-* End-of-Life ICT Equipment Certification Bodies
+* Medical Device Quality Management System
+* Multi-Tiered Cloud Computing Security Management System
+* Occupational Health & Safety Management System
+* Quality Management System
+* Water Efficiency Management System
  
 The scheme was extended in August 2003 to cover the certification of bunker suppliers, in a show of support for the Maritime and Port Authority of Singapore's initiative to highlight Singapore's status as a bunkering hub. In April 2008, the scheme was further extended to cover the certification of good distribution practice of medical devices (GDPMDS). This was an effort to support the Health Sciences Authority's initiative to ensure the quality and integrity of medical devices throughout the distribution process.
  
