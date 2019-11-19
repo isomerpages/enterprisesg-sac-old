@@ -19,19 +19,29 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
+* Calibration & Measurement
+  * Key Solutions Pte Ltd (05 November 2019)
+
 * Chemical & Biological Testing
   * Myanmar Department of Food and Drug Administration (14 June 2019)
+
+* Environmental Testing
+  * ECO Industrial Environmental Engrg Pte Ltd (18 November 2019)
 
 * Non-Destructive Testing
   * Team Industrial Services Asia Private Limited (16 September 2019)
 
+
 #### Inspection Body
 
 * Site Investigation
+  * Dong-A Consultants Asia Pte Ltd (07 October 2019)
   * Fugro Singapore Land Pte Ltd (05 August 2019)
   * KH Instrumentation Pte Ltd (06 August 2019)
   * Geosmart International Pte Ltd (08 August 2019)
   * United Soil Engineering (14 August 2019)
+ 
+   
 
 #### Certification Body    
 
@@ -92,16 +102,11 @@ Click on the quick links below to jump to the CAB Status:
   * Molecular Pte Ltd (12 July 2019)
   
 * Non-Destructive Testing
-  * United Testing Company Pte Ltd (10 May 2019)
-  * Brillion Pte. Ltd. (10 April 2019)
   * Applus Singapore Pte Ltd (22 October 2019)
   * A*STAR Research Entities (7 October 2019)
 
 #### Certification Body
 
-* Business Continuity Management
-  * Lloyd's Register Quality Assurance Limited (13 March 2019)  
-  
 * Energy Management System
   * Lloyd's Register Quality Assurance Limited (13 March 2019)
   * Singapore Test Services Pte Ltd (26 April 2019)
@@ -114,15 +119,11 @@ Click on the quick links below to jump to the CAB Status:
 #### Inspection Body
 
 * Cargo Inspection
-  * Oceanus Nexus Marine Consultants Pte Ltd (2 March 2017)
   * Poseidon Marine Pte Ltd (23 July 2019)
   * Atoz Maritime Pte Ltd (26 July 2019)
 
 #### Laboratory
-
-* Civil Engineering
-  * ABSK Pte Ltd (05 February 2018)
-  
+ 
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
   
