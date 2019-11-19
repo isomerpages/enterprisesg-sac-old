@@ -41,7 +41,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/management-system-and-products-certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="_blank"}
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="_blank"}
 * [IAF MD 4:2018 - Use of Computer Assisted Auditing Techniques ("CAAT") for Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD4-Issue-2-03072018.pdf){:target="_blank"}
-* [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/management-system-and-products-certification/IAF-MD5-Issue-4-18042019.pdf){:target="_blank"}
+* [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/IAF-MD5-Issue-4-Version-2-11112019.pdf){:target="_blank"}
 * [IAF MD 5:2015 - Duration of QMS and EMS Audit](/files/documents/management-system-and-products-certification/IAF-MD-5.pdf){:target="&#95;blank"}
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
@@ -56,6 +56,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 22:2019 -  Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD22-Issue-2-07052019.pdf){:target="_blank"}
 * [IAF MD 22:2018 - Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD-22-OHSMS.pdf){:target="_blank"}
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="_blank"}
+* [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/IAF-PL9-Issue-1-14112019.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) - May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 27006) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(ISOIEC-27006)-10-Oct-18.doc){:target="_blank"}
