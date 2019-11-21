@@ -54,8 +54,6 @@ company-list:
         link: http://www.socotec-certification-international.sg/certification/certified-companies  
       - name: "TQCSI Certification Pte Ltd"
         link: http://www.tqcsi.com/certified-organisations
-      - name: "Transpacific Certification Singapore Pte Ltd"
-        link: http://tcspl.com.sg/?page_id=471
       - name: "TÜV Rheinland Singapore Pte Ltd"
         link: https://www.certipedia.com/?locale=en#system-search
       - name: "TÜV SÜD PSB Pte Ltd"
