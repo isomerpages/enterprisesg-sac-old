@@ -122,6 +122,9 @@ Click on the quick links below to jump to the CAB Status:
   * Poseidon Marine Pte Ltd (23 July 2019)
   * Atoz Maritime Pte Ltd (26 July 2019)
 
+* Hooklift & Container Inspection
+  * AJK Engineeering Pte Ltd (22 November 2019)
+
 #### Laboratory
  
 * Calibration & Measurement 
