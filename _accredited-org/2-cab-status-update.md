@@ -76,9 +76,6 @@ Click on the quick links below to jump to the CAB Status:
   * Kanto Kagaku Singapore Pte Ltd (Suspended 19 August 2019 - 18 November 2019)
   
 #### Inspection Body
-* Hook-Lift & Container Inspection 
-  * AJK Engineering Pte Ltd (Suspended 29 March 2019 - 28 June 2019)
-  
 * Site Inspection
   * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
   
@@ -123,7 +120,7 @@ Click on the quick links below to jump to the CAB Status:
   * Atoz Maritime Pte Ltd (26 July 2019)
 
 * Hooklift & Container Inspection
-  * AJK Engineeering Pte Ltd (22 November 2019)
+  * AJK Engineering Pte Ltd (22 November 2019)
 
 #### Laboratory
  
