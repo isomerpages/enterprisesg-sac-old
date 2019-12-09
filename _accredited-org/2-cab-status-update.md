@@ -71,9 +71,6 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
-#### Laboratory
-* Chemical & Biological Testing
-  * Kanto Kagaku Singapore Pte Ltd (Suspended 19 August 2019 - 18 November 2019)
   
 #### Inspection Body
 * Site Inspection
