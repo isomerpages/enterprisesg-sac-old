@@ -28,7 +28,7 @@ Tai Sing Electric Ltd
 | | Mr Martin Khoo<br/>(Alternate: pending) | Info-Communications Media Development Authority (IMDA) |
 | | Adj. A/Prof Raymond Chua | Ministry of Health (MOH) |
 | | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
-| | Ms Mary Elizabeth Chelliah<br/>(Alternate:  (Pending) | Ministry of Trade and Industry (MTI) |
+| | Ms Mary Elizabeth Chelliah<br/>(Alternate:  pending) | Ministry of Trade and Industry (MTI) |
 | | Ms Chan Wai San | National Environment Agency (NEA) |
 | | Dr Leslie Retnam | National University of Singapore |
 | | Ms Ong Shwu Hoon | Singapore Business Federation (SBF) |
