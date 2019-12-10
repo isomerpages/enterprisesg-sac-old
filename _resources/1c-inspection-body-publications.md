@@ -46,4 +46,4 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note: TA 01: Specific Requirements for the Accreditation of Inspection Bodies for the Technical Audit of Extension Schemes for Pressure Vessels](/files/documents/inspection-body-accreditation/TA01-(09-July-2018).pdf){:target="_blank"}
   
 **Hook-Lift & Container Inspection Field**
-* [Technical Note: HL 01: Specific Requirements for the Accreditation of Inspection Bodies for Hook-Lift & Container Inspection](/files/documents/inspection-body-accreditation/HL01-(09-July-2018).pdf){:target="_blank"}
+* [Technical Note: HL 01: Specific Requirements for the Accreditation of Inspection Bodies for Hook-Lift & Container Inspection](/files/documents/inspection-body-accreditation/HL-01-Revised-27112019.pdf){:target="_blank"}
