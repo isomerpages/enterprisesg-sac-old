@@ -47,3 +47,4 @@ An inspection body must be fully conversant and comply with the relevant standar
   
 **Hook-Lift & Container Inspection Field**
 * [Technical Note: HL 01: Specific Requirements for the Accreditation of Inspection Bodies for Hook-Lift & Container Inspection](/files/documents/inspection-body-accreditation/HL-01-27112019.pdf){:target="_blank"}
+
