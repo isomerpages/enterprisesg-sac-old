@@ -91,9 +91,9 @@ A certification body must be fully conversant and comply with the relevant stand
 **Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
 
 <!-- NOTE: changes to CT 01A document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
-* C[T 01A, 01 Jan 2020 - Accreditation Process for Auditing Organisations](files/documents/management-system-and-products-certification/CT 01A (01 Jan 2020) - Accreditation Process for AO.pdf){:target="_blank"}
+* C[T 01A, 01 Jan 2020 - Accreditation Process for Auditing Organisations](/files/documents/management-system-and-products-certification/CT 01A (01 Jan 2020) - Accreditation Process for AO.pdf){:target="_blank"}
 <!-- NOTE: changes to CT 17 document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
-* [CT 17 - SAC Criteria for Auditing Organisations - 01 Jan 2020](files/documents/management-system-and-products-certification/CT 17 (01 Jan 2020) - SAC Criteria for AO.pdf){:target="_blank"} 
+* [CT 17 - SAC Criteria for Auditing Organisations - 01 Jan 2020](/files/documents/management-system-and-products-certification/CT 17 (01 Jan 2020) - SAC Criteria for AO.pdf){:target="_blank"} 
 <!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
