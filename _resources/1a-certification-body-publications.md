@@ -77,14 +77,14 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="_blank"}
 * [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 04 May 2018](/files/documents/management-system-and-products-certification/WELS-Guidebook-(4-May-18).pdf){:target="_blank"}
 <!-- NOTE: changes to Product Certification Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-* [Product Certification Fees Schedule - 5 Jul 2018](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-5-July-2018.pdf){:target="_blank"}
+* [Product Certification Fees Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17065) - Sept 2013](/files/documents/management-system-and-products-certification/17065-checklist-Sep-13.docx){:target="_blank"}
 
 ### Standards and Criteria Document for Personnel Certification
 **ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons**
 
 <!-- NOTE: changes to Personnel Certification Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-* [Personnel Certification Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-5-July-2018.pdf){:target="_blank"}
+* [Personnel Certification Fee Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1 Jan-2020.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/documents/management-system-and-products-certification/17024-checklist-Sep-13.docx){:target="_blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
