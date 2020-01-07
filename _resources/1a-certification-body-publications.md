@@ -84,7 +84,7 @@ A certification body must be fully conversant and comply with the relevant stand
 **ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons**
 
 <!-- NOTE: changes to Personnel Certification Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-* [Personnel Certification Fee Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1 Jan-2020.pdf){:target="_blank"}
+* [Personnel Certification Fee Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/documents/management-system-and-products-certification/17024-checklist-Sep-13.docx){:target="_blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
