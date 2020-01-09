@@ -22,12 +22,12 @@ The Auditing Organisation Scheme gives formal recognition to auditing organisati
 
 ## Accreditation Criteria
 
-SAC accredits auditing organisations that can demonstrate compliance with the requirements listed in [SAC CT 17](/files/documents/management-system-and-products-certification/CT-17-(1-October-2018).pdf){:target="_blank"}.
+SAC accredits auditing organisations that can demonstrate compliance with the requirements listed in [SAC CT 17](/files/documents/management-system-and-products-certification/CT 17 (01 Jan 2020) - SAC Criteria for AO.pdf){:target="_blank"}.
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 
 ## Application Process
 
 All applications shall be made through SACiNet (online platform for accreditation process) and are to be supported with documents containing sufficient information regarding its staff, management system, or other information necessary or requested by SAC from time to time for the assessment of the auditing organisation. Upon receipt of a duly completed application and satisfactory supporting documents relating to its management system, an acknowledgement notification will be sent to the applicant through SACiNet. A quotation for the document review, preliminary assessment (if requested) and initial assessment, shall be sent to the applicant for agreement either through SACiNet or email. 
 
-The CCC grants accreditation to the applicant upon verifying that the auditing organisation meets the criteria for accreditation. The detailed description of the type of assessment is stipulated in [CT 01A](/files/documents/management-system-and-products-certification/CT-01A-14-June-2019.pdf){:target="_blank"}, Accreditation Process.
+The CCC grants accreditation to the applicant upon verifying that the auditing organisation meets the criteria for accreditation. The detailed description of the type of assessment is stipulated in [CT 01A](/files/documents/management-system-and-products-certification/CT 01A (01 Jan 2020) - Accreditation Process for AO.pdf){:target="_blank"}, Accreditation Process.
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
