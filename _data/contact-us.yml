@@ -10,8 +10,7 @@ locations:
   # Our Address [REQUIRED]
   - title:
     address: Singapore Accreditation Council<br>230 Victoria Street,<br>#09-00 Bugis Junction Office Tower,<br>Singapore 188024
-    find-directions:     
-   https://www.google.com/maps/place/Bugis+Junction+Towers/@1.3000149,103.8539049,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ba9bde1a5f:0xb3cb17f62b246e40!8m2!3d1.3000095!4d103.8560936
+    find-directions: https://www.google.com/maps/place/Bugis+Junction+Towers/@1.3000149,103.8539049,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ba9bde1a5f:0xb3cb17f62b246e40!8m2!3d1.3000095!4d103.8560936
     
         
   # Operating Hours [OPTIONAL]
