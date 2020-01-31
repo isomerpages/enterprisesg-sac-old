@@ -22,7 +22,7 @@ the logo, the accredited scheme and the certificate number.
 
 * An accredited organisation may use the SAC accreditation mark on publicity and other stationery materials such as brochures, business cards, letterhead paper, quotations, websites and vehicles. However, the use of the SAC accreditation mark or any reference to SAC accreditation in advertising and promotional publications shall be vetted and pre-approved by SAC.
 
-* Please refer to [SAC 02 - 02 April 2018: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/SAC-02-SAC-and-MRA-Marks-(02-April-2018).pdf){:target="&#95;blank"} for more information.
+* Please refer to [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="&#95;blank"} for more information.
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
 
 ### Use of Accredited CAB Combined ILAC MRA Mark by Accredited Laboratories and Inspection Bodies
