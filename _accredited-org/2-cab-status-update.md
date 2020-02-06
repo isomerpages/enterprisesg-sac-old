@@ -91,13 +91,20 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration & Measurement
   * Measurement Worldwide Pte. Ltd (31 July 2019)
+  * MSV Systems &amp; Services Pte Ltd (5 Feb 2020)
   
 * Chemical & Biological Testing
   * Molecular Pte Ltd (12 July 2019)
-  
+  * Geo-Chem Far East Pte Ltd (11 Feb 2020)
+
 * Non-Destructive Testing
   * Applus Singapore Pte Ltd (22 October 2019)
   * A*STAR Research Entities (7 October 2019)
+
+#### Inspection Body
+
+* Hooklift & Container Inspection
+  * RINA Hong Kong (5 Feb 2020)
 
 #### Certification Body
 
