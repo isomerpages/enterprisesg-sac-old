@@ -25,10 +25,10 @@ Tai Sing Electric Ltd
 | **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
 | | Ms Low Min Yong | Health Sciences Agency (HSA) |
-| | Mr Martin Khoo<br/>(Alternate: pending) | Info-Communications Media Development Authority (IMDA) |
+| | Mr Martin Khoo<br/>(Alternate: Mr Henry Quek) | Info-Communications Media Development Authority (IMDA) |
 | | Adj. A/Prof Raymond Chua | Ministry of Health (MOH) |
 | | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
-| | Ms Mary Elizabeth Chelliah<br/>(Alternate:  pending) | Ministry of Trade and Industry (MTI) |
+| | Ms Mary Elizabeth Chelliah<br/>(Alternate:  Mr Yap Jun Hong) | Ministry of Trade and Industry (MTI) |
 | | Ms Chan Wai San | National Environment Agency (NEA) |
 | | Dr Leslie Retnam | National University of Singapore |
 | | Ms Ong Shwu Hoon | Singapore Business Federation (SBF) |
