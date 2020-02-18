@@ -96,6 +96,7 @@ Click on the quick links below to jump to the CAB Status:
 * Chemical & Biological Testing
   * Molecular Pte Ltd (12 July 2019)
   * Geo-Chem Far East Pte Ltd (11 Feb 2020)
+  * Temasek Polytechnic (05 Feb 2020)
 
 * Non-Destructive Testing
   * Applus Singapore Pte Ltd (22 October 2019)
