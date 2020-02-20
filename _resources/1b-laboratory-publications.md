@@ -12,7 +12,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 ### Publications for All Fields
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/SAC 01_16 Feb 2020(1).pdf){:target="_blank"}
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
-* [SAC Guidance 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
+* [SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [SAC-SINGLAS 004 - 15 May 2018 : Classification of Tests](/files/documents/laboratory-accreditation/SAC-SINGLAS-004-15-May-18.pdf){:target="_blank"}
 * [PROF 001 - 18 February 2019: Policies on Proficiency Testing](/files/documents/laboratory-accreditation/PROF-001-18-Feb-2019.pdf){:target="&#95;blank"}
 * [Rules for the Use of ILAC MRA Mark](/files/documents/laboratory-accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="_blank"}
@@ -79,7 +79,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Technical Guide 3 - Mar 2019: Guidance on Measurement Uncertainty for Civil Engineering and Mechanical Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/mechanical-testing-field/Technical-Guide-3-29-Mar-2019.pdf){:target="_blank"}
 
 **Non-Destructive Testing Field**
-* [NDT 001 - 29 Mar 2019: Specific Requirements for Accreditation of Non-Destructive Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/non-destructive-testing-field/NDT-001-15-May-18.pdf){:target="_blank"}
+* [NDT 001 - 15 May 2018: Specific Requirements for Accreditation of Non-Destructive Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/non-destructive-testing-field/NDT-001-15-May-18.pdf){:target="_blank"}
 * [NDT 002 - 01 July 2019: Guidelines for the Recognition of Non-Destructive Testing (NDT) Personnel Certification for SAC-SINGLAS Assessments](/files/documents/laboratory-accreditation/testing-and-calibration-documents/non-destructive-testing-field/NDT-002_1-July-19.pdf){:target="_blank"}
 * [NDT 003 - 15 May 2018: Quality Assurance of Equipment Commonly Used In Non-Destructive Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/non-destructive-testing-field/NDT-003-15-May-18.pdf){:target="_blank"}
 * [Guidance Note NDT 001- 29 Mar 2019:  Guidance Document for Estimation of Measurement Uncertainty in Non-Destructive Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/non-destructive-testing-field/Guidance-Note-NDT-001,-290319.pdf){:target="_blank"}
