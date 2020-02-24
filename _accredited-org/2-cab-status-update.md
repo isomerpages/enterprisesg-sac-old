@@ -21,48 +21,42 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration & Measurement
   * Key Solutions Pte Ltd (05 November 2019)
-
-* Chemical & Biological Testing
-  * Myanmar Department of Food and Drug Administration (14 June 2019)
+  * Leedon Technology Pte Ltd (19 December 2019)
+  * GE Aviation, Engine Services - Singapore Pte Ltd (23 December 2019)
+ 
+* Electrical Engineering
+  * National University of Singapore - Solar Energy Research Institute of Singapore (14 January 2020)
 
 * Environmental Testing
   * ECO Industrial Environmental Engrg Pte Ltd (18 November 2019)
 
-* Non-Destructive Testing
-  * Team Industrial Services Asia Private Limited (16 September 2019)
+* Mechanical Testing
+  * Leser LLP (20 January 2020)
 
 
 #### Inspection Body
 
+* Hook-Lift & Container Inspection
+  * Zenith Engineering Pte Ltd (10 January 2020)
+
 * Site Investigation
   * Dong-A Consultants Asia Pte Ltd (07 October 2019)
-  * Fugro Singapore Land Pte Ltd (05 August 2019)
-  * KH Instrumentation Pte Ltd (06 August 2019)
-  * Geosmart International Pte Ltd (08 August 2019)
-  * United Soil Engineering (14 August 2019)
- 
    
 
 #### Certification Body    
 
+* Personnel Certification
+  * CCTP Certified Counter Terrorism Board (08 January 2020)
+
 * Environmental Management System 
-  * EPI Certification Pte Ltd (02 July 2019)
+  * Guardian Independent Certification Pte Ltd (27 December 2019)
   
-* Information Security Management System
-  * Socotec Certification Singapore Pte Ltd (1 August 2019)
+* Hazard Analysis Critical Control Point-Based Food Management System
+  * Guardian Independent Certification Pte Ltd (27 December 2019)  
 
 * Occupational Health & Safety Management System 
-  * A Europe Certification Pte Ltd (6 August 2019)
+  * URS Far East Pte Ltd (26 December 2019)
 
-* Quality Management System 
-  * A Europe Certification Pte Ltd (29 July 2019)
-
-* Auditing Organisation
-  * EQA IMS Certification Pte Ltd (27 June 2019)
-  * Bond International Consultants Pte Ltd (01 July 2019)
-  * Safety First Pte Ltd (18 July 2019)
-  * ACE INTERNATIONAL CERTIFICATION PTE. LTD. (22 July 2019)
-  * Aegis Certification Pte Ltd (29 July 2019) 
 
 [Back to top ↑](#top)
 
@@ -97,6 +91,10 @@ Click on the quick links below to jump to the CAB Status:
   * Molecular Pte Ltd (12 July 2019)
   * Geo-Chem Far East Pte Ltd (11 Feb 2020)
   * Temasek Polytechnic (05 Feb 2020)
+  * Cast Laboratories Pte Ltd (19 February 2020)
+
+* Environmental Testing
+  * Cast Laboratories Pte Ltd (19 February 2020)
 
 * Non-Destructive Testing
   * Applus Singapore Pte Ltd (22 October 2019)
@@ -107,14 +105,7 @@ Click on the quick links below to jump to the CAB Status:
 * Hooklift & Container Inspection
   * RINA Hong Kong (5 Feb 2020)
 
-#### Certification Body
 
-* Energy Management System
-  * Lloyd's Register Quality Assurance Limited (13 March 2019)
-  * Singapore Test Services Pte Ltd (26 April 2019)
-  
-* Water Efficiency Management System
-  * SGS International Certification Services Singapore Pte Ltd (15 August 2019)
   
 #### **Withdrawal by SAC**
 
