@@ -17,7 +17,7 @@ PARKROYAL on Kitchener Road, Singapore\\
 Training Room: Jade Room
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
 
-We are now open for registration. Click on this link for the online [registration form](https://fhttps://form.gov.sg/5e532cc166472d0011cf52ec){:target="_blank"}.
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5e532cc166472d0011cf52ec){:target="_blank"}.
 
 
 **Objective:**
