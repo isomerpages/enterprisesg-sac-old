@@ -41,11 +41,11 @@ Branch No:  032
 
 For payment by cheques, please mail cheques to:
 
-FINANCE Department\\
-Level 14\\
+Accreditation Division\\
 Enterprise Singapore\\
-230 Vicotria Street\\
-Singapore 188024
+2 Fusionopolis Way,\\
+#15-01 Innovis\\
+Singapore 138634
 <!-- COMMENT: The double backslashes are used to denote a new line break without the paragraph spacing -->
 
 All cheques should be crossed and made payable to "Enterprise Singapore." An email confirmation will be sent before the course date. 
