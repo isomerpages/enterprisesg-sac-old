@@ -9,7 +9,7 @@ course_date: 26 - 28 May 2020
 ## Course Details
 **26 - 28 May 2020**
 
-*Registration has closed.*
+*Registration is now open.*
 
 **Course Fee:** SGD $1284.00 (inclusive of GST)
 
