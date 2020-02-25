@@ -27,6 +27,28 @@ This 2-day course is to help the participants:
 
 * Acquire the skills to plan, implement and report on internal quality system audits.
 
+**Payment:**
+
+For payment by GIRO or interbank transfer, please see details to send payment to:-
+
+Agency:  Enterprise Singapore\\
+Account No:  032-001110-1\\
+Bank Code:  7171\\
+Branch No:  032
+
+For payment by cheques, please mail cheques to:
+
+FINANCE Department\\
+Level 14\\
+Enterprise Singapore\\
+230 Vicotria Street\\
+Singapore 188024
+<!-- COMMENT: The double backslashes are used to denote a new line break without the paragraph spacing -->
+
+All cheques should be crossed and made payable to "Enterprise Singapore." An email confirmation will be sent before the course date. 
+  
+
+
 <!--
 COMMENT: This portion has been commented out as the course has been closed for registration.
 We are now open for registration. Click on this link for the online [registration form](https://fhttps://form.gov.sg/5e532cc166472d0011cf52ec){:target="_blank"}.
