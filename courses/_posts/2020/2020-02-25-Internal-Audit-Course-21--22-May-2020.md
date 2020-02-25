@@ -9,8 +9,6 @@ course_date: 21-22 May 2020
 ## Course Details
 **21-22 May 2020**
 
-*Registration is now open.*
-
 **Course Fee:** SGD $856.00 (inclusive of GST)
 
 **Course Venue:**\\
@@ -18,7 +16,10 @@ PARKROYAL on Kitchener Road, Singapore\\
 181 Kitchener Road, Singapore 208533\\
 Training Room: Jade Room
 <!-- COMMENT: The double backslashes are used to denote a line break without paragraph spacing -->
- 
+
+We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5e532cc166472d0011cf52ec){:target="_blank"}.
+
+
 **Objective:**
 
 This 2-day course is to help the participants:  
