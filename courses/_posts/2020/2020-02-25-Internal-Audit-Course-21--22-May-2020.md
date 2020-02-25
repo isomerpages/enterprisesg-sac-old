@@ -31,5 +31,3 @@ This 2-day course is to help the participants:
 COMMENT: This portion has been commented out as the course has been closed for registration.
 We are now open for registration. Click on this link for the online [registration form](https://fhttps://form.gov.sg/5e532cc166472d0011cf52ec){:target="_blank"}.
 -->
-
-For payment by GIRO or interbank transfer, please see details to send payment to:-
