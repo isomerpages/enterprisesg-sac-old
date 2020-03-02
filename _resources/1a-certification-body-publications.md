@@ -18,6 +18,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="_blank"}
 * [CT 01, 02 March 2020: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01-02-March-2020.pdf){:target="_blank"}
+* [CT 01A, 02 March 2020: Accreditation Process for Auditing Organisations](files/documents/management-system-and-products-certification/CT-01A-02-March-2020-(AO).pdf){:target="_blank"}
+
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"}
 
