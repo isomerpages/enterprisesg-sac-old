@@ -17,7 +17,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="_blank"}
-* [CT 01, 14 June 2019: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01,14-June-2019.pdf){:target="_blank"}
+* [CT 01, 02 March 2020: Accreditation Process for Certification Bodies and Validation & Vertification Bodies](/files/documents/management-system-and-products-certification/CT-01-02-March-2020.pdf){:target="_blank"}
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"}
 
@@ -26,11 +26,11 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - March 2019](/files/documents/management-system-and-products-certification/CT-02-(29-March-2019).pdf){:target="_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - March 2019](/files/documents/management-system-and-products-certification/CT-04-(17-July-2019).pdf){:target="_blank"}
-* [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2019](/files/documents/management-system-and-products-certification/CT-08-(29-March-2019).pdf){:target="_blank"}
+* [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/documents/management-system-and-products-certification/CT-08-02-March-2020-(BCM).pdf){:target="_blank"}
 * [CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - March 2019](/files/documents/management-system-and-products-certification/CT-09-(29-March-2019).pdf){:target="_blank"}
-* [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-11-(29-March-2019).pdf){:target="_blank"}
+* [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - March 2020](/files/documents/management-system-and-products-certification/CT-11-02-March-2020-(WEMS).pdf){:target="_blank"}
 * [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers)  - March 2019](/files/documents/management-system-and-products-certification/CT-13-(29-March-2019).pdf){:target="_blank"}
-* [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - March 2019](/files/documents/management-system-and-products-certification/CT-14-(29-March-2019).pdf){:target="_blank"}
+* [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - March 2020](/files/documents/management-system-and-products-certification/CT-14-02-Mar-2020-(MTCS).pdf){:target="_blank"}
 * [CT 15 - SAC Criteria for Certification Bodies (Management of end-of-life ICT Equipment) - March 2019](/files/documents/management-system-and-products-certification/CT-15-(29-March-2019).pdf){:target="_blank"}
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="_blank"}
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-18-(29-March-2019).pdf){:target="_blank"} 
