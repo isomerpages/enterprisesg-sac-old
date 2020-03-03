@@ -32,7 +32,7 @@ This 2-day course is provide the participants:
 
 <!--
 COMMENT: This portion has been commented out as the course has been closed for registration
-We are now open for registration. Click on this link for the online [registration form](https://form.gov.sg/5e5e03f884df070011f10a77){:target="_blank"}.
+We are now open for registration. Click on this link for the online [registration form](https://https://form.gov.sg/5e5e03f884df070011f10a77){:target="_blank"}.
 -->
 
 **Payment:*
