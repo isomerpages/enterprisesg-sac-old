@@ -65,13 +65,13 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
-  
 #### Inspection Body
 * Site Inspection
   * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
   
 * Cargo Inspection
   * Khalon Marine Pte Ltd (Suspended 24 February 2020 - 9 March 2020)
+  * Lighthouse Marine & Inspection Services Pte Ltd - (suspended 03 March 2020 -17 March 2020)
 
 [Back to top ↑](#top)
 
