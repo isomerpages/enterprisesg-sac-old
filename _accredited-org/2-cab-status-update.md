@@ -129,7 +129,6 @@ Click on the quick links below to jump to the CAB Status:
 * Certification
   * Transpacific Certifications (Singapore) Pte Ltd (13 August 2019)
 
-xx
 
 
 [Back to top ↑](#top)
