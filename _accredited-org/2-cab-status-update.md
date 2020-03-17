@@ -71,7 +71,7 @@ Click on the quick links below to jump to the CAB Status:
   
 * Cargo Inspection
   * Khalon Marine Pte Ltd (Suspended 24 February 2020 - 9 March 2020)
-  * Lighthouse Marine & Inspection Services Pte Ltd - (suspended 03 March 2020 -17 March 2020)
+
 
 [Back to top ↑](#top)
 
@@ -128,6 +128,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Certification
   * Transpacific Certifications (Singapore) Pte Ltd (13 August 2019)
+
 
 
 [Back to top ↑](#top)
