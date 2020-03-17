@@ -60,7 +60,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Ms Suzanna Yap               | National Environment Agency                                   |
 |                | AC Francis Ng                | Singapore Civil Defence Force                                 |
 |                | Mr Leslie Phua	              | Singapore Food Agency                                         |
-|                | Ms Safrah Eusoof	            | SkillsFuture Singapore                                        |
+|                | Ms Tan May Ling 	            | SkillsFuture Singapore                                        |
 |                | Er Yvonne Soh                | Singapore Green Building Council                              |
 |                | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association                      |
 |                | Ms Heidi Goh	| Singapore Manufacturing Federation (SMF) - Medical Technology Industry Interest Group |
