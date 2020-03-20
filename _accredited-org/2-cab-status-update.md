@@ -23,6 +23,14 @@ Click on the quick links below to jump to the CAB Status:
   * Key Solutions Pte Ltd (05 November 2019)
   * Leedon Technology Pte Ltd (19 December 2019)
   * GE Aviation, Engine Services - Singapore Pte Ltd (23 December 2019)
+  * PowerQ AnalytiQ Pte Ltd (25 February 2020)
+  
+* Chemical & Biological Testing
+  * LYNK Biotechnology Pte Ltd (26 February 2020)
+  
+* Civil Engineering
+  * Building Research Laboratories, Department of Building, Ministry of Constructions Yangon, Republic of Union of Myanmar (26 February 2020)
+  * Geonamics (S) Pte Ltd - Site Laboratory (16 March 2020)
  
 * Electrical Engineering
   * National University of Singapore - Solar Energy Research Institute of Singapore (14 January 2020)
@@ -32,6 +40,13 @@ Click on the quick links below to jump to the CAB Status:
 
 * Mechanical Testing
   * Leser LLP (20 January 2020)
+
+* Non-Destructive Testing
+  * DM NDT Pte Ltd (17 March 2020)
+  
+* Information Technology
+  * DNV GL Singapore Pte Ltd (31 January 2020)
+  * TUV SUB PSB Pte Ltd (04 February 2020)
 
 
 #### Inspection Body
@@ -115,6 +130,7 @@ Click on the quick links below to jump to the CAB Status:
 * Cargo Inspection
   * Poseidon Marine Pte Ltd (23 July 2019)
   * Atoz Maritime Pte Ltd (26 July 2019)
+  * Khalon Marine Pte Ltd (08 March 2020)
 
 * Hooklift & Container Inspection
   * AJK Engineering Pte Ltd (22 November 2019)
