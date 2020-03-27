@@ -14,6 +14,8 @@ company-list:
         link: http://www.aicpl.com.sg/index.php?lang=en
       - name: "Advanced Certification (Singapore) Pte Ltd"
         link: http://www.advancedcertification.sg/index.php?lang=en
+      - name: "A-Europe Certification Pte Ltd"
+      - link: https://www.ajaeurope.eu
       - name: "BSI Group Pte Ltd"
         link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
       - name: "Building and Construction Authority"
