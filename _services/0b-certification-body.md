@@ -49,7 +49,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001 |
 | Quality Management for Bunker Supply Chain (QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524 |
 | Environment Management System (EMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-2<br/>Applicable IAF MDs | ISO 14001 |
-| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>Applicable IAF MDs| SS 506 Part 1<br/>SS 506 Part 3 |
+| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>ISO/IEC TS 17021-10<br/>Applicable IAF MDs| ISO 45001 or SS 506 Part 1<br/>SS 651 or SS 506 Part 3 |
 | Hazard Aanlysis and Critical Control Point (HACCP) | ISO/IEC 17021-1<br/>SAC HACCP Document No 1<br/>Applicable IAF MDs | SS 590 |
 | Food Safety Management Safety (FSMS) | ISO/IEC 17021-1<br/>ISO/TS 22003<br/>Applicable IAF MDs | ISO 22000 |
 | Business Continuity Management (BCM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-6<br/>Applicable IAF MDs<br/>SAC CT 08 | ISO 22301 |
