@@ -70,22 +70,22 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
 |---
-| British Retailer Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety |
-| Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards |
-| Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards |
-| Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12 | Refer to SCDF Fire Code Chapter 11 |
-| ISASecure | ISO/IEC 17065 | ISA/IEC 62443 | 
-| Food Products | ISO/IEC 17065 | Various applicable standards |
-| Gas Appliances and Accessories | ISO/IEC 17065 | Various applicable standards |
-| Green Products | ISO/IEC 17065 | Various applicable standards |
-| Oranic Primary Produce | ISO/IEC 17065 | SS 632 |
-| Personal Protective Equipment | ISO/IEC 17065 | Various applicable standards |
-| Programme for Endorsement of Forest Certification (PEFC) Chain of Custody | ISO/IEC 17065 | | | | PEFC ST 2002 |
-| Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05 | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06 |
-| Structual Steelwork Fabricators | ISO/IEC 17065<br/>SAC CT 20 | SS EN 1090-1<br/>SS EN 1090-2 |
-| Telecommunication | ISO/IEC 17065 | Various applicable standards |
-| Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19 | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
-| All Other Products | ISO/IEC 17065 | Various applicable standards |
+| British Retailer Consortium (BRC) (Food) | ISO/IEC 17065<br/>Applicable IAF MDs | BRC Global Standard for Food Safety |
+| Building & Construction | ISO/IEC 17065<br/>Applicable IAF MDs | SS 560<br/>Various applicable standards |
+| Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable stndards |
+| Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
+| ISASecure | ISO/IEC 17065<br/>Applicable IAF MDs | ISA/IEC 62443 | 
+| Food Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+| Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+| Green Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+| Oranic Primary Produce | ISO/IEC 17065<br/>Applicable IAF MDs | SS 632 |
+| Personal Protective Equipment | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+| Programme for Endorsement of Forest Certification (PEFC) Chain of Custody | ISO/IEC 17065<br/>Applicable IAF MDs | PEFC ST 2002 |
+| Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05<br/>Applicable IAF MDs | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06 |
+| Structual Steelwork Fabricators | ISO/IEC 17065<br/>SAC CT 20<br/>Applicable IAF MDs | SS EN 1090-1<br/>SS EN 1090-2 |
+| Telecommunication | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+| Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19<br/>Applicable IAF MDs | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
+| All Other Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 
 #### (III) Personnel Certification Body
 
