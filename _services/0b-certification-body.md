@@ -108,3 +108,4 @@ Upon receiving the application for accreditation, qualified assessors are assign
 
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Services Chart](/images/services/accreditation_process.png)
+
