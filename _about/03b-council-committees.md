@@ -58,10 +58,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Er Steve Ang                 | Building and Construction Authority                           |
 |                | Mr Sebastian Tan             | Ministry of Manpower                                          |
 |                | Ms Suzanna Yap               | National Environment Agency                                   |
-|                | LTC Shaiful Herman Bin Shali | Singapore Civil Defence Force                              
-|                
-|                | Mr Leslie Phua	              | Singapore Food Agency 
-|                
+|                | LTC Shaiful Herman Bin Shali | Singapore Civil Defence Force                                           
+|                | Mr Leslie Phua	              | Singapore Food Agency          
 |                | Ms Tan May Ling 	            | SkillsFuture Singapore                                        |
 |                | Er Yvonne Soh                | Singapore Green Building Council                              |
 |                | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association                      |
