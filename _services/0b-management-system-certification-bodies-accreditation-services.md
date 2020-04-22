@@ -54,19 +54,20 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001 |
 | Quality Management for Bunker Supply Chain (QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524 |
 | Environment Management System (EMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-2<br/>Applicable IAF MDs | ISO 14001 |
-| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>Applicable IAF MDs| SS 506 Part 1<br/>SS 506 Part 3 |
-| Hazard Analysis and Critical Control Point (HACCP) | ISO/IEC 17021-1<br/>SAC HACCP Document No 1<br/>Applicable IAF MDs | SS 590 |
+| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>ISO/IEC TS 17021-10<br/>Applicable IAF MDs| ISO 45001 or SS 506 Part 1<br/>SS 651 or SS 506 Part 3 |
+| Hazard Aanlysis and Critical Control Point (HACCP) | ISO/IEC 17021-1<br/>SAC HACCP Document No 1<br/>Applicable IAF MDs | SS 590<br/>SS 444 |
 | Food Safety Management Safety (FSMS) | ISO/IEC 17021-1<br/>ISO/TS 22003<br/>Applicable IAF MDs | ISO 22000 |
 | Business Continuity Management (BCM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-6<br/>Applicable IAF MDs<br/>SAC CT 08 | ISO 22301 |
-| Good Distribution Practice for Medical Devices (GDPMDS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 04 | HSA TS-01 |
+| Good Distribution Practice for Medical Devices (GDPMDS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 04 | HSA TS-01<br/>SS 620 |
 | Energy Management System (EnMS) | ISO/IEC 17021-1<br/>ISO/IEC 50003<br/>Applicable IAF MDs | ISO 50001 |
-| Water Efficiency Management System (WEMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 11 | SS 577 |
+| Water Efficiency Management System (WEMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 11 | SS 577<br/>ISO 46001 |
 | Learning Service Providers (LSP) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT13| ISO 29990<br/>Applicable Technical Notes |
 | Multi-Tiered Cloud Computing Security (MTCS) | ISO/IEC 17021-1<br/>Applicable IAF MDs <br/>SAC CT 14 | SS 584 |
 | End-of-Life ICT Equipment (EIMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 15 | SS 587 |
 Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16 | ISO 55001 |
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
+| Programme Information Security Management System (ISMS)| ISO/IEC 17021-1<br/>ISO/IEC 270065<br/>Applicable IAF MDs | ISO 27001 |
 |===|
 | Note:<br/>(1) AF MD: IAF Mandatory Documents<br/>(2) Please see Annex 1 for the list of above-mentioned standards. |
 
