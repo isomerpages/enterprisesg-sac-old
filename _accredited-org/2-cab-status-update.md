@@ -120,6 +120,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Hooklift & Container Inspection
   * RINA Hong Kong (5 Feb 2020)
+  * Envotek Engineering Pte Ltd (24 Apr 2020)
 
 
   
