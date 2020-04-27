@@ -21,18 +21,22 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 
 | Products (Scope) | Accreditation Requirements | Certification Standards |
 |------------------|----------------------------|-------------------------|
-| British Retail Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety |
-| Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards |
-| Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable standards |
-| Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12 | Refer to SCDF Fire Safety Guidelines 1 |
-| Food Products | ISO/IEC 17065 | Various applicable standards |
-| Gas Appliances and Accessories | ISO/IEC 17065 | Various applicable standards |
-| Green Products | ISO/IEC 17065 | Various applicable standards |
-| Personal Protective Equipment | ISO/IEC 17065 | Various applicable standards |
-| Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05 | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06 |
-| Telecommunication | ISO/IEC 17065 | Various applicable standards |
-| Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19 | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
-| All Other Products | ISO/IEC 17065 | Various applicable standards |
+| British Retail Consortium (BRC) (Food) | ISO/IEC 17065 | BRC Global Standard for Food Safety<br/>Applicable IAF MDs |
+| Building & Construction | ISO/IEC 17065 | SS 560<br/>Various applicable standards<br/>Applicable IAF MDs |
+| Electrical & Electronics | ISO/IEC 17065 | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable standards<br/>Applicable IAF MDs |
+| Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12 | Refer to SCDF Fire Code Chapter 11 |
+| Food Products | ISO/IEC 17065 | Various applicable standards<br/>Applicable IAF MDs |
+| Gas Appliances and Accessories | ISO/IEC 17065 | Various applicable standards<br/>Applicable IAF MDs |
+| Green Products | ISO/IEC 17065 | Various applicable standards<br/>Applicable IAF MDs |
+| ISASecure | ISO/IEC 17065 | ISA/IEC 62443<br/>Applicable IAF MDs |
+| Organic Primary Produce | ISO/IEC 17065 | SS 632<br/>Applicable IAF MDs |
+| Personal Protective Equipment | ISO/IEC 17065 | Various applicable standards<br/>Applicable IAF MDs |
+| Programme for Endorsement of Forest Certification (PEFC) Chain of Custody | ISO/IEC 17065 | PEFC ST 2002<br/>Applicable IAF MDs |
+| Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05 | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06<br/>Applicable IAF MDs | 
+| Structural Steelwork Fabricarions | ISO/IEC 17065 and SAC CT 20 | SS EN 1090-1, SS EN 1090-2<br/>Applicable IAF MDs |
+| Telecommunication | ISO/IEC 17065 | Various applicable standards<br/>Applicable IAF MDs |
+| Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19 | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide<br/>Applicable IAF MDs |
+| All Other Products | ISO/IEC 17065 | Various applicable standards<br/>Applicable IAF MDs |
 
 ### Benefits
 Accreditation will:
