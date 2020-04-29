@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Continuation of Mutual Acceptance of Data (MAD) for Singapore GLP Compliance Programme by OECD “. 
