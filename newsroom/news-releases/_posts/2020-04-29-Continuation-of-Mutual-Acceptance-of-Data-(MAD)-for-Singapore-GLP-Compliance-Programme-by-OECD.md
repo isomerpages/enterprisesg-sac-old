@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Continuation of Mutual Acceptance of Data (MAD) for Singapore GLP Compliance Programme by OECD”
+title:  "Continuation of Mutual Acceptance of Data (MAD) for Singapore GLP Compliance Programme by OECD"
 date:  2020-04-29
 permalink: /newsroom/news-releases/
 Continuation-of-Mutual-Acceptance-of-Data-(MAD)-for-Singapore-GLP-Compliance-Programme-by-OECD 
