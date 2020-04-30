@@ -12,4 +12,3 @@ Singapore was the first non-OECD country in Asia to become a full adherent membe
  
 The Singapore GLP Compliance Programme has successfully undergone the OECD re-evaluation from 18-22 November 2019. The positive recommendation for the continuation of Singapore as full adherent member of OECD MAD has been approved by the OECD GLP Working Group at its 34th meeting in February 2020 at Sendai, Japan.  The benefits of the continued recognition of Singapore GLP Compliance Programme will be that our registered GLP facilities in Singapore continue to provide recognised non-clinical safety testing of new chemicals to support registration in overseas markets including the US and Europe.  It is also a strong endorsement of our supporting infrastructure for growing our local chemical and biomedical sectors.
 
-
