@@ -95,7 +95,7 @@ company-list:
       - name: "UL International-Singapore Pte Ltd"
         link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html      
       - name: "UK Certification Authority for Reinforcing Sheets"
-        link: http://www.ukcares.com/    
+        link: https://www.ukcares.com/    
   - category: "Personnel Certification"
     list:
       - name: "Institute of Management Consultants (Singapore)"
