@@ -1,7 +1,7 @@
 ---
 layout: certified-CAB-companies
 title: "Certified CAB Companies"
-permalink: /accredited-org/certified-companies
+permalink: /accredited-org/certified-CAB-companies
 collection_name: accredited-org
 
 ######################################################################################
