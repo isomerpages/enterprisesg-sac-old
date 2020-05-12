@@ -1,5 +1,5 @@
 ---
-layout: certified-companies
+layout: certified-CAB-companies
 title: "Certified CAB Companies"
 permalink: /accredited-org/certified-companies
 collection_name: accredited-org
