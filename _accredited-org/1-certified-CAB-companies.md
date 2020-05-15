@@ -1,7 +1,7 @@
 ---
 layout: certified-companies
-title: "Certified CAB Companies"
-permalink: /accredited-org/certified-cab-companies
+title: "Certified Companies"
+permalink: /accredited-org/certified-CAB-companies
 collection_name: accredited-org
 
 ######################################################################################
@@ -93,7 +93,9 @@ company-list:
       - name: "TÜV SÜD PSB Pte Ltd - Ready-Mixed Concrete (RMC) Certification Scheme"
         link: https://www.tuvsud.com/en-sg/services/product-certification/ready-mixed-concrete-certification-scheme
       - name: "UL International-Singapore Pte Ltd"
-        link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html    
+        link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html      
+      - name: "UK Certification Authority for Reinforcing Sheets"
+        link: https://www.ukcares.com/    
   - category: "Personnel Certification"
     list:
       - name: "Institute of Management Consultants (Singapore)"
