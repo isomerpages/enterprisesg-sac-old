@@ -1,6 +1,6 @@
 ---
-layout: certified-CAB-companies
-title: "Certified CAB Companies"
+layout: certified-companies
+title: "Certified Companies"
 permalink: /accredited-org/certified-CAB-companies
 collection_name: accredited-org
 
