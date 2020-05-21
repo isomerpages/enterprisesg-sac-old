@@ -7,6 +7,9 @@ collection_name: accredited-org
 ######################################################################################
 # COMMENT: Edit the data below to edit the list of certified companies for this page #
 ######################################################################################
+
+Click on the respective Certification Bodies (CAB)listed below for more information on their certified company (ies)
+
 company-list:
   - category: "Management System Certification"
     list:  
