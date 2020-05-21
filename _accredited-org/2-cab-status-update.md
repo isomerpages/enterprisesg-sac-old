@@ -130,7 +130,17 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Certification Body
 
+* Good Distribution Practice for Medical Devices
+  * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020) 
 
+* Learning Service Providers
+  * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020)
+
+* Quality Management Systems
+  * ACE International certification Pte Ltd (31 May 2020)
+
+* Auditing Organisation
+  * ACE International certification Pte Ltd (31 May 2020)
 
   
 #### **Withdrawal by SAC**
