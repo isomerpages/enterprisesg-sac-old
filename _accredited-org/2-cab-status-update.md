@@ -38,7 +38,7 @@ Click on the quick links below to jump to the CAB Status:
   * National University of Singapore - Solar Energy Research Institute of Singapore (14 January 2020)
 
 * Mechanical Testing
-  * Leser
+  * Leser LLP (20 January 2020)
   * OLS Manufacturing Co Pte Ltd (08 April 2020)
   
 * Non-Destructive Testing
