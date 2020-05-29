@@ -20,13 +20,15 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Key Solutions Pte Ltd (05 November 2019)
   * Leedon Technology Pte Ltd (19 December 2019)
   * GE Aviation, Engine Services - Singapore Pte Ltd (23 December 2019)
   * PowerQ AnalytiQ Pte Ltd (25 February 2020)
+  * Atlantic Solution Pte Ltd (05 April 2020)
   
 * Chemical & Biological Testing
   * LYNK Biotechnology Pte Ltd (26 February 2020)
+  * All Market Singapore Pte Ltd (15 April 2020)
+  * Myanmar Food Processors & Exporters Association (MFPEA) Food Industries Development Supporting Laboratory (FIDSL) (06 May 2020)
   
 * Civil Engineering
   * Building Research Laboratories, Department of Building, Ministry of Constructions Yangon, Republic of Union of Myanmar (26 February 2020)
@@ -35,12 +37,10 @@ Click on the quick links below to jump to the CAB Status:
 * Electrical Engineering
   * National University of Singapore - Solar Energy Research Institute of Singapore (14 January 2020)
 
-* Environmental Testing
-  * ECO Industrial Environmental Engrg Pte Ltd (18 November 2019)
-
 * Mechanical Testing
   * Leser LLP (20 January 2020)
-
+  * OLS Manufacturing Co Pte Ltd (08 April 2020)
+  
 * Non-Destructive Testing
   * DM NDT Pte Ltd (17 March 2020)
   
@@ -54,17 +54,21 @@ Click on the quick links below to jump to the CAB Status:
 * Hook-Lift & Container Inspection
   * Zenith Engineering Pte Ltd (10 January 2020)
 
-* Site Investigation
-  * Dong-A Consultants Asia Pte Ltd (07 October 2019)
+* Pressure Vessel / Lifting Equipment Inspection
+  * B.I.E Engineering Pte Ltd (26 April 2020)
    
 
 #### Certification Body    
+
+* Auditing Organisation
+  * August International Pte Ltd (27 April 2020)
 
 * Personnel Certification
   * CCTP Certified Counter Terrorism Board (08 January 2020)
 
 * Environmental Management System 
   * Guardian Independent Certification Pte Ltd (27 December 2019)
+  * SC2 Pte Ltd (19 May 2020)
   
 * Hazard Analysis Critical Control Point-Based Food Management System
   * Guardian Independent Certification Pte Ltd (27 December 2019)  
@@ -85,7 +89,7 @@ Click on the quick links below to jump to the CAB Status:
   * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
   
 * Cargo Inspection
-  * Khalon Marine Pte Ltd (Suspended 24 February 2020 - 9 March 2020) - withdrawn on 08 March 2020
+  * 
 
 
 [Back to top ↑](#top)
@@ -111,17 +115,32 @@ Click on the quick links below to jump to the CAB Status:
 
 * Environmental Testing
   * Cast Laboratories Pte Ltd (19 February 2020)
-
+  
 * Non-Destructive Testing
   * Applus Singapore Pte Ltd (22 October 2019)
   * A*STAR Research Entities (7 October 2019)
+  * Merlion NDT & Heat Treatment Services (S) Pte Ltd (09 May 2020)
 
 #### Inspection Body
 
 * Hooklift & Container Inspection
   * RINA Hong Kong (5 Feb 2020)
-  * Envotek Engineering Pte Ltd (24 Apr 2020)
+  * Envotek Engineering Pte Ltd (24 Apr 2020) (certificate has lapsed)
 
+
+#### Certification Body
+
+* Good Distribution Practice for Medical Devices
+  * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020) 
+
+* Learning Service Providers
+  * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020)
+
+* Quality Management Systems
+  * ACE International certification Pte Ltd (31 May 2020)
+
+* Auditing Organisation
+  * ACE International certification Pte Ltd (31 May 2020)
 
   
 #### **Withdrawal by SAC**
@@ -131,7 +150,6 @@ Click on the quick links below to jump to the CAB Status:
 * Cargo Inspection
   * Poseidon Marine Pte Ltd (23 July 2019)
   * Atoz Maritime Pte Ltd (26 July 2019)
-  * Khalon Marine Pte Ltd (08 March 2020)
 
 * Hooklift & Container Inspection
   * AJK Engineering Pte Ltd (22 November 2019)
