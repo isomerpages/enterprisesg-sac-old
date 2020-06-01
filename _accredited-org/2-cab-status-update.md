@@ -88,8 +88,6 @@ Click on the quick links below to jump to the CAB Status:
 * Site Inspection
   * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
   
-* Cargo Inspection
-  * 
 
 
 [Back to top ↑](#top)
