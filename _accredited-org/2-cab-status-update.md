@@ -123,10 +123,13 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Inspection Body
 
+* Cargo Inspection
+  * Metcore International Pte Ltd (31 May 2020)
+
 * Hooklift & Container Inspection
   * RINA Hong Kong (5 Feb 2020)
   * Envotek Engineering Pte Ltd (24 Apr 2020) (certificate has lapsed)
-
+  
 
 #### Certification Body
 
