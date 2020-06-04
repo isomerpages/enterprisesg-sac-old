@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Recommended Considerations for Procurement of Consultancy Services and Conformity Assessment Services"
+date:  2019-11-20
+permalink: /newsroom/news-releases/Recommended-Considerations-for-Procurement-of-Consultancy-Services-and-Conformity-Assessment-Services
+---
 
 
 
