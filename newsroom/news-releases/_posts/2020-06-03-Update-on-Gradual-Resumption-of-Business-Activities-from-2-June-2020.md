@@ -12,4 +12,3 @@ The TIC Sector has been permitted to operate during the Circuit Breaker and can 
 Businesses can refer to the appended resources on business resumption and SMM for more details.
 
 * [Post-Circuit Breaker Briefing Session](files/documents/Post-Circuit-Breaker-Briefing-Session.pdf.pdf){:target="_blank"}
-
