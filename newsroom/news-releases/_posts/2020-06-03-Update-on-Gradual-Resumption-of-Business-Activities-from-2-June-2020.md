@@ -11,7 +11,5 @@ The TIC Sector has been permitted to operate during the Circuit Breaker and can 
  
 Businesses can refer to the MOM website (https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures) for the latest requirements on Safe Management Measures (SMM).
 
-* [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-02-April-2018.doc){:target="_blank"}
-blank"}
-
+* [Post-Circuit Breaker Briefing Session](/files/documents/Post-Circuit-Breaker-Briefing-Session-final.pdf){:target="_blank"}
 
