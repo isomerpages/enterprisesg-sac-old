@@ -99,6 +99,8 @@ company-list:
         link: https://www.ukcares.com/    
   - category: "Personnel Certification"
     list:
+      - name: "CCTP Certified Counter Terrorism Board"
+        link: www.cctpworld.com 
       - name: "Institute of Management Consultants (Singapore)"
         link: http://rmcsingapore.org/images/PDF/Register-of-RMC.pdf
       - name: "Non-Destructive Testing Society (Singapore)"
