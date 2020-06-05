@@ -100,7 +100,6 @@ company-list:
   - category: "Personnel Certification"
     list:
       - name: "CCTP Certified Counter Terrorism Board"
-      
         link: https://www.cctpworld.com/
         
         link: www.cctpworld.com 
