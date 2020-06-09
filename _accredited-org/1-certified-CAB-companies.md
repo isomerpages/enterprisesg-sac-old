@@ -111,6 +111,9 @@ company-list:
         link: http://sraa.asia/members/cert/
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/singapore-certified-management-consultants
+      - name: "CCTP Certified Counter Terrorism Board"
+        link: www.cctpworld.com       
+        
 
 ###############
 # End of Data #
