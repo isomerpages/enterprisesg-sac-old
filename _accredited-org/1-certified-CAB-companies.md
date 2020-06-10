@@ -10,11 +10,9 @@ collection_name: accredited-org
 
 company-list:
   - category: "Management System Certification"
-    list:  
-      - name: "ACE International Certification Pte Ltd"
-        link: http://www.aicpl.com.sg/index.php?lang=en
+    list:
       - name: "Advanced Certification (Singapore) Pte Ltd"
-        link: http://www.advancedcertification.sg/index.php?lang=en
+        link: http://www.advancedcertification.sg
       - name: "A-Europe Certification Pte Ltd"
       - link: https://www.ajaeurope.eu
       - name: "BSI Group Pte Ltd"
@@ -100,7 +98,7 @@ company-list:
   - category: "Personnel Certification"
     list:
       - name: "CCTP Certified Counter Terrorism Board"
-        link: www.cctpworld.com
+        link: http://www.cctpworld.com
       - name: "Institute of Management Consultants (Singapore)"
         link: http://rmcsingapore.org/images/PDF/Register-of-RMC.pdf
       - name: "Non-Destructive Testing Society (Singapore)"
@@ -111,6 +109,7 @@ company-list:
         link: http://sraa.asia/members/cert/
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/singapore-certified-management-consultants
+         
 
 ###############
 # End of Data #
