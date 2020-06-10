@@ -11,8 +11,6 @@ collection_name: accredited-org
 company-list:
   - category: "Management System Certification"
     list:  
-      - name: "ACE International Certification Pte Ltd"
-        link: http://www.aicpl.com.sg/index.php?lang=en
       - name: "Advanced Certification (Singapore) Pte Ltd"
         link: http://www.advancedcertification.sg/index.php?lang=en
       - name: "A-Europe Certification Pte Ltd"
