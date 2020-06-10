@@ -12,7 +12,7 @@ company-list:
   - category: "Management System Certification"
     list:
       - name: "Advanced Certification (Singapore) Pte Ltd"
-        link: http://www.advancedcertification.sg/index.php?lang=en
+        link: http://www.advancedcertification.sg
       - name: "A-Europe Certification Pte Ltd"
       - link: https://www.ajaeurope.eu
       - name: "BSI Group Pte Ltd"
