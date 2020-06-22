@@ -29,6 +29,7 @@ Click on the quick links below to jump to the CAB Status:
   * LYNK Biotechnology Pte Ltd (26 February 2020)
   * All Market Singapore Pte Ltd (15 April 2020)
   * Myanmar Food Processors & Exporters Association (MFPEA) Food Industries Development Supporting Laboratory (FIDSL) (06 May 2020)
+  * Seahawk Services Pte Ltd (18 May 2020)
   
 * Civil Engineering
   * Building Research Laboratories, Department of Building, Ministry of Constructions Yangon, Republic of Union of Myanmar (26 February 2020)
@@ -62,6 +63,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Auditing Organisation
   * August International Pte Ltd (27 April 2020)
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
 
 * Personnel Certification
   * CCTP Certified Counter Terrorism Board (08 January 2020)
@@ -69,12 +71,21 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Management System 
   * Guardian Independent Certification Pte Ltd (27 December 2019)
   * SC2 Pte Ltd (19 May 2020)
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
   
 * Hazard Analysis Critical Control Point-Based Food Management System
   * Guardian Independent Certification Pte Ltd (27 December 2019)  
 
 * Occupational Health & Safety Management System 
   * URS Far East Pte Ltd (26 December 2019)
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
+
+* Quality Management Systems
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
+  
+* Good Distribution Practice for Medical Devices
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
+  
 
 
 [Back to top ↑](#top)
