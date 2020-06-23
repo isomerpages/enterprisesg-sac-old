@@ -20,8 +20,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Leedon Technology Pte Ltd (19 December 2019)
-  * GE Aviation, Engine Services - Singapore Pte Ltd (23 December 2019)
   * PowerQ AnalytiQ Pte Ltd (25 February 2020)
   * Atlantic Solution Pte Ltd (05 April 2020)
   
@@ -29,6 +27,7 @@ Click on the quick links below to jump to the CAB Status:
   * LYNK Biotechnology Pte Ltd (26 February 2020)
   * All Market Singapore Pte Ltd (15 April 2020)
   * Myanmar Food Processors & Exporters Association (MFPEA) Food Industries Development Supporting Laboratory (FIDSL) (06 May 2020)
+  * Seahawk Services Pte Ltd (18 May 2020)
   
 * Civil Engineering
   * Building Research Laboratories, Department of Building, Ministry of Constructions Yangon, Republic of Union of Myanmar (26 February 2020)
@@ -62,6 +61,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Auditing Organisation
   * August International Pte Ltd (27 April 2020)
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
 
 * Personnel Certification
   * CCTP Certified Counter Terrorism Board (08 January 2020)
@@ -69,12 +69,17 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Management System 
   * Guardian Independent Certification Pte Ltd (27 December 2019)
   * SC2 Pte Ltd (19 May 2020)
-  
-* Hazard Analysis Critical Control Point-Based Food Management System
-  * Guardian Independent Certification Pte Ltd (27 December 2019)  
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
 
 * Occupational Health & Safety Management System 
-  * URS Far East Pte Ltd (26 December 2019)
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
+
+* Quality Management Systems
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
+  
+* Good Distribution Practice for Medical Devices
+  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
+  
 
 
 [Back to top ↑](#top)
@@ -84,11 +89,7 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Laboratory / Certification Body / Inspection Body 
 
-#### Inspection Body
-* Site Inspection
-  * AWCS Technologies Pte Ltd (Suspended 30 August 2019 - 30 October 2019)
   
-
 
 [Back to top ↑](#top)
 
@@ -118,6 +119,8 @@ Click on the quick links below to jump to the CAB Status:
   * Applus Singapore Pte Ltd (22 October 2019)
   * A*STAR Research Entities (7 October 2019)
   * Merlion NDT & Heat Treatment Services (S) Pte Ltd (09 May 2020)
+  * TEAM Industrial Services Asia Private Limited (23 April 2020)
+ 
 
 #### Inspection Body
 
@@ -160,11 +163,6 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement 
   * Kalswift Singapore Pte Ltd (07 May 2019)
   
-#### Certification Body
-
-* Certification
-  * Transpacific Certifications (Singapore) Pte Ltd (13 August 2019)
-
 
 
 [Back to top ↑](#top)
