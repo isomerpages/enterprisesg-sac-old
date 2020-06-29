@@ -115,6 +115,9 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Testing
   * Cast Laboratories Pte Ltd (19 February 2020)
   
+* Medical Testing
+  * Lucence Diagnostics Pte Ltd (01 July 2020)
+  
 * Non-Destructive Testing
   * Applus Singapore Pte Ltd (22 October 2019)
   * A*STAR Research Entities (7 October 2019)
