@@ -60,7 +60,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Captain Francis Koh | Singapore Nautical Institute |
 | | Captain Francis Lansakara | Singapore Nautical Institute |
 | | Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd |
-| **Secretary** | Mr Tang Kok Min | SAC Secretariat |
+| **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
 ### Term : 1 July 2018 - 30 June 2021
