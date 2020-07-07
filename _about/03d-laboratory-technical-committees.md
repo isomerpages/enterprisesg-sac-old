@@ -128,4 +128,4 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Mr Sze Thiam Siong | Singapore Welding Society |
 | | A/Prof Tan Mei Chee | Singapore University of Technology & Design |
 | | Dr Ang Choon Keat | The Institution of Engineers, Singapore |
-| **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
+| **Secretary** | Mr Chon Yong Hui | SAC Secretariat |
