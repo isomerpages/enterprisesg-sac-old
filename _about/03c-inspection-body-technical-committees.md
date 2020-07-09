@@ -27,7 +27,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Yusoof Aynuddin | Singapore Manufacturing Federation (Representative for HL) |
 | | Pending | The Institution of Engineers, Singapore |
 | | Ms Ng Siang Hoon, Michelle | Waste Management & Recycling Association of Singapore |
-| **Secretary** | Mr Sean Teoh | SAC Secretariat |
+| **Secretary** | Mr Derwin Tang | SAC Secretariat |
 
 ## Structural Steelwork Inspection
 ### Term : 1 July 2018 - 30 June 2021
@@ -45,7 +45,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Sze Thiam Siong | Setsco Services Pte Ltd |
 | | Mr Wong Keam Tong | Singapore Structural Steelwork Society |
 | | Dr Kong Kian Hau | The Institution of Engineers, Singapore |
-| **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
+| **Secretary** | Mr Chong Yong Hui | SAC Secretariat |
 
 ## Cargo Inspection
 ### Term : 1 July 2018 - 30 June 2021

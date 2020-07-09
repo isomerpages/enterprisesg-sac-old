@@ -45,7 +45,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |               | Er. Merlyn Thong             | Land Transport Authority          |
 |               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
 |               | Dr Ho Nyok Yong              | Samwoh Innovation Centre Pte Ltd  |
-| **Secretary** | Mr Tan Yee Teck              | Singapore Accreditation Council   |
+| **Secretary** | Mr Tang Kok Min              | Singapore Accreditation Council   |
 
 
 ## Council Committee for Certification (CCC)
