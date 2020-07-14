@@ -98,4 +98,3 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
 
-
