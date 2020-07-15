@@ -24,14 +24,14 @@ A certification body must be fully conversant and comply with the relevant stand
 ### Standards and Criteria Document for Management Systems Certification
 **ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
 
-* [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - March 2019](/files/documents/management-system-and-products-certification/CT-02-(29-March-2019).pdf){:target="_blank"}
+* [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/documents/management-system-and-products-certification/CT-02-15-Jul-2020-Approved.pdf){:target="_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - March 2019](/files/documents/management-system-and-products-certification/CT-04-(17-July-2019).pdf){:target="_blank"}
 * [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/documents/management-system-and-products-certification/CT-08-02-March-2020-(BCM).pdf){:target="_blank"}
 * [CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - March 2019](/files/documents/management-system-and-products-certification/CT-09-(29-March-2019).pdf){:target="_blank"}
 * [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - March 2020](/files/documents/management-system-and-products-certification/CT-11-02-March-2020-(WEMS).pdf){:target="_blank"}
-* [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers)  - March 2019](/files/documents/management-system-and-products-certification/CT-13-(29-March-2019).pdf){:target="_blank"}
-* [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - March 2020](/files/documents/management-system-and-products-certification/CT-14-02-Mar-2020-(MTCS).pdf){:target="_blank"}
-* [CT 15 - SAC Criteria for Certification Bodies (Management of end-of-life ICT Equipment) - March 2019](/files/documents/management-system-and-products-certification/CT-15-(29-March-2019).pdf){:target="_blank"}
+* [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers)  - July 2020](/files/documents/management-system-and-products-certification/CT-13-15-Jul-2020-Approved.pdf){:target="_blank"}
+* [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - March 2020](/files/documents/management-system-and-products-certification/CT-14-02-Mar-2020-(MTCS).pdf){:target="_blank")
+* [CT 15 - SAC Criteria for Certification Bodies (Management of end-of-life ICT Equipment) - July 2020](/files/documents/management-system-and-products-certification/CT-15-(29-March-2019).pdf){:target="_blank"}
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="_blank"}
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-18-(29-March-2019).pdf){:target="_blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-21-(29-March-2019).pdf){:target="_blank"}
@@ -72,7 +72,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](/files/documents/management-system-and-products-certification/CT-05-(29-March-2019).pdf){:target="_blank"}
 * [CT 06 - SAC Criteria for Ready-Mixed Concrete Producers - March 2019](/files/documents/management-system-and-products-certification/CT-06-(29-March-2019).pdf){:target="_blank"}
-* [CT 12 - SAC Criteria for Product Certification Bodies (Fire Safety Products) - March 2019](/files/documents/management-system-and-products-certification/CT-12-(29-March-2019).pdf){:target="_blank"}
+* [CT 12 - SAC Criteria for Product Certification Bodies (Fire Safety Products) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-12-(29-March-2019).pdf){:target="_blank"}
 * [CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-19-(29-March-2019).pdf){:target="_blank"}
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="_blank"}
 * [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 04 May 2018](/files/documents/management-system-and-products-certification/WELS-Guidebook-(4-May-18).pdf){:target="_blank"}
@@ -93,7 +93,7 @@ A certification body must be fully conversant and comply with the relevant stand
 <!-- NOTE: changes to CT 01A document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
 * [CT 01A, 02 March 2020 - Accreditation Process for Auditing Organisations](/files/documents/management-system-and-products-certification/CT-01A-02-March-2020-(AO)-v3.pdf){:target="_blank"}
 <!-- NOTE: changes to CT 17 document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
-* [CT 17 - SAC Criteria for Auditing Organisations - 01 Jan 2020](/files/documents/management-system-and-products-certification/CT 17 (01 Jan 2020) - SAC Criteria for AO.pdf){:target="_blank"} 
+* [CT 17 - SAC Criteria for Auditing Organisations - 15 July 2020](/files/documents/management-system-and-products-certification/CT-17-15-Jul-2020-Approved.pdf){:target="_blank"} 
 <!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
