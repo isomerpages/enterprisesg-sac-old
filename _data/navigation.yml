@@ -71,7 +71,7 @@
     url: https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form
     external: true
   - title: e-Services - eLearning Portal
-    url: https://lms.wizlearn.com/saclearning
+    url: https://lms.wizlearn.com/sacelearning
     external: true
 - title: Resources
   url: /resources/
