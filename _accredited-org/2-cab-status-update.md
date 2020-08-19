@@ -119,9 +119,6 @@ Click on the quick links below to jump to the CAB Status:
   * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
 
 
-#### Good Laboratory Practice Facility
-  * Prestige BioResearch Pl (28 August 2020)
-
   
 #### **Withdrawal by SAC**
 
