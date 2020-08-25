@@ -20,17 +20,14 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * PowerQ AnalytiQ Pte Ltd (25 February 2020)
   * Atlantic Solution Pte Ltd (05 April 2020)
   
 * Chemical & Biological Testing
-  * LYNK Biotechnology Pte Ltd (26 February 2020)
   * All Market Singapore Pte Ltd (15 April 2020)
   * Myanmar Food Processors & Exporters Association (MFPEA) Food Industries Development Supporting Laboratory (FIDSL) (06 May 2020)
   * Seahawk Services Pte Ltd (18 May 2020)
   
 * Civil Engineering
-  * Building Research Laboratories, Department of Building, Ministry of Constructions Yangon, Republic of Union of Myanmar (26 February 2020)
   * Geonamics (S) Pte Ltd - Site Laboratory (16 March 2020)
 
 * Mechanical Testing
@@ -39,8 +36,6 @@ Click on the quick links below to jump to the CAB Status:
 * Non-Destructive Testing
   * DM NDT Pte Ltd (17 March 2020)
   
-* Information Technology
-  * TUV SUB PSB Pte Ltd (04 February 2020)
 
 
 #### Inspection Body
@@ -89,17 +84,6 @@ Click on the quick links below to jump to the CAB Status:
 #### **Voluntary Withdrawal by CABs**
 
 #### Laboratory
-
-* Calibration & Measurement
-  * MSV Systems &amp; Services Pte Ltd (5 Feb 2020)
-  
-* Chemical & Biological Testing
-  * Geo-Chem Far East Pte Ltd (11 Feb 2020)
-  * Temasek Polytechnic (05 Feb 2020)
-  * Cast Laboratories Pte Ltd (19 February 2020)
-
-* Environmental Testing
-  * Cast Laboratories Pte Ltd (19 February 2020)
   
 * Medical Testing
   * Lucence Diagnostics Pte Ltd (01 July 2020)
@@ -115,8 +99,7 @@ Click on the quick links below to jump to the CAB Status:
   * Metcore International Pte Ltd (31 May 2020)
 
 * Hooklift & Container Inspection
-  * RINA Hong Kong (5 Feb 2020)
-  * Envotek Engineering Pte Ltd (24 Apr 2020) (certificate has lapsed)
+  * Envotek Engineering Pte Ltd (24 April 2020) (certificate has lapsed)
   
 
 #### Certification Body
@@ -134,6 +117,7 @@ Click on the quick links below to jump to the CAB Status:
   * ACE International certification Pte Ltd (31 May 2020)
   * Safety First Pte Ltd (18 July 2020)
   * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
+
 
   
 #### **Withdrawal by SAC**
