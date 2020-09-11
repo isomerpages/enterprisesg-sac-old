@@ -32,7 +32,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Members** | Dr Wu Yuan Sheng | Singapore Food Agency - Veterinary Public Health Laboratoriess |
+| **Members** | Dr Wu Yuansheng | Singapore Food Agency - Veterinary Public Health Laboratoriess |
 | | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
 | | Mr Jonathan Goh Peng Teck (Alt member : Dr Ng Khee Yang) | Environmental Engineering Society of Singapore (EESS) |
 | | Dr Liu Qinde | Health Sciences Authority |
@@ -70,11 +70,10 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
-| **Members** | Mr Lim Poh Leong | Agri-Food & Veterinary Authority |
+| **Members** | Mr Lim Poh Leong | Singapore Food Agency |
 | | Mr Foo Ngee Chih | Biomedical Research Council, A\*STAR |
 | | Mr Foo Yang Tong | Health Sciences Authority |
 | | Ms Angela Tan H J | National Environment Agency |
-| | Ms Fathima A. Majeed | Prestige Bioresearch Pte Ltd |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
 ## Medical Testing
