@@ -30,7 +30,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of Inspection Bodies for Central Alarm Monitoring Stations](/files/documents/inspection-body-accreditation/CAMS-01-(09-July-2018).pdf){:target="_blank"}
  
 **Motor Vehicle Inspection Field**
-* [Technical Note: MV 01: 09 Jul 2019 - Specific Requirements for Accreditation of Motor Vehicles Inspection](/files/documents/inspection-body-accreditation/MV-01-(09-July-2018).pdf){:target="_blank"}
+* [Technical Note: MV 01: 09 July 2018 - Specific Requirements for Accreditation of Motor Vehicles Inspection](/files/documents/inspection-body-accreditation/MV-01-(09-July-2018).pdf){:target="_blank"}
  
 **Pressure Vessel / Lifting Equipment Inspection Field**
 * [Technical Note: PV/LE: June 2018 - Specific Requirements for the Accreditation of Inspection Bodies in Pressure Vessels and Lifting Equipment Inspection](/files/documents/inspection-body-accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="_blank"}
