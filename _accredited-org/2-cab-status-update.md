@@ -85,6 +85,9 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
   
+* Mechanical Testing
+  * I-Marine.com Pte. Ltd. (04 August l2020)
+
 * Medical Testing
   * Lucence Diagnostics Pte Ltd (01 July 2020)
   
