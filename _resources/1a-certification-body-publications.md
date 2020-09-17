@@ -73,11 +73,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](/files/documents/management-system-and-products-certification/CT-05-(29-March-2019).pdf){:target="_blank"}
 * [CT 06 - SAC Criteria for Ready-Mixed Concrete Producers - March 2019](/files/documents/management-system-and-products-certification/CT-06-(29-March-2019).pdf){:target="_blank"}
 * [CT 12 - SAC Criteria for Product Certification Bodies (Regulated Fire Safety Products) - 14 September 2020](/files/documents/management-system-and-products-certification/CT-12-14-September-2020.pdf){:target="_blank"}
+* [CT 23 - SAC Criteria for Certification Bodies Product Certification Bodies (Regulated Shelter Products) - 14 September 2020](/files/documents/management-system-and-products-certification/CT-23-14-September-2020.pdf){:target="_blank"}
 * [CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-19-(29-March-2019).pdf){:target="_blank"}
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="_blank"}
-* [CT 23 - SAC Criteria for Certification Bodies Product Certification Bodies (Regulated Shelter Products) - 14 September 2020](/files/documents/management-system-and-products-certification/CT-23-14-September-2020.pdf){:target="_blank"}
-
-
 * [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 04 May 2018](/files/documents/management-system-and-products-certification/WELS-Guidebook-(4-May-18).pdf){:target="_blank"}
 <!-- NOTE: changes to Product Certification Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Product Certification Fees Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="_blank"}
