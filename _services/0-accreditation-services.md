@@ -18,7 +18,7 @@ Our accreditation schemes provide independent third-party attestation of
 * [Laboratories](laboratories) 
 * [Inspection Bodies](inspection-bodies) 
 * [Proficiency Testing Providers](proficiency-testing-providers)
-* [Greenhouse Gas Validation & Verification Bodies](validation-and-verification-bodies)
+* [Validation & Verification Bodies](validation-and-verification-bodies)
 
 We also administer the [Singapore Good Laboratory Practice (GLP) Compliance Programme](glp-compliance-monitoring).
 
