@@ -21,6 +21,8 @@ company-list:
         link: https://www.bca.gov.sg/Professionals/IQUAS/IQUAS/StaticPages/iso_company.aspx?menuID=7
       - name: "Bureau Veritas Singapore Pte Ltd"
         link: http://www.bureauveritas.com/home/contact   
+      - name: "Certfication Partner Global (Singapore) Pte Ltd"
+        link: https://www.companies.sg/zh/business/201302776D/CERTIFICATION-PARTNER-GLOBAL-SINGAPORE-PTE-LTD-
       - name: "DAS Certification Singapore Pte Ltd"
         link: http://dascert.com.sg/client-zone?field_certification_number_value=&field_standard_value=All  
       - name: "DNV GL Business Assurance Pte Ltd"
@@ -30,8 +32,7 @@ company-list:
       - name: "EQA IMS Certification Pte Ltd"
         link: http://eqaims.com/client-directory/ 
       - name: "Ernst & YoungCertifyPoint B.V"
-        link: http://   
-  
+        link: http://www.ey.com/gl/en/services/specialty-services/certifypoint   
       - name: "Guardian Independent Certification Pte Ltd"
         link: http://www.gicg.com.sg/ 
       - name: "ICR Singapore Certification Pte Ltd"
@@ -52,12 +53,10 @@ company-list:
         link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
       - name: "Singapore Test Services Pte Ltd"
         link: https://sts.calvinseng.com/certified-customers/
-      - name: "Certfication Partner Global (Singapore) Pte Ltd"
-        link: http://www.isc-global.net/our-clients/
       - name: "SOCOTEC Certification Singapore Pte Ltd"
         link: http://www.socotec-certification-international.sg/certification/certified-companies  
       - name: "Transpacific Certification s (Singapore) Pte. Ltd."
-        link: http://www.
+        link: http://www.tcspl.com.sg/
       - name: "TÜV Rheinland Singapore Pte Ltd"
         link: https://www.certipedia.com/?locale=en#system-search
       - name: "TÜV SÜD PSB Pte Ltd"
@@ -73,23 +72,22 @@ company-list:
       - name: "Centre Testing International Pte Ltd"
         link: http://www.cti-cert.com/en/resourceInit.do?id=116
        - name: "Control Union Singapore Pte Ltd"
-        link: http://www.
+        link: https://singapore-corp.com/co/control-union-singapore-pte-ltd
       - name: "Double Helix Tracking Technologies Pte. Ltd."
-        link: http://www.  
+        link: https://www.doublehelixtracking.com/
       - name: "Guardian Independent Certification Pte Ltd"
         link: http://gicg.com.sg/information/client-directory/
       - name: "Intertek Testing Services (Singapore) Pte Ltd"
         link: http://www.intertek.com/directories/
       - name: "Majlis Ugama Islam Singaura"
-        link: http://www.
+        link: https://www.muis.gov.sg/
       - name: "Setsco Services Pte Ltd"
         link: https://www.setsco.com/setsco/Info/html/prdtcertification.html
       - name: "SGS Testing & Control Services Singapore Pte Ltd"
         link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
       - name: "Singapore Environmental Council"
-        link: http://
-
-- name: "Singapore Laboratory Services Pte Ltd"
+        link: https://sec.org.sg/
+      - name: "Singapore Laboratory Services Pte Ltd"
         link: http://sls-singapore.sg/certification/
       - name: "Singapore Test Lab Pte Ltd"
         link: https://singaporetestlab.sg/certification/
@@ -110,7 +108,7 @@ company-list:
       - name: "CCTP Certified Counter Terrorism Board"
         link: http://www.cctpworld.com
       - name: "Institute of Management Consultants (Singapore)"
-        link: http://rmcsingapore.org/images/PDF/Register-of-RMC.pdf
+        link: https://www.imcs.sg/
       - name: "Non-Destructive Testing Society (Singapore)"
         link: http://www.ndtss.org.sg/
       - name: "Singapore PMC Certification Pte Ltd"
