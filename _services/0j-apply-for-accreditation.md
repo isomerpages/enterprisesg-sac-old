@@ -35,7 +35,7 @@ Please click the links below for the Terms and Conditions for different schemes:
 
 Please click the links below for the fee schedule for different schemes: 
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
-* [Good Laboratory Programme Registration](/files/documents/GLP02-GLP-Fee-structure-11Oct2019.pdf){:target="_blank"}
+* [Good Laboratory Programme Registration](/files/documents/glp/GLP02-GLP-Fee-structure-11Oct2019.pdf){:target="_blank"}
 * [Inspection Body Accreditation](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="_blank"}
 * [Laboratory Accreditation (SINGLAS)](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="_blank"}
 * [Management System Certification Body Accreditation](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="_blank"}
