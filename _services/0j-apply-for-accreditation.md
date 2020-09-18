@@ -30,7 +30,7 @@ Please ensure you have read SAC's Terms & Conditions and Fee Schedule before app
 Please click the links below for the Terms and Conditions for different schemes:
  
 * [SAC-01 Terms and Conditions for Accreditation](/files/documents/SAC-01-16-Feb-2020.pdf){:target="_blank"}
-* [Procedures and Conditions for GLP Registration](/files/documents/glp/GLP01-Procedures-and-Conditions-for-GLP-Registration-18-April-2018.pdf){:target="_blank"}
+* [Procedures and Conditions for GLP Registration](/files/documents/glp/GLP01-Procedures-and-Conditions-for-GLP-Registration/GLP-01-16-Feb-2020.pdf){:target="_blank"}
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
 
 Please click the links below for the fee schedule for different schemes: 
