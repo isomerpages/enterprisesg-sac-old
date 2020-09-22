@@ -67,9 +67,9 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16 | ISO 55001 |
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
-| Programme Information Security Management System (ISMS)| ISO/IEC 17021-1<br/>ISO/IEC 27006<br/>Applicable IAF MDs | ISO 27001 |
+| Information Security Management System (ISMS)| ISO/IEC 17021-1<br/>ISO/IEC 27006<br/>Applicable IAF MDs | ISO 27001 |
 |===|
-| Note:<br/>(1) AF MD: IAF Mandatory Documents<br/>(2) Please see Annex 1 for the list of above-mentioned standards. |
+| Note:<br/>(1) IAF MD: IAF Mandatory Documents<br/> |
 
 ### Benefits
 Accreditation will:

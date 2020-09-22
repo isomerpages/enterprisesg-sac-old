@@ -19,7 +19,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Programmes | Accreditation Requirements | Certification Standards |
 |------------|----------------------------|-------------------------|
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43 |
-| Other Programmes {::nomarkdown}<ul><li>Counterterrorism Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul>{:/} | ISO/IEC 17024 | Various applicable standards |
+| Other Programmes {::nomarkdown}<ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul>{:/} | ISO/IEC 17024 | Various applicable standards |
 
 <!-- COMMENT: the '{::nomarkdown}{:/}' tags are used to process HTML code between the tags -->
 
