@@ -19,8 +19,9 @@ A validation/verification body must be fully conversant and comply with the rele
 
 ### Standards and Criteria Document for Validation & Verification
 * ISO 14065:2013 Greenhouse Gases - Requirements for use in Accreditation or other forms of recognition
-* ISO 14066:2011 Greenhouse Gases - Competence requirements for Greenhouse gas validation teams and verification teams
-* ISO 14064-3:2006 Greenhouse Gases - Part 3: Specification with Guidance for the validation and verification of Greenhouse gas assertions
+(/files/documents/validation-and-verification-bodies/ISO-14065-2013.pdf){:target="_blank"}
+* ISO 14066:2011 Greenhouse Gases - Competence requirements for Greenhouse gas validation teams and verification teams(/files/documents/validation-and-verification-bodies/ISO-14066-2011.pdf){:target="_blank"}
+* ISO 14064-3:2006 Greenhouse Gases - Part 3: Specification with Guidance for the validation and verification of Greenhouse gas assertions(/files/documents/validation-and-verification-bodies/ISO-14064-3-2006.pdf){:target="_blank"}
 * [IAF MD 6:2014 IAF Mandatory Document for the Application of ISO 14065:2013](/files/documents/validation-and-verification-bodies/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
 <!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Fee Schedule, 10 October 2018](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="_blank"}
