@@ -1,7 +1,7 @@
 ---
 layout: certified-companies
 title: "Certified Companies"
-permalink: /accredited-org/certified-CAB-companies
+permalink: /accredited-org/certified-cab-companies
 collection_name: accredited-org
 
 ######################################################################################
@@ -14,7 +14,7 @@ company-list:
       - name: "Advanced Certification (Singapore) Pte Ltd"
         link: http://www.advancedcertification.sg
       - name: "A-Europe Certification Pte Ltd"
-      - link: https://www.ajaeurope.eu
+        link: https://www.ajaeurope.eu
       - name: "BSI Group Pte Ltd"
         link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
       - name: "Building and Construction Authority"
@@ -71,7 +71,7 @@ company-list:
         link: http://castlab.com.sg/our-services/product-certification-body-for-ready-mixed-concrete/
       - name: "Centre Testing International Pte Ltd"
         link: http://www.cti-cert.com/en/resourceInit.do?id=116
-       - name: "Control Union Singapore Pte Ltd"
+      - name: "Control Union Singapore Pte Ltd"
         link: https://singapore-corp.com/co/control-union-singapore-pte-ltd
       - name: "Double Helix Tracking Technologies Pte. Ltd."
         link: https://www.doublehelixtracking.com/
