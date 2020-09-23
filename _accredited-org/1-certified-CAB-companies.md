@@ -101,7 +101,7 @@ company-list:
         link: https://www.tuvsud.com/en-sg/services/product-certification/ready-mixed-concrete-certification-scheme
       - name: "UL International-Singapore Pte Ltd"
         link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html      
-      - name: "UK Certification Authority for Reinforcing Sheets"
+      - name: "UK Certification Authority for Reinforcing Steels"
         link: https://www.ukcares.com/    
   - category: "Personnel Certification"
     list:
