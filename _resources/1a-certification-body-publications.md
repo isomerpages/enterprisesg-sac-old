@@ -24,7 +24,7 @@ A certification body must be fully conversant and comply with the relevant stand
 ### Standards and Criteria Document for Management Systems Certification
 **ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
 
-* [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/documents/management-system-and-products-certification/CT-02-15-Jul-2020-Approved.pdf){:target="_blank"}
+* [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/documents/management-system-and-products-certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf){:target="_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - July 2019](/files/documents/management-system-and-products-certification/CT-04-(17-July-2019).pdf){:target="_blank"}
 * [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/documents/management-system-and-products-certification/CT-08-02-March-2020-(BCM).pdf){:target="_blank"}
 * [CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - March 2019](/files/documents/management-system-and-products-certification/CT-09-(29-March-2019).pdf){:target="_blank"}
