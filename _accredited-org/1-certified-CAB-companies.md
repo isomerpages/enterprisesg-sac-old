@@ -32,7 +32,7 @@ company-list:
       - name: "EQA IMS Certification Pte Ltd"
         link: http://eqaims.com/client-directory/ 
       - name: "Ernst & YoungCertifyPoint B.V"
-        link: http://www.ey.com/gl/en/services/specialty-services/certifypoint   
+        link: http://www.ey.com   
       - name: "Guardian Independent Certification Pte Ltd"
         link: http://www.gicg.com.sg/ 
       - name: "ICR Singapore Certification Pte Ltd"
