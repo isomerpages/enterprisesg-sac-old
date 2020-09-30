@@ -22,3 +22,11 @@ Businesses can refer to the MOM website (https://www.mom.gov.sg/covid-19/require
 * [Post-Circuit Breaker Briefing Session](/files/documents/Post-Circuit-Breaker-Briefing-Session-final2.pdf){:target="_blank"}
 
 
+<Update on Remote Assessment Practices>
+
+
+The SMF-TIC Interest Group (IG), Singapore Accreditation Council (SAC) and Enterprise Singapore (ESG) jointly conducted a webinar on Best Practices for Conducting Remote Assessments/Audits which was held on 16 September 2020. The webinar shared the best practices from the international and local accreditation community, and provided guidelines for companies to prepare for remote assessments. At the end of the remote assessment sharing, ESG also presented the available funding support schemes available for TIC players and the areas of collaboration between ESG and SMF-TIC IG. The presentation slides are available for reference.
+
+* [Best Practices for conducting remote assessments-Audits](/files/documents/Best-Practices-for-Conducting-Remote-Assessments-Audits-Fv3.pdf){:target="_blank"}
+
+
