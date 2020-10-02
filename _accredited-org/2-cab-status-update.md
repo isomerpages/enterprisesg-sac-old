@@ -84,16 +84,24 @@ Click on the quick links below to jump to the CAB Status:
 #### **Voluntary Withdrawal by CABs**
 
 #### Laboratory
-  
+
+* Civil Engineering 
+TTJ Design and Engineering Pte Ltd (14 September 2020)
+
+* Environmental Testing
+  * SGS Testing & Conrol Services Singapore Pte Ltd (25 August 2020)
+
 * Mechanical Testing
   * I-Marine.com Pte. Ltd. (04 August l2020)
-
+  * SGS Mauritius Ltd. (24 September 2020)
+  
 * Medical Testing
   * Lucence Diagnostics Pte Ltd (01 July 2020)
   
 * Non-Destructive Testing
   * Merlion NDT & Heat Treatment Services (S) Pte Ltd (09 May 2020)
   * TEAM Industrial Services Asia Private Limited (23 April 2020)
+  
  
 
 #### Inspection Body
