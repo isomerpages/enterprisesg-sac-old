@@ -86,7 +86,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Civil Engineering 
-TTJ Design and Engineering Pte Ltd (14 September 2020)
+  * TTJ Design and Engineering Pte Ltd (14 September 2020)
 
 * Environmental Testing
   * SGS Testing & Conrol Services Singapore Pte Ltd (25 August 2020)
