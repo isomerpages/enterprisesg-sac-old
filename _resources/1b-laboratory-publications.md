@@ -35,8 +35,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [LAFM03 - 02 April 2018 ISO 17025-2017 Checklist](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/LAFM03-ISO-17025-2017-Chklist-(02-April-2018).docx){:target="_blank"}
 
 **Calibration and Measurement Field**
-* [MET 001 - Mar 2019 : Specific Requirements for Calibration and Measurement Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/MET-001-29-Mar-2019.pdf){:target="_blank"}
-* [MET 002 - Mar 2019: General Requirements and Criteria for Documenting the Calibration and Measurement Capability](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/MET-002-29-Mar-2019.pdf){:target="_blank"}
+* [MET 001 - Mar 2019 : Specific Requirements for Calibration and Measurement Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/MET-001-29-Mar 2019.pdf){:target="_blank"}
+* [MET 002 - Mar 2019: General Requirements and Criteria for Documenting the Calibration and Measurement Capability](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/MET-002-9Oct2020-Final.pdf){:target="_blank"}
 * [Technical Guide 1 - Mar 2019 : Guidelines on the Evaluation and Expression of Measurement Uncertainty](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf){:target="_blank"}
 
 **Chemical & Biological Testing Field**
