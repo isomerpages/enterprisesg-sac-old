@@ -92,7 +92,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |----------------|----------------------------|-----------------------------------------------|
 | **Chairman**   | Mr Alok Mishra             | Individual Capacity                           |
 | **Members**    | Pending                    | Academy of Medicine                           |
-|                | Dr Ng Huck Hui             | Biomedical Research Council, A\*STAR          |
+|                | Prof Lisa Ng               | Biomedical Research Council, A\*STAR          |
 |                | Mr Foo Yang Tong	          | Health Sciences Authority                     |
 |                | Pending	                  | Ministry of Health (Health Regulations Group) |
 |                | Dr Tyrone Goh	            | National Healthcare Group Diagnostics         |
