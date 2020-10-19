@@ -90,6 +90,9 @@ Click on the quick links below to jump to the CAB Status:
 
 * Environmental Testing
   * SGS Testing & Conrol Services Singapore Pte Ltd (25 August 2020)
+  
+* Electrical Testing
+  * TUV Rheinland Singapore Pte Ltd (30 September 2020)
 
 * Mechanical Testing
   * I-Marine.com Pte. Ltd. (04 August l2020)
@@ -99,6 +102,8 @@ Click on the quick links below to jump to the CAB Status:
   * Lucence Diagnostics Pte Ltd (01 July 2020)
   
 * Non-Destructive Testing
+  * Av Engineering Services Pte Ltd (05 October 2020
+  * GAM-X Inspection Services Pte Ltd (Branch only) (07 September 2020)
   * Merlion NDT & Heat Treatment Services (S) Pte Ltd (09 May 2020)
   * TEAM Industrial Services Asia Private Limited (23 April 2020)
   
@@ -112,8 +117,16 @@ Click on the quick links below to jump to the CAB Status:
 * Hooklift & Container Inspection
   * Envotek Engineering Pte Ltd (24 April 2020) (certificate has lapsed)
   
+* Structural Steelwork Inpection
+  * TTJ Design and Engineering Pte Ltd (14 September 2020)
+
 
 #### Certification Body
+
+* Auditing Organisation
+  * ACE International certification Pte Ltd (31 May 2020)
+  * Safety First Pte Ltd (18 July 2020)
+  * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
 
 * Good Distribution Practice for Medical Devices
   * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020) 
@@ -121,14 +134,16 @@ Click on the quick links below to jump to the CAB Status:
 * Learning Service Providers
   * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020)
 
+* Product Certification
+  * TUV Rheinland Singapore Ltf (30 September 2020)
+
 * Quality Management Systems
   * ACE International certification Pte Ltd (31 May 2020)
+  * TQCSI Certification P L (15 September 2020)
+ 
+ 
+#### Good Laboratory Practice
 
-* Auditing Organisation
-  * ACE International certification Pte Ltd (31 May 2020)
-  * Safety First Pte Ltd (18 July 2020)
-  * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
-  
 * Good Laboratory Practice Facility
   * Prestige Bioresearch Pte. Ltd. (28 August 2020)
 
