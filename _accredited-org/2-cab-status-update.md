@@ -16,54 +16,7 @@ Click on the quick links below to jump to the CAB Status:
 
 {: #newly-accredited}
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
-
-#### Laboratory
-
-* Calibration & Measurement
-  * Atlantic Solution Pte Ltd (05 April 2020)
-  
-* Chemical & Biological Testing
-  * All Market Singapore Pte Ltd (15 April 2020)
-  * Myanmar Food Processors & Exporters Association (MFPEA) Food Industries Development Supporting Laboratory (FIDSL) (06 May 2020)
-  * Seahawk Services Pte Ltd (18 May 2020)
-  
-* Civil Engineering
-  * Geonamics (S) Pte Ltd - Site Laboratory (16 March 2020)
-
-* Mechanical Testing
-  * OLS Manufacturing Co Pte Ltd (08 April 2020)
-  
-* Non-Destructive Testing
-  * DM NDT Pte Ltd (17 March 2020)
-  
-
-
-#### Inspection Body
-
-* Pressure Vessel / Lifting Equipment Inspection
-  * B.I.E Engineering Pte Ltd (26 April 2020)
    
-
-#### Certification Body    
-
-* Auditing Organisation
-  * August International Pte Ltd (27 April 2020)
-  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
-
-* Environmental Management System 
-  * SC2 Pte Ltd (19 May 2020)
-  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
-
-* Occupational Health & Safety Management System 
-  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
-
-* Quality Management Systems
-  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
-  
-* Good Distribution Practice for Medical Devices
-  * Transpacific Certifications (Singapore) Pte. Ltd. (15 June 2020)
-  
-
 
 [Back to top ↑](#top)
 
