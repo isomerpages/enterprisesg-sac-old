@@ -27,7 +27,7 @@ second_nav_title: "Our Organisation And Structure"
 | Mr Lim Swee Peng | Accreditation Officer | <lim_swee_peng@enterprisesg.gov.sg> | (65) 62791849 | Physical Engineering |
 | Mr Chea Wei Qiang | Accreditation Officer | <chea_weiqiang@enterprisesg.gov.sg> | (65) 62793955 | Physical Engineering |
 | Mr Chong Yong Hui | Accreditation Officer | <chong_yong_hui@enterprisesg.gov.sg>	| (65) 62793850	| Physical Engineering |
-| Mr Adrian Ang | Accreditation Officer | <adrian_ang@enterprisesg.gov.sg> | (65) 62791885 | Calibration & Measurement, Electrical & ICT |
+| Mr Poh Wei Jin | Accreditation Officer | <poh_wei_jin@enterprisesg.gov.sg> | (65) 62791885 | Calibration & Measurement, Electrical & ICT |
 | Mr James Lee | Senior Accreditation Officer | <james_lee@enterprisesg.gov.sg> | (65) 62791863 | Electrical & ICT |
 | Ms Ho Phuy Bee | Senior Accreditation Officer | <ho_phuy_bee@enterprisesg.gov.sg> | (65) 62791816 | Chemical & Biological Sciences |
 | Ms Alicia Choong | Accreditation Officer | <alicia_choong@enterprisesg.gov.sg> | (65) 62793164 | Chemical & Biological Sciences, Medical Testing & Imaging |
