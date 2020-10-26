@@ -28,7 +28,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Environmental Testing
- * Nuevo Lab Pte Ltd (23October 2020)
+  * Nuevo Lab Pte Ltd (23October 2020)
 
 
 [Back to top ↑](#top)
