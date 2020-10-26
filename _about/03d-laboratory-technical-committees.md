@@ -24,7 +24,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University |
 | | Ms Tan Mei Ling | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
 | | Mr Elton Tong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-| **Secretary** | Mr Ng Tze Yang | SAC Secretariat |
+| **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
 ### Term : 1 July 2018 - 30 June 2021
@@ -54,14 +54,14 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Members** | Mr Ng Soo Horng | Casino Regulatory Authority |
 | | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
 | | Mr Lee Zhi Qing Robert | Cyber Security Agency |
-| | Er Koh Chuan Qing | Energy Market Authority |
+| | Er Koh Chuan Wai | Energy Market Authority |
 | | Dr Narasimalu Srikanth | Energy Research Institute @ NTU |
 | | Mr Quek Yang Boon | Government Technology Agency |
 | | Er Teh Cheong Foo | Housing & Development Board |
 | | Dr Pablo Valdivia | Singapore University of Technology and Design |
 | | Ms Goh Yoke Mun | Sustainable Energy Association of Singapore |
 | | Dr Alvin Chan | Singapore Institute of Technology |
-| | Mr Henry W. Shang | Singapore Manufacturing Federation -TIC Interest Group - UL International Singapore Pte Ltd |
+| | Mr Henry Chang | Singapore Manufacturing Federation -TIC Interest Group - UL International Singapore Pte Ltd |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Good Laboratory Practice
