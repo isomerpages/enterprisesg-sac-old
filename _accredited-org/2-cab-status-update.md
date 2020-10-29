@@ -84,7 +84,7 @@ Click on the quick links below to jump to the CAB Status:
   * ACE International certification Pte Ltd (31 May 2020)
   * Safety First Pte Ltd (18 July 2020)
   * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
-  * Regis International Certification Pte Ltf (27 October 2020)
+  * Regis International Certification Pte Ltd (27 October 2020)
 
 * Good Distribution Practice for Medical Devices
   * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020) 
