@@ -43,7 +43,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Ms Ng Su Ling | Singapore Polytechnic |
 | | Mr Richard Khaw | Singapore Institute of Food Science & Technology |
 | | Dr Edmund Tian Feng | Temasek Polytechnic |
-| **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
+| **Secretary** | Ms Tracy Toh | SAC Secretariat |
 
 ## Electrical & Infocomm Technology
 ### Term : 1 July 2018 - 30 June 2021
