@@ -18,6 +18,20 @@ Click on the quick links below to jump to the CAB Status:
 ### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
    
 
+#### Laboratory
+
+* Civil Engineering 
+  * Maek Consulting Pte Ltd (14 September 2020)
+  * Hilti Far East Pte Ltd (02 November 2020)
+
+* Non-Destructive Testing Testing
+  * Escon Inspection Technologies Pte Ltd (27 October 2020)
+  
+* Calibration & Measurement
+  * Orchid Calibration Pte Ltd (30 October 2020)
+  * VK Calibration Services Pte Ltd (09 November 2020)
+    
+
 [Back to top ↑](#top)
 
 ---
@@ -60,20 +74,10 @@ Click on the quick links below to jump to the CAB Status:
   
 * Non-Destructive Testing
   * Av Engineering Services Pte Ltd (05 October 2020)
-  * GAM-X Inspection Services Pte Ltd (Branch only) (07 September 2020)
-  * Merlion NDT & Heat Treatment Services (S) Pte Ltd (09 May 2020)
-  * TEAM Industrial Services Asia Private Limited (23 April 2020)
-  
  
 
 #### Inspection Body
-
-* Cargo Inspection
-  * Metcore International Pte Ltd (31 May 2020)
-
-* Hooklift & Container Inspection
-  * Envotek Engineering Pte Ltd (24 April 2020) (certificate has lapsed)
-  
+ 
 * Structural Steelwork Inpection
   * TTJ Design and Engineering Pte Ltd (14 September 2020)
 
@@ -81,22 +85,14 @@ Click on the quick links below to jump to the CAB Status:
 #### Certification Body
 
 * Auditing Organisation
-  * ACE International certification Pte Ltd (31 May 2020)
   * Safety First Pte Ltd (18 July 2020)
   * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
   * Regis International Certification Pte Ltd (27 October 2020)
-
-* Good Distribution Practice for Medical Devices
-  * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020) 
-
-* Learning Service Providers
-  * Lloyds Register Quality Assurance Limited Pte Ltd (27 May 2020)
 
 * Product Certification
   * TUV Rheinland Singapore Ltd (30 September 2020)
 
 * Quality Management Systems
-  * ACE International certification Pte Ltd (31 May 2020)
   * TQCSI Certification P L (15 September 2020)
  
  
@@ -110,10 +106,6 @@ Click on the quick links below to jump to the CAB Status:
 #### **Withdrawal by SAC**
 
 #### Inspection Body
-
-* Cargo Inspection
-  * Poseidon Marine Pte Ltd (23 July 2019)
-  * Atoz Maritime Pte Ltd (26 July 2019)
 
 * Hooklift & Container Inspection
   * AJK Engineering Pte Ltd (22 November 2019)
