@@ -42,7 +42,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Prof Pang Hock Lye, John | Nanyang Technological University |
 | | Dr Pang Sze Dai | National University of Singapore |
 | | Mr James Yuen | Singapore Contractors Association Ltd |
-| | Mr Sze Thiam Siong | Setsco Services Pte Ltd |
+| | Mr Sze Thiam Siong | Singapore Welding Society |
 | | Mr Wong Keam Tong | Singapore Structural Steelwork Society |
 | | Dr Kong Kian Hau | The Institution of Engineers, Singapore |
 | **Secretary** | Mr Chong Yong Hui | SAC Secretariat |
@@ -74,6 +74,6 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
 | | Er Teo Yen Pai | The Institution of Engineers, Singapore |
 | | Mr Jeffrey Yu | The Singapore Contractors Association Ltd |
-| | Dr Cai Jun Gang | TriTech Engineering & Society for Rock Mechanics & Engineering Geology |
+| | Dr Cai Jun Gang | Society for Rock Mechanics & Engineering Geology |
 | | Ms Prathipa Devi Sundraju | TIC Interest Group |
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
