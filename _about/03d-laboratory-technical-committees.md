@@ -82,8 +82,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Raymond Lin | Ministry of Health |
-| **Members** | Pending | Academy of Medicine - College of Pathology |
-| | Dr Ang Ai Leen | Health Sciences Authority |
+| **Members** | Dr Ang Ai Leen | Health Sciences Authority |
 | | A/Prof Leong Khai Pang | National Healthcare Group |
 | | Dr Nancy Tee | National University Health System |
 | | Dr Benedict Yan | National Unversity Health System |
@@ -102,8 +101,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
-| **Members** | Pending | Academy of Medicine - College of Radiologist |
-| | Dr Tan Soo See, Susanna | National Healthcare Group |
+| **Members** | Dr Tan Soo See, Susanna | National Healthcare Group |
 | | Dr Hoo Wee Teck	| National Environment Agency |
 | | A/Prof Goh Poh Sun | National University Health System |
 | | Dr Cheryl Lian | Society of Medical Physicists Singapore |
