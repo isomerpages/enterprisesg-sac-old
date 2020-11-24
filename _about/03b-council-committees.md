@@ -38,13 +38,13 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |---------------|------------------------------|-----------------------------------|
 | **Chairman**  | Mr Silas Sng Wee Kiat        | Singapore Accreditation Council   |
 | **Members**   | Dr Poh Teoh Yaw              | Building & Construction Authority |
-|               | Mr Adrian Lo                 | Bureau Veritas Singapore Pte Ltd  |
-|               | Mr Loh Lock Mun              | FRP Products Co. Pte Ltd          |
-|               | Mr Mohamed Sahlan Bin Salleh | Keppel FELS Ltd                   |
-|               | Er. Yong Fen Leong           | KTP Consultants Pte Ltd           |
+|               | Mr Adrian Lo                 | Singapore Manufacturing Federation – Testing, Inspection and Certification (TIC) Interest Group  |
+|               | Mr Loh Lock Mun              | Association of Process Industry          |
+|               | Mr Mohamed Sahlan Bin Salleh | Association of Singapore Marine Industries                   |
+|               | Er. Yong Fen Leong           | Association of Consulting Engineers           |
 |               | Er. Merlyn Thong             | Land Transport Authority          |
 |               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
-|               | Dr Ho Nyok Yong              | Samwoh Innovation Centre Pte Ltd  |
+|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd  |
 | **Secretary** | Mr Tang Kok Min              | Singapore Accreditation Council   |
 
 
