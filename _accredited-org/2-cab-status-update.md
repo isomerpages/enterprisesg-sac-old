@@ -37,7 +37,7 @@ Click on the quick links below to jump to the CAB Status:
 ---
 
 {: #suspended}
-### 2. Suspended Laboratory / Certification Body / Inspection Body 
+### 2. Suspended Laboratory /  Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 
 #### Laboratory
 
@@ -50,7 +50,7 @@ Click on the quick links below to jump to the CAB Status:
 ---
 
 {: #withdrawn}
-### 3. Withdrawn Laboratory / Certification Body / Inspection Body 
+### 3. Withdrawn Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 
 #### **Voluntary Withdrawal by CABs**
 
