@@ -102,7 +102,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
 | **Members** | Dr Tan Soo See, Susanna | National Healthcare Group |
-| | | Dr Hoo Wee Teck	| National Environment Agency |
+| | Dr Hoo Wee Teck	| National Environment Agency |
 | | A/Prof Goh Poh Sun | National University Health System |
 | | Dr Cheryl Lian | Society of Medical Physicists Singapore |
 | | Mr Chong Chun Meng | Singapore Society of Radiographers |
