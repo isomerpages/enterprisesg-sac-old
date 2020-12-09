@@ -20,7 +20,7 @@ The SMF-TIC Interest Group (IG), Singapore Accreditation Council (SAC) and Enter
 
 Update on Myanmar Market Access Sharing 
 
-A webinar was jointly organised by ESG, SAC and SMF-TIC Interest Group (IG) on xx to share the market access and market opportunities for TIC players in Myanmar. The scope of the webinar included an overview of the Myanmar business and TIC landscape, requirements for setting up business in Myanmar and ESG’s support schemes for companies looking to internationalise. There was also a sharing by Myanmar TIC company on their experiences and insights on Myanmar’s business environment. Please refer to the presentation slides appended below for more information.
+A webinar was jointly organised by ESG, SAC and SMF-TIC Interest Group (IG) on 11 November 2020 to share the market access and market opportunities for TIC players in Myanmar. The scope of the webinar included an overview of the Myanmar business and TIC landscape, requirements for setting up business in Myanmar and ESG’s support schemes for companies looking to internationalise. There was also a sharing by Myanmar TIC company on their experiences and insights on Myanmar’s business environment. Please refer to the presentation slides appended below for more information.
 
 •	[Myanmar Market Access](/files/documents/Myanmar-Market-Access.pdf){:target="_blank"}
 
