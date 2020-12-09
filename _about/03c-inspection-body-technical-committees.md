@@ -70,6 +70,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Chairman** | Er Jeyatharan Kumarasamy | Institute of Engineers, Singapore |
 | **Members** | Mr Yong Fen Leong | Association of Consulting Engineers Singapore |
 | | Dr Poh Teoh Yaw | Building & Construction Authority |
+| | Er Ng Peng Boon | Geotechnical Society of Singapore |
 | | Mr Teo Cheng Soon | Housing & Development Board |
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
 | | Er Teo Yen Pai | The Institution of Engineers, Singapore |
