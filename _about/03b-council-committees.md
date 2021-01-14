@@ -41,7 +41,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |               | Mr Adrian Lo                 | Singapore Manufacturing Federation – Testing, Inspection and Certification (TIC) Interest Group  |
 |               | Mr Loh Lock Mun              | Association of Process Industry          |
 |               | Mr Mohamed Sahlan Bin Salleh | Association of Singapore Marine Industries                   |
-|               | Er. Yong Fen Leong           | Association of Consulting Engineers           |
+|               | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore           |
 |               | Er. Merlyn Thong             | Land Transport Authority          |
 |               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
 |               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd  |
