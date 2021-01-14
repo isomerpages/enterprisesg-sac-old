@@ -58,9 +58,15 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
+* Calibration & Measurement
+  * GPS Lands (Singapore) Pte Ltd (21 December 2020)
+  
+* Chemical and Biological Testing
+  * Wyeth Nutritionals (Singapore) Pte Ltd (6 January 2021)
+
 * Civil Engineering 
   * TTJ Design and Engineering Pte Ltd (14 September 2020)
-
+ 
 * Environmental Testing
   * SGS Testing & Conrol Services Singapore Pte Ltd (25 August 2020)
   

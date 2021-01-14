@@ -30,7 +30,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - March 2019](/files/documents/management-system-and-products-certification/CT-09-(29-March-2019).pdf){:target="_blank"}
 * [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - 02 March 2020](/files/documents/management-system-and-products-certification/CT-11-02-March-2020-(WEMS).pdf){:target="_blank"}
 * [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers)  - 11 September  2020](/files/documents/management-system-and-products-certification/CT-13-11-September-2020.pdf){:target="_blank"}
-* [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - March 2020](/files/documents/management-system-and-products-certification/CT-14-02-Mar-2020-(MTCS).pdf){:target="_blank"}
+* [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - December 2020](files/documents/CT 14 (MTCS), 21 Dec 2020(1).pdf){:target="_blank"}
 * [CT 15 - SAC Criteria for Certification Bodies (Management of end-of-life ICT Equipment) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-15-(29-March-2019).pdf){:target="_blank"}
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="_blank"}
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-18-(29-March-2019).pdf){:target="_blank"} 
@@ -47,7 +47,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF-MD9-(2017).pdf){:target="_blank"}
 * [IAF MD 10:2013 - Assessment of Certification Body Management of Competence in accordance with ISO/IEC 17021:2011](/files/documents/management-system-and-products-certification/IAF-MD10-2013.pdf){:target="_blank"}
-* [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems](/files/documents/management-system-and-products-certification/IAF-MD11-2013.pdf){:target="_blank"}
+* [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems](/files/documents/management-system-and-products-certification/IAF-MD-11-v3.pdf){:target="_blank"}
 * [IAF MD 12:2016 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/management-system-and-products-certification/IAF-MD-12.pdf){:target="_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/management-system-and-products-certification/IAF-MD-15.pdf){:target="_blank"}
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD-16.pdf){:target="_blank"}
