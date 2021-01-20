@@ -9,7 +9,7 @@ The annual SAC Customer Day was held on 30 November 2020. This year due to the C
  
 The theme for this year’s event was “Role of Accreditation in the COVID-19 Climate”. A panel discussion on Opportunities for Conformity Assessment Bodies (CABs) in the new normal was held with distinguished speakers from the Singapore Food Agency (Dr Tan Lee Kim) and Cyber Security Agency of Singapore (Mr Lim Soon Chia), accredited laboratories An Security (Mr Daryl Koh) and Ugene Laboratory (Ms Eunice Ng), as well as the Testing, Inspection and Certification Interest Group (Mr Sze Thiam Siong). They shared on challenges and opportunities to the food, cybersecurity and TIC sectors during this unprecedented COVID-19 Pandemic.
  
-![SAC1](/images/press-release/images/photos/39D78D63-A33E-4834-8F05-57C7E8C3E142.jpeg)
+![SAC1](/images/press-release//photos/39D78D63-A33E-4834-8F05-57C7E8C3E142.jpeg)
 
 ![SAC3](/images/press-release/documents/WAD2017_2.PNG)
 
