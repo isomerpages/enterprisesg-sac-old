@@ -15,5 +15,5 @@ The theme for this year’s event was “Role of Accreditation in the COVID-19 C
 The event recognised 53 newly accredited CABs in the various schemes. Our heartiest congratulations to the achievements of these CABs!
 (insert congratulatory ad here)
 
-* [SAC Congratulatory Ad for Customer Day 2020](/files/documents/SAC-Congratulatory-ad-for-Customer-Day-2020-final.pdf){:target="_blank"}
+* [SAC Congratulatory Ad for Customer Day 2020](/files/documents/SAC-Congratulatory-Post-for-Newly-Accredited-CABs.pdf){:target="_blank"}
 
