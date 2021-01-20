@@ -11,12 +11,9 @@ The theme for this year’s event was “Role of Accreditation in the COVID-19 C
  
 ![SAC1](/images/press-release//photos/39D78D63-A33E-4834-8F05-57C7E8C3E142.jpeg)
 
-![SAC3](/images/press-release/documents/WAD2017_2.PNG)
+![SAC1](/images/press-release//photos/39D78D63-A33E-4834-8F05-57C7E8C3E142.jpeg)
 
 
-
- https://github.com/isomerpages/enterprisesg-sac/blob/staging/images/press-release/photos/39D78D63-A33E-4834-8F05-57C7E8C3E142.jpeg
- 
 The event recognised 53 newly accredited CABs in the various schemes. Our heartiest congratulations to the achievements of these CABs!
 (insert congratulatory ad here)
 
