@@ -10,4 +10,4 @@ The SAC Assessor Enclave was held virtually on 5 November 2020 to highlight SACâ
 <Insert attached congratulatory ad for assessors>
 ***
 
-. Congratulatory Ad{:target="_blank"}
+. SAC Congratulatory Ad for Assessors 2020{:target="_blank"}
