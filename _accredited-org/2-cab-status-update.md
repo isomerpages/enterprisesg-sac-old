@@ -21,16 +21,22 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Civil Engineering 
-  * Maek Consulting Pte Ltd (14 September 2020)
   * Hilti Far East Pte Ltd (02 November 2020)
 
 * Non-Destructive Testing Testing
   * Escon Inspection Technologies Pte Ltd (27 October 2020)
   
 * Calibration & Measurement
+  * ELPRO Pte Ltd (16 January 2021)
   * Orchid Calibration Pte Ltd (30 October 2020)
   * VK Calibration Services Pte Ltd (09 November 2020)
-    
+  
+
+#### Inspection Body Inspectiom
+
+* Marine & Offshore Inspection
+  * RINA Hong Kong Ltd(16 January 2020)
+     
 
 [Back to top ↑](#top)
 
@@ -62,6 +68,7 @@ Click on the quick links below to jump to the CAB Status:
   * GPS Lands (Singapore) Pte Ltd (21 December 2020)
   
 * Chemical and Biological Testing
+  * Singapore Petroleum Company Limited (20 January 2021)
   * Wyeth Nutritionals (Singapore) Pte Ltd (6 January 2021)
 
 * Civil Engineering 
@@ -76,10 +83,7 @@ Click on the quick links below to jump to the CAB Status:
 * Mechanical Testing
   * I-Marine.com Pte. Ltd. (04 August 2020)
   * SGS Mauritius Ltd. (24 September 2020)
-  
-* Medical Testing
-  * Lucence Diagnostics Pte Ltd (01 July 2020)
-  
+    
 * Non-Destructive Testing
   * Av Engineering Services Pte Ltd (05 October 2020)
  
