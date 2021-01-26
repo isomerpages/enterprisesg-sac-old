@@ -14,7 +14,7 @@ Deliver robust accreditation system to support industry and national needs
 ## Strategic Outcomes
 SAC will deliver globally trusted accreditation system and develop new accreditation programmes to meet both national and industry needs. SAC will strive to enhance competency of Testing, Inspection and Certification (TIC) players through capability building, and drive recognition and demand for SAC accredited services. In addition to forging Mutual Recognition Arrangements (MRAs), SAC will proactively facilitate bi-lateral relationships to ease market access in targeted markets.  
 
-![SAC Strategic Plan 2020](/images/about/SACStrategic2020.png)
+![SAC2025](/images/about/C5881772-CD58-4C50-AABC-91F8A6C3E623.png)
 
 ## Impartiality Policy
 SAC is committed to safeguarding and assuring the impartiality of its accreditation activities at strategic and operational levels. SAC will not allow commercial, financial and other pressures to compromise impartiality. SAC ensures its committees operate with balanced views and representations from key stakeholders and interested parties, without permitting any one interest to predominate or receive favour.
