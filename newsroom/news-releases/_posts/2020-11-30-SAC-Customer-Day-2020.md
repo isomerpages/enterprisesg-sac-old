@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SAC Assessor Customer Day 2020"
+title:  "SAC Customer Day 2020"
 date:  2020-11-30
 permalink: /newsroom/news-releases/SAC-Customer-Day-2020
 ---
