@@ -6,15 +6,15 @@ collection_name: about
 ---
 
 ## Vision
-To be the trusted partner for assurance of quality products and services locally and globally
+Choice partner for assurance of quality products, services and enterprises
 
 ## Misson
-To deliver a robust accreditation framework and international recognition of Singapore-based enterprises
+Deliver robust accreditation system to support industry and national needs
 
 ## Strategic Outcomes
-SAC's focus areas include strengthening accreditation services by developing new accreditation programmes for emerging areas and administering the various accreditation schemes and registration programme under its umbrella. SAC strives to increase the adoption and conversion of accredited TIC services through regular engagements with the public agencies and major procurers. Through accreditation, SAC recognises, maintains and improves the standard of conformity assessment activities in Singapore. It also forges Mutual Recognition Arrangements (MRAs) with regional and international bodies to facilitate trade for Singapore.
+SAC will deliver globally trusted accreditation system and develop new accreditation programmes to meet both national and industry needs. SAC will strive to enhance competency of Testing, Inspection and Certification (TIC) players through capability building, and drive recognition and demand for SAC accredited services. In addition to forging Mutual Recognition Arrangements (MRAs), SAC will proactively facilitate bi-lateral relationships to ease market access in targeted markets.  
 
-![SAC Strategic Plan 2020](/images/about/SACStrategic2020.png)
+![SAC Strategic Plan 2025](/images/about/93A19A7B-CAA8-4B2A-B31F-F20CBE4D75F8.png)
 
 ## Impartiality Policy
 SAC is committed to safeguarding and assuring the impartiality of its accreditation activities at strategic and operational levels. SAC will not allow commercial, financial and other pressures to compromise impartiality. SAC ensures its committees operate with balanced views and representations from key stakeholders and interested parties, without permitting any one interest to predominate or receive favour.
