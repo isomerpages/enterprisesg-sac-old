@@ -86,6 +86,7 @@ Click on the quick links below to jump to the CAB Status:
     
 * Non-Destructive Testing
   * Av Engineering Services Pte Ltd (05 October 2020)
+  * PT.A Star Testing & Inspection (07 January 2021)
  
 
 #### Inspection Body
