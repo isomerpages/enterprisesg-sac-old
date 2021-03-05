@@ -52,6 +52,12 @@ Click on the quick links below to jump to the CAB Status:
   * Nuevo Lab Pte Ltd (23 October 2020)
 
 
+#### Inspection Body
+
+* Site Investigation
+  * Geoapplication Engineers Pte Ltd (17 February 2021)
+ 
+
 [Back to top ↑](#top)
 
 ---
