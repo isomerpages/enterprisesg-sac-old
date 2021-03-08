@@ -29,9 +29,6 @@ A Memorandum of Understanding (MOU) to improve cooperation in accreditation acti
 ### MOU with Singapore Polytechnic   
 SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) at the Quality and Standards Conference 2014 on 5 August 2014. This collaboration is to educate and strengthen the quality mindset of the Singapore workforce, and it includes the design of a Diploma Course in Applied Sciences to raise the competence level of working adults in laboratory management. The course is expected to be rolled out in 2015.  
 ![Photo of MoU signing with SP]({{page.imgFolderPath}}MOU-with-SP.jpg)
-
-### MOU with Temasek Polytechnic 
-SAC signed a Memorandum of Understanding (MOU) with Temasek Polytechnic (TP) at the Accreditation and Conformance 2013 event on 14 August 2013. The partnership with TP is to address the educational and training needs of existing and prospective employees of laboratories in Singapore. The collaboration includes developing a Part-time Specialist Diploma Course in Laboratory Management and Instrumentation which commences in October 2014. The course aims to promote continuing education and training among working adults involved in analytical testing in laboratories.
  
 ### LOU for Technical Cooperation with Brunei Darussalam
 SAC signed a Letter of Understanding (LOU) for technical cooperation between the Ministry of Development, Brunei Darussalam and SAC on 9 April 2001. With this LOU, Brunei Darussalam recognises SAC as the accreditation body for the purpose of Laboratory Accreditation, Inspection Body Accreditation and Accreditation of Quality Management Systems Certification Bodies. 
