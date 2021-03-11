@@ -26,3 +26,4 @@ A validation/verification body must be fully conversant and comply with the rele
 <!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Fee Schedule, 10 October 2018](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="_blank"}
 * [Assessment Checklist (ISO 14065), 10 Oct 2018](/files/documents/validation-and-verification-bodies/Assessment-Checklist-(ISO-14065)-10-October-2018.docx){:target="_blank"}
+
