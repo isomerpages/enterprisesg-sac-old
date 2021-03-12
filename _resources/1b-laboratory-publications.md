@@ -29,7 +29,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [SAC-SINGLAS 002 - 09 Jul 2018: Guidelines for the Application of ISO/IEC 17025:2017](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-002-(09-July-2018).pdf){:target="_blank"}
 <!-- NOTE: changes to Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC-SINGLAS 003 - Mar 2019:  Fee Schedule for Accreditation of Testing and Calibration Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="_blank"}
-* [SAC-SINGLAS 006 - Mar 2019: Traceability of Measurement](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-006-(29-March-2019).pdf){:target="_blank"
+* [SAC-SINGLAS 006 - Mar 2019: Traceability of Measurement](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-006-(29-March-2019).pdf){:target="_blank"}
 * [LAFM03 - 02 April 2018 ISO 17025-2017 Checklist](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/LAFM03-ISO-17025-2017-Chklist-(02-April-2018).docx){:target="_blank"}
 
 **Calibration and Measurement Field**

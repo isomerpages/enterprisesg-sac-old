@@ -42,7 +42,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="_blank"}
 * [IAF MD 4:2018 - Use of Computer Assisted Auditing Techniques ("CAAT") for Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD4-Issue-2-03072018.pdf){:target="_blank"}
 * [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/IAF-MD5-Issue-4-Version-2-11112019.pdf){:target="_blank"}
-* [IAF MD 5:2015 - Duration of QMS and EMS Audit](/files/documents/management-system-and-products-certification/IAF-MD-5.pdf){:target="&#95;blank"}
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF-MD9-(2017).pdf){:target="_blank"}
@@ -53,7 +52,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD-16.pdf){:target="_blank"}
 * [IAF MD 21:2018 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF-MD21-(Migration-to-ISO45001-2018).pdf){:target="_blank"}
 * [IAF MD 22:2019 -  Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD22-Issue-2-07052019.pdf){:target="_blank"}
-* [IAF MD 22:2018 - Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD-22-OHSMS.pdf){:target="_blank"}
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="_blank"}
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/IAF-PL9-Issue-1-14112019.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
@@ -64,7 +62,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF-ISO_Communique_Expected_Outcomes_ISO_9001](/files/documents/management-system-and-products-certification/IAF-ISO_Communique_Expected_Outcomes_ISO_9001.pdf){:target="_blank"}
 * [IAF-ISO_Communique_Expected_Outcomes_ISO_14001](/files/documents/management-system-and-products-certification/IAF-ISO_Communique_Expected_Outcomes_ISO_14001.pdf){:target="_blank"}
 * [Joint IAF-ISO Communique on the publication and transition of ISO 9001:2015](/files/documents/management-system-and-products-certification/Joint-IAF-ISO-Communique-on-the-publication-and-transition-08Oct 2015.pdf){:target="_blank"}
-* [IAF Communique on important information for certification bodies regarding transition to ISO 9001 and ISO 14001](/files/documents/management-system-and-products-certification/IAF-communique-Important-information-for-Certification-Bodies-regarding-transition-to-ISO-9001-and-ISO-14001.pdf){:target="_blank"}
 
 ### Standards and Criteria Document for Product Certification
 **ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services**
