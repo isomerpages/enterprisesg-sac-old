@@ -28,22 +28,6 @@ Singapore 237994\\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
 
-
-1 Kim Seng Promenade #18-01\\ <!--COMMENT: the double backslashes is used to denote a line break without any paragraph spacing-->
-Great World City East Tower\\
-Singapore 237994\\
-**Customer Service Hotline** : (65) 6826 9691\\
-**Fax** : (65) 6820 3341\\
-**Email** : <singaporestandardseshop@toppanleefung.com>\\
-**Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}\\
-**Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
-
-
-
-
-
-
-
 In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="_blank"} websites.
 
 <!--COMMENT: the '{:target="_blank"}' at the end of the Markdown webpage URL syntax is used to open the URL in a new window tab -->
