@@ -24,8 +24,23 @@ Singapore 237994\\
 **Customer Service Hotline** : (65) 6826 9691\\
 **Fax** : (65) 6820 3341\\
 **Email** : <singaporestandardseshop@toppanleefung.com>\\
+**Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}
+**Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
+
+
+
+1 Kim Seng Promenade #18-01\\ <!--COMMENT: the double backslashes is used to denote a line break without any paragraph spacing-->
+Great World City East Tower\\
+Singapore 237994\\
+**Customer Service Hotline** : (65) 6826 9691\\
+**Fax** : (65) 6820 3341\\
+**Email** : <singaporestandardseshop@toppanleefung.com>\\
 **Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}\\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
+
+
+
+
 
 
 
