@@ -108,6 +108,9 @@ Click on the quick links below to jump to the CAB Status:
   * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
   * Regis International Certification Pte Ltd (27 October 2020)
 
+* End-of-Life ICT Equipment (EIMS) Certification
+  * SOCOTEC Certification Singapore Pte Ltd (11 March 2021)
+
 * Product Certification
   * TUV Rheinland Singapore Ltd (30 September 2020)
 
