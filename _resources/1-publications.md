@@ -24,7 +24,7 @@ Singapore 237994\\
 **Customer Service Hotline** : (65) 6826 9691\\
 **Fax** : (65) 6820 3341\\
 **Email** : <singaporestandardseshop@toppanleefung.com>\\
-**Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}
+**Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}\\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
 
