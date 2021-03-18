@@ -21,7 +21,7 @@ brochures:
         img: SAC-Booklet.jpg
         doc: SAC-Booklet.pdf
       - name: "Accreditation Scheme for Laboratories"
-        img: SAC-Brochures-LA.jpg
+        img: Laboratories.pdf
         doc: SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf
       - name: "Accreditation Scheme for Inspection Bodies"
         img: SAC-Brochures-IB.jpg
