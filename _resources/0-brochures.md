@@ -39,7 +39,7 @@ brochures:
         img: Personnel.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Personnel-Certification-Bodies.pdf
       - name: "Accreditation Scheme for Proficiency Testing Providers"
-        img: SAC-Brochures-PTP.jpg
+        img: Proficiency.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Proficiency-Testing-Providers.pdf 
       - name: "SAC Accreditation Marks"
         img: SAC-Brochures-SAC-Accreditation Marks.jpg
