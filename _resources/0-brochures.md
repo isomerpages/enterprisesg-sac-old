@@ -21,25 +21,25 @@ brochures:
         img: SAC-Booklet.jpg
         doc: SAC-Booklet.pdf
       - name: "Accreditation Scheme for Laboratories"
-        img: SAC-Brochures-LA.jpg
+        img: Laboratories.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf
       - name: "Accreditation Scheme for Inspection Bodies"
-        img: SAC-Brochures-IB.jpg
+        img: Inspection.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Inspection-Bodies.pdf 
       - name: "Accreditation Scheme for Management System Certification Bodies"
-        img: SAC-Brochures-MS.jpg
+        img: Certification.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Managament-System-Certification-Bodies.pdf 
-      - name: "Accreditation Scheme for Product Certification Bodies"
-        img: SAC-Brochures-PC.PNG
+      - name: "Accreditation Scheme for Management System Personnel Certification Bodies"
+        img: Personnel.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Product-Certification-Bodies.pdf
       - name: "Good Laboratory Practice Compliance Programme"
-        img: SAC-Brochures-GLP.jpg
+        img: GLP.jpg
         doc: SAC-Brochure-Good-Laboratory-Practice-Compliance-Programme.pdf 
       - name: "Accreditation Scheme for Personnel Certification Bodies"
-        img: SAC-Brochures-PCB.jpg
+        img: Personnel.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Personnel-Certification-Bodies.pdf
       - name: "Accreditation Scheme for Proficiency Testing Providers"
-        img: SAC-Brochures-PTP.jpg
+        img: Proficiency.jpg
         doc: SAC-Brochure-Accreditation-Scheme-for-Proficiency-Testing-Providers.pdf 
       - name: "SAC Accreditation Marks"
         img: SAC-Brochures-SAC-Accreditation Marks.jpg
