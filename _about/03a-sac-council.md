@@ -47,5 +47,4 @@ Accuron Technologies Limited
 Co-Founder & CEO, V-Key Pte Ltd | Individual Capacity (Digitalisation & Cybersecurity) |
 | | Pending | Individual Capacity (Digitalisation & Cybersecurity) |
 | | Pending | Individual Capacity (Digitalisation & Cybersecurity) |
-
 | | **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
