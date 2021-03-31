@@ -10,10 +10,10 @@ second_nav_title: "Our Organisation And Structure"
 
 The SAC Council is the highest authority in the accreditation hierarchy. It comprises a member of the industry as its Chairman and a balanced representation from all relevant parties as members. Representatives include those from industries, purchasers and suppliers, government departments, professional bodies, national standards authority, certification bodies and consumer interest groups.
 
-#### Term of Office: 1 April 2018 - 31 March 2021
+#### Term of Office: 1 April 2021 - 31 March 2024
 
 **Chairman**
-![Renny Yeo ](/images/about/our-organisation-structure/Renny-Yeo-HR2.jpg){: style="margin-left:0; width: 150px;"}
+![Tan Kai Hoe ](/images/about/our-organisation-structure/Renny-Yeo-HR2.jpg){: style="margin-left:0; width: 150px;"}
 <!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image -->
 **Mr Renny Yeo**\\
 Tai Sing Electric Ltd 
