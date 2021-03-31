@@ -21,7 +21,7 @@ Accuron Technologies Limited
 | Designation	| Name	| Organisation |
 |-------------|-------|--------------|
 | **Deputy Chairmen** | Mr Jagadish CV | JA Consulting, NXP Semiconductors (Recently retired) |
-| | Mr Amos Leong | Univad Group |
+| | Mr Amos Leong | Univac Group |
 | **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
 | | Dr Teo Tang Lin | Health Sciences Agency (HSA) |
@@ -30,7 +30,7 @@ Accuron Technologies Limited
 | | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
 | | Mr Adrian Ng | Ministry of Trade and Industry (MTI) |
 | | Mr Dalson Chung<br/>(Alternate: Ms Evon Wong) | National Environment Agency (NEA) |
-| | Dr Leslie Retnam | National University of Singapore |
+| | Dr Leslie Retnam | National University of Singapore (NUS)|
 | | Pending | Singapore Business Federation (SBF) |
 | | Mr Desmond Hill<br/>(Alternate: Mr Louise Chua) | Singapore Contractors Association Ltd (SCAL) |
 | | Dr Tan Lee Kim | Singapore Food Agency (SFA) |
@@ -42,8 +42,9 @@ Accuron Technologies Limited
 | | Mr Tan Gheng Een | Singapore Quality Institute (SQI) |
 | | Ms Lijun Tan | Smart Nation and Digital Government Office (SNDGO)|
 | | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
-| | Mr Joseph Gan, Co-Founder & CEO, V-Key Pte Ltd | Individual Capacity (Digitalisation & Cybersecurity) |
+| | Mr Joseph Gan
+Co-Founder & CEO, V-Key Pte Ltd | Individual Capacity (Digitalisation & Cybersecurity) |
 | | Pending | Individual Capacity (Digitalisation & Cybersecurity) |
 | | Pending | Individual Capacity (Digitalisation & Cybersecurity) |
 
-| **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
+| | **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
