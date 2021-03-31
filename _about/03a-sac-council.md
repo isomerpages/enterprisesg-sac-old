@@ -46,6 +46,4 @@ Accuron Technologies Limited
 | | Ms Lijun Tan | Smart Nation and Digital Government Office (SNDGO)|
 | | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
 | | Mr Joseph Gan<br/>Co-Founder & CEO, V-Key Pte Ltd | Individual Capacity (Digitalisation & Cybersecurity) |
-| | Pending | Individual Capacity (Medical & Healthcare) |
-| | Pending | Individual Capacity (Food & Agriculture) |
 | | **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
