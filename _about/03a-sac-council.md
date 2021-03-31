@@ -15,8 +15,9 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 **Chairman**
 
 ![Tan Kai Hoe ](/images/about/our-organisation-structure/TanKaiHoe.jpg)
-{: style="margin-left:0; width: 150px;"}
-<!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image -->
+
+<!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image {: style="margin-left:0; width: 150px;"}  -->
+
 **Mr Tan Kai Hoe**\\
 Accuron Technologies Limited 
 
