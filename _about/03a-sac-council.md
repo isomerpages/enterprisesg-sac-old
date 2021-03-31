@@ -34,6 +34,7 @@ Accuron Technologies Limited
 | | Pending | Singapore Business Federation (SBF) |
 | | Mr Desmond Hill<br/>(Alternate: Mr Louise Chua) | Singapore Contractors Association Ltd (SCAL) |
 | | Dr Tan Lee Kim | Singapore Food Agency (SFA) |
+| | Ms Yvonne Soh | Singapore Green Building Council SGBC) |
 | | Pending | Singapore Manufacturing Federation (SMF) |
 | | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
 | | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
