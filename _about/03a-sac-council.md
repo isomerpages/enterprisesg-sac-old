@@ -32,8 +32,8 @@ Accuron Technologies Limited
 | | Mr Dalson Chung<br/>(Alternate: Ms Evon Wong) | National Environment Agency (NEA) |
 | | Dr Leslie Retnam | National University of Singapore |
 | | Pending | Singapore Business Federation (SBF) |
-| | Mr Desmond Hill | Singapore Contractors Association Ltd (SCAL) |
-| | Dr Tan Lee Kim | Singapore Food Agency |
+| | Mr Desmond Hill<br/>(Alternate: Mr Louise Chua) | Singapore Contractors Association Ltd (SCAL) |
+| | Dr Tan Lee Kim | Singapore Food Agency (SFA) |
 | | Pending | Singapore Manufacturing Federation (SMF) |
 | | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
 | | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
@@ -42,4 +42,8 @@ Accuron Technologies Limited
 | | Mr Tan Gheng Een | Singapore Quality Institute (SQI) |
 | | Ms Lijun Tan | Smart Nation and Digital Government Office (SNDGO)|
 | | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
+| | Mr Joseph Gan, Co-Founder & CEO, V-Key Pte Ltd | Individual Capacity (Digitalisation & Cybersecurity) |
+| | Pending | Individual Capacity (Digitalisation & Cybersecurity) |
+| | Pending | Individual Capacity (Digitalisation & Cybersecurity) |
+
 | **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
