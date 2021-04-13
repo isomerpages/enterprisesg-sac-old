@@ -6,7 +6,7 @@ permalink: /services/training/Co-organisation-of-statistic-courses-in-FY2021
 ---
 
 ## Course Details
-***July, August an September 2021**
+**July, August and September 2021**
 
 Click [here](/files/training/Course-brochure-2019.pdf){:target="_blank"} to download the course brochure.
  
