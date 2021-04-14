@@ -8,7 +8,7 @@ permalink: /services/training/Co-organisation-of-statistic-courses-in-FY2021
 ## Course Details
 **July, August and September 2021**
 
-Click [here](/files/training/Course-brochure-2019.pdf){:target="_blank"} to download the course brochure.
+Click [here](/files/registration-forms/Course-brochure-2021.pdf){:target="_blank"} to download the course brochure.
  
 Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6775 1605** ext 125
 
