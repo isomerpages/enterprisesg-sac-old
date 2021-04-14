@@ -84,7 +84,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 ### Standards and Criteria Document for Medical Testing and Medical Imaging
 #### ISO 15189: 2012 - Particular Requirements for Quality and Competence
 
-* [SAC-SINGLAS 001 - 21 September 2020: Accreditation Process](/files/documents/SAC-SINGLAS-001-21-Sep-2020.pdf){:target="_blank"}
+* [SAC-SINGLAS 001 - 1 May 2021: Accreditation Process](/files/documents/laboratory-accreditation/SAC-SINGLAS-001-01-May-2021.pdf){:target="_blank"}
 
 <!-- NOTE: changes to Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees Schedule for Accreditation of Medical Testing Laboratories and Medical Imaging Facilities](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="_blank"}
