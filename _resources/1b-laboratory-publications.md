@@ -25,7 +25,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 #### ISO/IEC 17025: 2005 - General Requirements for the Competence of Testing and Calibration Laboratories
 
 <!-- NOTE: changes to SAC-SINGLAS 001 must also be updated in 'Services -> Accreditation Services->Laboratories' -->
-* [SAC-SINGLAS 001 - 21 September 2020: Accreditation Process](/files/documents/SAC-SINGLAS-001-21-Sep-2020.pdf){:target="_blank"}
+* [SAC-SINGLAS 001 - 1 May 2021: Accreditation Process](/files/documents/laboratory-accreditation/SAC-SINGLAS-001-01-May-2021.pdf){:target="_blank"}
 * [SAC-SINGLAS 002 - 09 Jul 2018: Guidelines for the Application of ISO/IEC 17025:2017](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-002-(09-July-2018).pdf){:target="_blank"}
 <!-- NOTE: changes to Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC-SINGLAS 003 - Mar 2019:  Fee Schedule for Accreditation of Testing and Calibration Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="_blank"}
@@ -84,7 +84,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 ### Standards and Criteria Document for Medical Testing and Medical Imaging
 #### ISO 15189: 2012 - Particular Requirements for Quality and Competence
 
-* [SAC-SINGLAS 001 - 21 September 2020: Accreditation Process](/files/documents/SAC-SINGLAS-001-21-Sep-2020.pdf){:target="_blank"}
+* [SAC-SINGLAS 001 - 1 May 2021: Accreditation Process](/files/documents/laboratory-accreditation/SAC-SINGLAS-001-01-May-2021.pdf){:target="_blank"}
 
 <!-- NOTE: changes to Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees Schedule for Accreditation of Medical Testing Laboratories and Medical Imaging Facilities](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="_blank"}
@@ -106,3 +106,4 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Medical Laboratory Assessment Checklist, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="_blank"}
 * [Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf){:target="_blank"}
 * [Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-29-Mar-19.pdf){:target="_blank"}
+

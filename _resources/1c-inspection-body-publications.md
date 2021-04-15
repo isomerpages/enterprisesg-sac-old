@@ -17,7 +17,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/SAC-01-16-Feb-2020.pdf){:target="_blank"}
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
-* [IB 01: 28 March 2019 - Accreditation Process](/files/documents/inspection-body-accreditation/IB-01-(28-March-2019).pdf){:target="_blank"}
+* [IB 01: 1 May 2021 - Accreditation Process](/files/documents/inspection-body-accreditation/IB-01-01-May-2021.pdf){:target="_blank"}
 <!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [IB 02: 09 Jul 2018 - Fee Schedule](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="_blank"}
 * [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/documents/inspection-body-accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="_blank"}
@@ -47,4 +47,5 @@ An inspection body must be fully conversant and comply with the relevant standar
   
 **Hook-Lift & Container Inspection Field**
 * [Technical Note: HL 01: Specific Requirements for the Accreditation of Inspection Bodies for Hook-Lift & Container Inspection](/files/documents/inspection-body-accreditation/HL-01-27112019-Revised.pdf){:target="_blank"}
+
 
