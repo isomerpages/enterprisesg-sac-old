@@ -33,8 +33,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [LAFM03 - 02 April 2018 ISO 17025-2017 Checklist](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/LAFM03-ISO-17025-2017-Chklist-(02-April-2018).docx){:target="_blank"}
 
 **Calibration and Measurement Field**
-* [MET 001 - May 2021 : Specific Requirements for Calibration and Measurement Laboratories]
-(files/documents/laboratory-accreditation/MET-001-1May2021.pdf){:target="_blank"}
+* [MET 001 - May 2021 : Specific Requirements for Calibration and Measurement Laboratories](files/documents/laboratory-accreditation/MET-001-1May2021.pdf){:target="_blank"}
 * [MET 002 - 9 October 2020 : General Requirements and Criteria for Documenting the Calibration and Measurement Capability](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/MET-002-9Oct2020-Final.pdf){:target="_blank"}
 * [Technical Guide 1 - Mar 2019 : Guidelines on the Evaluation and Expression of Measurement Uncertainty](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf){:target="_blank"}
 
@@ -47,7 +46,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Guidance Note - C&B and ENV 003, 01 July 2019 : Guidance for Identification and Confirmation of Microorganisms](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003_(1-Jul-2019).pdf){:target=_blank"}
 
 **Civil Engineering Testing Field**
-* [CE 001 - May 2021: Specific Requirements for Civil Engineering Testing Laboratories](files/documents/laboratory-accreditation/CE-001-1May2021.pdf{:target="_blank"}
+* [CE 001 - May 2021: Specific Requirements for Civil Engineering Testing Laboratories](files/documents/laboratory-accreditation/CE-001-1May2021.pdf){:target="_blank"}
 * [CE 002 - Mar 2019: Specific Requirements for Non-Destructive Testing for Concrete](/files/documents/laboratory-accreditation/testing-and-calibration-documents/civil-engineering-testing-field/CE-002-29-Mar-2019.pdf){:target="_blank"}
 * [SAC SINGLAS Technical Guide 3 - Guidance on Measurement Uncertainty for Civil Engineering and Mechanical Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/civil-engineering-testing-field/Technical-Guide-3-29-Mar-2019.pdf){:target="_blank"}
 
@@ -57,8 +56,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Guidance Note EL 001- Mar 2019 : Guidelines On the Evaluation and Expression of Measurement Uncertainty for Electrical Testing Field](/files/documents/laboratory-accreditation/testing-and-calibration-documents/electrical-testing-field/Gudiance-Note-EL-001-29-Mar-2019.pdf){:target="_blank"}
 
 **Environmental Testing Field**
-* [ENV 001 - Mar 2019: Specific Requirements for Environmental Testing Laboratories]
-(files/documents/laboratory-accreditation/ENV-TechNotes001-1May2021.pdf){:target="_blank"}
+* [ENV 001 - Mar 2019: Specific Requirements for Environmental Testing Laboratories](files/documents/laboratory-accreditation/ENV-TechNotes001-1May2021.pdf){:target="_blank"}
 * [C&B and ENV 002 - May 2018: Quality Assurance of Equipment commonly used in Chemical & Biological and Environmental Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/CB-and-ENV-Tech-Notes-002-15-May-18.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 001, Feb 2019 : Method Validation for Chemical Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-ENV-001-8-Feb-2019.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="_blank"}
