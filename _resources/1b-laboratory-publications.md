@@ -22,7 +22,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 
 ### Standards and Criteria Document for Testing and Calibrations (Exclude Medical Testing & Medical Imaging)
-#### ISO/IEC 17025: 2005 - General Requirements for the Competence of Testing and Calibration Laboratories
+#### ISO/IEC 17025: 2017 - General Requirements for the Competence of Testing and Calibration Laboratories
 
 <!-- NOTE: changes to SAC-SINGLAS 001 must also be updated in 'Services -> Accreditation Services->Laboratories' -->
 * [SAC-SINGLAS 001-Cor - 1 May 2021: Accreditation Process](/files/documents/laboratory-accreditation/SAC-SINGLAS-001-01-May-2021-Cor.pdf){:target="_blank"}
