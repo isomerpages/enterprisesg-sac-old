@@ -26,7 +26,9 @@ company-list:
       - name: "DAS Certification Singapore Pte Ltd"
         link: http://dascert.com.sg/client-zone?field_certification_number_value=&field_standard_value=All  
       - name: "DNV GL Business Assurance Pte Ltd"
-        link: https://certificatechecker.dnvgl.com/  
+        link: https://certificatechecker.dnvgl.com/
+      - name: "EHS Universal"
+        link: https://www.ehsuniversal.com/
       - name: "EPI Certification Pte Ltd"
         link: https://www.epi-certification.com/    
       - name: "EQA IMS Certification Pte Ltd"
