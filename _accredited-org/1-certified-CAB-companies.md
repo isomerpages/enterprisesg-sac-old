@@ -113,8 +113,8 @@ company-list:
         link: https://www.imcs.sg/
       - name: "Non-Destructive Testing Society (Singapore)"
         link: http://www.ndtss.org.sg/
-      - name: "Singapore PMC Certification Pte Ltd"
-        link: https://www.pmccertification.sg/pmc-search-directory
+      - name: "Singapore Business Advisors and Consultants Council Limited"
+        link: https://sbacc.org.sg/resources/levels-of-certifications/pmc/
       - name: "Singapore Rope Access Association Limited"
         link: http://sraa.asia/members/cert/
       - name: "TÜV SÜD PSB Pte Ltd"
