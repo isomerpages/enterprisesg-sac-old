@@ -10,7 +10,7 @@ second_nav_title: "Publications"
 A laboratory must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 ### Publications for All Fields
-* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf{:target="_blank"}
+* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf){:target="_blank"}
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
 * [SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [SAC-SINGLAS 004 - 21 September 2020: Classification of Tests](/files/documents/SAC-SINGLAS-004-21-Sep-2020.pdf){:target="_blank"}
