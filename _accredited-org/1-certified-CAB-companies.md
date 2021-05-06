@@ -64,7 +64,8 @@ company-list:
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/resource-centre/certificate-finder/directory-of-management-system-certified-companies
       - name: "URS Far East Pte Ltd"
-        link: http://www.urs-holdings.com/verify-the-validity-of-a-certificate
+        link: http://www.ursfe.com.sg
+               
   - category: "Product Certification"
     list:
       - name: "Admaterials Technologies Pte Ltd"
