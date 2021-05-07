@@ -31,7 +31,7 @@ second_nav_title: "Our Organisation And Structure"
 | Mr James Lee | Senior Accreditation Officer | <james_lee@enterprisesg.gov.sg> | (65) 62791863 | Electrical & ICT |
 | Ms Ho Phuy Bee | Senior Accreditation Officer | <ho_phuy_bee@enterprisesg.gov.sg> | (65) 62791816 | Chemical & Biological Sciences |
 | Ms Alicia Choong | Accreditation Officer | <alicia_choong@enterprisesg.gov.sg> | (65) 62793164 | Chemical & Biological Sciences, Medical Testing & Imaging |
-| Mr Tom Yen | Assistant Accreditation Officer | <tom_yen@enterprisesg.gov.sg> | (65) 62793397 | Chemical & Biological Sciences |
+| Mr Tom Yen | Accreditation Officer | <tom_yen@enterprisesg.gov.sg> | (65) 62793397 | Chemical & Biological Sciences |
 | Ms Tracy Toh | Senior Accreditation Officer | <tracy_toh@enterprisesg.gov.sg> | (65) 62793842 | Chemical & Biological Sciences |
 
 #### Inspection Body Accreditation
