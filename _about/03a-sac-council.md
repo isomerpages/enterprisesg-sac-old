@@ -34,17 +34,19 @@ Accuron Technologies Limited
 | | Mr Adrian Ng | Ministry of Trade and Industry (MTI) |
 | | Mr Dalson Chung<br/>(Alternate: Ms Evon Wong) | National Environment Agency (NEA) |
 | | Dr Leslie Retnam | National University of Singapore (NUS)|
-| | Pending | Singapore Business Federation (SBF) |
-| | Mr Desmond Hill<br/>(Alternate: Mr Louise Chua) | Singapore Contractors Association Ltd (SCAL) |
+| | Ms Siew Kum Fong | Singapore Business Federation (SBF) |
+| | Mr Desmond Hill<br/>(Alternate: Ms Louise Chua) | Singapore Contractors Association Ltd (SCAL) |
 | | Dr Tan Lee Kim | Singapore Food Agency (SFA) |
 | | Ms Yvonne Soh | Singapore Green Building Council SGBC) |
-| | Pending | Singapore Manufacturing Federation (SMF) |
-| | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
-| | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
-| | Pending | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group: Laboratories' Representative |
+| | Ms Joyce Seow | Singapore Manufacturing Federation (SMF) |
+| | Ms Wong Sok Mei | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
+| | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
+| | Mr Elton Tong Joo Beng | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group: Laboratories' Representative |
 | | Mr Steven Koh | Singapore Precision Engineering and Technology Association (SPETA) |
 | | Ms Lijun Tan | Smart Nation and Digital Government Office (SNDGO)|
 | | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
 | | Mr Joseph Gan<br/>Co-Founder & CEO, V-Key Pte Ltd | Individual Capacity (Digitalisation & Cybersecurity) |
+| | Mr Allan Lim | Individual Capacity (Medical and Healthcare) |
+| | Mr alex Budiman | Individual Capacity (Food and Agriculture) |
 | **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
 
