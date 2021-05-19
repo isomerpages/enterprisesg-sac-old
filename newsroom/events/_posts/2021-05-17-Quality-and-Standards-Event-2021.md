@@ -46,8 +46,7 @@ Ms Taidi explained how environmental, social and governance considerations are d
 
 Dr Winston Chow, Associate Professor of Singapore Management University
 
-![CF083F80-B515-4A85-930D-872029435665.jpeg]
-(/images/press-release/photos/CF083F80-B515-4A85-930D-872029435665.jpeg)
+![CF083F80-B515-4A85-930D-872029435665.jpeg](/images/press-release/photos/CF083F80-B515-4A85-930D-872029435665.jpeg)
 
 Dr Chow, in his capacity as lead author of the Cities chapter in the “Assessment Report on Climate Change” at Intergovernmental Panel on Climate Change, spoke about the trends, agreement and regulations on environmental sustainability. He also shared perspectives on sustainability pathways that enterprises may adopt to align with the United Nations Sustainability Development Goals essential for climate action.
  
