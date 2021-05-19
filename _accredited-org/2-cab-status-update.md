@@ -20,22 +20,28 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Civil Engineering 
-  * Hilti Far East Pte Ltd (02 November 2020)
-
 * Non-Destructive Testing Testing
-  * Escon Inspection Technologies Pte Ltd (27 October 2020)
+  * Veera Offshore Engineering Services Pte. Ltd. (27 April 2021)
+  * Weaves Engineering Pte. Ltd.
   
 * Calibration & Measurement
-  * ELPRO Pte Ltd (16 January 2021)
-  * Orchid Calibration Pte Ltd (30 October 2020)
-  * VK Calibration Services Pte Ltd (09 November 2020)
+  * Trescal Singapore Pte Ltd @ Goodrich (16 April 2021)
+
+* Mechanical Testing
+  * Asahi Kasei Plastics Singapore Pte Ltd (5 April 2021)
   
 
 #### Inspection Body Inspectiom
 
-* Marine & Offshore Inspection
-  * RINA Hong Kong Ltd(16 January 2020)
+* Cargo Inspection
+  * Eurofins Mechem Pte Ltd (19 April 2021)
+
+
+#### Certification Body
+
+* Medical Devices - Quality Management Sysrems
+  * Bureau Veritas Quality Assurance Pte. Ltd. (28 April 2021)
+
      
 
 [Back to top ↑](#top)
@@ -79,21 +85,10 @@ Click on the quick links below to jump to the CAB Status:
   * Singapore Petroleum Company Limited (20 January 2021)
   * Wyeth Nutritionals (Singapore) Pte Ltd (6 January 2021)
 
-* Civil Engineering 
-  * TTJ Design and Engineering Pte Ltd (14 September 2020)
- 
-* Environmental Testing
-  * SGS Testing & Conrol Services Singapore Pte Ltd (25 August 2020)
-  
-* Electrical Testing
-  * TUV Rheinland Singapore Pte Ltd (30 September 2020)
-
 * Mechanical Testing
-  * I-Marine.com Pte. Ltd. (04 August 2020)
-  * SGS Mauritius Ltd. (24 September 2020)
+  * Northlab Pte Ltd (23 March 2021)
     
 * Non-Destructive Testing
-  * Av Engineering Services Pte Ltd (05 October 2020)
   * PT.A Star Testing & Inspection (07 January 2021)
  
 
