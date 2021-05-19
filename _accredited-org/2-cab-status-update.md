@@ -71,6 +71,8 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
+  * Northlab Seams Pte Ltd (8 March 2021)
+  * CEP Services Pte Ltd (10 May 2021)
   * GPS Lands (Singapore) Pte Ltd (21 December 2020)
   
 * Chemical and Biological Testing
