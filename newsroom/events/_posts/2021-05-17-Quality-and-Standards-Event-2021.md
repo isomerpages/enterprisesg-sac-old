@@ -26,6 +26,8 @@ Ms Choy acknowledged our partners for their unwavering support to meet key achie
 Joint Opening Remarks by Mr Tan Kai Hoe, Chairman of Singapore Accreditation Council
 
 
+![62E045E4-9835-4FD3-9BC2-E6B50C39E328](/images/press-release/photos/62E045E4-9835-4FD3-9BC2-E6B50C39E328.jpeg
+
 Mr Tan recognised our partners for their contributions and spoke of SAC’s efforts in the 2025 strategic plan, and highlighted upcoming focuses on areas such as environmental sustainability. He underscored the importance of Quality & Standards in the identified growth areas. SAC will also support industry TIC demand by providing a more robust accreditation infrastructure.
  
 
