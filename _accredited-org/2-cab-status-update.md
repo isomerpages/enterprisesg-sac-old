@@ -92,7 +92,6 @@ Click on the quick links below to jump to the CAB Status:
   * PT.A Star Testing & Inspection (07 January 2021)
  
 
-
 #### Certification Body
 
 * End-of-Life ICT Equipment (EIMS) Certification
