@@ -59,9 +59,9 @@ Panel Discusssion
 
 Mr Marc Allen, Technical Director of Engeco
 
-![B31CE872-A395-4666-8C49-CCB28A7926AA.jpeg]
-(/images/press-release/photos/B31CE872-A395-4666-8C49-CCB28A7926AA.jpeg)
+![B31CE872-A395-4666-8C49-CCB28A7926AA.jpeg](/images/press-release/photos/B31CE872-A395-4666-8C49-CCB28A7926AA.jpeg)
 
 Mr Allen, in his capacity as co-chair of our National Mirror Committee to ISO TC 323 on Circular Economy, provided his insights on the role of standards and conformance in the circular economy, sustainable finance and climate risk management.
-
+
+
 Key takeaways from our panel discussion include:
