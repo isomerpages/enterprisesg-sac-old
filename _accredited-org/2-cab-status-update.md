@@ -92,33 +92,11 @@ Click on the quick links below to jump to the CAB Status:
   * PT.A Star Testing & Inspection (07 January 2021)
  
 
-#### Inspection Body
- 
-* Structural Steelwork Inpection
-  * TTJ Design and Engineering Pte Ltd (14 September 2020)
-
 
 #### Certification Body
 
-* Auditing Organisation
-  * Safety First Pte Ltd (18 July 2020)
-  * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
-  * Regis International Certification Pte Ltd (27 October 2020)
-
 * End-of-Life ICT Equipment (EIMS) Certification
   * SOCOTEC Certification Singapore Pte Ltd (11 March 2021)
-
-* Product Certification
-  * TUV Rheinland Singapore Ltd (30 September 2020)
-
-* Quality Management Systems
-  * TQCSI Certification P L (15 September 2020)
- 
- 
-#### Good Laboratory Practice
-
-* Good Laboratory Practice Facility
-  * Prestige Bioresearch Pte. Ltd. (28 August 2020)
 
 
   
