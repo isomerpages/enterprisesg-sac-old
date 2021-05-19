@@ -20,6 +20,7 @@ Title: Quality & Standards Partners Appreciation Event 2021
 The Quality & Standards Partners Appreciation Event 2021, which took place on 20 April 2021, was attended by over 300 participants. Jointly organised by Enterprise Singapore, the Singapore Accreditation Council (SAC) and Singapore Standards Council (SSC), the event sought to show appreciation to our SAC and SSC partners for their tremendous contributions to Singapore’s Standards and Accreditation programmes. The Distinguished Partners Award (DPA) was jointly presented by Enterprise Singapore and SAC to our awardees in recognition of their outstanding leadership and contributions in raising Singapore’s standardisation and accreditation profile nationally and internationally. In addition, the event recognised and celebrated our Commendation Award (CA) recipients from SAC and SSC through an appreciation video. We have also published a congratulatory announcement on The Business Times on 20 April 2021, highlighting all our award recipients.
  
 Here are some of our key event highlights:
+
 Joint Opening Remarks by Mr Robert Chew, Chairman of Singapore Standards Council
  
 Mr Chew thanked our partners for their leadership and contributions and shared about the Standards Council’s next five-year plan to build a robust standardisation ecosystem.
