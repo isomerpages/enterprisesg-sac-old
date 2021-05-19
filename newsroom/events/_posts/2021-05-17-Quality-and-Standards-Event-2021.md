@@ -1,8 +1,8 @@
 ---
 post
 title:  "Quality and Standards Event 2021"
-date:   2014-10-07
-permalink: /newsroom/news-releases/Quality-and-Standards-Event-2021
+date:   2021-05-17
+permalink: /newsroom/events/Quality-and-Standards-Event-2021
 ---
 
 
