@@ -22,6 +22,8 @@ The Quality & Standards Partners Appreciation Event 2021, which took place on 20
  
 Here are some of our key event highlights:
 
+![7FFA4EC2-C45B-42EB-A9B5-D76708CE694E](/images/press-release/photos/7FFA4EC2-C45B-42EB-A9B5-D76708CE694E.jpeg)
+
 Joint Opening Remarks by Mr Robert Chew, Chairman of Singapore Standards Council
  
 Mr Chew thanked our partners for their leadership and contributions and shared about the Standards Council’s next five-year plan to build a robust standardisation ecosystem.
