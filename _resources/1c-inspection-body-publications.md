@@ -14,7 +14,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 * [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="_blank"}
 * [Rules for the Use of ILAC MRA Mark](/files/documents/inspection-body-accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="_blank"}
-* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/SAC-01-16-Feb-2020.pdf){:target="_blank"}
+* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf){:target="_blank"}
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [IB 01: 1 May 2021 - Accreditation Process](/files/documents/inspection-body-accreditation/IB-01-01-May-2021.pdf){:target="_blank"}
