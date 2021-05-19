@@ -50,8 +50,8 @@ Dr Winston Chow, Associate Professor of Singapore Management University
 
 Dr Chow, in his capacity as lead author of the Cities chapter in the “Assessment Report on Climate Change” at Intergovernmental Panel on Climate Change, spoke about the trends, agreement and regulations on environmental sustainability. He also shared perspectives on sustainability pathways that enterprises may adopt to align with the United Nations Sustainability Development Goals essential for climate action.
  
-
-
+ 
+![4BCE73AF-4073-44C4-970F-8CE0EF171469.jpeg](/images/press-release/photos/4BCE73AF-4073-44C4-970F-8CE0EF171469.jpeg)
 
 Seated from left to right: Moderator- Mr Sim Choon Siong (Enterprise Singapore), followed by the 5 industry panelists- Mr Seth Wang (Control Union Singapore), Ms Foo Peng Er (CapitaLand Group), Ms Khoo Gek Hoon (Singapore Food Agency), Dr Winston Chow (Singapore Management University) and Mr Marc Allen (Engeco)
 
