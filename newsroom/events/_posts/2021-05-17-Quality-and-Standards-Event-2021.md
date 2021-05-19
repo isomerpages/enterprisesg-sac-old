@@ -25,7 +25,6 @@ Ms Choy acknowledged our partners for their unwavering support to meet key achie
 
 Joint Opening Remarks by Mr Tan Kai Hoe, Chairman of Singapore Accreditation Council
 
-
 ![62E045E4-9835-4FD3-9BC2-E6B50C39E328](/images/press-release/photos/62E045E4-9835-4FD3-9BC2-E6B50C39E328.jpeg)
 
 Mr Tan recognised our partners for their contributions and spoke of SAC’s efforts in the 2025 strategic plan, and highlighted upcoming focuses on areas such as environmental sustainability. He underscored the importance of Quality & Standards in the identified growth areas. SAC will also support industry TIC demand by providing a more robust accreditation infrastructure.
@@ -37,15 +36,18 @@ Keynote Speaker: Dr Shu Yinbiao, President of the International Electrotechnical
 
 Dr Shu noted how the IEC plays an important role in developing global standards and conformity assessment solutions that support regulators' sustainability policies, as well as in the industry on new and sustainable product innovations.  
 
+
 Ms Hanane Taidi, Director-General of TIC Council
 
-(/images/press-release/photos/96D40772-2250-4D10-B637-6725DC38F552.jpeg
+![96D40772-2250-4D10-B637-6725DC38F552](/images/press-release/photos/96D40772-2250-4D10-B637-6725DC38F552.jpeg)
 
 Ms Taidi explained how environmental, social and governance considerations are driving the development of new conformity assessment programmes to meet industry and regulatory demands.
 
+
 Dr Winston Chow, Associate Professor of Singapore Management University
 
-(/images/press-release/photos/CF083F80-B515-4A85-930D-872029435665.jpeg
+![CF083F80-B515-4A85-930D-872029435665.jpeg]
+(/images/press-release/photos/CF083F80-B515-4A85-930D-872029435665.jpeg)
 
 Dr Chow, in his capacity as lead author of the Cities chapter in the “Assessment Report on Climate Change” at Intergovernmental Panel on Climate Change, spoke about the trends, agreement and regulations on environmental sustainability. He also shared perspectives on sustainability pathways that enterprises may adopt to align with the United Nations Sustainability Development Goals essential for climate action.
  
