@@ -78,4 +78,18 @@ Mr Marc Allen, Technical Director of Engeco
 Mr Allen, in his capacity as co-chair of our National Mirror Committee to ISO TC 323 on Circular Economy, provided his insights on the role of standards and conformance in the circular economy, sustainable finance and climate risk management.
 
 
+
 Key takeaways from our panel discussion include:
+
+Sharing of sustainability-related case studies from our experts in industry sectors such as agri-food production, real estate development and conformance assessment, in areas of circular economy, sustainability reporting and financing as well as low carbon technologies.
+How new and emerging Standards and Conformance practices can help businesses achieve their sustainability goals and access new business opportunities, particularly in many of the focused areas of development, aligned to our national initiatives.
+ 
+
+ 
+
+Specially available on demand
+
+All livestreamed content is now available to watch on demand at your own pace - including speeches, video montage, presentations and panel discussion.
+
+ Watch the full recording here
+
