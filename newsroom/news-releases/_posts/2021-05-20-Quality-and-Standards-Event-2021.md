@@ -12,8 +12,6 @@ Here are some of our key event highlights:
 
 Joint Opening Remarks by Mr Robert Chew, Chairman of Singapore Standards Council
 
-7C3462C-B7D9-4587-8C29-F256A73D047F.png
-
 
 ![7C3462C-B7D9-4587-8C29-F256A73D047F.png](/images/press-release/photos/7C3462C-B7D9-4587-8C29-F256A73D047F.png)
 
