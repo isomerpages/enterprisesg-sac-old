@@ -28,11 +28,6 @@ Mr Chew thanked our partners for their leadership and contributions and shared a
 
 
 
-
-
-![160533E5-3F82-4757-BC9D-A3A478E99EE5](/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg)
-
-Ms Choy acknowledged our partners for their unwavering support to meet key achievements last year. These included the development of 134 standards (of which 41 are new), accredited 42 new Conformity Assessment Bodies, stepped up international participation in standards development and expanded partnerships through MOUs. She further provided insights on future directions for Quality and Standards.
  
 Joint Opening Remarks by Mr Tan Kai Hoe, Chairman of Singapore Accreditation Council
 
