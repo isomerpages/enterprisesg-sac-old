@@ -44,6 +44,9 @@ Keynote Speaker: Dr Shu Yinbiao, President of the International Electrotechnical
 Dr Shu noted how the IEC plays an important role in developing global standards and conformity assessment solutions that support regulators' sustainability policies, as well as in the industry on new and sustainable product innovations.  
 
 
+Ms Hanane Taidi, Director-General of TIC Council
+
+![96D40772-2250-4D10-B637-6725DC38F552](/images/press-release/photos/96D40772-2250-4D10-B637-6725DC38F552.jpeg)
 
 Ms Taidi explained how environmental, social and governance considerations are driving the development of new conformity assessment programmes to meet industry and regulatory demands.
 
