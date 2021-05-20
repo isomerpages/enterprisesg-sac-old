@@ -1,8 +1,9 @@
-
-
-
-
-
+---
+layout: post
+title:  "Quality-&-Standards=Partners-Appreciation-Event-2021"
+date:   2021-05-17
+permalink: /newsroom/news-releases/ Quality & Standards Partners Appreciation Event 2021
+---
 
 
 Title: Quality & Standards Partners Appreciation Event 2021
