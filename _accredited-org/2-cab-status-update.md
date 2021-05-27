@@ -20,7 +20,7 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Non-Destructive Testing Testing
+* Non-Destructive Testing
   * Veera Offshore Engineering Services Pte. Ltd. (27 April 2021)
   * Weaves Engineering Pte. Ltd.
   
