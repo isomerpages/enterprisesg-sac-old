@@ -39,7 +39,7 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Certification Body
 
-* Medical Devices - Quality Management Sysrems
+* Medical Devices - Quality Management Systems
   * Bureau Veritas Quality Assurance Pte. Ltd. (28 April 2021)
 
      
