@@ -33,7 +33,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - December 2020](/files/documents/CT 14 (MTCS), 21 Dec 2020(1).pdf){:target="_blank"}
 * [CT 15 - SAC Criteria for Certification Bodies (Management of end-of-life ICT Equipment) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-15-(29-March-2019).pdf){:target="_blank"}
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="_blank"}
-* [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - March 2019](/files/documents/management-system-and-products-certification/CT-18-(29-March-2019).pdf){:target="_blank"} 
+* [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - June 2021](/files/documents/CT-18-01-June-2021.pdf){:target="_blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-21-(29-March-2019).pdf){:target="_blank"}
 <!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Management Systems Fees Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="_blank"}
