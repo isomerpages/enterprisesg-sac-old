@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "MoU between SAC and ASCI for ISASecure® Industrial Cybersecurity Certification Scheme"
-date:   2019-01-04
+title: 'MoU between SAC and ASCI for ISASecure® Industrial Cybersecurity Certification Scheme'
+date: 2019-01-04T00:00:00.000Z
 permalink: /newsroom/news-releases/MoU-between-SAC-and-ASCI-for-ISASecure®-Industrial-Cybersecurity-Certification-Scheme
+
 ---
+
 
 The Singapore Accreditation Council (SAC) and the Automation Standards Compliance Institute (ASCI) signed an MoU on 26 October 2018 to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme.  The scheme includes EDSA (Embedded Device Security Assurance) certification, SSA (System Security Assurance) certification and SDLA (Security Development Lifecycle Assurance) certification.
  
