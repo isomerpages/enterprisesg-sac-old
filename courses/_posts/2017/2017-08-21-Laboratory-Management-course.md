@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Laboratory Management course
-course_date: 21-23 Aug 2017
+title: 'Laboratory Management course'
+course_date: '21-23 Aug 2017'
 permalink: /services/training/Laboratory-Management-course-Aug2017
+
 ---
+
 
 ## Course Details
 **21 - 23 August 2017**
