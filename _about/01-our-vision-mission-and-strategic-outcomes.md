@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Our Vision, Mission And Strategic Outcomes
+title: 'Our Vision, Mission And Strategic Outcomes'
 permalink: /about/our-vision-mission-and-strategic-outcomes
-collection_name: about
+
 ---
+
 
 ## Vision
 Choice partner for assurance of quality products, services and enterprises
