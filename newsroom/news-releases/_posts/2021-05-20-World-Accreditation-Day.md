@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "World Accreditation Day 2021"
-date:   2021-05-20
+title: 'World Accreditation Day 2021'
+date: 2021-05-20T00:00:00.000Z
 permalink: /newsroom/news-releases/World-Accreditation-Day-2021
+
 ---
+
 
 ![CC0A95D1-1691-44A4-ADD3-66954D90E0FE.png](/images/press-release/photos/CC0A95D1-1691-44A4-ADD3-66954D90E0FE.png)
 
