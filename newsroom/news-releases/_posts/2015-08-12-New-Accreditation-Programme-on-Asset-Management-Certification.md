@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  New Accreditation Programme on Asset Management Certification
-date:   2015-08-12
+title: 'New Accreditation Programme on Asset Management Certification'
+date: 2015-08-12T00:00:00.000Z
 permalink: /newsroom/news-releases/New-Accreditation-Programme-on-Asset-Management-Certification
+
 ---
+
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for Asset Management Certification on 12 August 2015 during the SPRING Quality and Standard Conference. 
  
