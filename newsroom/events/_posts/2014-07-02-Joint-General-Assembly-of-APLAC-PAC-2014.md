@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Joint General Assembly of APLAC-PAC 2014"
-date:   2014-07-02
+title: 'Joint General Assembly of APLAC-PAC 2014'
+date: 2014-07-02T00:00:00.000Z
 permalink: /newsroom/news-releases/Joint-General-Assembly-of-APLAC-PAC-2014
+
 ---
+
 
 ![APLACPic1](/images/press-release/photos/APLAC-pic1.jpg)
 
