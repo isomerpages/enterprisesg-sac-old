@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: SAC Council
+title: 'SAC Council'
 permalink: /about/our-organisation-and-structure/sac-council
-collection_name: about
-second_nav_title: "Our Organisation And Structure"
+third_nav_title: 'Our Organisation And Structure'
+
 ---
+
 
 ### Composition of SAC Council
 
