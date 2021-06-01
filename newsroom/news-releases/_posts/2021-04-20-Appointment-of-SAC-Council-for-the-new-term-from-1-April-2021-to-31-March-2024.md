@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Appointment of SAC Council for the new term from 1 April 2021 to 31 March 2024"
-date:   2021-04-20
+title: 'Appointment of SAC Council for the new term from 1 April 2021 to 31 March 2024'
+date: 2021-04-20T00:00:00.000Z
 permalink: /newsroom/news-releases/Appointment-of-SAC-Council-for-the-new-term-from-1-April-2021-to-31-March-2024
+
 ---
+
 ![Tan Kai Hoe ](/images/about/our-organisation-structure/TanKaiHoe.jpg){: style="margin-left:0;width: 150px;"}
 
 **Mr Tan Kai Hoe**\\
