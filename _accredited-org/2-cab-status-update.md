@@ -1,10 +1,9 @@
 ---
-layout: leftnav-page-content
-title: "CAB Status Update"
+title: 'CAB Status Update'
 permalink: /accredited-org/cab-status-update
-collection_name: accredited-org
 
 ---
+
 
 {:#top}
 Click on the quick links below to jump to the CAB Status:
