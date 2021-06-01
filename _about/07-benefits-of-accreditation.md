@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Benefits Of Accreditation
+title: 'Benefits Of Accreditation'
 permalink: /about/benefits-of-accreditation
-collection_name: about
+
 ---
+
 
 ## For Businesses
 
