@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "QS Conference Congratulatory Advertisement"
-date:   2014-10-07
+title: 'QS Conference Congratulatory Advertisement'
+date: 2014-10-07T00:00:00.000Z
 permalink: /newsroom/news-releases/QS-Conference-Congratulatory-Advertisement
+
 ---
+
 
 SPRING Singapore thanks all our Standards and Accreditation Partners and congratulates all newly accredited conformity assessment bodies for achieving accreditation.
 
