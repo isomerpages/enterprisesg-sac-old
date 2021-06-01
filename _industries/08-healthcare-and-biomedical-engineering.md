@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Healthcare & Biomedical Engineering
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Healthcare & Biomedical Engineering'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/healthcare-and-biomedical-engineering
-collection_name: industries
+
 ---
+
 
 ![Healthcare & Biomedical Engineering](/images/industries/healthcare-and-biomedical-engineering.jpg)
 
