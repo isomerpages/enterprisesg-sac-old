@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Auditing Organisations"
+title: 'Auditing Organisations'
 permalink: /services/accreditation-services/auditing-organisations
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ## The Scheme
 
