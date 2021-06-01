@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "New Accreditation Programme for Auditing Organisations"
-date:   2017-09-15
+title: 'New Accreditation Programme for Auditing Organisations'
+date: 2017-09-15T00:00:00.000Z
 permalink: /newsroom/news-releases/New-Accreditation-Programme-for-Auditing-Organisations
+
 ---
+
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for auditing organisations (AOs) on 15 September 2017. Application of accreditation of auditing organisations is now open and can be done through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}.
  
