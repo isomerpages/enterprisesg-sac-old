@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Other Accreditation Schemes
+title: 'Other Accreditation Schemes'
 permalink: /services/accreditation-services/other-accreditation-schemes
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ## About
 
