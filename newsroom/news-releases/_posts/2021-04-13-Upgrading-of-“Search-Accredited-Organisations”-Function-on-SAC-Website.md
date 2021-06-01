@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Upgrading of “Search Accredited Organisations” Function on SAC Website"
-date:   2021-04-13
+title: 'Upgrading of “Search Accredited Organisations” Function on SAC Website'
+date: 2021-04-13T00:00:00.000Z
 permalink: /newsroom/news-releases/Upgrading-of-“Search-Accredited-Organisations”-Function-on-SAC-Website
+
 ---
+
 
 
 SAC is currently upgrading our website to serve you better. A temporary search function will be replacing the current “Search Accredited Organisations“ function on the SAC Website from 13 April to 21 May 2021. You may refer to our user guide below for further details on how to navigate the webpage. 
