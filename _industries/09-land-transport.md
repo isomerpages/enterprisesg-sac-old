@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Land Transport
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Land Transport'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/land-transport
-collection_name: industries
+
 ---
+
 
 ![Land Transport](/images/industries/landtransport2.jpg)
 
