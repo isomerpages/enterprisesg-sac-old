@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: "Internal Audit Course"
+title: 'Internal Audit Course'
 permalink: /services/training/Internal-Audit-Course-Nov2019
-course_date: 4 to 5 Nov 2019
-# Comment: 'course_date' is used to indicate the actual date/period that the course will be held
+course_date: '4 to 5 Nov 2019'
+
 ---
+
 
 ## Course Details
 **4 to 5 November 2019**
