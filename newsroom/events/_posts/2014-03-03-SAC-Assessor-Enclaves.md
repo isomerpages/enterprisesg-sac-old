@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "SAC Assessor Enclaves"
-date: 2014-03-03
+title: 'SAC Assessor Enclaves'
+date: 2014-03-03T00:00:00.000Z
 permalink: /newsroom/events/SAC-Assessor-Enclaves
+
 ---
+
 
 SAC works on peer assessments of laboratories and inspection bodies where technical experts from industries, tertiary institutions or government bodies are often called upon to assist in the assessments.
 
