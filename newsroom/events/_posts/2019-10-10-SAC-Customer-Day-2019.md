@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "SAC Customer Day 2019"
-date:   2019-10-10
+title: 'SAC Customer Day 2019'
+date: 2019-10-10T00:00:00.000Z
 permalink: /newsroom/events/SAC-Customer-Day-2019
+
 ---
+
 
 AC presented the accreditation plaques to our newly accredited conformity assessment bodies (CABs) at the SAC Customer Day 2019 on 26 September. 
 Congratulations to the achievements of these CABs!
