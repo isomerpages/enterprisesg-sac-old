@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "International Developments on Accreditation"
-date:   2014-11-01
+title: 'International Developments on Accreditation'
+date: 2014-11-01T00:00:00.000Z
 permalink: /newsroom/news-releases/International-Developments-on-Accreditation
+
 ---
+
 
 ### International Developments on Accreditation
 
