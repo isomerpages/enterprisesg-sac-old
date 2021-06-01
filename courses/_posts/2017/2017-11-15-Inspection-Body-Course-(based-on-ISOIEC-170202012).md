@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Inspection Body Course (based on ISO/IEC 17020:2012)
-course_date: 15-16 Nov 2017
+title: 'Inspection Body Course (based on ISO/IEC 17020:2012)'
+course_date: '15-16 Nov 2017'
 permalink: /services/training/Inspection-Body-Course-(based-on-ISOIEC-170202012)-Nov2017
+
 ---
+
 
 ## Course Details
 **15 - 16 November 2017**
