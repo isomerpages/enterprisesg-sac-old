@@ -1,12 +1,10 @@
 ---
-layout: leftnav-page-content
-title: How to use SAC / ILAC / IAF Marks
+title: 'How to use SAC / ILAC / IAF Marks'
 permalink: /resources/how-to-use-sac-ilac-iaf-marks
-collection_name: resources
+imgFolderPath: /images/how-to-use-marks/
 
-imgFolderPath: /images/how-to-use-marks/ 
-# Comment: 'imgFolderPath' is used as a shortcut variable to replace the image folder path for the Markdown images in the content below
 ---
+
 
 ### General Conditions for Use of SAC Accreditation Marks
 
