@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Certification Body Accreditation
+title: 'Certification Body Accreditation'
 permalink: /resources/publications/certification-body-accreditation
-collection_name: resources
-second_nav_title: "Publications"
+third_nav_title: Publications
+
 ---
+
 
 {: #publications-list}
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
