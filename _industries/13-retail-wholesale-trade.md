@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Retail / Wholesale Trade
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Retail / Wholesale Trade'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/retail-wholesale-trade
-collection_name: industries
+
 ---
+
 
 ![Retail / Wholesale Trade](/images/industries/retail-and-wholesale-trade.jpg)
 
