@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "2nd SAC Regulator Workshop"
-date:   2017-08-15
+title: '2nd SAC Regulator Workshop'
+date: 2017-08-15T00:00:00.000Z
 permalink: /newsroom/events/2nd-SAC-Regulator-Workshop
+
 ---
+
 
 Efficient delivery of public service, building capabilities, increasing public confidence - these are some of the motivation for the participants who came to the Regulator Workshop organised by the Singapore Accreditation Council (SAC). The event presents an opportunity for 38 representatives from 12 ministries and agencies to learn about how accreditation can support public policy, hear the experience of their peers and explore new means to work together more effectively through the whole-of-government approach.
 
