@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "SAC Customer Day 2020"
-date:  2020-11-30
+title: 'SAC Customer Day 2020'
+date: 2020-11-30T00:00:00.000Z
 permalink: /newsroom/news-releases/SAC-Customer-Day-2020
+
 ---
+
 
 The annual SAC Customer Day was held on 30 November 2020. This year due to the COVID-19 pandemic, the event was held virtually. It was attended by over 200 participants including SAC accredited conformity assessment bodies (CABs) and partners. At the event, Mr Renny Yeo, Chairman of SAC launched the extension of SAC’s medical testing programme under ISO 15189 to include Point-of-care testing (POCT) based on ISO 22870 Point-of-care-testing (POCT) – Requirements for quality and competence.
  
