@@ -8,24 +8,7 @@ permalink: /newsroom/news-releases/ Quality & Standards Partners Appreciation Ev
 
 Title: Quality & Standards Partners Appreciation Event 2021
 
-The Quality & Standards Partners Appreciation Event 2021, which took place on 20 April 2021, was attended by over 300 participants. Jointly organised by Enterprise Singapore, the Singapore Accreditation Council (SAC) and Singapore Standards Council (SSC), the event sought to show appreciation to our SAC and SSC partners for their tremendous contributions to Singapore’s Standards and Accreditation programmes. The Distinguished Partners Award (DPA) was jointly presented by Enterprise Singapore and SAC to our awardees in recognition of their outstanding leadership and contributions in raising Singapore’s standardisation and accreditation profile nationally and internationally. In addition, the event recognised and celebrated our [Commendation Award]https://www.enterprisesg.gov.sg/-/media/C1EFD50DF2334344B1F7215DEE0CDF14.ashx). (CA) recipients from SAC and SSC through an appreciation video [CA]https://youtu.be/diuTFDlhWOM). We have also published a congratulatory announcement on The Business Times on 20 April 2021, highlighting all our award recipients. 
-
-
-
-[joint statement](http://ilac.org/?ddownload=120755){:target="_blank"} 
-
-
-•	Hyperlink to ‘video’ page: Quality & Standards Commendation Award Montage 2021 (Link: https://youtu.be/diuTFDlhWOM)
-•	Hyperlink to the ‘video’ page: Quality & Standards Partners Appreciation Event 2021 (Link: https://youtu.be/mlUpsh9eZXc)
-•	Hyperlink to PDF file (Link: https://www.enterprisesg.gov.sg/-/media/C1EFD50DF2334344B1F7215DEE0CDF14.ashx)
-
-
-
-
-
-
-
-
+The Quality & Standards Partners Appreciation Event 2021,q which took place on 20 April 2021, was attended by over 300 participants. Jointly organised by Enterprise Singapore, the Singapore Accreditation Council (SAC) and Singapore Standards Council (SSC), the event sought to show appreciation to our SAC and SSC partners for their tremendous contributions to Singapore’s Standards and Accreditation programmes. The Distinguished Partners Award (DPA) was jointly presented by Enterprise Singapore and SAC to our awardees in recognition of their outstanding leadership and contributions in raising Singapore’s standardisation and accreditation profile nationally and internationally. In addition, the event recognised and celebrated our [Commendation Award]https://www.enterprisesg.gov.sg/-/media/C1EFD50DF2334344B1F7215DEE0CDF14.ashx){:target="_blank"}. (CA) recipients from SAC and SSC through an appreciation video [CA](https://youtu.be/diuTFDlhWOM){:target="_blank"}. We have also published a congratulatory announcement on The Business Times on 20 April 2021, highlighting all our award recipients. 
 
 
 
@@ -111,5 +94,5 @@ Specially available on demand
 
 All livestreamed content is now available to watch on demand at your own pace - including speeches, video montage, presentations and panel discussion.
 
- Watch the full recording here
-
+ Watch the full recording here [Event](https://youtu.be/mlUpsh9eZXc){:target="_blank"}
+ 
