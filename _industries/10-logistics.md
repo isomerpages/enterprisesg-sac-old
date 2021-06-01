@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Logistics
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/logistics
-collection_name: industries
+
 ---
+
 
 ![Logistics](/images/industries/logistics.jpg)
 
