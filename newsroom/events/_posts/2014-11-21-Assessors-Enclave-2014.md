@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Assessors Enclave 2014"
-date:   2014-11-21
+title: 'Assessors Enclave 2014'
+date: 2014-11-21T00:00:00.000Z
 permalink: /newsroom/events/Assessors-Enclave-2014
+
 ---
+
 
 SAC held its Assessors Enclave on 5 November 2014 at the Holiday Inn Orchard City Centre. The event was well attended by about 100 assessors from the Calibration & Measurement, Chemical & Biological, Environmental, Civil Engineering, Mechanical and Electrical Testing fields, as well as assessors from Site Investigation, Hook-Lift & Container Inspection.
 
