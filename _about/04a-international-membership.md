@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: International Membership
+title: 'International Membership'
 permalink: /about/collaborations-and-recognitions/international-membership
-collection_name: about
-second_nav_title: "Collaborations And Recognitions"
+third_nav_title: 'Collaborations And Recognitions'
+
 ---
+
 
 Signatories to regional and international MRAs are subject to regular and stringent multi-national peer evaluations. The purpose is to verify signatories’ continual conformance with the internationally accepted criteria. These peer evaluations ensure consistent accreditation practices and facilitate the exchange of information and experience among the signatories.
 
