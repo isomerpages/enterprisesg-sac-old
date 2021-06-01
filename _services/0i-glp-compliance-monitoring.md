@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "GLP Compliance Monitoring"
+title: 'GLP Compliance Monitoring'
 permalink: /services/accreditation-services/glp-compliance-monitoring
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ![Good Laboratory Practive Compliance Programme](/images/services/glp-accreditation-services.jpg)
 
