@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "IAF – ILAC Mid-Year meetings 2015"
-date:   2015-05-05
+title: 'IAF – ILAC Mid-Year meetings 2015'
+date: 2015-05-05T00:00:00.000Z
 permalink: /newsroom/news-releases/IAF–ILAC-Mid-Year-meetings-2015
+
 ---
+
 
 ![iaf-ilac-meeting](/images/press-release/photos/IAF2.png)
 
