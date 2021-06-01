@@ -1,10 +1,42 @@
 ---
 layout: homepage
-title: Singapore Accreditation Council
-description: "Your Trusted Partner in Accreditation"
+title: 'Singapore Accreditation Council'
+description: 'Your Trusted Partner in Accreditation'
 permalink: /
+sections:
+    - hero:
+          title: 'Singapore Accreditation Council'
+          subtitle: 'Your Trusted Partner in Accreditation'
+          background: /images/homepage/homepage-montage.jpg
+          key_highlights:
+                - title: Search
+                  description: 'SAC Accredited Organisations'
+                  url: 'https://sacinet.enterprisesg.gov.sg/SacAccSearch/index.html'
+                - title: 'Accreditation Services'
+                  description: Programmes/Schemes
+                  url: /services/accreditation-services/
+                - title: 'Get Accredited'
+                  description: 'Route to Accreditation'
+                  url: /services/accreditation-services/apply-for-accreditation
+                - title: 'SAC Publications'
+                  description: 'Download Documents'
+                  url: /resources/publications/
+                - title: Training
+                  description: 'Find a SAC Course'
+                  url: /services/training/
+    - infopic:
+          title: 'What is Accreditation?'
+          subtitle: null
+          description: 'Accreditation enhances the credibility of laboratory tests, inspection, certification reports and certificates by providing reliable third party assurance that these services are conducted professionally and meet globally-recognised standards. Conformity Assessment Bodies - such as testing and calibration laboratories, certification bodies as well as inspection bodies - are benchmarked against international standards. This ensures the competency, impartiality and performance capability of their services.'
+          url: /about/our-role
+          image: /images/homepage/info-section.jpg
+          alt: 'alt text'
+          button: 'More about SAC'
+    - resources:
+          title: 'Be in the know'
+          subtitle: NewsRoom
+          button: 'More News & Events'
+          url: /newsroom/
+notification: "\n\n\n"
+
 ---
-We are aware of a fake website that is phishing for personal identification numbers. This website uses several government-related logos, including that of the Singapore Accreditation Council (SAC), to encourage visitors to provide personal details to verify certificates and training details. This is an illegitimate website. As the SAC is overseen by Enterprise Singapore, our website includes “gov.sg” in the web address. Please do not provide any personal information to unauthorised parties. 
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
-
-
