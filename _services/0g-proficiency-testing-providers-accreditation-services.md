@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Proficiency Testing Providers"
+title: 'Proficiency Testing Providers'
 permalink: /services/accreditation-services/proficiency-testing-providers
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 ## About
 ![Accreditation of Proficiency Testing Providers](/images/services/proficiency-testing-accreditation-services.jpg)
 
