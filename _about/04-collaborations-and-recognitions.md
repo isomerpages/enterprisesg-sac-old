@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /about/collaborations-and-recognitions
-collection_name: about
-second_nav_title: "Collaborations And Recognitions"
+third_nav_title: 'Collaborations And Recognitions'
+
 ---
+
 
 <!--html code for displaying an embedded youtube video; change the link in 'src' to use a different video-->
 <div class="bp-youtube">
