@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Co-organisation of statistics courses in FY2021
-course_date: July, April and September 2021
+title: 'Co-organisation of statistics courses in FY2021'
+course_date: 'July, April and September 2021'
 permalink: /services/training/Co-organisation-of-statistic-courses-in-FY2021
+
 ---
+
 
 ## Course Details
 **July, August and September 2021**
