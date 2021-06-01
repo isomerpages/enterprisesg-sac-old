@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Join Us
+title: 'Join Us'
 permalink: /about/join-us
-collection_name: about
+
 ---
+
 ## Volunteer with SAC
 ![Career with SAC](/images/about/career-with-sac.jpg)
 
