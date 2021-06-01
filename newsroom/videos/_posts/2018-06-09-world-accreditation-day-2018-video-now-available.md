@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "World Accreditation Day 2018 Video Now Available"
-date:   2018-06-09
+title: 'World Accreditation Day 2018 Video Now Available'
+date: 2018-06-09T00:00:00.000Z
 permalink: /newsroom/videos/world-accreditation-day-2018-video-now-available
+
 ---
+
 
 ![World Accreditation Day 2018](/images/press-release/documents/world-accreditation-day-2018.png)
 
