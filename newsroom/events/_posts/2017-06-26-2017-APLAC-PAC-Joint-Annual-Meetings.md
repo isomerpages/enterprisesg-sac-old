@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "2017 APLAC-PAC Joint Annual Meetings"
-date:   2017-06-26
+title: '2017 APLAC-PAC Joint Annual Meetings'
+date: 2017-06-26T00:00:00.000Z
 permalink: /newsroom/news-releases/2017-APLAC-PAC-Joint-Annual-Meetings
+
 ---
+
 
 The fourth Joint Annual Meetings for the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and Pacific Accreditation Cooperation (PAC) were held in Bangkok, Thailand from 16 to 23 June 2017.
 
