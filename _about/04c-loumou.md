@@ -1,14 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Letter of Understanding / Memorandum of Understanding
+title: 'Letter of Understanding / Memorandum of Understanding'
 permalink: /about/collaborations-and-recognitions/loumou
-collection_name: about
-second_nav_title: "Collaborations And Recognitions"
-
-# Comment: 'imgFolderPath' is used for a shortcut path link for the Markdown images in the content below
 imgFolderPath: /images/press-release/photos/
+third_nav_title: 'Collaborations And Recognitions'
 
 ---
+
 
 ### MOU with Automation Standards Compliance Institute (ASCI)
 The Singapore Accreditation Council (SAC) and the Automation Standards Compliance Institute (ASCI) signed a Memorandum of Understanding (MOU) on 26 October 2018 to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme.  The scheme includes the EDSA (Embedded Device Security Assurance) certification, SSA (System Security Assurance) certification and SDLA (Security Development Lifecycle Assurance) certification.  With the signed MOU, SAC has expanded our Laboratory Accreditation Scheme to include Robustness Testing under the Information Technology Field and ISASecure Certification under Product Certification Scheme on 4 January 2019.
