@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Our Role
+title: 'Our Role'
 permalink: /about/our-role
-collection_name: about
+
 ---
+
 
 
 ## About Singapore Accreditation Council (SAC)
