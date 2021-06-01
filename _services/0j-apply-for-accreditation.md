@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Apply for Accreditation
+title: 'Apply for Accreditation'
 permalink: /services/accreditation-services/apply-for-accreditation
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ## Who can Apply?
 The SAC accreditation schemes are open to all conformity assessment bodies (CABs) such as laboratories, inspection and certification bodies.
