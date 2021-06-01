@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Digital / ICT
-description: Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).
+title: 'Digital / ICT'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/digital-ict
-collection_name: industries
+
 ---
+
 
 ![Digital/ICT Industry](/images/industries/ict.jpg)
 
