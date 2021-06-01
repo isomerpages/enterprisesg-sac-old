@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Launch of New Accreditation Programme for ISMS Certification"
-date:   2018-09-28
+title: 'Launch of New Accreditation Programme for ISMS Certification'
+date: 2018-09-28T00:00:00.000Z
 permalink: /newsroom/news-releases/Launch-of-New-Accreditation-Programme-for-ISMS-Certification
+
 ---
+
 
 SAC is pleased to launch the new accreditation programme for Information Security Management System (ISMS) Certification on 28 September 2018.  
  
