@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Inspection Bodies"
+title: 'Inspection Bodies'
 permalink: /services/accreditation-services/inspection-bodies
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ## About
 ![Accreditation Scheme for Inspection Bodies](/images/services/inspection-body-accreditation.jpg)
