@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: "Inspection Body Course"
+title: 'Inspection Body Course'
 permalink: /services/training/Inspection-Body-Course-Nov2019
-course_date: 6 to 7 Nov 2019
-# Comment: 'course_date' is used to indicate the actual date/period that the course will be held
+course_date: '6 to 7 Nov 2019'
+
 ---
+
 
 *Registration is closed.*
 
