@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Laboratories"
+title: Laboratories
 permalink: /services/accreditation-services/laboratories
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 ## About SAC-SINGLAS
 ![laboratory accreditation services](/images/services/laboratory-accreditation.jpg)
 
