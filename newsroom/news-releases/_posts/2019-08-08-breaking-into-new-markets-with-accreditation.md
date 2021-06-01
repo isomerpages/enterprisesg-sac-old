@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Breaking into New Markets with Accreditation"
-date:   2019-08-08
+title: 'Breaking into New Markets with Accreditation'
+date: 2019-08-08T00:00:00.000Z
 permalink: /newsroom/news-releases/Breaking-into-New-Markets-with-Accreditation
+
 ---
+
 
 As the global market becomes more interconnected, with new technologies changing the way businesses operate, managing supply chains around the world have become more complicated. 
  
