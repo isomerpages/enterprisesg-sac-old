@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Testing, Inspection, Certification (TIC) Industries"
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Testing, Inspection, Certification (TIC) Industries'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/testing-inspection-certification
-collection_name: industries
+
 ---
+
 
 ![Testing, Inspection, Certification Industries](/images/industries/tic.jpg)
 
