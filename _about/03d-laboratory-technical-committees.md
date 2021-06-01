@@ -1,11 +1,11 @@
 ---
-# Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
-layout: committee 
-title: Laboratory Technical Committees
+layout: committee
+title: 'Laboratory Technical Committees'
 permalink: /about/our-organisation-and-structure/laboratory-technical-committees
-collection_name: about
-second_nav_title: "Our Organisation And Structure"
+third_nav_title: 'Our Organisation And Structure'
+
 ---
+
 
 There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
