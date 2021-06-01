@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Personnel Certification Bodies"
+title: 'Personnel Certification Bodies'
 permalink: /services/accreditation-services/personnel-certification-bodies
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ## About the Scheme
 
