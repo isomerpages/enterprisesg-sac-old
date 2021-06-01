@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Energy & Chemicals
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Energy & Chemicals'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/energy-and-chemicals
-collection_name: industries
+
 ---
+
 
 ![Energy & Chemicals](/images/industries/energy-and-chemicals.jpg)
 
