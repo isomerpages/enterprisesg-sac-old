@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Working With Businesses
+title: 'Working With Businesses'
 permalink: /about/working-with-businesses
-collection_name: about
+
 ---
+
 
 ## What is Accreditation?
 Accreditation is the endorsement of an organisation’s competence, credibility, independence and integrity against both national and international standards. It effectively evaluates the organisation’s ability in carrying out testing, inspection, calibration and certification services.
