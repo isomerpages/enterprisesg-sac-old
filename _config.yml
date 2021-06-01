@@ -1,77 +1,40 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Singapore Accreditation Council
+title: 'Singapore Accreditation Council'
 title-abbreviated: SAC
-description: >- # this means to ignore newlines until "baseurl:"
-  Your Trusted Partner in Accreditation.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sac-accreditation.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: 'Your Trusted Partner in Accreditation.'
+url: 'https://www.sac-accreditation.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-  
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 collections:
-  about:
-    output: true
-  industries:
-    output: true
-  services:
-    output: true
-  resources:
-    output: true
-  accredited-org:
-    output: true
-  courses:
-    output: true
-      
-# Resource Room and Pagination
-resources_name: "newsroom"
+    about:
+        output: true
+    industries:
+        output: true
+    services:
+        output: true
+    resources:
+        output: true
+    accredited-org:
+        output: true
+    courses:
+        output: true
+resources_name: newsroom
 paginate: 12
-paginate_path: "/newsroom/page:num"
-
-# Homepage sections
-homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
-homepage_programmes: false
-homepage_resources: true
-homepage_careers: false
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/5d6e320f008c2400123ebb42"
-
-# FAQ URL
-faq_url: "/resources/faq"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-include: [_redirects]
+paginate_path: '/newsroom/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+include:
+    - _redirects
+favicon: /images/homepage/sac-esg-logo.png
+google_analytics: UA-158199563-1
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
