@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Updates on Development of Key Conformity Assessment Standards"
-date:   2014-04-09
+title: 'Updates on Development of Key Conformity Assessment Standards'
+date: 2014-04-09T00:00:00.000Z
 permalink: /newsroom/news-releases/Updates-on-Key-Conformity-Assessment-Standard
+
 ---
+
 
 There are several key international standards such as ISO/IEC 17025, ISO 9001, ISO TS 22003 and ISO/IEC TS 17021-3 that are being considered for revision or has been published for implementation. These include:
  
