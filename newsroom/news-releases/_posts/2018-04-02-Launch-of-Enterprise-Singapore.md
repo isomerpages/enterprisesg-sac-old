@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Launch of Enterprise Singapore"
-date:   2018-04-02
+title: 'Launch of Enterprise Singapore'
+date: 2018-04-02T00:00:00.000Z
 permalink: /newsroom/news-releases/Launch-of-Enterprise-Singapore
+
 ---
+
 
 Our parent organisation - SPRING Singapore - has merged with another Singapore economic agency - International Enterprise (IE) Singapore - to form Enterprise Singapore, effective 2 April 2018. This move will channel increased resources to help Singapore companies develop capabilities and internationalise. In addition, Enterprise Singapore continues to be the lead agency for trade promotion, and remains the national body for standardisation and accreditation.
 
