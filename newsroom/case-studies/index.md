@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Case Studies"
-date:   2019-04-04
+title: 'Case Studies'
+date: 2019-04-04T00:00:00.000Z
 permalink: /newsroom/case-studies
+
 ---
+
 
 ## Examples of the Benefits of Using Accredited Conformity Assessment
 
