@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "SAC Unveils 30th Anniversary Logo"
-date:   2016-05-16
+title: 'SAC Unveils 30th Anniversary Logo'
+date: 2016-05-16T00:00:00.000Z
 permalink: /newsroom/news-releases/SAC-Unveils-30th-Anniversary-Logo
+
 ---
+
 
 2016 marks 30 years of accreditation in Singapore. The Singapore Accreditation Council (SAC) unveils its 30th anniversary logo to commemorate this important milestone.
 
