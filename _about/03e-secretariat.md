@@ -1,11 +1,11 @@
 ---
-# Comment: This page uses 'committee' layout to organise the content below. Switch to 'leftnav-page-content' if you want the content to be displayed as written below.
-layout: committee 
+layout: committee
 title: Secretariat
 permalink: /about/our-organisation-and-structure/secretariat
-collection_name: about
-second_nav_title: "Our Organisation And Structure"
+third_nav_title: 'Our Organisation And Structure'
+
 ---
+
 
 #### General Enquiries
 
