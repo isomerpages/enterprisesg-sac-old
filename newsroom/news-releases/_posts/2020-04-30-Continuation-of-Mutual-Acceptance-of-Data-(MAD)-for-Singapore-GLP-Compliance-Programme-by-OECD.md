@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Continuation of Mutual Acceptance of Data (MAD) for Singapore GLP Compliance Programme by OECD"
-date:  2020-04-30
+title: 'Continuation of Mutual Acceptance of Data (MAD) for Singapore GLP Compliance Programme by OECD'
+date: 2020-04-30T00:00:00.000Z
 permalink: /newsroom/news-releases/Continuation-of-Mutual-Acceptance-of-Data-(MAD)-for-Singapore-GLP-Compliance-Programme-by-OECD
+
 ---
+
 
 Singapore was the first non-OECD country in Asia to become a full adherent member of the OECD Mutual Acceptance of Data (MAD) for Good Laboratory Practice (GLP) in January 2010.  The OECD System of MAD for GLP is a multilateral agreement which allows participating countries to recognize the results of pre-clinical safety tests done on new chemicals. Data generated in an adherent country in accordance with OECD Test Guidelines and OECD Principles of GLP shall be accepted in other adherent countries for purposes of assessment and other uses relating to the protection of human health and the environment.
  
