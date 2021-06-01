@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Internal Audit Course
-course_date: 17-18 Aug 2017
+title: 'Internal Audit Course'
+course_date: '17-18 Aug 2017'
 permalink: /services/training/Internal-Audit-Course-Aug2017
+
 ---
+
 
 ## Course Details
 **17 - 18 August 2017**
