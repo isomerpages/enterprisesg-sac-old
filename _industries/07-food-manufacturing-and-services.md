@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Food Manufacturing & Services
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Food Manufacturing & Services'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/food-manufacturing-and-services
-collection_name: industries
+
 ---
+
 
 ![Food Manufacturing](/images/industries/foodManufacturing1.jpg)
 
