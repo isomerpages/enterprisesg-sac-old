@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Marine & Offshore Engineering
-description: "Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB)."
+title: 'Marine & Offshore Engineering'
+description: 'Get your products and services evaluated and certified by a Singapore Accreditation Council (SAC)-accredited Conformity Assessment Body (CAB).'
 permalink: /industries/marine-and-offshore-engineering
-collection_name: industries
+
 ---
+
 
 ![Marine and Offshore Engineering Industry](/images/industries/marine.jpg)
 
