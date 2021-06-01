@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: "Laboratory Management Course"
+title: 'Laboratory Management Course'
 permalink: /services/training/Laboratory-Management-Course-Oct2019
-course_date: 30 Oct to 1 Nov 2019
-# Comment: 'course_date' is used to indicate the actual date/period that the course will be held
+course_date: '30 Oct to 1 Nov 2019'
+
 ---
+
 
 ## Course Details
 **30 October to 1 November 2019**
