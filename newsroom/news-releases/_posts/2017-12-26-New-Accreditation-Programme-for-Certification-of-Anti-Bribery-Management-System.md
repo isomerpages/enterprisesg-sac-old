@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "New Accreditation Programme for Certification of Anti-Bribery Management System"
-date:   2017-12-26
+title: 'New Accreditation Programme for Certification of Anti-Bribery Management System'
+date: 2017-12-26T00:00:00.000Z
 permalink: /newsroom/news-releases/New-Accreditation-Programme-for-Certification-of-Anti-Bribery-Management-System
+
 ---
+
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for the certification of Anti-Bribery Management Systems (ABMS) on 26 December 2017. The programme aims to increase the industry's confidence in accredited ABMS certification bodies (CBs) by providing third party assurance on their competency and impartiality of practices.
 
