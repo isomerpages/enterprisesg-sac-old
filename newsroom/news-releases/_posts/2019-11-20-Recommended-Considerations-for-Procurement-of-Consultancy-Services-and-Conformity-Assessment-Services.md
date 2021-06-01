@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Recommended Considerations for Procurement of Consultancy Services and Conformity Assessment Services"
-date:  2019-11-20
+title: 'Recommended Considerations for Procurement of Consultancy Services and Conformity Assessment Services'
+date: 2019-11-20T00:00:00.000Z
 permalink: /newsroom/news-releases/Recommended-Considerations-for-Procurement-of-Consultancy-Services-and-Conformity-Assessment-Services
+
 ---
+
 
 There have been instances whereby companies’ procurement documents specify for both consultancy (e.g. training, pre-audit preparation) and conformity assessment services (e.g. audit and certification of quality management systems such as ISO 9001 and ISO 14001) to be provided by the same service provider. Such practices contravene international practices as there may be potential conflicts of interest, as consultants, having trained and advised a company, would be in a difficult position to not certify the company even if it does not meet the certification requirements. 
  
