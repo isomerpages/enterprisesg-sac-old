@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Training course on ISO/TS 22003:2013 and ISO 22000:2018
-course_date: 24-25 Jun 2019
+title: 'Training course on ISO/TS 22003:2013 and ISO 22000:2018'
+course_date: '24-25 Jun 2019'
 permalink: /services/training/2019-training-course-on-ISOTS-220032013-and-ISO-220002018
+
 ---
+
 
 ## Course Details
 **24 - 25 June 2019**
