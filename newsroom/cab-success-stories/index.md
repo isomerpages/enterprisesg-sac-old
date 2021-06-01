@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "CAB Success Stories"
-date:  2019-08-01
+title: 'CAB Success Stories'
+date: 2019-08-01T00:00:00.000Z
 permalink: /newsroom/cab-success-stories
+
 ---
+
 
 ## Thumbs up from the Industry
 ![Success Stories](/images/success-stories/success-stories-business-setting.jpg)
