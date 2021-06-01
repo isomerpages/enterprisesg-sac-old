@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Appointment Ceremony of SAC Council (April 2015 to March 2018)
-date:   2015-07-20
+title: 'Appointment Ceremony of SAC Council (April 2015 to March 2018)'
+date: 2015-07-20T00:00:00.000Z
 permalink: /newsroom/news-releases/Appointment-Ceremony-of-SAC-Council-April-2015-to-March-2018
+
 ---
+
 
 | ![sac-pic1](/images/press-release/photos/SAC-pic1.png) | ![sac-pic2](/images/press-release/photos/SAC-pic2.png) |
 
