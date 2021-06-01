@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "SAC launched a New Accreditation Programme on End-of-Life ICT Equipment (EIMS) Certification"
-date:   2014-11-14
+title: 'SAC launched a New Accreditation Programme on End-of-Life ICT Equipment (EIMS) Certification'
+date: 2014-11-14T00:00:00.000Z
 permalink: /newsroom/news-releases/SAC-launched-a-New-Accreditation-Programme-on-End-of-Life-ICT-Equipment-(EIMS)-Certification
+
 ---
+
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for End-Of-Life ICT Equipment Management System ( EIMS) Certification on 12 November 2014 during the Electronics Recycling Asia event.
  
