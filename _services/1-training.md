@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Training, Courses & Seminars
+title: 'Training, Courses & Seminars'
 permalink: /services/training/
 breadcrumb: training
-collection_name: services
+
 ---
+
 
 <!-- COMMENT: The HTML code in between the '{::nomarkdown}{:/}' tags is used to display the table of training courses in different quarters of the different years -->
 {::nomarkdown}
