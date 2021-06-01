@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
+
 ---
+
 
 #### 1. Agreement - Terms  
 All access to any area of our websiteare governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  
