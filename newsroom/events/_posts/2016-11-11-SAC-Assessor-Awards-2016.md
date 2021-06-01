@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "SAC Assessor Awards 2016"
-date:   2016-11-11
+title: 'SAC Assessor Awards 2016'
+date: 2016-11-11T00:00:00.000Z
 permalink: /newsroom/events/SAC-Assessor-Awards-2016
+
 ---
+
 
 ### SAC Assessor Awards 2016 - Recognising Assessors' Contributions
  
