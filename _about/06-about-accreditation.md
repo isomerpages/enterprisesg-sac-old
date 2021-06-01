@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: About Accreditation
+title: 'About Accreditation'
 permalink: /about/about-accreditation
-collection_name: about
+
 ---
+
 
 ## What is Accreditation?
 
