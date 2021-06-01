@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "IAF-ILAC Mid-Year Meetings 2016"
-date:   2016-04-20
+title: 'IAF-ILAC Mid-Year Meetings 2016'
+date: 2016-04-20T00:00:00.000Z
 permalink: /newsroom/news-releases/IAF-ILAC-Mid-Year-Meetings-2016
+
 ---
+
 
 ![IAF-ILAC](/images/press-release/photos/ILAC-IAF-Mid-2016.png)
 
