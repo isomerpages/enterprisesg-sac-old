@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Management System Certification Bodies"
+title: 'Management System Certification Bodies'
 permalink: /services/accreditation-services/management-system-certification-bodies
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 
 ## About
 
