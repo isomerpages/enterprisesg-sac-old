@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: 2020 Joint courses between HSA-SAC
-course_date: Sep, Oct, Dec 2020
+title: '2020 Joint courses between HSA-SAC'
+course_date: 'Sep, Oct, Dec 2020'
 permalink: /services/training/training-courses-2020/2020-joint-courses-between-hsa-sac
+
 ---
+
 
 ## Course Details
 **Sep, Oct, Dec 2020**
