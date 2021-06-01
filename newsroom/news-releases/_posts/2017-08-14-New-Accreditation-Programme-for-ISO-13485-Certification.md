@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "New Accreditation Programme for ISO 13485 Certification"
-date:   2017-08-14
+title: 'New Accreditation Programme for ISO 13485 Certification'
+date: 2017-08-14T00:00:00.000Z
 permalink: /newsroom/news-releases/New-Accreditation-Programme-for-ISO-13485-Certification
+
 ---
+
 
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for Medical Devices Quality Management System Certification on 14 August 2017.
  
