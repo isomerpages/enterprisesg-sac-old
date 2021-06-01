@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Validation and Verification Bodies"
+title: 'Validation and Verification Bodies'
 permalink: /services/accreditation-services/validation-and-verification-bodies
-collection_name: services
-second_nav_title: "Accreditation Services"
+third_nav_title: 'Accreditation Services'
+
 ---
+
 ## About
 
 Accreditation is an endorsement of a validation/verification body's independence, integrity and technical competence. Most importantly, accreditation provides a validation/verification body (V/VB) with a trust mark and confidence to offer its services nationally and globally.
