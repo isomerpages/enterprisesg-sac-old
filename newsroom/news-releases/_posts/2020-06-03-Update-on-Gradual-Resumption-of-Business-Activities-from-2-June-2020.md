@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Update on Gradual Resumption of Business Activities from 2 Jun 2020"
-date:  2020-06-03
+title: 'Update on Gradual Resumption of Business Activities from 2 Jun 2020'
+date: 2020-06-03T00:00:00.000Z
 permalink: /newsroom/news-releases/Update-on-Gradual-Resumption-of-Business-Activities-from-2-Jun-2020
+
 ---
+
 
 The Circuit Breaker Measures will be gradually eased from 2 Jun 2020, and businesses will be allowed to resume activities in a phased manner. In Phase 1, besides the businesses that have been operating as at 1 June 2020, businesses that operate in settings with lower transmission risks may resume activities.
 
