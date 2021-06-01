@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "New Multilateral Recognition Arrangements for SAC"
-date:   2017-03-25
+title: 'New Multilateral Recognition Arrangements for SAC'
+date: 2017-03-25T00:00:00.000Z
 permalink: /newsroom/news-releases/New-Multilateral-Recognition-Arrangements-for-SAC
+
 ---
+
 
 The Singapore Accreditation Council (SAC) has signed the Pacific Accreditation Cooperation (PAC) multilateral recognition arrangements (MLA) for accreditation of Energy Management Systems (EnMS) and Environmental Management Systems (EMS) on 25 March 2017. With the 2 new MLAs, SAC accredited EnMS (ISO 50001) and EMS (ISO 14001) certificates are recognized regionally.
  
