@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Laboratory Management Course
-course_date: 4-6 March 2019
+title: 'Laboratory Management Course'
+course_date: '4-6 March 2019'
 permalink: /services/training/laboratory-management-course-march-2019
+
 ---
+
 
 ## Course Details
 **4-6 March 2019**
