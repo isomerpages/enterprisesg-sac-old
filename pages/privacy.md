@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Privacy Statement
+title: 'Privacy Statement'
 permalink: /privacy/
 breadcrumb: Privacy
+
 ---
+
 
 ### **Government of Singapore Privacy Statement**
 
