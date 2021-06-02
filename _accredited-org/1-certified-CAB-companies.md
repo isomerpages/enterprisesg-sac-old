@@ -19,13 +19,13 @@ company-list:
         link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
       - name: "Building and Construction Authority"
         link: https://www.bca.gov.sg/Professionals/IQUAS/IQUAS/StaticPages/iso_company.aspx?menuID=7
-      - name: "Bureau Veritas Singapore Pte Ltd"
+      - name: "Bureau Veritas Quality Assurance Pte Ltd"
         link: http://www.bureauveritas.com/home/contact   
       - name: "Certfication Partner Global (Singapore) Pte Ltd"
         link: https://www.companies.sg/zh/business/201302776D/CERTIFICATION-PARTNER-GLOBAL-SINGAPORE-PTE-LTD-
       - name: "DAS Certification Singapore Pte Ltd"
         link: http://dascert.com.sg/client-zone?field_certification_number_value=&field_standard_value=All  
-      - name: "DNV GL Business Assurance Pte Ltd"
+      - name: "DNV Business Assurance Pte Ltd"
         link: https://certificatechecker.dnvgl.com/
       - name: "EHS Universal"
         link: https://www.ehsuniversal.com/

@@ -20,22 +20,28 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Civil Engineering 
-  * Hilti Far East Pte Ltd (02 November 2020)
-
-* Non-Destructive Testing Testing
-  * Escon Inspection Technologies Pte Ltd (27 October 2020)
+* Non-Destructive Testing
+  * Veera Offshore Engineering Services Pte. Ltd. (27 April 2021)
+  * Weaves Engineering Pte. Ltd.
   
 * Calibration & Measurement
-  * ELPRO Pte Ltd (16 January 2021)
-  * Orchid Calibration Pte Ltd (30 October 2020)
-  * VK Calibration Services Pte Ltd (09 November 2020)
+  * Trescal Singapore Pte Ltd @ Goodrich (16 April 2021)
+
+* Mechanical Testing
+  * Asahi Kasei Plastics Singapore Pte Ltd (5 April 2021)
   
 
 #### Inspection Body Inspectiom
 
-* Marine & Offshore Inspection
-  * RINA Hong Kong Ltd(16 January 2020)
+* Cargo Inspection
+  * Eurofins Mechem Pte Ltd (19 April 2021)
+
+
+#### Certification Body
+
+* Medical Devices - Quality Management Systems
+  * Bureau Veritas Quality Assurance Pte. Ltd. (28 April 2021)
+
      
 
 [Back to top ↑](#top)
@@ -71,57 +77,25 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
+  * Northlab Seams Pte Ltd (8 March 2021)
+  * CEP Services Pte Ltd (10 May 2021)
   * GPS Lands (Singapore) Pte Ltd (21 December 2020)
   
 * Chemical and Biological Testing
   * Singapore Petroleum Company Limited (20 January 2021)
   * Wyeth Nutritionals (Singapore) Pte Ltd (6 January 2021)
 
-* Civil Engineering 
-  * TTJ Design and Engineering Pte Ltd (14 September 2020)
- 
-* Environmental Testing
-  * SGS Testing & Conrol Services Singapore Pte Ltd (25 August 2020)
-  
-* Electrical Testing
-  * TUV Rheinland Singapore Pte Ltd (30 September 2020)
-
 * Mechanical Testing
-  * I-Marine.com Pte. Ltd. (04 August 2020)
-  * SGS Mauritius Ltd. (24 September 2020)
+  * Northlab Pte Ltd (23 March 2021)
     
 * Non-Destructive Testing
-  * Av Engineering Services Pte Ltd (05 October 2020)
   * PT.A Star Testing & Inspection (07 January 2021)
  
 
-#### Inspection Body
- 
-* Structural Steelwork Inpection
-  * TTJ Design and Engineering Pte Ltd (14 September 2020)
-
-
 #### Certification Body
-
-* Auditing Organisation
-  * Safety First Pte Ltd (18 July 2020)
-  * Absolute Kinetics Consultancy Pte Ltd (02 August 2020)
-  * Regis International Certification Pte Ltd (27 October 2020)
 
 * End-of-Life ICT Equipment (EIMS) Certification
   * SOCOTEC Certification Singapore Pte Ltd (11 March 2021)
-
-* Product Certification
-  * TUV Rheinland Singapore Ltd (30 September 2020)
-
-* Quality Management Systems
-  * TQCSI Certification P L (15 September 2020)
- 
- 
-#### Good Laboratory Practice
-
-* Good Laboratory Practice Facility
-  * Prestige Bioresearch Pte. Ltd. (28 August 2020)
 
 
   
