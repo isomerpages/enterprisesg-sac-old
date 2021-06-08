@@ -52,12 +52,6 @@ Click on the quick links below to jump to the CAB Status:
 ### 2. Suspended Laboratory /  Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 
 
-#### Laboratory
-
-* Environmental Testing
-  * Nuevo Lab Pte Ltd (23 October 2020)
-
-
 #### Inspection Body
 
 * Site Investigation

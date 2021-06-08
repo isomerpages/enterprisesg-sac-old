@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
 title: "Search Accredited Organisations"
-permalink: https://sacinet.enterprisesg.gov.sg/SacAccSearch/index.html 
+permalink: https://sac-accreditations.gov.sg 
 collection_name: accredited-org
 ---
