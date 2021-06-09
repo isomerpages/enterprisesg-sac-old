@@ -21,8 +21,8 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Chemical & Biological Testing 
-  * Home Team Science and Technology Agency (WAAF)(18 January 2021)
-  * Home Team Science and Technology Agency (PAAF)(21 January 2021)
+  * Home Team Science and Technology Agency (WAAF) (18 January 2021)
+  * Home Team Science and Technology Agency (PAAF) (21 January 2021)
 
 * Non-Destructive Testing
   * Veera Offshore Engineering Services Pte. Ltd. (27 April 2021)
@@ -82,8 +82,8 @@ Click on the quick links below to jump to the CAB Status:
 * Chemical and Biological Testing
   * Singapore Petroleum Company Limited (20 January 2021)
   * Wyeth Nutritionals (Singapore) Pte Ltd (6 January 2021)
-  * Ministry of Home Affairs (WAAF)(18 January 2021)
-  * Ministry of Home Affairs (PAAF)(21 January 2021)
+  * Ministry of Home Affairs (WAAF) (18 January 2021)
+  * Ministry of Home Affairs (PAAF) (21 January 2021)
 
 * Mechanical Testing
   * Northlab Pte Ltd (23 March 2021)
