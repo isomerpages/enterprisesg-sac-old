@@ -70,23 +70,25 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Secretary**  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
 ## Council Committee for Business Development (CCBD)
-### Term: 1 July 2018 - 30 June 2021
+### Term: 1 July 2021 - 30 June 2024
 
 | Designation          | Name                            | Organisation                              |
 |----------------------|---------------------------------|-------------------------------------------|
-| **Chairman**         | A/Prof Raymond Chua             | Singapore Accreditation Council           |
-| **Deputy Chairman**  | Ms Ong Shwu Hoon                | Singapore Business Federation             |
-| **Members**          | A/Prof Lawrence Loh Yeow Khoon  | Individual Representative                 |
-|                      | Mr Terence Ng                   | Health Promotion Board                    |
-|                      | Mr Tan Lin Teck                 | Ministry of Trade and Industry            |
-|                      | Dr Thomas Liew                  | National Metrology Centre, A\*STAR        |
-|                      | Mr Wong Mong Hong               | Singapore Food Manufacturers' Association |
-|                      | Mr Anthony Tan                  | TIC Interest Group (Certification)        |
-|                      | Mr Ang Tiong Ing                | TIC Interest Group (Laboratory)           |
+| **Chairman**         | Mr Jagadish C V                 | Singapore Accreditation Council           |
+| **Members**          | Mr Ling Ting Ming               | Association of Small Medium Enterprises   |
+|                      | Ms Eunice Pang                  | Health Promotion Board                    |
+|                      | Mr Wang Weixiang                | Ministry of Sustainability and the Environment | 
+|                      | Mr Tan Lin Teck                 | Ministry of Trade and Industry            |
+|                      | Pending                         | National Metrology Centre, A*STAR         |
+|                      | A/Prof Lawrence Loh Yeow Khoon  | National University of Singapore Business School        |
+|                      | Ms Lee May Gee                  | Public Service Division                   |
+|                      | Pending                         | TIC Interest Group (Certification)        |
+|                      | Pending                         | TIC Interest Group (Inspection)           |
+|                      | Pending                         | TIC Interest Group (Laboratory)           |
 | **Secretary**        | Mr Tan Yee Teck                 | SAC Secretariat                           |
 
 ## Council Committee for Biomedical & Health (CCBH)
-### Term: 1 July 2018 - 30 June 2021
+### Term: 1 July 2021 - 30 June 2024
 
 | Designation    | Name                       | Organisation                                  |
 |----------------|----------------------------|-----------------------------------------------|
