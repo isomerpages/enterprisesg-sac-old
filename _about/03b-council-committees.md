@@ -82,6 +82,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Pending                         | National Metrology Centre, A*STAR         |
 |                      | A/Prof Lawrence Loh Yeow Khoon  | National University of Singapore Business School        |
 |                      | Ms Lee May Gee                  | Public Service Division                   |
+|                      | Ms Siew Kum Fong                | Singapore Business Federation             |
+|                      | Ms Seah Yin Fen                 | Singapore Food Manufacturers’ Association |
 |                      | Pending                         | TIC Interest Group (Certification)        |
 |                      | Pending                         | TIC Interest Group (Inspection)           |
 |                      | Pending                         | TIC Interest Group (Laboratory)           |
