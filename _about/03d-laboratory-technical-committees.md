@@ -33,8 +33,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
 | **Members** | Mr Christopher Peter Green | BV-AQ (Singapore) Pte Ltd 
-(Representative for Accredited Laboratory)
-|
+(Representative for Accredited Laboratory) |
 | | Pending | Clinical Nutrition Research Centre |
 | | Mr Jonathan Goh Peng Teck | Environmental Engineering Society of Singapore |
 | | Dr Liu Qinde | Health Sciences Authority |
@@ -49,6 +48,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | A/Prof Chu Jang Hann, Justin | Singapore Society for Microbiology & Biotechnology |
 | | Dr Leong Meng Fatt | Temasek Polytechnic |
 | **Secretary** | Ms Tracy Toh | SAC Secretariat |
+
 
 ## Electrical & Infocomm Technology
 ### Term : 1 July 2018 - 30 June 2021
