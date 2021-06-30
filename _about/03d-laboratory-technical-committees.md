@@ -80,37 +80,42 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
 ## Medical Testing
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Raymond Lin | Ministry of Health |
-| **Members** | Dr Ang Ai Leen | Health Sciences Authority |
-| | A/Prof Leong Khai Pang | National Healthcare Group |
+| **Members** | Pending | Academy of Medicine |
+| | Dr. Shirlena Soh | Association of Biomedical Laboratory Professionals Singapore |
+| | Dr Ang Ai Leen | Health Sciences Authority |
+| | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd |
+| | Dr Lucy Leong | Ministry of Manpower |
+| | A/Prof Leong Khai Pang | -National Healthcare Group |
+| | A/Prof Partha Pratim | National Healthcare Group |
 | | Dr Nancy Tee | National University Health System |
-| | Dr Benedict Yan | National Unversity Health System |
-| | Dr Kenneth Choy | Ministry of Manpower |
-| | Dr Tan Hong Wui | Quest Laboratories Pte Ltd |
-| | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
+| | Dr Benedict Yan | NNational University Health System |
 | | Ms Serene Kho | National Healthcare Group Diagnostics |
 | | Dr Jacqueline Hwang | Singapore Health Services |
 | | Dr Ho Liam Pock | Singapore Health Services |
-| | Dr Eddie Ang Han Sang | Singapore Association of Medical Laboratory Sciences |
+| | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
 | **Secretary** | Ms Alicia Choong | SAC Secretariat |
 
 ## Medical Imaging
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
-| **Members** | Dr Tan Soo See, Susanna | National Healthcare Group |
-| | Dr Hoo Wee Teck	| National Environment Agency |
-| | A/Prof Goh Poh Sun | National University Health System |
-| | Dr Cheryl Lian | Society of Medical Physicists Singapore |
-| | Mr Chong Chun Meng | Singapore Society of Radiographers |
+| **Members** | Pending | Academy of Medicine |
+| | Pending | National Environment Agency |
+| | Dr Tan Soo See, Susanna | National Healthcare Group |
+| | Dr Tyrone Goh | National Healthcare Group Diagnostics |
+| | Dr Faimee Erwan | National University Health System |
 | | Mr Somanesan Satchithanantham | Singapore Health Services |
-| **Secretary** | Ms Alicia Choong | SAC Secretariat |
+| | Dr Teoh Wey Chyi | Singapore Radiological Society |
+| | Ms Denise Choong | Singapore Society of Radiographers |
+| | Dr Cheryl Lian | Society of Medical Physicists Singapore |
+| **Secretary** | Mr Tom Yen | SAC Secretariat |
 
 ## Physical Engineering
 ### Term : 1 July 2018 - 30 June 2021
