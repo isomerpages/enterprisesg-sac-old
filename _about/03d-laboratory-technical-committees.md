@@ -27,22 +27,25 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Members** | Dr Wu Yuansheng | Singapore Food Agency |
-| | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
-| | Mr Jonathan Goh Peng Teck (Alt member : Dr Ng Khee Yang) | Environmental Engineering Society of Singapore (EESS) |
+| **Members** | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
+| | Pending | Clinical Nutrition Research Centre |
+| | Mr Jonathan Goh Peng Teck | Environmental Engineering Society of Singapore |
 | | Dr Liu Qinde | Health Sciences Authority |
 | | Ms Evelyn Koh Poh Cheng | Ministry of Manpower |
-| | Dr Wayne Lee Forday	| Ngee Ann Polytechnic |
-| | Ms Nuraini Bte Supaat | National Environmental Agency |
+| | Pending | National Environment Agency |
 | | Dr Zhang Lifeng | Public Utilities Board |
+| | Mr Eric Kwek	| Republic Polytechnic |
+| | Pending | Singapore Food Agency |
+| | Mr Richard Khaw | Singapore Institute of Food Science & Technology / Nanyang Polytechnic |
 | | Ms Ng Su Ling | Singapore Polytechnic |
-| | Mr Richard Khaw | Singapore Institute of Food Science & Technology |
-| | Dr Edmund Tian Feng | Temasek Polytechnic |
+| | A/Prof Chu Jang Hann, Justin | Singapore Society for Microbiology & Biotechnology |
+| | Pending | Singapore Manufacturing Federation (Representative for Accredited Lab) |
+| | Dr Leong Meng Fatt | Temasek Polytechnic |
 | **Secretary** | Ms Tracy Toh | SAC Secretariat |
 
 ## Electrical & Infocomm Technology
