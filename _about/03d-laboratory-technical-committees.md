@@ -32,7 +32,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Members** | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd
+| **Members** | Mr Christopher Peter Green | BV-AQ (Singapore) Pte Ltd 
 (Representative for Accredited Laboratory)
 |
 | | Pending | Clinical Nutrition Research Centre |
@@ -47,7 +47,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Pending | Singapore Manufacturing Federation (Representative for Accredited Laboratory) |
 | | Ms Ng Su Ling | Singapore Polytechnic |
 | | A/Prof Chu Jang Hann, Justin | Singapore Society for Microbiology & Biotechnology |
-| | Pending | Singapore Manufacturing Federation (Representative for Accredited Lab) |
 | | Dr Leong Meng Fatt | Temasek Polytechnic |
 | **Secretary** | Ms Tracy Toh | SAC Secretariat |
 
