@@ -55,6 +55,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |----------------|------------------------------|---------------------------------------------------------------|
 | **Chairman**   | Er Yvonne Soh                | Singapore Green Building Council                              |
 | **Members**    | Ms Huang Wen Jia             | Association of Process Industry                               |
+|                | Er. Steve Ang                | Building and Construction Authority                           |
 |                | Prof Lim Kok Hua             | Institute of Engineers, Singapore                             |
 |                | Pending                      | Infocomm Media Development Authority                          |
 |                | Mr Sebastian Tan             | Ministry of Manpower                                          |
