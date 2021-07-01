@@ -49,24 +49,25 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 
 ## Council Committee for Certification (CCC)
-### Term: 1 July 2018 - 30 June 2021
+### Term: 1 July 2021 - 30 June 2024
 
 | Designation    | Name                         | Organisation                                                  |
 |----------------|------------------------------|---------------------------------------------------------------|
-| **Chairman**   | Mr Desmond Hill              | Singapore Contractors Association Ltd                         |
-| **Members**    | Mr Francis Tay               | Association of Process Industry                               |
-|                | Er Steve Ang                 | Building and Construction Authority                           |
+| **Chairman**   | Er Yvonne Soh                | Singapore Green Building Council                              |
+| **Members**    | Ms Huang Wen Jia             | Association of Process Industry                               |
+|                | Prof Lim Kok Hua             | Institute of Engineers, Singapore                             |
+|                | Pending                      | Infocomm Media Development Authority                          |
 |                | Mr Sebastian Tan             | Ministry of Manpower                                          |
-|                | Ms Suzanna Yap               | National Environment Agency                                   |
-|                | AC Derek Tan | Singapore Civil Defence Force 
-|                | Ms Cheong Lai Peng           | Singapore Food Agency
-|                | Ms Tan May Ling 	            | SkillsFuture Singapore                                        |
-|                | Er Yvonne Soh                | Singapore Green Building Council                              |
-|                | Dr Jonathan Cheah Weng Kwong | Singapore Food Manufacturing Association                      |
-|                | Ms Heidi Goh	| Singapore Manufacturing Federation (SMF) - Medical Technology Industry Interest Group |
-|                | Mrs Chay-Lee Swee Gee	      | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-|                | Ms Mary Ann de Jesus	        | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-|                | Mr Stanley Ong	              | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+|                | Pending                      | National Environment Agency                                   | 
+|                | AC Derek Tan 	              | Singapore Civil Defence Force                                 |
+|                | Pending                      | Singapore Food Agency                                         |
+|                | Dr Jonathan Cheah            | Singapore Food Manufacturing Association                      |
+|                | Ms Tan May Ling              | SkillsFuture Singapore                                        |
+|                | Pending	                    | Singapore Manufacturing Federation (SMF) - Medical Technology Industry Interest Group |
+|                | Pending	                    | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+|                | Pending	                    | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+|                | Pending	                    | Sustainable Energy Association of Singapore |
+|                | Mr Desmond Hill              | The Singapore Contractors Association Limited                 |
 | **Secretary**  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
 ## Council Committee for Business Development (CCBD)
@@ -80,7 +81,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Mr Wang Weixiang                | Ministry of Sustainability and the Environment | 
 |                      | Mr Tan Lin Teck                 | Ministry of Trade and Industry            |
 |                      | Pending                         | National Metrology Centre, A*STAR         |
-|                      | A/Prof Lawrence Loh Yeow Khoon  | National University of Singapore Business School        |
+|                      | A/Prof Lawrence Loh Yeow Khoon  | National University of Singapore Business School |
 |                      | Ms Lee May Gee                  | Public Service Division                   |
 |                      | Ms Siew Kum Fong                | Singapore Business Federation             |
 |                      | Ms Seah Yin Fen                 | Singapore Food Manufacturers’ Association |
