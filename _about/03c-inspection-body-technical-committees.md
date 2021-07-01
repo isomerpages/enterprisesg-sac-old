@@ -67,14 +67,15 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Er Jeyatharan Kumarasamy | Institute of Engineers, Singapore |
+| **Chairman** | Er Jeyatharan Kumarasamy | Land Transport Authority (LTA)|
+| **Deputy Chairman** | Dr Poh Teoh Yaw | Building & Construction
+Authority (BCA) |
 | **Members** | Er Yong Fen Leong | Association of Consulting Engineers, Singapore |
-| | Dr Poh Teoh Yaw | Building & Construction Authority |
-| | Er Ng Peng Boon | Geotechnical Society of Singapore |
+| | Mr Lionel Ang Loy Jin | Housing & Development Board (HDB)|
 | | Mr Teo Cheng Soon | Housing & Development Board |
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
-| | Er Teo Yen Pai | The Institution of Engineers, Singapore |
+| | Dr Muthusamy Karthikeyan | The Geotechnical Society of Singapore (GeoSS) |
+| | Mr Ting Hua Keong | The Institution of Engineers, Singapore (IES)|
 | | Mr Jeffrey Yu | The Singapore Contractors Association Ltd |
-| | Dr Cai Jun Gang | Society for Rock Mechanics & Engineering Geology |
-| | Ms Prathipa Devi Sundraju | TIC Interest Group |
+| | Pending | TIC Interest Group - SMF|
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
