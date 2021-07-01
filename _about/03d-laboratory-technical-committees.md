@@ -74,10 +74,10 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
-| **Members** | Mr Lim Poh Leong | Singapore Food Agency |
-| | Mr Foo Ngee Chih | Biomedical Research Council, A\*STAR |
-| | Mr Foo Yang Tong | Health Sciences Authority |
-| | Ms Angela Tan H J | National Environment Agency |
+| **Members** | Professor Andre Choo  | A*Star, Biomedical Research Council (BRC) |
+| | Pending | National Environment Agency |
+| | Pending | Singapore Association of Pharmaceutical Industries |
+| | Pending | Singapore Food Agency |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
 ## Medical Testing
