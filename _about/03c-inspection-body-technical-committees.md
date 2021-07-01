@@ -63,7 +63,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
