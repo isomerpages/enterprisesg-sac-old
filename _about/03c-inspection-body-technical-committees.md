@@ -68,11 +68,9 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Jeyatharan Kumarasamy | Land Transport Authority (LTA)|
-| **Deputy Chairman** | Dr Poh Teoh Yaw | Building & Construction
-Authority (BCA) |
+| **Deputy Chairman** | Dr Poh Teoh Yaw | Building & Construction Authority (BCA) |
 | **Members** | Er Yong Fen Leong | Association of Consulting Engineers, Singapore |
 | | Mr Lionel Ang Loy Jin | Housing & Development Board (HDB)|
-| | Mr Teo Cheng Soon | Housing & Development Board |
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
 | | Dr Muthusamy Karthikeyan | The Geotechnical Society of Singapore (GeoSS) |
 | | Mr Ting Hua Keong | The Institution of Engineers, Singapore (IES)|
