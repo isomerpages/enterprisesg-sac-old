@@ -24,8 +24,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Pending | National Metrology Centre (NMC) |
 | | Dr. Lin Wei | Singapore Institute of Manufacturing Technology (SIMTech) |
 | | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
-| | Pedning | Singapore Manufacturing Federation (SMF) |
-| | Pedning | Singapore Manufacturing Federation (SMF) |
+| | Pending | Singapore Manufacturing Federation (SMF) |
+| | Pending | Singapore Manufacturing Federation (SMF) |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
