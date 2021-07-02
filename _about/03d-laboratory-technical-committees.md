@@ -27,23 +27,27 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Members** | Dr Wu Yuansheng | Singapore Food Agency |
-| | Mr Christopher Peter Green | AsureQuality Singapore Pte Ltd |
-| | Mr Jonathan Goh Peng Teck (Alt member : Dr Ng Khee Yang) | Environmental Engineering Society of Singapore (EESS) |
+| **Members** | Mr Christopher Peter Green | BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory) |
+| | Pending | Clinical Nutrition Research Centre |
+| | Mr Jonathan Goh Peng Teck | Environmental Engineering Society of Singapore |
 | | Dr Liu Qinde | Health Sciences Authority |
 | | Ms Evelyn Koh Poh Cheng | Ministry of Manpower |
-| | Dr Wayne Lee Forday	| Ngee Ann Polytechnic |
-| | Ms Nuraini Bte Supaat | National Environmental Agency |
+| | Pending | National Environment Agency |
 | | Dr Zhang Lifeng | Public Utilities Board |
-| | Ms Ng Su Ling | Singapore Polytechnic |
+| | Mr Eric Kwek	| Republic Polytechnic |
+| | Pending | Singapore Food Agency |
 | | Mr Richard Khaw | Singapore Institute of Food Science & Technology |
-| | Dr Edmund Tian Feng | Temasek Polytechnic |
+| | Pending | Singapore Manufacturing Federation (Representative for Accredited Laboratory) |
+| | Ms Ng Su Ling | Singapore Polytechnic |
+| | A/Prof Chu Jang Hann, Justin | Singapore Society for Microbiology & Biotechnology |
+| | Dr Leong Meng Fatt | Temasek Polytechnic |
 | **Secretary** | Ms Tracy Toh | SAC Secretariat |
+
 
 ## Electrical & Infocomm Technology
 ### Term : 1 July 2018 - 30 June 2021
@@ -70,44 +74,49 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
-| **Members** | Mr Lim Poh Leong | Singapore Food Agency |
-| | Mr Foo Ngee Chih | Biomedical Research Council, A\*STAR |
-| | Mr Foo Yang Tong | Health Sciences Authority |
-| | Ms Angela Tan H J | National Environment Agency |
+| **Members** | Professor Andre Choo  | A*Star, Biomedical Research Council (BRC) |
+| | Pending | National Environment Agency |
+| | Pending | Singapore Association of Pharmaceutical Industries |
+| | Pending | Singapore Food Agency |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
 ## Medical Testing
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Raymond Lin | Ministry of Health |
-| **Members** | Dr Ang Ai Leen | Health Sciences Authority |
-| | A/Prof Leong Khai Pang | National Healthcare Group |
+| **Members** | Pending | Academy of Medicine |
+| | Dr. Shirlena Soh | Association of Biomedical Laboratory Professionals Singapore |
+| | Dr Ang Ai Leen | Health Sciences Authority |
+| | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd |
+| | Dr Lucy Leong | Ministry of Manpower |
+| | A/Prof Leong Khai Pang | -National Healthcare Group |
+| | A/Prof Partha Pratim | National Healthcare Group |
 | | Dr Nancy Tee | National University Health System |
-| | Dr Benedict Yan | National Unversity Health System |
-| | Dr Kenneth Choy | Ministry of Manpower |
-| | Dr Tan Hong Wui | Quest Laboratories Pte Ltd |
-| | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
+| | Dr Benedict Yan | NNational University Health System |
 | | Ms Serene Kho | National Healthcare Group Diagnostics |
 | | Dr Jacqueline Hwang | Singapore Health Services |
 | | Dr Ho Liam Pock | Singapore Health Services |
-| | Dr Eddie Ang Han Sang | Singapore Association of Medical Laboratory Sciences |
+| | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
 | **Secretary** | Ms Alicia Choong | SAC Secretariat |
 
 ## Medical Imaging
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
-| **Members** | Dr Tan Soo See, Susanna | National Healthcare Group |
-| | Dr Hoo Wee Teck	| National Environment Agency |
-| | A/Prof Goh Poh Sun | National University Health System |
-| | Dr Cheryl Lian | Society of Medical Physicists Singapore |
-| | Mr Chong Chun Meng | Singapore Society of Radiographers |
+| **Members** | Pending | Academy of Medicine |
+| | Pending | National Environment Agency |
+| | Dr Tan Soo See, Susanna | National Healthcare Group |
+| | Dr Tyrone Goh | National Healthcare Group Diagnostics |
+| | Dr Faimee Erwan | National University Health System |
 | | Mr Somanesan Satchithanantham | Singapore Health Services |
-| **Secretary** | Ms Alicia Choong | SAC Secretariat |
+| | Dr Teoh Wey Chyi | Singapore Radiological Society |
+| | Ms Denise Choong | Singapore Society of Radiographers |
+| | Dr Cheryl Lian | Society of Medical Physicists Singapore |
+| **Secretary** | Mr Tom Yen | SAC Secretariat |
 
 ## Physical Engineering
 ### Term : 1 July 2018 - 30 June 2021
