@@ -52,7 +52,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 
 ## Electrical & Infocomm Technology
-### Term : 1 July 2021 - 30 June 2024
+### Term : 1 July 2021 - 30 June 2024 
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
