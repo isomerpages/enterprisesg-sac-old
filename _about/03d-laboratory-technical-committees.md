@@ -12,18 +12,20 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ---
 
 ## Calibration & Measurement
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic |
+| **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic (NYP)|
 | **Members** | Dr Yet Nai Song | Building and Construction Authority |
-| | Mr Teo Chye Heng | Civil Aviation Authority of Singapore |
-| | Dr Meng Yusong | National Metrology Centre, A\*STAR |
-| | Mr Chua Eng Sing | ITE College Central |
-| | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University |
-| | Ms Tan Mei Ling | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-| | Mr Elton Tong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+| | Mr Teo Chye Heng | Civil Aviation Authority of Singapore (CAAS) |
+| | Dr. Lim See Yew | Institute of Technical Education (ITE) |
+| | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University (NTU) |
+| | Pending | National Metrology Centre (NMC) |
+| | Dr. Lin Wei | Singapore Institute of Manufacturing Technology (SIMTech) |
+| | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
+| | Pedning | Singapore Manufacturing Federation (SMF) |
+| | Pedning | Singapore Manufacturing Federation (SMF) |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
