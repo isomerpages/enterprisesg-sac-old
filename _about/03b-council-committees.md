@@ -96,17 +96,19 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation    | Name                       | Organisation                                  |
 |----------------|----------------------------|-----------------------------------------------|
-| **Chairman**   | Mr Alok Mishra             | Individual Capacity                           |
+| **Chairman**   | A/Prof Raymond Chua        | Ministry of Health                            |
 | **Members**    | Pending                    | Academy of Medicine                           |
-|                | Prof Lisa Ng               | Biomedical Research Council, A\*STAR          |
-|                | Mr Foo Yang Tong	          | Health Sciences Authority                     |
-|                | Pending	                  | Ministry of Health (Health Regulations Group) |
-|                | Dr Tyrone Goh	            | National Healthcare Group Diagnostics         |
-|                | Ms Lim Soh Har	            | National Healthcare Group (Central)           |
-|                | A/Prof Raymond Lin	        | National Public Health Laboratory             |
-|                | A/Prof Ang Bee Leng Sophia	| National University Health System (West)      |
-|                | A/Prof Low Chian Ming      | National University of Singapore              |
-|                | Prof Tan Puay Hoon	        | Singapore Health Services (East)              |
-|                | Pending	                  | Singapore Society of Pharmaceutical Industry  |
-|                | A/Prof Chong Bee Kiang	    | Tan Tock Seng Hospital                        |
+|                | Prof Lisa Ng               | Biomedical Research Council, A*STAR           |
+|                | Asst Prof James Leong      | Duke-NUS Medical School                       |
+|                | A/Prof Teoh Yee Leong      | Ministry of Health                            |
+|                | Ms Lim Soh Har             | National Healthcare Group                     |
+|                | Dr Roland Jureen           | National University of Singapore              |
+|                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
+|                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
+|                | Pending      	            | Singapore Health Services                     |
+|                | Pending                    | Singapore Manufacturing Federation – Medical Technology Industry Group   |
+|                | Pending                    | Singapore Association of Pharmaceutical Industries |
+|                |A/Prof Low Chian Ming       | Technical Committee for Good Laboratory Practice |
+|                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
+|                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
 | **Secretary**  | Ms Lee Jia Juan            | SAC Secretariat                               |
