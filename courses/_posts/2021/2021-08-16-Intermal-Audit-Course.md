@@ -1,1 +1,25 @@
+---
+layout: simple-page
+title: Internal Audit Course
+course_date: 16-17 August 2021
+permalink: /services/training/internal-audit-course-august-2021
+---
 
+## Course Details 
+**16-17 August 2021**
+
+**Fee:**  SGD xxxx (inclusive of GST)
+ 
+**Course Mode:**\\
+
+Online
+
+Registration is  now open.<span style="color:orange;">*</span>  Please go to this [link](/files/registration-forms/Registration-form-(LM-and-IA-Mar-2019).docx){:target="_blank"} for the registration form.
+ 
+This 2-day course is to help the participants:  
+* Learn the essentials of auditing, which include the techniques in assessing the effectiveness of quality systems and indentifying areas for improvement.\\
+* Acquire the skills to plan, implement and report on internal quality system audits.
+ 
+For course objectives, please view attached [link](/files/training/Course-Objectives-IA.pdf){:target="_blank"}.
+ 
+<span style="color:orange;">*</span> Priority will be given to SAC accredited CABs.
