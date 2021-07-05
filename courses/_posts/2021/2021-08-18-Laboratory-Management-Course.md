@@ -1,12 +1,12 @@
 ---
 layout: simple-page
 title: Laboratory Management Course
-course_date: 16-18 August 2021
+course_date: 18-20 August 2021
 permalink: /services/training/laboratory-management-course-august-2021
 ---
 
 ## Course Details
-**16-18 August 2021**
+**18-20 August 2021**
 
 **Fee:** SGD xxxx (inclusive of GST)
  
