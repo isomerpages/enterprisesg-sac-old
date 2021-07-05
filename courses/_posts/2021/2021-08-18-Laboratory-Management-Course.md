@@ -1,1 +1,25 @@
+---
+layout: simple-page
+title: Laboratory Management Course
+course_date: 16-18 August 2021
+permalink: /services/training/laboratory-management-course-august-2021
+---
 
+## Course Details
+**16-18 August 2021**
+
+**Fee:** SGD xxxx (inclusive of GST)
+ 
+**Course Mode:**  
+
+Online course
+
+We are now open for registration.  Please go to this link for the [registration form](/files/registration-forms/Registration-form-(LM-and-IA-Mar-2019).docx){:target="_blank"}.
+ 
+This 3-day course is to help the participants:
+* Understand the requirements of ISO/IEC 17025:2017 as applied to calibration/testing laboratories; and  
+* Develop a quality system which can improve the laboratory operations to meet the needs of their clients understand the SAC requirements for accreditation
+ 
+For course objectives, please view attached [link](/files/training/Course-Objectives-LM.pdf){:target="_blank"}.
+ 
+<span style="color:orange">*</span> Priority will be given to SAC accredited CABs.
