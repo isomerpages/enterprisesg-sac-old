@@ -12,7 +12,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ---
 
 ## Council Committee For Laboratory (CCL)
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation          | Name                       | Organisation                                 |
 |----------------------|----------------------------|----------------------------------------------|
@@ -32,19 +32,21 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 
 ## Council Committee For Inspection (CCI)
-### Term: 1 July 2018 - 30 June 2021
+### Term: 1 July 2021 - 30 June 2024
 
 | Designation   | Name                         | Organisation                      |
 |---------------|------------------------------|-----------------------------------|
 | **Chairman**  | Mr Silas Sng Wee Kiat        | Singapore Accreditation Council   |
-| **Members**   | Dr Poh Teoh Yaw              | Building & Construction Authority |
-|               | Mr Adrian Lo                 | Singapore Manufacturing Federation – Testing, Inspection and Certification (TIC) Interest Group  |
-|               | Mr Loh Lock Mun              | Association of Process Industry          |
-|               | Mr Mohamed Sahlan Bin Salleh | Association of Singapore Marine Industries                   |
-|               | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore           |
-|               | Er. Merlyn Thong             | Land Transport Authority          |
-|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
-|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd  |
+| **Members**   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
+|               | Mr Loh Lock Mun              | Association of Process Industry   |
+|               | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
+|               | Pending                      | Association of Singapore Marine Industry |
+|               | Dr Poh Teoh Yaw              | Building & Construction Authority |
+|               | Er. Merlyn Thong             | Land Transport Authority          |
+|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
+|               | Mr Victor Li                 | Singapore Food Agency             |
+|               | Pending                      | Singapore Manufacturing Federation – TIC Interest Group |
+|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd  |
 | **Secretary** | Mr Tang Kok Min              | Singapore Accreditation Council   |
 
 
