@@ -1,3 +1,5 @@
+
+
 ---
 layout: simple-page
 title: "Inspection Body Course"
