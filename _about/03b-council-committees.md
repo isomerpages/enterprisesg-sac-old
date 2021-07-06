@@ -70,7 +70,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Pending	                    | Singapore Manufacturing Federation - TIC Interest Group       |
 |                | Pending	                    | Singapore Manufacturing Federation - TIC Interest Group       |
 |                | Pending	                    | Sustainable Energy Association of Singapore                   |
-|                | Mr Desmond Hill              | The Singapore Contractors Association Limited                 |
+|                | Mr Desmond Hill              | The Singapore Contractors Association Limited               |
 | **Secretary**  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
 ## Council Committee for Business Development (CCBD)
