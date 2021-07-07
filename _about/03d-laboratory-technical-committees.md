@@ -88,15 +88,15 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Raymond Lin | Ministry of Health |
-| **Members** | Pending | Academy of Medicine |
+| **Members** | Dr Jacqueline Hwang | Academy of Medicine |
 | | Dr. Shirlena Soh | Association of Biomedical Laboratory Professionals Singapore |
 | | Dr Ang Ai Leen | Health Sciences Authority |
 | | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd |
 | | Dr Lucy Leong | Ministry of Manpower |
-| | A/Prof Leong Khai Pang | -National Healthcare Group |
+| | A/Prof Leong Khai Pang | National Healthcare Group |
 | | A/Prof Partha Pratim | National Healthcare Group |
 | | Dr Nancy Tee | National University Health System |
-| | Dr Benedict Yan | NNational University Health System |
+| | Dr Benedict Yan | National University Health System |
 | | Ms Serene Kho | National Healthcare Group Diagnostics |
 | | Dr Jacqueline Hwang | Singapore Health Services |
 | | Dr Ho Liam Pock | Singapore Health Services |
@@ -109,8 +109,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
-| **Members** | Pending | Academy of Medicine |
-| | Pending | National Environment Agency |
+| **Members** | Dr Steven Wong | Academy of Medicine |
+| | Mr Hoo Wee Teck | National Environment Agency |
 | | Dr Tan Soo See, Susanna | National Healthcare Group |
 | | Dr Tyrone Goh | National Healthcare Group Diagnostics |
 | | Dr Faimee Erwan | National University Health System |
