@@ -12,7 +12,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ---
 
 ## Council Committee For Laboratory (CCL)
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation          | Name                       | Organisation                                 |
 |----------------------|----------------------------|----------------------------------------------|
@@ -32,19 +32,21 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 
 ## Council Committee For Inspection (CCI)
-### Term: 1 July 2018 - 30 June 2021
+### Term: 1 July 2021 - 30 June 2024
 
 | Designation   | Name                         | Organisation                      |
 |---------------|------------------------------|-----------------------------------|
 | **Chairman**  | Mr Silas Sng Wee Kiat        | Singapore Accreditation Council   |
-| **Members**   | Dr Poh Teoh Yaw              | Building & Construction Authority |
-|               | Mr Adrian Lo                 | Singapore Manufacturing Federation – Testing, Inspection and Certification (TIC) Interest Group  |
-|               | Mr Loh Lock Mun              | Association of Process Industry          |
-|               | Mr Mohamed Sahlan Bin Salleh | Association of Singapore Marine Industries                   |
-|               | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore           |
-|               | Er. Merlyn Thong             | Land Transport Authority          |
-|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
-|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd  |
+| **Members**   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
+|               | Mr Loh Lock Mun              | Association of Process Industry   |
+|               | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
+|               | Pending                      | Association of Singapore Marine Industry |
+|               | Dr Poh Teoh Yaw              | Building & Construction Authority |
+|               | Er. Merlyn Thong             | Land Transport Authority          |
+|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
+|               | Mr Victor Li                 | Singapore Food Agency             |
+|               | Pending                      | Singapore Manufacturing Federation – TIC Interest Group |
+|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd |
 | **Secretary** | Mr Tang Kok Min              | Singapore Accreditation Council   |
 
 
@@ -68,7 +70,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Pending	                    | Singapore Manufacturing Federation - TIC Interest Group       |
 |                | Pending	                    | Singapore Manufacturing Federation - TIC Interest Group       |
 |                | Pending	                    | Sustainable Energy Association of Singapore                   |
-|                | Mr Desmond Hill              | The Singapore Contractors Association Limited                 |
+|                | Mr Desmond Hill              | The Singapore Contractors Association Limited                 |
 | **Secretary**  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
 ## Council Committee for Business Development (CCBD)
@@ -96,17 +98,19 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation    | Name                       | Organisation                                  |
 |----------------|----------------------------|-----------------------------------------------|
-| **Chairman**   | Mr Alok Mishra             | Individual Capacity                           |
+| **Chairman**   | A/Prof Raymond Chua        | Ministry of Health                            |
 | **Members**    | Pending                    | Academy of Medicine                           |
-|                | Prof Lisa Ng               | Biomedical Research Council, A\*STAR          |
-|                | Mr Foo Yang Tong	          | Health Sciences Authority                     |
-|                | Pending	                  | Ministry of Health (Health Regulations Group) |
-|                | Dr Tyrone Goh	            | National Healthcare Group Diagnostics         |
-|                | Ms Lim Soh Har	            | National Healthcare Group (Central)           |
-|                | A/Prof Raymond Lin	        | National Public Health Laboratory             |
-|                | A/Prof Ang Bee Leng Sophia	| National University Health System (West)      |
-|                | A/Prof Low Chian Ming      | National University of Singapore              |
-|                | Prof Tan Puay Hoon	        | Singapore Health Services (East)              |
-|                | Pending	                  | Singapore Society of Pharmaceutical Industry  |
-|                | A/Prof Chong Bee Kiang	    | Tan Tock Seng Hospital                        |
+|                | Prof Lisa Ng               | Biomedical Research Council, A*STAR           |
+|                | Asst Prof James Leong      | Duke-NUS Medical School                       |
+|                | A/Prof Teoh Yee Leong      | Ministry of Health                            |
+|                | Ms Lim Soh Har             | National Healthcare Group                     |
+|                | Dr Roland Jureen           | National University of Singapore              |
+|                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
+|                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
+|                | Pending      	            | Singapore Health Services                     |
+|                | Pending                    | Singapore Manufacturing Federation – Medical Technology Industry Group   |
+|                | Pending                    | Singapore Association of Pharmaceutical Industries |
+|                |A/Prof Low Chian Ming       | Technical Committee for Good Laboratory Practice |
+|                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
+|                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
 | **Secretary**  | Ms Lee Jia Juan            | SAC Secretariat                               |

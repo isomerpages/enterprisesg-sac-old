@@ -12,18 +12,20 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ---
 
 ## Calibration & Measurement
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic |
+| **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic (NYP)|
 | **Members** | Dr Yet Nai Song | Building and Construction Authority |
-| | Mr Teo Chye Heng | Civil Aviation Authority of Singapore |
-| | Dr Meng Yusong | National Metrology Centre, A\*STAR |
-| | Mr Chua Eng Sing | ITE College Central |
-| | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University |
-| | Ms Tan Mei Ling | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
-| | Mr Elton Tong | Singapore Manufacturing Federation (SMF) - TIC Interest Group |
+| | Mr Teo Chye Heng | Civil Aviation Authority of Singapore (CAAS) |
+| | Dr. Lim See Yew | Institute of Technical Education (ITE) |
+| | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University (NTU) |
+| | Pending | National Metrology Centre (NMC) |
+| | Dr. Lin Wei | Singapore Institute of Manufacturing Technology (SIMTech) |
+| | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
+| | Pending | Singapore Manufacturing Federation (SMF) |
+| | Pending | Singapore Manufacturing Federation (SMF) |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
@@ -50,22 +52,22 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 
 ## Electrical & Infocomm Technology
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024 
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Er Lim Say Leong | The Institution of Engineers, Singapore |
-| **Members** | Mr Ng Soo Horng | Casino Regulatory Authority |
+| **Chairman** | Er Lim Say Leong | The Institution of Engineers, Singapore (IES) |
+| **Members** | Mr Tony Low | Association of Information Security Professionals (AiSP) |
 | | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
-| | Mr Lee Zhi Qing Robert | Cyber Security Agency |
-| | Er Koh Chuan Wai | Energy Market Authority |
-| | Dr Narasimalu Srikanth | Energy Research Institute @ NTU |
-| | Mr Quek Yang Boon | Government Technology Agency |
+| | Mr Ng Soo Horng | Casino Regulatory Authority  (CRA)|
+| | Mr Robert Lee Zhi Qing | Cyber Security Agency |
+| | Mr Lim Yong Ping | Energy Market Authority (EMA) |
+| | Mr Quek Yang Boon | Government Technology Agency (GovTech) |
 | | Er Teh Cheong Foo | Housing & Development Board |
-| | Dr Pablo Valdivia | Singapore University of Technology and Design |
-| | Ms Goh Yoke Mun | Sustainable Energy Association of Singapore |
-| | Dr Alvin Chan | Singapore Institute of Technology |
-| | Mr Henry Chang | Singapore Manufacturing Federation -TIC Interest Group - UL International Singapore Pte Ltd |
+| | Pending | Infocomm Media Development Authority (IMDA) |
+| | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
+| | Pending | Sustainable Energy Association of Singapore (SEAS) |
+| | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Good Laboratory Practice
@@ -75,9 +77,9 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
 | **Members** | Professor Andre Choo  | A*Star, Biomedical Research Council (BRC) |
-| | Pending | National Environment Agency |
+| | Dr Koou Sin Ying <br/>Dr Fang Zhanxiong | National Environment Agency |
 | | Pending | Singapore Association of Pharmaceutical Industries |
-| | Pending | Singapore Food Agency |
+| | Ms Peggy Chew | Singapore Food Agency |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
 ## Medical Testing
