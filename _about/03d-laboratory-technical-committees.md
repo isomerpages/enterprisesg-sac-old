@@ -67,7 +67,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Pending | Infocomm Media Development Authority (IMDA) |
 | | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
 | | Pending | Sustainable Energy Association of Singapore (SEAS) |
- | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
+| | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Good Laboratory Practice
