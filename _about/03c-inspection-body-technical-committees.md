@@ -19,11 +19,11 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Chairman** | Mr Chan Yew Kwong | Ministry of Manpower |
 | **Members** | Mr Thomas Chong | Association of Process Industires |
 | | Pending  | Association of Singapore Marine Industires |
+| | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | | Mr Ernest Phoon Chee Keong | Land Transport Authority |
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
 | | Mr Kenneth Lim | National Environment Agency |
-| | A/Prof Ong Lin Seng | Nanyang Technological University |
 | | Ms Michelle Ng | Ng Wah Hong Enterprises Pte Ltd |
 | | Pending | Singapore Manufacturing Federation |
 | | Pending | Singapore Manufacturing Federation |
