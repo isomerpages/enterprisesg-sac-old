@@ -48,18 +48,21 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr Chong Yong Hui | SAC Secretariat |
 
 ## Cargo Inspection
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Simon Neo | International Bunker Industry Association |
-| **Members** | Mr Colin Yong | Maritime and Port Authority of Singapore |
-| | Mr Daraji Daud | Singapore Manufacturing Federation - SGS Testing & Control Services Singapore Pte Ltd |
-| | Captain Osman Bin Sam | Singapore Polytechnic |
-| | Mr Michael Phoon | Singapore Shipping Association |
-| | Captain Francis Koh | Singapore Nautical Institute |
+| **Chairman** | Mr Alex Tang | International Bunker Industry Association |
+| **Members** | Mr Colin Yong | Maritime and Port Authority of S
+Singapore |
+| | Pending | Seafood Industries Association of Sinapore |
+| | Mr Chang Jian | Singapore Food Agency |
+| | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
 | | Captain Francis Lansakara | Singapore Nautical Institute |
-| | Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd |
+| | Mr Michael Phoon | Singapore Shipping Association |
+| | Pending | Singapore Food Manufacturer's Association |
+| | Pending | Singapore Manufacturing Federation |
+| | Pending | Singapore Manufacturing Federation |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
