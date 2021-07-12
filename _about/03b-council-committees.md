@@ -99,7 +99,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | Designation    | Name                       | Organisation                                  |
 |----------------|----------------------------|-----------------------------------------------|
 | **Chairman**   | A/Prof Raymond Chua        | Ministry of Health                            |
-| **Members**    | Pending                    | Academy of Medicine                           |
+| **Members**    | A/Prof Mahesh Choolani     | Academy of Medicine                           |
 |                | Prof Lisa Ng               | Biomedical Research Council, A*STAR           |
 |                | Asst Prof James Leong      | Duke-NUS Medical School                       |
 |                | A/Prof Teoh Yee Leong      | Ministry of Health                            |
@@ -107,9 +107,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Dr Roland Jureen           | National University of Singapore              |
 |                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
 |                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
-|                | Pending      	            | Singapore Health Services                     |
+|                | Prof Tan Puay Hoon         | Singapore Health Services                     |
 |                | Pending                    | Singapore Manufacturing Federation – Medical Technology Industry Group   |
-|                | Pending                    | Singapore Association of Pharmaceutical Industries |
 |                |A/Prof Low Chian Ming       | Technical Committee for Good Laboratory Practice |
 |                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
 |                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
