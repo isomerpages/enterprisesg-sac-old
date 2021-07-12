@@ -57,12 +57,12 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 Singapore |
 | | Pending | Seafood Industries Association of Sinapore |
 | | Mr Chang Jian | Singapore Food Agency |
-| | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
-| | Captain Francis Lansakara | Singapore Nautical Institute |
-| | Mr Michael Phoon | Singapore Shipping Association |
 | | Pending | Singapore Food Manufacturer's Association |
 | | Pending | Singapore Manufacturing Federation |
 | | Pending | Singapore Manufacturing Federation |
+| | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
+| | Captain Francis Lansakara | Singapore Nautical Institute |
+| | Mr Michael Phoon | Singapore Shipping Association |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
