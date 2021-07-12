@@ -16,7 +16,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Chan Yew Kwong | Ministry of Manpower |
+| **Chairman** | Mr Chan Yew Kwong | Workplace Health & Safety Council |
 | **Members** | Mr Thomas Chong | Association of Process Industires |
 | | Pending  | Association of Singapore Marine Industires |
 | | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
