@@ -19,7 +19,6 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Chairman** | Mr Chan Yew Kwong | Workplace Health & Safety Council |
 | **Members** | Mr Thomas Chong | Association of Process Industires |
 | | Pending  | Association of Singapore Marine Industires |
-| | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | | Mr Ernest Phoon Chee Keong | Land Transport Authority |
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
@@ -28,6 +27,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Pending | Singapore Manufacturing Federation |
 | | Pending | Singapore Manufacturing Federation |
 | | Pending | Singapore Police Force |
+| | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Structural Steelwork Inspection
