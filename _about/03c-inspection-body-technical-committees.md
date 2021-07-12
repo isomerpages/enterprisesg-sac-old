@@ -12,22 +12,23 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ---
 
 ## Mechanical Engineering Inspection
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Mr Chan Yew Kwong | Ministry of Manpower |
-| **Members** | Pending | Association of Singapore Marine Industires |
-| | Mr Poon Meng Jin, Dennis<br/>(Alt: Mr Lam Tiam Yuen, Daniel) | Land Transport Authority |
+| **Members** | Mr Thomas Chong | Association of Process Industires |
+| | Pending  | Association of Singapore Marine Industires |
+| | Mr Ernest Phoon Chee Keong | Land Transport Authority |
+| | Mr Bernard Kwok | Ministry of Manpower |
+| | Prof Upadrasta Ramamurthy | Nanyang Technological University |
+| | Mr Kenneth Lim | National Environment Agency |
 | | A/Prof Ong Lin Seng | Nanyang Technological University |
-| | Mr Lim See Khoon, Kenneth | National Environment Agency |
-| | Pending | Sembcorp Industries Ltd (Representative for end user) |
-| | Ms Siti Soleha Osman | Singapore Police Force |
-| | Mr Khoo Chee Guan, Mark | Singapore Manufacturing Federation (Representative for PVLE) |
-| | Mr Yusoof Aynuddin | Singapore Manufacturing Federation (Representative for HL) |
-| | Pending | The Institution of Engineers, Singapore |
-| | Ms Ng Siang Hoon, Michelle | Waste Management & Recycling Association of Singapore |
-| **Secretary** | Mr Derwin Tang | SAC Secretariat |
+| | Ms Michelle Ng | Ng Wah Hong Enterprises Pte Ltd |
+| | Pending | Singapore Manufacturing Federation |
+| | Pending | Singapore Manufacturing Federation |
+| | Pending | Singapore Police Force |
+| **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Structural Steelwork Inspection
 ### Term : 1 July 2018 - 30 June 2021
