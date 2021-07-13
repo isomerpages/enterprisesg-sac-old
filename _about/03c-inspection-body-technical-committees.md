@@ -38,14 +38,12 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Chairman** | Er Chin Leong Siong | Building and Construction Authority |
 | **Members** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
 | | Mr Ang Poh Cheng | Housing & Development Board |
-| | Mr Tang Pei Luen | Jurong Town Council |
-| | Mr Lim Tuck Fang | Land Transport Authority |
-| | Prof Pang Hock Lye, John | Nanyang Technological University |
+| | Mr Kenneth Liew | Land Transport Authority |
+| | Prof Tang Kang Hai | Nanyang Technological University |
 | | Dr Pang Sze Dai | National University of Singapore |
 | | Mr James Yuen | Singapore Contractors Association Ltd |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
-| | Mr Wong Keam Tong | Singapore Structural Steelwork Society |
-| | Dr Kong Kian Hau | The Institution of Engineers, Singapore |
+| | Mr Tan Yew Chai | The Institution of Engineers, Singapore |
 | **Secretary** | Mr Chong Yong Hui | SAC Secretariat |
 
 ## Cargo Inspection
