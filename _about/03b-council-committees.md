@@ -91,9 +91,9 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Pending                         | TIC Interest Group (Certification)        |
 |                      | Pending                         | TIC Interest Group (Laboratory)           |
 |                      | Pending                         | TIC Interest Group (Laboratory, Inspection, Certification)  |
+| **Secretary**        | Mr Tan Yee Teck                 | SAC Secretariat                  |
+|                      | Mr Terence Hu                   | SAC Secretariat                  |
 
-| **Secretary**        | Mr Tan Yee Teck                 | SAC Secretariat                           |
-|                      | Mr Terence Hu                   | SAC Secretariat                           |
 
 ## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2021 - 30 June 2024
