@@ -37,7 +37,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 |-------------|------|--------------|
 | **Chairman** | Er Chin Leong Siong | Building and Construction Authority |
 | **Members** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
-| | Mr Ang Poh Cheng | Housing & Development Board |
+| | Ms Ang Poh Cheng | Housing & Development Board |
 | | Mr Kenneth Liew | Land Transport Authority |
 | | Prof Tang Kang Hai | Nanyang Technological University |
 | | Dr Pang Sze Dai | National University of Singapore |
