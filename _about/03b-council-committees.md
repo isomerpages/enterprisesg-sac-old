@@ -78,21 +78,21 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation          | Name                            | Organisation                              |
 |----------------------|---------------------------------|-------------------------------------------|
-| **Chairman**         | Mr Jagadish C V     | Singapore Accreditation Council |
-| **Members**          | Mr Ling Ting Ming   | Association of Small Medium Enterprises |
-|                      | Dr Eunice Pang      | Health Promotion Board  |
-|                      | Mr Wang Weixiang    | Ministry of Sustainability and the Environment |
-|                      | Mr Tan Lin Teck     | Ministry of Trade and Industry  |
-|                      | Pending             | National Metrology Centre, A*STAR   |
-|                      | A/Prof Lawrence Loh | National University of Singapore Business School |
-|                      | Ms Lee May Gee      | Public Service Division        |
-|                      | Ms Siew Kum Fong    | Singapore Business Federation  |
-|                      | Ms Seah Yin Fen     | Singapore Food Manufacturers’ Association |
-|                      | Pending             | TIC Interest Group (Certification)        |
-|                      | Pending             | TIC Interest Group (Laboratory)         
-|                      | Pending             | TIC Interest Group (Laboratory, Inspection, Certification)  |
-| **Secretaries**      | Mr Tan Yee Teck     | SAC Secretariat                  |
-|                      | Mr Terence Hu       | SAC Secretariat                  |
+| **Chairman**         | Mr Jagadish C V         | Singapore Accreditation Council |
+| **Members**          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
+|                      | Dr Eunice Pang          | Health Promotion Board  |
+|                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
+|                      | Mr Tan Lin Teck         | Ministry of Trade and Industry  |
+|                      | Pending                 | National Metrology Centre, A*STAR   |
+|                      | A/Prof Lawrence Loh     | National University of Singapore Business School |
+|                      | Ms Lee May Gee          | Public Service Division        |
+|                      | Ms Siew Kum Fong        | Singapore Business Federation  |
+|                      | Ms Seah Yin Fen         | Singapore Food Manufacturers’ Association |
+|                      | Pending                 | TIC Interest Group (Certification)        |
+|                      | Pending                 | TIC Interest Group (Laboratory)         
+|                      | Pending                 | TIC Interest Group (Laboratory, Inspection, Certification)  |
+| **Secretaries**      | Mr Tan Yee Teck         | SAC Secretariat                  |
+|                      | Mr Terence Hu       |     SAC Secretariat                  |
 
 
 ## Council Committee for Biomedical & Health (CCBH)
