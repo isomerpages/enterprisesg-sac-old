@@ -78,20 +78,22 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation          | Name                            | Organisation                              |
 |----------------------|---------------------------------|-------------------------------------------|
-| **Chairman**         | Mr Jagadish C V                 | Singapore Accreditation Council           |
-| **Members**          | Mr Ling Ting Ming               | Association of Small Medium Enterprises   |
-|                      | Ms Eunice Pang                  | Health Promotion Board                    |
-|                      | Mr Wang Weixiang                | Ministry of Sustainability and the Environment | 
-|                      | Mr Tan Lin Teck                 | Ministry of Trade and Industry            |
-|                      | Pending                         | National Metrology Centre, A*STAR         |
-|                      | A/Prof Lawrence Loh Yeow Khoon  | National University of Singapore Business School |
-|                      | Ms Lee May Gee                  | Public Service Division                   |
-|                      | Ms Siew Kum Fong                | Singapore Business Federation             |
-|                      | Ms Seah Yin Fen                 | Singapore Food Manufacturers’ Association |
-|                      | Pending                         | TIC Interest Group (Certification)        |
-|                      | Pending                         | TIC Interest Group (Inspection)           |
-|                      | Pending                         | TIC Interest Group (Laboratory)           |
-| **Secretary**        | Mr Tan Yee Teck                 | SAC Secretariat                           |
+| **Chairman**         | Mr Jagadish C V         | Singapore Accreditation Council |
+| **Members**          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
+|                      | Dr Eunice Pang          | Health Promotion Board  |
+|                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
+|                      | Mr Tan Lin Teck         | Ministry of Trade and Industry  |
+|                      | Pending                 | National Metrology Centre, A*STAR   |
+|                      | A/Prof Lawrence Loh     | National University of Singapore Business School |
+|                      | Ms Lee May Gee          | Public Service Division        |
+|                      | Ms Siew Kum Fong        | Singapore Business Federation  |
+|                      | Ms Seah Yin Fen         | Singapore Food Manufacturers’ Association |
+|                      | Pending                 | TIC Interest Group (Certification)        |
+|                      | Pending                 | TIC Interest Group (Laboratory)         
+|                      | Pending                 | TIC Interest Group (Laboratory, Inspection, Certification)  |
+| **Secretaries**      | Mr Tan Yee Teck         | SAC Secretariat                  |
+|                      | Mr Terence Hu       |     SAC Secretariat                  |
+
 
 ## Council Committee for Biomedical & Health (CCBH)
 ### Term: 1 July 2021 - 30 June 2024
@@ -99,7 +101,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | Designation    | Name                       | Organisation                                  |
 |----------------|----------------------------|-----------------------------------------------|
 | **Chairman**   | A/Prof Raymond Chua        | Ministry of Health                            |
-| **Members**    | Pending                    | Academy of Medicine                           |
+| **Members**    | A/Prof Mahesh Choolani     | Academy of Medicine                           |
 |                | Prof Lisa Ng               | Biomedical Research Council, A*STAR           |
 |                | Asst Prof James Leong      | Duke-NUS Medical School                       |
 |                | A/Prof Teoh Yee Leong      | Ministry of Health                            |
@@ -107,9 +109,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Dr Roland Jureen           | National University of Singapore              |
 |                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
 |                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
-|                | Pending      	            | Singapore Health Services                     |
+|                | Prof Tan Puay Hoon         | Singapore Health Services                     |
 |                | Pending                    | Singapore Manufacturing Federation – Medical Technology Industry Group   |
-|                | Pending                    | Singapore Association of Pharmaceutical Industries |
 |                |A/Prof Low Chian Ming       | Technical Committee for Good Laboratory Practice |
 |                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
 |                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |

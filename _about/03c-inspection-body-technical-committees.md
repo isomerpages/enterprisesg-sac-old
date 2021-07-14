@@ -12,22 +12,23 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ---
 
 ## Mechanical Engineering Inspection
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Chan Yew Kwong | Ministry of Manpower |
-| **Members** | Pending | Association of Singapore Marine Industires |
-| | Mr Poon Meng Jin, Dennis<br/>(Alt: Mr Lam Tiam Yuen, Daniel) | Land Transport Authority |
-| | A/Prof Ong Lin Seng | Nanyang Technological University |
-| | Mr Lim See Khoon, Kenneth | National Environment Agency |
-| | Pending | Sembcorp Industries Ltd (Representative for end user) |
-| | Ms Siti Soleha Osman | Singapore Police Force |
-| | Mr Khoo Chee Guan, Mark | Singapore Manufacturing Federation (Representative for PVLE) |
-| | Mr Yusoof Aynuddin | Singapore Manufacturing Federation (Representative for HL) |
-| | Pending | The Institution of Engineers, Singapore |
-| | Ms Ng Siang Hoon, Michelle | Waste Management & Recycling Association of Singapore |
-| **Secretary** | Mr Derwin Tang | SAC Secretariat |
+| **Chairman** | Mr Chan Yew Kwong | Workplace Health & Safety Council |
+| **Members** | Mr Thomas Chong | Association of Process Industires |
+| | Pending  | Association of Singapore Marine Industires |
+| | Mr Ernest Phoon Chee Keong | Land Transport Authority |
+| | Mr Bernard Kwok | Ministry of Manpower |
+| | Prof Upadrasta Ramamurthy | Nanyang Technological University |
+| | Mr Kenneth Lim | National Environment Agency |
+| | Ms Michelle Ng | Ng Wah Hong Enterprises Pte Ltd |
+| | Pending | Singapore Manufacturing Federation |
+| | Pending | Singapore Manufacturing Federation |
+| | Pending | Singapore Police Force |
+| | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
+| **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Structural Steelwork Inspection
 ### Term : 1 July 2018 - 30 June 2021
@@ -36,30 +37,30 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 |-------------|------|--------------|
 | **Chairman** | Er Chin Leong Siong | Building and Construction Authority |
 | **Members** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
-| | Mr Ang Poh Cheng | Housing & Development Board |
-| | Mr Tang Pei Luen | Jurong Town Council |
-| | Mr Lim Tuck Fang | Land Transport Authority |
-| | Prof Pang Hock Lye, John | Nanyang Technological University |
+| | Ms Ang Poh Cheng | Housing & Development Board |
+| | Mr Kenneth Liew | Land Transport Authority |
+| | Prof Tang Kang Hai | Nanyang Technological University |
 | | Dr Pang Sze Dai | National University of Singapore |
 | | Mr James Yuen | Singapore Contractors Association Ltd |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
-| | Mr Wong Keam Tong | Singapore Structural Steelwork Society |
-| | Dr Kong Kian Hau | The Institution of Engineers, Singapore |
+| | Mr Tan Yew Chai | The Institution of Engineers, Singapore |
 | **Secretary** | Mr Chong Yong Hui | SAC Secretariat |
 
 ## Cargo Inspection
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Simon Neo | International Bunker Industry Association |
+| **Chairman** | Mr Alex Tang | International Bunker Industry Association |
 | **Members** | Mr Colin Yong | Maritime and Port Authority of Singapore |
-| | Mr Daraji Daud | Singapore Manufacturing Federation - SGS Testing & Control Services Singapore Pte Ltd |
-| | Captain Osman Bin Sam | Singapore Polytechnic |
+| | Pending | Seafood Industries Association of Sinapore |
+| | Mr Chang Jian Quan | Singapore Food Agency |
+| | Pending | Singapore Food Manufacturer's Association |
+| | Pending | Singapore Manufacturing Federation |
+| | Pending | Singapore Manufacturing Federation |
+| | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
+| | Capt Francis Lansakara | Singapore Nautical Institute |
 | | Mr Michael Phoon | Singapore Shipping Association |
-| | Captain Francis Koh | Singapore Nautical Institute |
-| | Captain Francis Lansakara | Singapore Nautical Institute |
-| | Mr Leslie Pereira | Singapore Manufacturing Federation - Intertek Testing Services (Singapore) Pte Ltd |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
