@@ -36,7 +36,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation   | Name                         | Organisation                      |
 |---------------|------------------------------|-----------------------------------|
-| **Chairman**  | Mr Silas Sng Wee Kiat        | Singapore Accreditation Council   |
+| **Chairman**  | Mr Silas Sng Wee Kiat        | Ministry of Manpower              |
 | **Members**   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
 |               | Mr Loh Lock Mun              | Association of Process Industry   |
 |               | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
