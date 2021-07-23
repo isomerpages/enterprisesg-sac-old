@@ -34,9 +34,9 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |
 |                      | Pending                    | Singapore Manufacturing Federation     |
 |
-|                      | Dr Ong Eng Hong            | Singapore University of Technology & Design  
-||
-|                      | Mr Sze Thiam Siong         | Singapore Welding Society                    |
+|                      | Dr Zong Yun                | Singapore National Institute of Chemistry
+|
+|                      | Dr Ong Eng Hong            | Singapore University of Technology & Design   |
 |                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore        |
 | **Secretary**        | Ms Lim Lee Fang            | SAC Secretariat                              |
 
