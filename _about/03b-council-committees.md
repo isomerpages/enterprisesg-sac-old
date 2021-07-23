@@ -16,30 +16,22 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation          | Name                       | Organisation                                 |
 |----------------------|----------------------------|----------------------------------------------|
-| **Chairman**         | Dr Leslie Retnam           | National University of Singapore      |       |
+| **Chairman**         | Dr Leslie Retnam           | National University of Singapore      |       
 | **Deputy Chairman**  | A/P Joanne Chan Sheot Harn | Singapore Food Agency        |                
-|
-| **Members**          | Mrs Reshmy Pillay          | A*STAR National Metrology Centre (NMC)    |  |
+| **Members**          | Mrs Reshmy Pillay          | A*STAR National Metrology Centre (NMC)    |  
 |                      | Mr Tony Low                | Association of Information Security Professionals  |
-|
-|                      | Dr Gao Chun Ping           | Building and Construction Authority       |   |
-|                      | Mr Lim Soon Chia           | Cyber Security Agency        |                |
-|                      | Dr Teo Tang Lin            | Health Sciences Authority        |            |
-|                      | Dr Kenneth Choy            | Ministry of Manpower         |               
-|                      
-|                      | Dr Joel Lee                | Nanyang Polytechnic      |                    |       
+|                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
+|                      | Mr Lim Soon Chia           | Cyber Security Agency        |                
+|                      | Dr Teo Tang Lin            | Health Sciences Authority        |            
+|                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
+|                      | Dr Joel Lee                | Nanyang Polytechnic      |                      
+|                      | Pending                    | Singapore Manufacturing Federation     |              
 |                      | Pending                    | Singapore Manufacturing Federation     |
-|                
 |                      | Pending                    | Singapore Manufacturing Federation     |
-|
-|                      | Pending                    | Singapore Manufacturing Federation     |
-|
 |                      | Dr Zong Yun                | Singapore National Institute of Chemistry 
-|
-|                      | Dr Ong Eng Hong            | Singapore University of Technology & Design   |
-|
-|                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore    |    |
-| **Secretary**        | Ms Lim Lee Fang            | SAC Secretariat        |                      |
+|                      | Dr Ong Eng Hong            | Singapore University of Technology & Design   
+|                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore    |    
+| **Secretary**        | Ms Lim Lee Fang            | SAC Secretariat        |                      
 
 
 ## Council Committee For Inspection (CCI)
