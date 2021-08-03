@@ -70,9 +70,10 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Dr Jonathan Cheah            | Singapore Food Manufacturing Association                      |
 |                | Ms Tan May Ling              | SkillsFuture Singapore                                        |
 |                | Pending	                    | Singapore Manufacturing Federation - Medical Technology Industry Interest Group |
-|                | Pending	                    | Singapore Manufacturing Federation - TIC Interest Group       |
-|                | Pending	                    | Singapore Manufacturing Federation - TIC Interest Group       |
-|                | Pending	                    | Sustainable Energy Association of Singapore                   |
+|                | Mr Don Quek                  | Singapore Manufacturing Federation - TIC Interest Group - Product Certification Body |
+|                | Mrs Chay-Lee Swee Gee        | Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification Body  |
+|                | Dr Nadehe Claudel        | Singapore Manufacturing Federation - TIC Interest Group - Management System Certification Body  |
+|                | Pending                      | Sustainable Energy Association of Singapore                   |
 |                | Mr Desmond Hill              | The Singapore Contractors Association Limited                 |
 | **Secretary**  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
