@@ -109,7 +109,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | A/ Prof Chong Bee Kiang | National Healthcare Group |
 | **Members** | Dr Steven Wong | Academy of Medicine |
-| | Mr Hoo Wee Teck | National Environment Agency |
+| | Dr Hoo Wee Teck | National Environment Agency |
 | | Dr Tan Soo See, Susanna | National Healthcare Group |
 | | Dr Tyrone Goh | National Healthcare Group Diagnostics |
 | | Dr Faimee Erwan | National University Health System |
