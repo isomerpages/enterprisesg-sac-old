@@ -2,7 +2,7 @@
 layout: simple-page
 title: ISO/IEC 17021-1-2015 Management System Certification Course
 course_date: 21 - 22 October 2021
-permalink: /services/training/2021-ISO-IEC-17021-1-2015-Mgmt-Sys-Cert-Course
+permalink: /services/training/ISO-IEC-17021-1-2015-Mgmt-Sys-Cert-Course
 ---
 
 ## Course Details
