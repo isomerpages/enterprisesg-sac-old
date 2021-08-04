@@ -2,7 +2,7 @@
 layout: simple-page
 title: ISO/IEC 17065-Product Certification Course
 course_date: 7 - 8 October 2021
-permalink: /services/training/2021-ISO-IEC-17065-Product-Certification-Course
+permalink: /services/training/ISO-IEC-17065-Product-Certification-Course
 ---
 
 ## Course Details
