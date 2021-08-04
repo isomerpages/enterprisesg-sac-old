@@ -11,7 +11,7 @@ permalink: /services/training/2021-ISO-IEC-17065-Product-Certification-Course
 **Course Fee:** SGD 385.20 (inclusive of GST)
 
 **Course Mode:**\
-Virtual (Details will be provoded nearer to the training dates)
+Virtual (Details will be provided nearer to the training dates)
 
 **Objective:-**\
 This 2-day course will help the participants from the certification bodies to understand the interpretation of the standard requirements.
