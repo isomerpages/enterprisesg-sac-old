@@ -35,14 +35,14 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
 | **Members** | Mr Christopher Peter Green | BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory) |
-| | Pending | Clinical Nutrition Research Centre |
 | | Mr Jonathan Goh Peng Teck | Environmental Engineering Society of Singapore |
 | | Dr Liu Qinde | Health Sciences Authority |
 | | Ms Evelyn Koh Poh Cheng | Ministry of Manpower |
-| | Pending | National Environment Agency |
+| | Ms Nuraini Supaat | National Environment Agency |
 | | Dr Zhang Lifeng | Public Utilities Board |
 | | Mr Eric Kwek	| Republic Polytechnic |
-| | Pending | Singapore Food Agency |
+| | Dr Wu Yuanshang | Singapore Food Agency |
+| | Dr Yoganathan s/o Kanagasundaram | Singapore Institute of Food and Biotechnology Innovation |
 | | Mr Richard Khaw | Singapore Institute of Food Science & Technology |
 | | Pending | Singapore Manufacturing Federation (Representative for Accredited Laboratory) |
 | | Ms Ng Su Ling | Singapore Polytechnic |
