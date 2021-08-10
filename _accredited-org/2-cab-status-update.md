@@ -103,6 +103,9 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Inspection Body
 
+* Cargo Inspection
+  * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
+
 * Hooklift & Container Inspection
   * AJK Engineering Pte Ltd (22 November 2019)
 
