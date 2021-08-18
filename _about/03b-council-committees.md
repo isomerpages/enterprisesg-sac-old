@@ -92,9 +92,9 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Ms Lee May Gee          | Public Service Division        |
 |                      | Ms Siew Kum Fong        | Singapore Business Federation  |
 |                      | Ms Seah Yin Fen         | Singapore Food Manufacturers’ Association |
-|                      | Pending                 | TIC Interest Group (Certification)        |
-|                      | Pending                 | TIC Interest Group (Laboratory)         
-|                      | Pending                 | TIC Interest Group (Laboratory, Inspection, Certification)  |
+|                      | Ms Miranda Chen         | TIC Interest Group (Certification)        |
+|                      | Mr Ang Tiong Ing        | TIC Interest Group (Laboratory)         
+|                      | Mr Tang Chi Lin         | TIC Interest Group (Laboratory, Inspection, Certification)  |
 | **Secretaries**      | Mr Tan Yee Teck         | SAC Secretariat                  |
 |                      | Mr Terence Hu       |     SAC Secretariat                  |
 
