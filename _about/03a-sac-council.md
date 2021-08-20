@@ -31,7 +31,7 @@ Accuron Technologies Limited
 | | Pending | Info-Communications Media Development Authority (IMDA) |
 | | A/Prof Raymond Chua | Ministry of Health (MOH) |
 | | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
-| | Mr Adrian Ng | Ministry of Trade and Industry (MTI) |
+| | Mr Adrian Ngbr/>(Alternate: Mr Yap Hun Hong)  | Ministry of Trade and Industry (MTI) |
 | | Mr Dalson Chung<br/>(Alternate: Ms Evon Wong) | National Environment Agency (NEA) |
 | | Dr Leslie Retnam | National University of Singapore (NUS)|
 | | Ms Siew Kum Fong | Singapore Business Federation (SBF) |
