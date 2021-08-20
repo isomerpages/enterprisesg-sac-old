@@ -20,31 +20,21 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Chemical & Biological Testing 
-  * Home Team Science and Technology Agency (WAL) (18 January 2021)
-  * Home Team Science and Technology Agency (PAAF) (21 January 2021)
+* Civil Engineering 
+  * Geotech Link Pte Ltd (03 June 2021)
+  * Terralab Technologies Pte Ltd (11 August 2021)
 
-* Non-Destructive Testing
-  * Veera Offshore Engineering Services Pte. Ltd. (27 April 2021)
-  * Weaves Engineering Pte. Ltd.
-  
-* Calibration & Measurement
-  * Trescal Singapore Pte Ltd @ Goodrich (16 April 2021)
-
-* Mechanical Testing
-  * Asahi Kasei Plastics Singapore Pte Ltd (5 April 2021)
-  
 
 #### Inspection Body Inspectiom
 
 * Cargo Inspection
-  * Eurofins Mechem Pte Ltd (19 April 2021)
+  * Khalon Marine Pte Ltd (27 July 2021)
 
 
 #### Certification Body
 
 * Medical Devices - Quality Management Systems
-  * Bureau Veritas Quality Assurance Pte. Ltd. (28 April 2021)
+  * SGS International Certification Services Singapore Pte Ltd (18 August 2021)
 
      
 
@@ -77,26 +67,21 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * Northlab Seams Pte Ltd (8 March 2021)
   * CEP Services Pte Ltd (10 May 2021)
-  * GPS Lands (Singapore) Pte Ltd (21 December 2020)
   
-* Chemical and Biological Testing
-  * Singapore Petroleum Company Limited (20 January 2021)
-  * Wyeth Nutritionals (Singapore) Pte Ltd (6 January 2021)
-  * Ministry of Home Affairs (WAL) (18 January 2021)
-  * Ministry of Home Affairs (PAAF) (21 January 2021)
-
 * Mechanical Testing
   * Northlab Pte Ltd (23 March 2021)
     
-* Non-Destructive Testing
-  * PT.A Star Testing & Inspection (07 January 2021)
- 
 
 #### Certification Body
 
 * End-of-Life ICT Equipment (EIMS) Certification
   * SOCOTEC Certification Singapore Pte Ltd (11 March 2021)
 
+
+#### Good Laoratory Practice (GLP)
+
+* Good Laboratory Practice (GLP)
+  * Innoheart Pte Ltd (26 July 2021)
 
   
 #### **Withdrawal by SAC**
