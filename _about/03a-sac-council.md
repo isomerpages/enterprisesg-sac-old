@@ -28,6 +28,7 @@ Accuron Technologies Limited
 | **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
 | | Dr Teo Tang Lin | Health Sciences Agency (HSA) |
+| | Mr Joseph Gan  | Individual Capacity |
 | | Pending | Info-Communications Media Development Authority (IMDA) |
 | | A/Prof Raymond Chua | Ministry of Health (MOH) |
 | | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
