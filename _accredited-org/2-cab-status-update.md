@@ -78,6 +78,12 @@ Click on the quick links below to jump to the CAB Status:
   * SOCOTEC Certification Singapore Pte Ltd (11 March 2021)
 
 
+#### Inspection Body
+
+* Cargo Inspection
+  * Geo-Chem Far East Pte Ltd (30 Auguat 2021)
+
+
 #### Good Laoratory Practice (GLP)
 
 * Good Laboratory Practice (GLP)
