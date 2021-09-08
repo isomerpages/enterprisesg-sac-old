@@ -22,12 +22,13 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Mr Tony Low                | Association of Information Security Professionals  |
 |                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
 |                      | Mr Lim Soon Chia           | Cyber Security Agency        |                
-|                      | Dr Teo Tang Lin            | Health Sciences Authority        |            
+|                      | Dr Teo Tang Lin            | Health Sciences Authority        | 
+|                      | Pending                    | Info-Communications Media Development Authority |
 |                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
-|                      | Dr Joel Lee                | Nanyang Polytechnic      |                      
-|                      | Pending                    | Singapore Manufacturing Federation     |              
-|                      | Pending                    | Singapore Manufacturing Federation     |
-|                      | Pending                    | Singapore Manufacturing Federation     |
+|                      | Dr Joel Lee                | Nanyang Polytechnic      | 
+|                      | Pending                    | Singapore Manufacturing Federation     | 
+|                      | Pending                    | Singapore Manufacturing Federation - TIC Interest Group  |
+|                      | Pending                    | Singapore Manufacturing Federation - TIC Interest Group  |
 |                      | Dr Zong Yun                | Singapore National Institute of Chemistry 
 |                      | Dr Ong Eng Hong            | Singapore University of Technology & Design   
 |                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore    |    
