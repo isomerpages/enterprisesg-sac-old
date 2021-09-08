@@ -19,7 +19,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Chairman**         | Dr Leslie Retnam           | National University of Singapore      |       
 | **Deputy Chairman**  | A/P Joanne Chan Sheot Harn | Singapore Food Agency        |                
 | **Members**          | Mrs Reshmy Pillay          | A*STAR National Metrology Centre (NMC)    |  
-|                      | Mr Tony Low                | Association of Information Security Professionals  |
+|                      | Mr Tony Low<br/>(Alternate: Dr Steven Wong)  | Association of Information Security Professionals  |
 |                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
 |                      | Mr Lim Soon Chia           | Cyber Security Agency        |                
 |                      | Dr Teo Tang Lin            | Health Sciences Authority        | 
