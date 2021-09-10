@@ -130,6 +130,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Wu Wei | Nanyang Technological University |
 | | Dr Babu Sajeesh Kumar | Nom-Destructive Testing Society (Singapore) |
 | | Cpt Teo Mei Tin | Singapore Civil Defence Force |
+| | Mr Lu Jin Ping | Singapore Manufacturing Federation - TIC Interest Group |
+| | Mr Zheng Ming Quan  | Singapore Manufacturing Federation - TIC Interest Group |
 | | Dr Lee Kim Kheng | Singapore Polytechnic |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
 | | Dr Ang Choon Keat | The Institution of Engineers, Singapore |
