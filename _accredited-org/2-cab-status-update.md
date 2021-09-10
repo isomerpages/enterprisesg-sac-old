@@ -67,6 +67,7 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * Northlab Seams Pte Ltd (8 March 2021)
   * CEP Services Pte Ltd (10 May 2021)
+  * Ming Deng Metrokogy Services (Thailand) Co Lrd (09 September 2021)
   
 * Mechanical Testing
   * Northlab Pte Ltd (23 March 2021)

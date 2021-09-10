@@ -120,7 +120,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Secretary** | Mr Tom Yen | SAC Secretariat |
 
 ## Physical Engineering
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
@@ -130,6 +130,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Wu Wei | Nanyang Technological University |
 | | Dr Babu Sajeesh Kumar | Nom-Destructive Testing Society (Singapore) |
 | | Cpt Teo Mei Tin | Singapore Civil Defence Force |
+| | Mr Lu Jin Ping | Singapore Manufacturing Federation - TIC Interest Group |
+| | Mr Zheng Ming Quan  | Singapore Manufacturing Federation - TIC Interest Group |
 | | Dr Lee Kim Kheng | Singapore Polytechnic |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
 | | Dr Ang Choon Keat | The Institution of Engineers, Singapore |
