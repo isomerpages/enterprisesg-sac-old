@@ -75,8 +75,9 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Members** | Er Yong Fen Leong | Association of Consulting Engineers, Singapore |
 | | Mr Lionel Ang Loy Jin | Housing & Development Board (HDB)|
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
+| | Ms  Prathipa Devi Sundraju | Singapore Manufacturing Federation |
+| | Dr Henry Tan  | Singapore Manufacturing Federation |
 | | Dr Muthusamy Karthikeyan | The Geotechnical Society of Singapore (GeoSS) |
 | | Mr Ting Hua Keong | The Institution of Engineers, Singapore (IES)|
 | | Mr Jeffrey Yu | The Singapore Contractors Association Ltd |
-| | Pending | TIC Interest Group - SMF|
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
