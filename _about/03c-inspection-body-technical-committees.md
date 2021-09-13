@@ -31,17 +31,19 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Structural Steelwork Inspection
-### Term : 1 July 2018 - 30 June 2021
+### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Er Chin Leong Siong | Building and Construction Authority |
+| **Chairman** | Er Dr Tran Chi Trung  | Building and Construction Authority |
 | **Members** | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
 | | Ms Ang Poh Cheng | Housing & Development Board |
+| | Mr Tang Pei Luen  | JTC Corporation |
 | | Mr Kenneth Liew | Land Transport Authority |
 | | Prof Tang Kang Hai | Nanyang Technological University |
 | | Dr Pang Sze Dai | National University of Singapore |
 | | Mr James Yuen | Singapore Contractors Association Ltd |
+| | Mr Wong Keam Tong  | Singapore Structural Steel Society |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
 | | Mr Tan Yew Chai | The Institution of Engineers, Singapore |
 | **Secretary** | Mr Chong Yong Hui | SAC Secretariat |
