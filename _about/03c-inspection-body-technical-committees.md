@@ -78,6 +78,6 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Ms  Prathipa Devi Sundraju | Singapore Manufacturing Federation |
 | | Dr Henry Tan  | Singapore Manufacturing Federation |
 | | Dr Muthusamy Karthikeyan | The Geotechnical Society of Singapore (GeoSS) |
-| | Mr Ting Hua Keong | The Institution of Engineers, Si ngapore (IES)|
+| | Mr Ting Hua Keong | The Institution of Engineers, Singapore (IES)|
 | | Mr Jeffrey Yu | The Singapore Contractors Association Ltd |
 | **Secretary** | Mr Lim Swee Peng | SAC Secretariat |
