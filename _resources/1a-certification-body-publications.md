@@ -40,7 +40,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="_blank"}
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/management-system-and-products-certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="_blank"}
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="_blank"}
-* [IAF MD 4:2018 - Use of Computer Assisted Auditing Techniques ("CAAT") for Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD4-Issue-2-03072018.pdf){:target="_blank"}
+* [IAF MD 4:2018 - IAF Mandatory Document for the Use of Information and Communication Technology (ICT) for Auditing Assessment Purposes](/files/documents/management-system-and-products-certification/IAF-MD4-Issue-2-03072018.pdf){:target="_blank"}
 * [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/IAF-MD5-Issue-4-Version-2-11112019.pdf){:target="_blank"}
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
