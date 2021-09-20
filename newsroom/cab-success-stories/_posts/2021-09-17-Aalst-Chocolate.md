@@ -6,9 +6,10 @@ permalink: /newsroom/cab-success-stories/Aalst-Chocolate
 ---
 
 
+![0F8929A1-E4B3-4A1E-BB7A-4AD7E5709530.png](/images/success-stories/0F8929A1-E4B3-4A1E-BB7A-4AD7E5709530.png)
 
 
-images/success-stories/0F8929A1-E4B3-4A1E-BB7A-4AD7E5709530.png
+
 
 images/success-stories/83447330-19C9-491A-AD07-FBB1241DE746.png
 
