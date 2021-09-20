@@ -26,10 +26,6 @@ Pictures
 
 
 
-images/success-stories/83447330-19C9-491A-AD07-FBB1241DE746.png
-
-images/success-stories/AAA52A74-3E0E-4642-8B21-315C5C0D6AD0.png
-
 
 
 
