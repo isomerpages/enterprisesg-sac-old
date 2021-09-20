@@ -6,7 +6,7 @@ permalink: /services/training/Inspection-Body-Course-November-2021
 ---
 
 # Comment: 'course_date' is used to indicate the actual date/period that the course will be held
----
+
 
 ## Course Details
 **2-3 November 2021**
@@ -22,8 +22,7 @@ This 2-day course is to help the participants to:
 * Understand the ISO/IEC 17020:2012 requirements as applied to inspection bodies; and
 * Provide guidance on the implementation of these requirements
 
-Please complete the attached [registration form](/files/registration-forms/Registration-form-IB-November2021.docx{:target="_blank"} and email it to:
-Angie_ng@enterprisesg.gov.sg
+Please complete the attached [registration form](/files/registration-forms/Registration-form-IB-November2021.docx){:target="_blank"} and email it to:  Angie_ng@enterprisesg.gov.sg
 
 Closing date for registraton:  22 October 2021
   
