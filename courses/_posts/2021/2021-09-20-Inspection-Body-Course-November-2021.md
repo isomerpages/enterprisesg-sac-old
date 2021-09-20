@@ -5,9 +5,6 @@ course_date: 2-3 November 2021
 permalink: /services/training/Inspection-Body-Course-November-2021
 ---
 
-# Comment: 'course_date' is used to indicate the actual date/period that the course will be held
-
-
 ## Course Details
 **2-3 November 2021**
 
