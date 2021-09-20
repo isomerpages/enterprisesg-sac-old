@@ -45,7 +45,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF-MD9-(2017).pdf){:target="_blank"}
-* [IAF MD 10:2013 - Assessment of Certification Body Management of Competence in accordance with ISO/IEC 17021:2011](/files/documents/management-system-and-products-certification/IAF-MD10-2013.pdf){:target="_blank"}
 * [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems](/files/documents/management-system-and-products-certification/IAF-MD-11-v3.pdf){:target="_blank"}
 * [IAF MD 12:2016 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/management-system-and-products-certification/IAF-MD-12.pdf){:target="_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/management-system-and-products-certification/IAF-MD-15.pdf){:target="_blank"}
