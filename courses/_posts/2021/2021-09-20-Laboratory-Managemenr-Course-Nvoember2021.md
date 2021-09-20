@@ -24,7 +24,7 @@ For course objectives, please view attached [link](/files/training/Course-Object
 
 Please complete the attached [registration form](/files/registration-forms/Registration-form-LM-November2021 .docx{{:target="_blank"} and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
 
-Closing date for registraton:  22 Ovtober 2021
+Closing date for registraton:  22 October 2021
   
 Should you require further clarification, please contact Ms Angie Ng at tel: +65 6279 1800
 
