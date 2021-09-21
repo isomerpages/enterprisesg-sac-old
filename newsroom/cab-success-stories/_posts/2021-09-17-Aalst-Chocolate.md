@@ -19,7 +19,7 @@ Keen to learn how you too can leverage standards and conformance to give your bu
 Pictures 
 ![10C9208F-C913-4408-830A-5B7973FB56E3.png](/images/success-stories/10C9208F-C913-4408-830A-5B7973FB56E3.png)
 
-![67F00EFF-43F0-4E5B-9A2F-8936F86A6441.png](/images/success-stories/67F00EFF-43F0-4E5B-9A2F-8936F86A6441.png)
+![14FAFB8C-0901-499E-8B49-D0466256B1E0.jpeg](/images/success-stories/14FAFB8C-0901-499E-8B49-D0466256B1E0.jpeg)
 
 ![F213B7C5-245D-4878-AADC-DE592B5259B1.png](/images/success-stories/F213B7C5-245D-4878-AADC-DE592B5259B1.png)
 
