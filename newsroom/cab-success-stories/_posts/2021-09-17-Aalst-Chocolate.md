@@ -21,13 +21,5 @@ Pictures
 
 ![67F00EFF-43F0-4E5B-9A2F-8936F86A6441.png](/images/success-stories/67F00EFF-43F0-4E5B-9A2F-8936F86A6441.png)
 
-
-
-
-
-
-
-
-
-
+![F213B7C5-245D-4878-AADC-DE592B5259B1.png](/images/success-stories/F213B7C5-245D-4878-AADC-DE592B5259B1.png)
 
