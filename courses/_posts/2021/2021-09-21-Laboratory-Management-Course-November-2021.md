@@ -23,18 +23,8 @@ This 3-day course is to help the participants:
 For course objectives, please view attached [link](/files/training/Course-Objectives-LM.pdf){:target="_blank"}.
 
 
-Please complete the attached [registration form](/files/registration-forms/Registration-form-LM-November2021 .docx){:target="_blank"}
+Please complete the attached [registration form](/files/registration-forms/Registration-form-LM-November2021.docx){:target="_blank"} 
 and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
-
-
-Please complete the attached [registration form](/files/registration-forms/Registration-form-LM-November2021 .docx){:target="_blank"}
-and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
-
-
-
-Registration is  now open.<span style="color:orange;">*</span>  Please go to this [link](/files/registration-forms/Registration-form-(LM-and-IA-Mar-2019).docx){:target="_blank"} for the registration form.
-
-
 
 
 Closing date for registraton:  20 October 2021
