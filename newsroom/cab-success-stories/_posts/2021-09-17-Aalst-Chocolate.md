@@ -17,12 +17,11 @@ With bizSAFE Level 4, ISO 14001, ISO 9001 and SS 590 certifications under their 
 Keen to learn how you too can leverage standards and conformance to give your business a boost? Visit https://enterprisesg.gov.sg/standards or email sac@enterprisesg.gov.sg. 
 
 Pictures 
-
 ![10C9208F-C913-4408-830A-5B7973FB56E3.png](/images/success-stories/10C9208F-C913-4408-830A-5B7973FB56E3.png)
 
+![67F00EFF-43F0-4E5B-9A2F-8936F86A6441.png)](images/success-stories/67F00EFF-43F0-4E5B-9A2F-8936F86A6441.png)
 
 
-![83447330-19C9-491A-AD07-FBB1241DE746.png](/images/success-stories/83447330-19C9-491A-AD07-FBB1241DE746.png)
 
 ![AAA52A74-3E0E-4642-8B21-315C5C0D6AD0.png](/images/success-stories/AAA52A74-3E0E-4642-8B21-315C5C0D6AD0.png)
 
