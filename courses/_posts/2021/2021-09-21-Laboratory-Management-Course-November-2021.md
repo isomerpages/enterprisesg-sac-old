@@ -23,7 +23,7 @@ This 3-day course is to help the participants:
 For course objectives, please view attached [link](/files/training/Course-Objectives-LM.pdf){:target="_blank"}.
 
 
-Please complete the attached [registration form](/files/registration-forms/Registration-form-LM-November2021 .docx){:target="_blank"}
+Please complete the attached [registration form](/files/registration-forms/Registration-form-LM-November2021.docx){:target="_blank"}
 and email it to Ms Angie at <angie_ng@enterprisesg.gov.sg>
 
 
