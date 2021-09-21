@@ -49,7 +49,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |               | Er. Merlyn Thong             | Land Transport Authority          |
 |               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
 |               | Mr Victor Li                 | Singapore Food Agency             |
-|               | Pending                      | Singapore Manufacturing Federation – TIC Interest Group |
+|               | Mr Adrian Lo                 | Singapore Manufacturing Federation – TIC Interest Group |
 |               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd |
 | **Secretary** | Mr Tang Kok Min              | Singapore Accreditation Council   |
 

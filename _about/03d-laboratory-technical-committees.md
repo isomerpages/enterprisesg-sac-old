@@ -20,12 +20,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Members** | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore (CAAS) |
 | | Dr. Lim See Yew | Institute of Technical Education (ITE) |
-| | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University (NTU) |
-| | Pending | National Metrology Centre (NMC) |
+| | Pending | Nanyang Technological University (NTU) |
+| | Dr Wang Li | National Metrology Centre (NMC) |
 | | Dr. Lin Wei | Singapore Institute of Manufacturing Technology (SIMTech) |
 | | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
-| | Pending | Singapore Manufacturing Federation (SMF) |
-| | Pending | Singapore Manufacturing Federation (SMF) |
+| | Mr Elton Tong | Singapore Manufacturing Federation (SMF) |
+| | Mr Tan Heng Khoon | Singapore Manufacturing Federation (SMF) |
 | **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
 
 ## Chemical & Biological Sciences
@@ -58,13 +58,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | Er Lim Say Leong | The Institution of Engineers, Singapore (IES) |
 | **Members** | Mr Tony Low | Association of Information Security Professionals (AiSP) |
-| | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
+| | Pending | BMM Compliance Singapore Pte Ltd |
 | | Mr Ng Soo Horng | Casino Regulatory Authority  (CRA)|
 | | Mr Robert Lee Zhi Qing | Cyber Security Agency |
 | | Mr Lim Yong Ping | Energy Market Authority (EMA) |
 | | Mr Quek Yang Boon | Government Technology Agency (GovTech) |
 | | Er Teh Cheong Foo | Housing & Development Board |
-| | Pending | Infocomm Media Development Authority (IMDA) |
 | | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
 | | Pending | Sustainable Energy Association of Singapore (SEAS) |
 | | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |

@@ -2,8 +2,8 @@
 layout: simple-page
 title: Internal Audit Course
 course_date: 8-9 November 2021
-permalink: /services/training/internal-audit-course-November2021
----
+permalink: /services/training/inernal-audit-course-november-2021
+--- 
 
 ## Course Details 
 **8-9 November2021**
@@ -14,8 +14,6 @@ permalink: /services/training/internal-audit-course-November2021
 
 Online
 
-
-
 Course ovjectives:
 
 This 2-day course is to help the participants:  
@@ -24,7 +22,12 @@ This 2-day course is to help the participants:
  
 For course objectives, please view attached [link](/files/training/Course-Objectives-IA.pdf){:target="_blank"}.
 
-Please complete the attached [registration form](/files/registration-forms/Registration-Form-IA-November2021.docx){:target="_blank"} and email it to:
+Please complete the attached [registration form](/files/registration-forms/Registration-form-IA-November2021.docx){:target="_blank"} and email it to:
 Angie_ng@enterprisesg.gov.sg
 
-<span style="color:orange;">*</span> Priority will be given to SAC accredited CABs.
+Closing date for registraton:  20 October 2021
+  
+Should you require further clarification, please contact Ms Angie Ng at tel: +65 6279 1800
+
+<span style="color:orange;">*</span> Priority will be given to SAC accredited CABs.  
+
