@@ -17,7 +17,7 @@ hero-banner: /images/homepage/homepage-montage.jpg
 hero-banner-mobile: /images/homepage/homepage-montage-mobile.jpg
 
 # Google Analytics
-google-analytics: UA-158199563-1
+google-analytics: UA-206704416-1
 
 # Key Highlights
 # Note: original isomerpages template only allows max 4 highlights, so I copied and edited the homepage code (in _includes/homepage/hero.html) to allow for 5 highlights
