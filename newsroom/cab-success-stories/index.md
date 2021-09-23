@@ -1,7 +1,7 @@
---
+---
 layout: resources-alt
 title: CAB Success Stories
-permalink: /newsroom/news-releases/
+permalink: /newsroom/CAB-Success-Stories/
 breadcrumb: cab-success-stories
 ---
 
