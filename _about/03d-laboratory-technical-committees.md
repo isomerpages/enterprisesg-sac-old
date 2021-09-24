@@ -20,7 +20,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Members** | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore (CAAS) |
 | | Dr. Lim See Yew | Institute of Technical Education (ITE) |
-| | Pending | Nanyang Technological University (NTU) |
+| | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University (NTU) |
 | | Dr Wang Li | National Metrology Centre (NMC) |
 | | Dr. Lin Wei | Singapore Institute of Manufacturing Technology (SIMTech) |
 | | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
