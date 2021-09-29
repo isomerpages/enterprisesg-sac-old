@@ -107,3 +107,27 @@ Ensures that certified facilities performing non-clinical safety testing in Sing
 Please click [here](/services/accreditation-services) for the detailed requirements of all the accreditation schemes.
 
 * _For other types of conformity assessment services currently not offered by SAC, we are open to exploring the option of providing accreditation or developing a new scheme/programme for the respective areas. Do kindly contact us [here](/contact-us)._
+
+## Why Use Accredited CABs?
+
+![Working with Businesses](/images/about/business-setting-1.jpg)
+
+Using accredited CABs offers multiple benefits for companies. Besides providing a marketing opportunity, it also boosts the company’s image – having been tried and certified by reliable CABs, the company's products and services are endorsed with the highest assurance. This, in turn, instils confidence in the company’s customers and stakeholders alike.
+
+## How Do You Identify a SAC Accredited Conformity Assessment Body?
+
+You can identify a SAC accredited conformity assessment body (CAB) by SAC accreditation marks as proof of accreditation. Accredited reports or certificates carry the SAC mark, along with the unique SAC accreditation certificate number. 
+
+In addition, an accredited test or inspection report will include the following statement:
+
+> *"The results reported herein have been performed in accordance with the terms of accreditation under the Singapore Accreditation Council."*
+
+Accreditation is granted for a specific scope of activities and not for all activities undertaken by the CABs. Thus, accredited CABs are only allowed to issue accredited reports for those tests, calibrations or inspections, or issue accredited certificates for the specific certification scopes which they have been accredited.
+
+## Search For CABs
+
+The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification & Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
+
+[Click here to search for CABs.](https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx)
+
+
