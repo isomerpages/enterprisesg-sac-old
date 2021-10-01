@@ -102,11 +102,6 @@ Please click [here](/services/accreditation-services) for the detailed requireme
 
 * _For other types of conformity assessment services currently not offered by SAC, we are open to exploring the option of providing accreditation or developing a new scheme/programme for the respective areas. Do kindly contact us [here](/contact-us)._
 
-## Why Use Accredited CABs?
-
-![Working with Businesses](/images/about/business-setting-1.jpg)
-
-Using accredited CABs offers multiple benefits for companies. Besides providing a marketing opportunity, it also boosts the company’s image – having been tried and certified by reliable CABs, the company's products and services are endorsed with the highest assurance. This, in turn, instils confidence in the company’s customers and stakeholders alike.
 
 ## How Do You Identify a SAC Accredited Conformity Assessment Body?
 
