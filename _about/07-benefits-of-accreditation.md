@@ -65,10 +65,6 @@ For more information about MRA, please click [here](/about/collaborations-and-re
       <iframe width="560" height="315" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-
-
-
-
 ![Working with Businesses](/images/about/business-setting-1.jpg)
 
 
