@@ -6,7 +6,6 @@ permalink: /newsroom/cab-success-stories/Aalst-Chocolate
 ---
 
 
-Microblog post on Aalst Chocolate:
 Going round the world – with chocolates.
 Singapore isn’t the first name to pop up when it comes to confectionary. But Singapore-based Aalst Chocolate is today the leading chocolate manufacturer in Asia with six brands under its wing and exporting to 45 countries globally.
 Their winning recipe?
