@@ -23,11 +23,11 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
 | | Mr Kenneth Lim | National Environment Agency |
-| | Ms Michelle Ng | Ng Wah Hong Enterprises Pte Ltd |
-| | Pending | Singapore Manufacturing Federation |
-| | Pending | Singapore Manufacturing Federation |
-| | Pending | Singapore Police Force |
+| | Mr Mark Khoo | Singapore Manufacturing Federation - Singapore Test Services Pte Ltd |
+| | Mr Yusoof Aynuddin | Singapore Manufacturing Federation - Setsco Services Pte Ltd |
+| | Mr Edwin Yong | Singapore Police Force |
 | | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
+| | Ms Michelle Ng | Waste Management and Recycling Association of Singapore |
 | **Secretary** | Mr James Lee | SAC Secretariat |
 
 ## Structural Steelwork Inspection
