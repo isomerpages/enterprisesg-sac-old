@@ -18,13 +18,12 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 |-------------|------|--------------|
 | **Chairman** | Mr Chan Yew Kwong | Workplace Health & Safety Council |
 | **Members** | Mr Thomas Chong | Association of Process Industires |
-| | Pending  | Association of Singapore Marine Industires |
 | | Mr Ernest Phoon Chee Keong | Land Transport Authority |
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
 | | Mr Kenneth Lim | National Environment Agency |
-| | Mr Mark Khoo | Singapore Manufacturing Federation - Singapore Test Services Pte Ltd |
 | | Mr Yusoof Aynuddin | Singapore Manufacturing Federation - Setsco Services Pte Ltd |
+| | Mr Mark Khoo | Singapore Manufacturing Federation - Singapore Test Services Pte Ltd |
 | | Mr Edwin Yong | Singapore Police Force |
 | | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | | Ms Michelle Ng | Waste Management and Recycling Association of Singapore |
