@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Aalst Chocolate
+title:  "Aalst Chocolate"
 date:   2021-09-21
 permalink: /newsroom/cab-success-stories/Aalst-Chocolate
 ---
 
-Microblog post on Aalst Chocolate:
 
 Going round the world – with chocolates.
 
