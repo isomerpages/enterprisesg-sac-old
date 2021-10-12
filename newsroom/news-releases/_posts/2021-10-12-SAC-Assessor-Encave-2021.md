@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "SAC Enclave 2021"
+title:  "SAC Assessor Enclave 2021"
 date:   2021-10-12
-permalink: /newsroom/news-releases/SAC-Enclave-2021
+permalink: /newsroom/news-releases/SAC-Assessor-Enclave-2021
 ---
 
 
-**SAC Enclave 2021** 
+**SAC Assessor Enclave 2021** 
 
 SAC Assessor Enclave is a platform for SAC to express our appreciation to all our assessors. This year, the event was virtually held on 5th October and attended by over 100 participants, including SAC assessors, council committee and technical committee members.
 
@@ -16,4 +16,4 @@ The event recognised 53 assessors who have contributed significantly to SAC’s 
 
  
 
-[SAC Congratulatory_ad for assessors 2021](/files/documents/){:target="_blank"}
+[SAC Congratulatory_ad for assessors 2021](/files/documents/SAC-Congratulatory_ad-for-assessors-2021.pdf){:target="_blank"}
