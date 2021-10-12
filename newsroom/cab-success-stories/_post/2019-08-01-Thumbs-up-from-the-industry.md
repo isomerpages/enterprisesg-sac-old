@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "CAB Success Stories"
-date:  2019-08-01
-permalink: /newsroom/cab-success-stories
+title:  Thumbs up from the industry
+date:   2019-08-01
+permalink: /newsroom/cab-success-stories/Thumbs-up-from-the-industry
 ---
 
-## Thumbs up from the Industry
+Thumbs up from the Industry
 ![Success Stories](/images/success-stories/success-stories-business-setting.jpg)
 
 Often during the accreditation process, organisations that embrace quality will find ways to continually streamline and improve their operations, thus becoming more efficient and effective at managing their resources. Their ability to meet rigorous international standards and processes shows that they have proper systems in place. This ensures better record keeping and higher competency so that the data is reliable and credible. Ultimately, this enhances their reputation and the quality of services provided, propelling them to greater heights in operational excellence as well as in gaining new business.
@@ -19,7 +19,7 @@ Our valued Customers and Stakeholders share their congratulatory messages here, 
 **Mr Chua Boon Chun**  
 *Managing Director*  
 Analytical Laboratories (Singapore) Pte Ltd
- 
+
 ### ![SETSCO Logo](/images/success-stories/setsco-logo.png) SETSCO Services Pte Ltd
 
 "SETSCO Services became the first testing laboratory to be accredited by SINGLAS in 1987 in the field of Mechanical Testing. We have not looked back since and went on to garner five other fields of testing and two fields under the Accreditation Scheme for Inspection Body, bringing a total of eight accreditation certificates to date.
@@ -50,4 +50,4 @@ Furthermore, SAC facilitates cross frontier accreditation through its mutual rec
 
 **Mr Richard Hong**  
 *Chief Executive Officer*  
-TÜV SÜD PSB Pte Ltd
+TÜV SÜD PSB Pte Ltd 
