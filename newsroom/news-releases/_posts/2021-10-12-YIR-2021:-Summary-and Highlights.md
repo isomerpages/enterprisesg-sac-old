@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "YIR 2021-Article-2"
+title:  "YIR 2021: Summary and Highlights"
 date:   2021-10-12
-permalink: /newsroom/news-releases/YR-2021-Article-2
+permalink: /newsroom/news-releases/YIR-2021:-Summary-and-Highlights
 ---
 
 
