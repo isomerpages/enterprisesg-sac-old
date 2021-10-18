@@ -120,3 +120,4 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
 |                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
 | **Secretary**  | Ms Lee Jia Juan            | SAC Secretariat                               |
+
