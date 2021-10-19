@@ -20,9 +20,22 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
+* Calibration & Measurement 
+  * Glostrext Technology (S) Pte. Ltd. (02 October 2021)
+
 * Civil Engineering 
   * Geotech Link Pte Ltd (03 June 2021)
   * Terralab Technologies Pte Ltd (11 August 2021)
+
+* Electrical Testing
+  * Borgwarner Singapore Holdings Pte. Ltd. (17 October 2021)
+    
+* Mechanical Testing
+  * Bossard Pte Ltd (21 September 2021)
+  * NatSteel Holdings Pte Ltd (28 September 2021)
+
+* Non-Destructive Testing
+  * Renu Engineering Pte Ltd (20 September 2021)
 
 
 #### Inspection Body Inspectiom
@@ -31,7 +44,15 @@ Click on the quick links below to jump to the CAB Status:
   * Khalon Marine Pte Ltd (27 July 2021)
 
 
+
 #### Certification Body
+
+* HACCP-based Food Management System
+  * Transpacific Certifications (Singapore) Pte. Ltd. (19 October 2021)
+
+* Food Safety Management System
+  * Transpacific Certifications (Singapore) Pte. Ltd. (19 October 2021)
+
 
 * Medical Devices - Quality Management Systems
   * SGS International Certification Services Singapore Pte Ltd (18 August 2021)
@@ -65,12 +86,11 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Northlab Seams Pte Ltd (8 March 2021)
+  * 
   * CEP Services Pte Ltd (10 May 2021)
   * Ming Deng Metrokogy Services (Thailand) Lrd (09 September 2021)
   
-* Mechanical Testing
-  * Northlab Pte Ltd (23 March 2021)
+
     
 
 #### Certification Body
