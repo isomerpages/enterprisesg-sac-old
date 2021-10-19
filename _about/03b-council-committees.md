@@ -115,8 +115,9 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
 |                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
 |                | Prof Tan Puay Hoon         | Singapore Health Services                     |
-|                | Pending                    | Singapore Manufacturing Federation – Medical Technology Industry Group   |
-|                |A/Prof Low Chian Ming       | Technical Committee for Good Laboratory Practice |
+|                | Mr James Chan              | Singapore Manufacturing Federation – Medical Technology Industry Group   |
+|                | A/Prof Low Chian Ming      | Technical Committee for Good Laboratory Practice |
 |                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
 |                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
 | **Secretary**  | Ms Lee Jia Juan            | SAC Secretariat                               |
+
