@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SAC Article-TIC Webinar Updates"
+title:  "ESG-SAC-TIC-IG-Joint-Webinar"
 date:   2021-10-19
-permalink: /newsroom/news-releases/SAC-Article-TIC-Webinar-Updates
+permalink: /newsroom/news-releases/ESG-SAC-TIC-IG-Joint-Webinar
 ---
 
 **ESG-SAC-TIC IG Joint Webinar on Updates to Safe Management Measures (SMM) & Supporting Incentive Schemes for the Testing, Inspection & Certification (TIC) sector, 01 October 2021**
