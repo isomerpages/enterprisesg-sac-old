@@ -18,7 +18,7 @@ The virtual session was jointly organized by ESG, SAC and TIC IG, on 1 October 2
 During the session, the attendees noted the following SMM updates which would be applicable to general workplaces, including TIC facilities and laboratories. More information can be found at https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures.
 
  
-[Picture1.png](/images/press-release/photos/Picture1.png)
+![Picture1.png](/images/press-release/photos/Picture1.png)
  
 
 2. Work Permit Renewals
@@ -41,10 +41,8 @@ Lastly, the eligibility of EDG’s support for accreditation cost was shared. To
 
 The following references are accessible at:
  
-[Picture1.png](/images/press-release/photos/Picture1.png)
 
-
-[Reference.png](/images/press-release/photos/Reference.png)
+![Reference.png](/images/press-release/photos/Reference.png)
  
 
 
