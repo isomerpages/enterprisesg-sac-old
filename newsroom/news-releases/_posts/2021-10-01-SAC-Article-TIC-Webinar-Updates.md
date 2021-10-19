@@ -51,7 +51,5 @@ About the TIC IG
 The TIC IG aims to serve and advance the interests of the TIC Industry in Singapore. In collaboration with ESG, the TIC IG organises regular engagements with industry players and policymakers for the TIC members. Training sessions and webinars of the latest industry developments are also available to members of the TIC IG. Through these centralised engagement platforms, TIC players can actively engage and stay abreast of upcoming and existing initiatives and share feedback on industry concerns. TIC IG also supports capability development of the TIC sector by fostering collaborations with relevant stakeholders on support programmes and training sessions/webinars. For more information, please contact prasunna.ramadas@smfederation.org.sg.
 
 
-Webinar_TIC-IG-01-October-2021
-images/press-release/documents/Webinar_TIC-IG-01-October-2021.pdf
 
-
+[Webinar_TIC-IG-01-October-2021](/images/press-release/documents/Webinar_TIC-IG-01-October-2021.pdf){:target="_blank"}
