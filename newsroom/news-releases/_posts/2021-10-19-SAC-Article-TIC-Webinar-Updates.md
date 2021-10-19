@@ -52,4 +52,4 @@ The TIC IG aims to serve and advance the interests of the TIC Industry in Singap
 
 
 
-[Webinar_TIC-IG-01-October-2021](/images/press-release/documents/Webinar_TIC-IG-01-October-2021.pdf)
+[Webinar_TIC-IG-01-October-2021](/images/press-release/documents/Webinar-TIC-IG-01-October-2021.pdf)
