@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SAC Article-TIC Webinar Updates"
-date:   2021-10-01
+date:   2021-10-19
 permalink: /newsroom/news-releases/SAC-Article-TIC-Webinar-Updates
 ---
 
@@ -52,4 +52,4 @@ The TIC IG aims to serve and advance the interests of the TIC Industry in Singap
 
 
 
-[Webinar_TIC-IG-01-October-2021](/images/press-release/documents/Webinar_TIC-IG-01-October-2021.pdf){:target="_blank"}
+[Webinar_TIC-IG-01-October-2021](/images/press-release/documents/Webinar_TIC-IG-01-October-2021.pdf)
