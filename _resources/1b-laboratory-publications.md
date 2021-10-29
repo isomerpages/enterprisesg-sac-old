@@ -90,7 +90,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees Schedule for Accreditation of Medical Testing Laboratories and Medical Imaging Facilities](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="_blank"}
  
 **Medical Imaging Testing Field**
-* [MI 001 - Specific Criteria for Medical Imaging, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-imaging-testing-field/MI-001-29-Mar-2019.pdf){:target="_blank"}
+* [MI 001 - Specific Criteria for Medical Imaging, 25 Oct 2021](/files/documents/MI-001-Tech-Notes-25Oct21-Final.pdf){:target="_blank"}
  
 **Medical Testing Field**
 * [MED 001- General Criteria, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-Gen-Criteria-29-Mar-2019.pdf){:target="_blank"}
