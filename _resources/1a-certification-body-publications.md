@@ -96,5 +96,3 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
 
 
-
-
