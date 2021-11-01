@@ -17,7 +17,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="_blank"}
-* [CT 01, 02 March 2020: Accreditation Process for Certification Bodies and Validation & Verification Bodies](/files/documents/CT-01-02-March-2020.pdf){:target="_blank"}
+* [CT 01 - 01 Nov 2021 Accreditation Process for Certification Bodies and Validation & Verification Bodies](/files/documents/CT-01-01-Nov-2021.pdf){:target="_blank"}
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"}
 
@@ -93,4 +93,5 @@ A certification body must be fully conversant and comply with the relevant stand
 <!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
+
 
