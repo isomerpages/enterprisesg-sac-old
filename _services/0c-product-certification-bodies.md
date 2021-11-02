@@ -37,6 +37,9 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Telecommunication | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19<br/>Applicable IAF MDs | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
 | Alternative Steel Materials (BC1) | ISO/IEC 17065<br/>SAC CT 24 | BC1 Design Guide on Use of Alternative Structural Steel, published by Building Construction Authority (BCA) |
+| In-Situ Post Tensioning Works | ISO/IEC 17065<br/>SAC CT 22 | Various standards |
+| Clean & Green (C&G) | ISO/IEC 17065<br/>SAC CT 26 | SS 661 (Agriculture) | 
+| Good Agricultural Practice (GAP) | ISO/IEC 17065<br/>SAC CT 26 | SS 670 (Good aquaculture practice)<br/>SS 675 (Good agriculture practice)<br/>SS 676 (Good animal husbandry practice for layer farms) | 
 | All Other Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 
 
