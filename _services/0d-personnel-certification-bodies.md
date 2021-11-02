@@ -26,9 +26,12 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 ### Benefits
 Accreditation will:
 
-* Provide assurance to employers, industries and the general public on the competence of certified individuals
-* Endorse professionals who have the necessary skills and knowledge to perform their duties well 
-* Enable international recognition of professionals for their abilities
+Increase confidence:
+*  Provide assurance to employers, industries and the general public on the competence of certified individuals. Endorse that professionals have the necessary skills and knowledge to perform their duties well.
+
+International recognition:
+*  As a member of the Multilateral Recognition Arrangement (MLA) for Personnel Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited product certification bodies are recognised worldwide by MLA members across more than 50 economies.
+
 
 ### Process
 The accreditation process involves an onsite assessment to validate if the CB operating a PC programme is competent and meets the globally accepted benchmark for personnel certification. After the initial award of accreditation, there will be surveillance
