@@ -30,7 +30,7 @@ Increase confidence:
 *  Provide assurance to employers, industries and the general public on the competence of certified individuals. Endorse that professionals have the necessary skills and knowledge to perform their duties well.
 
 International recognition:
-*  As a member of the Multilateral Recognition Arrangement (MLA) for Personnel Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited product certification bodies are recognised worldwide by MLA members across more than 50 economies.
+*  As a member of the Multilateral Recognition Arrangement (MLA) for Personnel Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited personnel certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
 
 ### Process
