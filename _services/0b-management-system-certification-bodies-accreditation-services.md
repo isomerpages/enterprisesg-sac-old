@@ -17,6 +17,7 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Anti-Bribery Management System
 * Asset Management System
 * Business Continuity Management System
+* Cold Chain Management of Chilled and Frozen Foods
 * End-of-Life ICT Equipment Management System
 * Energy Management System
 * Environmental Management System
@@ -43,7 +44,7 @@ In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) 
  
 The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimise our limited resources and the "green" movement.
 
-In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.
+In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.  In 2021, the accreditation programmes for Cold Chain Management of Chilled and Frozen Foods was launched
 
 ### Accreditation Criteria
 
