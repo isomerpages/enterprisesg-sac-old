@@ -44,7 +44,7 @@ In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) 
  
 The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimise our limited resources and the "green" movement.
 
-In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.  In 2021, the accreditation programmes for Cold Chain Management of Chilled and Frozen Foods was launched
+In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.  In 2021, the accreditation programmes for Cold Chain Management of Chilled and Frozen Foods were launched
 
 ### Accreditation Criteria
 
@@ -69,7 +69,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
 | Information Security Management System (ISMS)| ISO/IEC 17021-1<br/>ISO/IEC 27006<br/>Applicable IAF MDs | ISO 27001 |
-| Cold Chain Management of Chilled and Frozen Foods (CCMS)|ISO/IEC 17021-1SAC CT 25<br/>SS 668 Part 1 |
+| Cold Chain Management of Chilled and Frozen Foods (CCMS)|ISO/IEC 17021-1<br/>SAC CT 25  |  SS 668 Part 1 |
 |===|
 | Note:<br/>(1) IAF MD: IAF Mandatory Documents<br/> |
 
