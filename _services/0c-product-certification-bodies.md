@@ -24,7 +24,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | British Retail Consortium (BRC) (Food) | ISO/IEC 17065<br/>Applicable IAF MDs | BRC Global Standard for Food Safety |
 | Building & Construction | ISO/IEC 17065<br/>Applicable IAF MDs | SS 560<br/>Various applicable standards |
 | Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable standards |
-| Fire Safety Products (FSP) | ISO/IEC 17065<br/>SAC CT 12<br/>SAC CT 23<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
+| Fire Safety Products (FSP) and Shelter Product | ISO/IEC 17065<br/>SAC CT 12<br/>SAC CT 23<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
 | Food Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Green Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
@@ -36,7 +36,12 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Structural Steelwork Fabricarions | ISO/IEC 17065 and SAC CT 20<br/>Applicable IAF MDs | SS EN 1090-1, SS EN 1090-2 |
 | Telecommunication | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19<br/>Applicable IAF MDs | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
+| Alternative Steel Materials (BC1) | ISO/IEC 17065<br/>SAC CT 24 | BC1 Design Guide on Use of Alternative Structural Steel, published by Building and Construction Authority (BCA) |
+| In-Situ Post Tensioning Works | ISO/IEC 17065<br/>SAC CT 22 | Various standards |
+| Clean & Green (C&G) | ISO/IEC 17065<br/>SAC CT 26 | SS 661 (Agriculture) | 
+| Good Agricultural Practice (GAP) | ISO/IEC 17065<br/>SAC CT 26 | SS 670 (Good aquaculture practice)<br/>SS 675 (Good agriculture practice)<br/>SS 676 (Good animal husbandry practice for layer farms) | 
 | All Other Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+
 
 ### Benefits
 Accreditation will:
@@ -45,9 +50,7 @@ Accreditation will:
 Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited certification bodies. 
 
 * **International recognition**:  
-As a member of the Multilateral Recognition Arrangement (MLA) for Product Certification of both the Pacific Accreditation Cooperation
-(PAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited product certification bodies are
-recognised worldwide by MLA members across more than 40 economies.
+As a member of the Multilateral Recognition Arrangement (MLA) for Product Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited product certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
 ### Process
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body's office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process. 

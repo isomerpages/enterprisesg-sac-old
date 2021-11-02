@@ -17,6 +17,7 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Anti-Bribery Management System
 * Asset Management System
 * Business Continuity Management System
+* Cold Chain Management of Chilled and Frozen Foods
 * End-of-Life ICT Equipment Management System
 * Energy Management System
 * Environmental Management System
@@ -43,7 +44,7 @@ In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) 
  
 The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimise our limited resources and the "green" movement.
 
-In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.
+In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.  In 2021, the accreditation programmes for Cold Chain Management of Chilled and Frozen Foods were launched
 
 ### Accreditation Criteria
 
@@ -54,12 +55,12 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001 |
 | Quality Management for Bunker Supply Chain (QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524 |
 | Environment Management System (EMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-2<br/>Applicable IAF MDs | ISO 14001 |
-| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>ISO/IEC TS 17021-10<br/>Applicable IAF MDs| ISO 45001 or <br/>SS 651 or SS 506 Part 3 |
+| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>ISO/IEC TS 17021-10<br/>Applicable IAF MDs| ISO 45001 or <br/>SS 651 |
 | Hazard Aanlysis and Critical Control Point (HACCP) | ISO/IEC 17021-1<br/>SAC HACCP Document No 1<br/>Applicable IAF MDs | SS 590<br/>SS 444 |
 | Food Safety Management Safety (FSMS) | ISO/IEC 17021-1<br/>ISO/TS 22003<br/>Applicable IAF MDs | ISO 22000 |
 | Business Continuity Management (BCM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-6<br/>Applicable IAF MDs<br/>SAC CT 08 | ISO 22301 |
 | Good Distribution Practice for Medical Devices (GDPMDS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 04 | SS 620 |
-| Energy Management System (EnMS) | ISO/IEC 17021-1<br/>ISO/IEC 50003<br/>Applicable IAF MDs | ISO 50001 |
+| Energy Management System (EnMS) | ISO/IEC 17021-1<br/>ISO 50003<br/>Applicable IAF MDs | ISO 50001 |
 | Water Efficiency Management System (WEMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 11 | SS 577<br/>ISO 46001 |
 | Learning Service Providers (LSP) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT13| ISO 29993<br/>Applicable Technical Notes |
 | Multi-Tiered Cloud Computing Security (MTCS) | ISO/IEC 17021-1<br/>Applicable IAF MDs <br/>SAC CT 14 | SS 584 |
@@ -68,6 +69,7 @@ Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IA
 | Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
 | Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
 | Information Security Management System (ISMS)| ISO/IEC 17021-1<br/>ISO/IEC 27006<br/>Applicable IAF MDs | ISO 27001 |
+| Cold Chain Management of Chilled and Frozen Foods (CCMS)|ISO/IEC 17021-1<br/>SAC CT 25  |  SS 668 Part 1 |
 |===|
 | Note:<br/>(1) IAF MD: IAF Mandatory Documents<br/> |
 
@@ -78,9 +80,7 @@ Accreditation will:
 Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited certification bodies. 
 
 * **International recognition**:  
-As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System of both the Pacific Accreditation
-Cooperation (PAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited certification bodies are
-recognised worldwide by MLA members across more than 50 economies.
+As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
 ### Process
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body's office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process. 
