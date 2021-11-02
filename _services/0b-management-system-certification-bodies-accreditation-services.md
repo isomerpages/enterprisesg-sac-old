@@ -80,9 +80,7 @@ Accreditation will:
 Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited certification bodies. 
 
 * **International recognition**:  
-As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System of both the Pacific Accreditation
-Cooperation (PAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited certification bodies are
-recognised worldwide by MLA members across more than 50 economies.
+As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
 ### Process
 Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the certification body and the competence of the auditors. This will be carried out through a document review, assessments at the certification body's office as well as on-site witnessed assessments of audits – all conducted by the certification body. When the certification body has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in CT 01, Accreditation Process. 
