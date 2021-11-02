@@ -36,7 +36,9 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Structural Steelwork Fabricarions | ISO/IEC 17065 and SAC CT 20<br/>Applicable IAF MDs | SS EN 1090-1, SS EN 1090-2 |
 | Telecommunication | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19<br/>Applicable IAF MDs | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
+| Alternative Steel Materials (BC1) | ISO/IEC 17065<br/>SAC CT 24 | BC1 Design Guide on Use of Alternative Structural Steel, published by Building Construction Authority (BCA) |
 | All Other Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+
 
 ### Benefits
 Accreditation will:
