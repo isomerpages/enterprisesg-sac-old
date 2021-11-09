@@ -26,7 +26,6 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Pending                    | Info-Communications Media Development Authority |
 |                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
 |                      | Dr Joel Lee                | Nanyang Polytechnic      | 
-|                      | A/P Joanne Chan Sheot Harn | Singapore Food Agency     | 
 |                      | Mr Tan Boon Chong          | Singapore Manufacturing Federation     | 
 |                      | Mr Stanley Ong             | Singapore Manufacturing Federation - TIC Interest Group - Laboratory |
 |                      | Dr Zong Yun                | Singapore National Institute of Chemistry 
