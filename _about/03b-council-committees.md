@@ -18,7 +18,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |----------------------|----------------------------|----------------------------------------------|
 | **Chairman**         | Dr Leslie Retnam           | National University of Singapore      |       
 | **Deputy Chairman**  | A/P Joanne Chan Sheot Harn | Singapore Food Agency        |                
-| **Members**          | Mrs Reshmy Pillay          | A*STAR National Metrology Centre (NMC)    |  
+| **Members**          | Mrs Reshmy Pillay          | National Metrology Centre   |  
 |                      | Mr Tony Low<br/>(Alternate: Dr Steven Wong)  | Association of Information Security Professionals  |
 |                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
 |                      | Mr Lim Soon Chia           | Cyber Security Agency        |                
@@ -26,9 +26,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Pending                    | Info-Communications Media Development Authority |
 |                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
 |                      | Dr Joel Lee                | Nanyang Polytechnic      | 
-|                      | Pending                    | Singapore Manufacturing Federation     | 
-|                      | Pending                    | Singapore Manufacturing Federation - TIC Interest Group  |
-|                      | Pending                    | Singapore Manufacturing Federation - TIC Interest Group  |
+|                      | Mr Tan Boon Chong          | Singapore Manufacturing Federation     | 
+|                      | Mr Stanley Ong             | Singapore Manufacturing Federation - TIC Interest Group - Laboratory |
 |                      | Dr Zong Yun                | Singapore National Institute of Chemistry 
 |                      | Dr Ong Eng Hong            | Singapore University of Technology & Design   
 |                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore    |    
