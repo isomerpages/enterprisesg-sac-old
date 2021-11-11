@@ -23,4 +23,4 @@ SAC manages and promotes accreditation schemes and registration programmes by pe
 * Establishing and maintaining an international network for the mutual recognition and acceptance of conformity assessment reports and certificates across national borders
 * Raising awareness and encouraging the adoption of accredited Testing, Inspection & Certification (TIC) services through outreach efforts and regular engagement with government bodies and the industry.
 
-As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Accreditation Cooperation (APAC) and the International Laboratory Accreditation Cooperation (ILAC) (does SAC still maintain such bilateral contract?) reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across  104 economies.
+As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Accreditation Cooperation (APAC) and the International Laboratory Accreditation Cooperation (ILAC) reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across  104 economies.
