@@ -107,7 +107,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Chairman**   | A/Prof Raymond Chua        | Ministry of Health                            |
 | **Members**    | A/Prof Mahesh Choolani     | Academy of Medicine                           |
 |                | Prof Lisa Ng               | Biomedical Research Council, A*STAR           |
-|                | Pending                    | Duke-NUS Medical School                       |
+|                | Asst Prof James Leong      | Duke-NUS Medical School                       |
 |                | A/Prof Teoh Yee Leong      | Ministry of Health                            |
 |                | Ms Lim Soh Har             | National Healthcare Group                     |
 |                | Dr Roland Jureen           | National University of Singapore              |
