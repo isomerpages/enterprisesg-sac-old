@@ -23,7 +23,6 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
 |                      | Mr Lim Soon Chia           | Cyber Security Agency        |                
 |                      | Dr Teo Tang Lin            | Health Sciences Authority        | 
-|                      | Pending                    | Info-Communications Media Development Authority |
 |                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
 |                      | Dr Joel Lee                | Nanyang Polytechnic      | 
 |                      | Mr Tan Boon Chong          | Singapore Manufacturing Federation     | 
