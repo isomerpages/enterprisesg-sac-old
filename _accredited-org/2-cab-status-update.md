@@ -36,17 +36,13 @@ Click on the quick links below to jump to the CAB Status:
 * Mechanical Testing
   * Bossard Pte Ltd (21 September 2021)
   * NatSteel Holdings Pte Ltd (28 September 2021)
-
+  * Material Science Laboratory, HAL Completions Mfg Pte. Ltd (15 November 2021)
+  
 
 * Non-Destructive Testing
   * Renu Engineering Pte Ltd (20 September 2021)
-
-
-
-#### Inspection Body Inspectiom
-
-* Cargo Inspection
-  * Khalon Marine Pte Ltd (27 July 2021)
+  * SG Engineering & Inspection Pte. Ltd. (21 October 2021)
+  * BEST NDT Inspection Technologies Pte. Ltd. (18 November 2021)
 
 
 
@@ -99,8 +95,6 @@ Click on the quick links below to jump to the CAB Status:
     
 #### Certification Body
 
-* End-of-Life ICT Equipment (EIMS) Certification
-  * SOCOTEC Certification Singapore Pte Ltd (11 March 2021)
 
 
 #### Inspection Body
@@ -122,10 +116,6 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
-
-
-* Hooklift & Container Inspection
-  * AJK Engineering Pte Ltd (22 November 2019)
 
   
 
