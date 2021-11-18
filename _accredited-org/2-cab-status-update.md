@@ -40,9 +40,9 @@ Click on the quick links below to jump to the CAB Status:
   
 
 * Non-Destructive Testing
+  * BEST NDT Inspection Technologies Pte. Ltd. (18 November 2021)
   * Renu Engineering Pte Ltd (20 September 2021)
   * SG Engineering & Inspection Pte. Ltd. (21 October 2021)
-  * BEST NDT Inspection Technologies Pte. Ltd. (18 November 2021)
 
 
 
