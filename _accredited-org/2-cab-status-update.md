@@ -92,11 +92,6 @@ Click on the quick links below to jump to the CAB Status:
   * Ming Deng Metrology Services (Thailand) Co Ltd (09 September 2021)
   
 
-    
-#### Certification Body
-
-
-
 #### Inspection Body
 
 * Cargo Inspection
