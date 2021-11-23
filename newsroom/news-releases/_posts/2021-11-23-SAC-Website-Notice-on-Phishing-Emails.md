@@ -14,10 +14,14 @@ Please refer to the SUNDAE Principle below to identify such emails:
 
 If you receive emails that look suspicious:
 
-*• DO NOT CLICK on any link(s) in the email body.
-*• DO NOT OPEN any attachment(s) in the email.
-*• REPORT any suspicious email received by leveraging the Report Phishing in your Microsoft Outlook or feedback functions in other email platforms/software.
-*• DELETE all spam email(s).
+• DO NOT CLICK on any link(s) in the email body.
+
+• DO NOT OPEN any attachment(s) in the email.
+
+• REPORT any suspicious email received by leveraging the Report Phishing in your Microsoft Outlook or feedback functions in other email platforms/software.
+
+• DELETE all spam email(s).
+
  
 Please be cautious not to click on suspicious hyperlinks, open suspicious attachments or make any payments to third party entities without first verifying the authenticity and legitimacy of the email received.
  
