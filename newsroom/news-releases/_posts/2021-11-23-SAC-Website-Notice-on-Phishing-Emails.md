@@ -1,11 +1,11 @@
+---
+layout: post
+title:  "SAC-Website-Notice-on-Phishing-Emails"
+date:   2021-11-23
+permalink: /newsroom/news-releases/SAC-Website-Notice-on-Phishing-Emails
+---
 
-
-
-
-
-SAC-Website-Notice-on-Phishing-Emails
-
-SAC Website Notice on Phishing Emails
+**SAC Website Notice on Phishing Emails**
  
 SAC has been notified of fraudulent cases involving the issuance of fake SAC invoices requesting payment to a 3rd-party company. These phishing emails aim to trick any unsuspecting users into clicking on the given link to make payment to their accounts.
 Please refer to the SUNDAE Principle below to identify such emails:
