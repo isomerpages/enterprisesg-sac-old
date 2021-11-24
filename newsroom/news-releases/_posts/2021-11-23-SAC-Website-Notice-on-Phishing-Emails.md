@@ -15,9 +15,9 @@ Please refer to the SUNDAE Principle below to identify such emails:
 
 If you receive emails that look suspicious:
 
-• **DO NOT CLICK** on any link(s) in the email body.
-• **DO NOT OPEN** any attachment(s) in the email.
-• **REPORT** any suspicious email received by leveraging the Report Phishing in your Microsoft Outlook or feedback functions in other email platforms/software.
+• **DO NOT CLICK** on any link(s) in the email body.<br/>
+• **DO NOT OPEN** any attachment(s) in the email.<br/>
+• **REPORT** any suspicious email received by leveraging the Report Phishing in your Microsoft Outlook or feedback functions in other email platforms/software.<br/>
 • **DELETE** all spam email(s).
 
  
