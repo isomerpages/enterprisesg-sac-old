@@ -72,6 +72,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 23 - SAC Criteria for Certification Bodies Product Certification Bodies (Regulated Shelter Products) - 14 September 2020](/files/documents/management-system-and-products-certification/CT-23-14-September-2020.pdf){:target="_blank"}
 * [CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019](/files/documents/management-system-and-products-certification/CT-19-(29-March-2019).pdf){:target="_blank"}
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="_blank"}
+* [CT 24 - SAC Criteria For Certification Bodies (Alternative Structural Steel In Bc1)- November 2021](/files/documents/management-system-and-products-certification/CT-24-30-Nov-2021.pdf){:target="_blank"}
 * [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 1 Sep 2021](/files/documents/WELS-Guidebook-1-Sep-2021.pdf){:target="_blank"}
 <!-- NOTE: changes to Product Certification Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Product Certification Fees Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="_blank"}
@@ -94,4 +95,5 @@ A certification body must be fully conversant and comply with the relevant stand
 <!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
+
 
