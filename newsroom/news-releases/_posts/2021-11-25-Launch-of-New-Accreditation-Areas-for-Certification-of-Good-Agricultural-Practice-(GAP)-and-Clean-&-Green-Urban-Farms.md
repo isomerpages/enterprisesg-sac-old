@@ -24,6 +24,6 @@ SS 661 – Specification for clean and green urban farms – Agriculture
  
 CBs interested to be accredited by SAC for the 4 new scopes will be assessed based on ISO/IEC 17065 and SAC document, CT 26 SAC Criteria for Certification Bodies (GAP and Clean & Green Urban Farms) under the accreditation scheme for product certification body.
 
-Application for accreditation of GAP and Clean & Green Urban Farms certification is now open through the SAC accreditation portal, SACiNet.
+Application for accreditation of GAP and Clean & Green Urban Farms certification is now open through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form)
 
 For more details, please contact your Account Manager.
