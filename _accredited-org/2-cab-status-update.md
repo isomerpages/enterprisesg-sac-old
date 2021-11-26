@@ -46,6 +46,13 @@ Click on the quick links below to jump to the CAB Status:
 
 
 
+#### Inspection Body
+
+* Marine & Offshore Inspection
+  * DNV Singapore Pte Ltd (17 November 2021)
+
+
+
 #### Certification Body
 
 * HACCP-based Food Management System
