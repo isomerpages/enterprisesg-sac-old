@@ -91,17 +91,25 @@ A laboratory must be fully conversant and comply with the relevant standards and
  
 **Medical Imaging Testing Field**
 * [MI 001 - Specific Criteria for Medical Imaging, 25 Oct 2021](/files/documents/laboratory-accreditation/MI-001-Tech-Notes-25Oct21-Final.pdf){:target="_blank"}
- 
+
+
+
 **Medical Testing Field**
-* [MED 001- General Criteria, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-Gen-Criteria-29-Mar-2019.pdf){:target="_blank"}
+* [MED 001- General Criteria, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21.pdf){:target="_blank"}
 * [MED 002 - Immunology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Immunology-29-Mar-2019.pdf){:target="_blank"}
+
 * [MED 002 - Histopathology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-29-Mar-2019.pdf){:target="_blank"}
-* [MED 002 - Clinical Chemistry, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Clinical-Chemistry-29-Mar-2019.pdf){:target="_blank"}
-* [MED 002 - Cytogenetics, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytogenetics-29-Mar-2019.pdf){:target="_blank"}
-* [MED 002 - Cytopathology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-29-Mar-2019.pdf){:target="_blank"}
-* [MED 002 - Haematology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Haematology-Aug-13.pdf){:target="_blank"}
+
+* [MED 002 - Clinical Chemistry, Nov 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Clinical-Chemistry-26Nov21.pdf){:target="_blank"}
+
+* [MED 002 - Cytopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-
+testing-field/MED- 002Haematology-26Nov21).pdf){:target="_blank"}
+
+* [MED 002 - Haematology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED- 002Haematology-26Nov21).pdf){:target="_blank"}
+
 * [MED 002 - Microbiology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Microbiology-29-Mar-2019.pdf){:target="_blank"}
-* [MED 002 - Molecular Pathology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Molecular-Pathology-29-Mar-2019.pdf){:target="_blank"}
+
+* [MED 002 - Molecular Pathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002- Molecular-Pathology-26Nov21.pdf){:target="_blank"}
 * [MED 002 - Urinalysis, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Urinalysis-29-Mar-2019.pdf){:target="_blank"}
 * [Medical Laboratory Assessment Checklist, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="_blank"}
 * [Medical Laboratory Assessment Checklist (POCT Facilities in a Laboratory Setting), Dec 2020](/files/documents/Medical-Laboratory-Assessment-Checklist-POCT-facilities-Dec2020.pdf){:target="_blank"}
