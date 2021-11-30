@@ -57,3 +57,5 @@ Upon receiving the application for accreditation, qualified assessors are assign
 
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
+
+
