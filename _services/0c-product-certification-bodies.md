@@ -28,7 +28,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Food Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Gas Products listed in Consumer Protection (Safety Requirements) Regulations<br/>Various applicable standards |
 | Green Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| ISASecure | ISO/IEC 17065<br/>Applicable IAF MDs | ISASecureR Certification Requirements |
+| ISASecure | ISO/IEC 17065<br/>Applicable IAF MDs | ISASecure<sup>R</sup> Certification Requirements |
 | Organic Primary Produce | ISO/IEC 17065<br/>Applicable IAF MDs | SS 632 |
 | Personal Protective Equipment | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Programme for Endorsement of Forest Certification (PEFC) Chain of Custody | ISO/IEC 17065<br/>Applicable IAF MDs | PEFC ST 2002 |
