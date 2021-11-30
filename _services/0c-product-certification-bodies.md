@@ -23,7 +23,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 |------------------|----------------------------|-------------------------|
 | British Retail Consortium (BRC) (Food) | ISO/IEC 17065<br/>Applicable IAF MDs | BRC Global Standard for Food Safety |
 | Building & Construction | ISO/IEC 17065<br/>Applicable IAF MDs | SS 560<br/>Various applicable standards |
-| Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable standards |
+| Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Consumer Protection (Safety Requirements) Regulationst<br/>Various applicable standards |
 | Fire Safety Products (FSP) and Shelter Product | ISO/IEC 17065<br/>SAC CT 12<br/>SAC CT 23<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
 | Food Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
