@@ -102,8 +102,10 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 * [MED 002 - Clinical Chemistry, Nov 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Clinical-Chemistry-26Nov21.pdf){:target="_blank"}
 
-* [MED 002 - Cytopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-
-testing-field/MED- 002Haematology-26Nov21).pdf){:target="_blank"}
+
+* [MED 002 - Cytogenetics, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED002-Cytogenetics-26Nov21.pdf)
+
+* [MED 002 - Cytopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-29-Mar-2019.pdf){:target="_blank"}
 
 * [MED 002 - Haematology, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED- 002Haematology-26Nov21).pdf){:target="_blank"}
 
