@@ -113,18 +113,14 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 * [MED 002 - Microbiology, Nov 2021](/
 
-* [MED 002 - Haematology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-29-Mar-2019.pdf
-
-
-
-){:target="_blank"}
+* [MED 002 - Haematology, Aug 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Haematology-Aug-13.pdf){:target="_blank"}
 
 * [MED 002 - Molecular Pathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Molecular-Pathology-26Nov21.pdf){:target="_blank"}
 * [MED 002 - Urinalysis, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Urinalysis-29-Mar-2019.pdf){:target="_blank"}
 * [Medical Laboratory Assessment Checklist, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="_blank"}
 * [Medical Laboratory Assessment Checklist (POCT Facilities in a Laboratory Setting), Dec 2020](/files/documents/Medical-Laboratory-Assessment-Checklist-POCT-facilities-Dec2020.pdf){:target="_blank"}
 * [Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf){:target="_blank"}
-* [Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-29-Mar-19.pdf){:target="_blank"}
+* [Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf){:target="_blank"}
 
 
 
