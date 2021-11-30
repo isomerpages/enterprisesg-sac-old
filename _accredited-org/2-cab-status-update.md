@@ -127,7 +127,3 @@ Click on the quick links below to jump to the CAB Status:
 
 ---
 
-{: #others}
-### 4. Others - Inoperative
- 
-[Back to top ↑](#top)

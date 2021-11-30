@@ -63,7 +63,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Prof Lim Kok Hua             | Institute of Engineers, Singapore                             |
 |                | Mr Raymond Lee               | Infocomm Media Development Authority                          |
 |                | Mr Sebastian Tan             | Ministry of Manpower                                          |
-|                | Ms Suzanna Yap               | National Environment Agency                                   | 
+|                | Mr Chen Fu Yi                | National Environment Agency                                   | 
 |                | AC Derek Tan 	              | Singapore Civil Defence Force                                 |
 |                | Ms Cheong Lai Peng           | Singapore Food Agency                                         |
 |                | Dr Jonathan Cheah            | Singapore Food Manufacturing Association                      |

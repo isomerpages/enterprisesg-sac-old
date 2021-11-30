@@ -23,12 +23,12 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 |------------------|----------------------------|-------------------------|
 | British Retail Consortium (BRC) (Food) | ISO/IEC 17065<br/>Applicable IAF MDs | BRC Global Standard for Food Safety |
 | Building & Construction | ISO/IEC 17065<br/>Applicable IAF MDs | SS 560<br/>Various applicable standards |
-| Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Singapore Consumer Protection (Safety Requirements) Registration Scheme Information Booklet<br/>Various applicable standards |
-| Fire Safety Products (FSP) and Shelter Product | ISO/IEC 17065<br/>SAC CT 12<br/>SAC CT 23<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
+| Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Consumer Protection (Safety Requirements) Regulations<br/>Various applicable standards |
+| Regulated Fire Safety Products (FSP) and Shelter Product | ISO/IEC 17065<br/>SAC CT 12<br/>SAC CT 23<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
 | Food Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
+| Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Gas Products listed in Consumer Protection (Safety Requirements) Regulations<br/>Various applicable standards |
 | Green Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| ISASecure | ISO/IEC 17065<br/>Applicable IAF MDs | ISA/IEC 62443 |
+| ISASecure | ISO/IEC 17065<br/>Applicable IAF MDs | ISASecure<sup>R</sup> Certification Requirements |
 | Organic Primary Produce | ISO/IEC 17065<br/>Applicable IAF MDs | SS 632 |
 | Personal Protective Equipment | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
 | Programme for Endorsement of Forest Certification (PEFC) Chain of Custody | ISO/IEC 17065<br/>Applicable IAF MDs | PEFC ST 2002 |
@@ -57,3 +57,5 @@ Upon receiving the application for accreditation, qualified assessors are assign
 
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
+
+
