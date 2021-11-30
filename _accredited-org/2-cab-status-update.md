@@ -127,5 +127,3 @@ Click on the quick links below to jump to the CAB Status:
 
 ---
 
- 
-[Back to top ↑](#top)
