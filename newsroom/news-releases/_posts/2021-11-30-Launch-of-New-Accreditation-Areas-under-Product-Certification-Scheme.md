@@ -28,7 +28,4 @@ Interested applicants will be assessed based on ISO/IEC 17065 and respective SAC
 
  
 
-Application for accreditation is now open through the SAC accreditation portal, [SACiNet](Home ‒ Enterprise Singapore SACINET (enterprisesg.gov.sg)
-
- SACiNet
- 
+Application for accreditation is now open through the SAC accreditation portal, SACiNet.
