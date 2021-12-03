@@ -147,7 +147,7 @@ company-list:
 ---
 
 <!-- COMMENT: content of page starts here -->
-## List of Companies Certified by SAC Accredited Certification Bodies
+## List of Companies and Personnel Certified by SAC Accredited Certification Bodies
 
 ### Type of Certification
 
