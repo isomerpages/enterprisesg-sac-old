@@ -48,7 +48,7 @@ company-list:
       - name: "QAI Certification Pte Ltd"
         link: http://www.qaic-singapore.com/?page_id=35
       - name: "SC2 Pte Ltd"
-        link: http://www.sc2.com.sg/services.php?s=3&pg=7&spg=9&sspg=
+        link: https://www.sc2.com.sg/what-we-do/certified-organisation/
       - name: "Setsco Services Pte Ltd"
         link: http://www.setsco.com/setsco/Info/html/service-enquiry.html
       - name: "SGS International Certification Services Pte Ltd"
@@ -58,13 +58,25 @@ company-list:
       - name: "SOCOTEC Certification Singapore Pte Ltd"
         link: http://www.socotec-certification-international.sg/certification/certified-companies  
       - name: "Transpacific Certification s (Singapore) Pte. Ltd."
-        link: http://www.tcspl.com.sg/
+        link: http://www.tcspl.com.sg/resources/client-area/certificate-search
       - name: "TÜV Rheinland Singapore Pte Ltd"
         link: https://www.certipedia.com/?locale=en#system-search
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/resource-centre/certificate-finder/directory-of-management-system-certified-companies
       - name: "URS Far East Pte Ltd"
-        link: https://ursfe.com.sg
+        link: https://ursfe.com.sg/search-for-a-client-status/
+
+
+
+
+
+
+
+
+
+
+
+
                
   - category: "Product Certification"
     list:
