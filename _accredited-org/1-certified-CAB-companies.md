@@ -123,12 +123,12 @@ company-list:
 
 
 
-   - category: "Personnel Certification"
+  - category: "Personnel Certification"
     list:
       - name: "CCTP Certified Counter Terrorism Board"
-        link: http://www.cctpworld.com
+        link: https://www.ctcboard.org/certification/
       - name: "Institute of Management Consultants (Singapore)"
-        link: https://www.imcs.sg/
+        link: https://www.imcs.sg/member-register/?membership_type=RMC
       - name: "Non-Destructive Testing Society (Singapore)"
         link: http://www.ndtss.org.sg/
       - name: "Singapore Business Advisors and Consultants Council Limited"
@@ -136,7 +136,9 @@ company-list:
       - name: "Singapore Rope Access Association Limited"
         link: http://sraa.asia/members/cert/
       - name: "TÜV SÜD PSB Pte Ltd"
-        link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/singapore-certified-management-consultants
+        link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/list-of-certified-consultants/
+
+
          
 
 ###############
