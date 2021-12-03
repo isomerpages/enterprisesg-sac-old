@@ -85,11 +85,11 @@ company-list:
       - name: "CAST Laboratories Pte Ltd"
         link: http://castlab.com.sg/our-services/product-certification-body-for-ready-mixed-concrete/
       - name: "Centre Testing International Pte Ltd"
-        link: http://www.cti-cert.com/en/resourceInit.do?id=116
+        link: https://www.cti-cert.com/en/contact
       - name: "Control Union Singapore Pte Ltd"
         link: https://singapore-corp.com/co/control-union-singapore-pte-ltd
       - name: "Double Helix Tracking Technologies Pte. Ltd."
-        link: https://www.doublehelixtracking.com/
+        link: https://www.doublehelixtracking.com/verify-product
       - name: "Guardian Independent Certification Pte Ltd"
         link: http://gicg.com.sg/information/client-directory/
       - name: "Intertek Testing Services (Singapore) Pte Ltd"
@@ -101,11 +101,11 @@ company-list:
       - name: "SGS Testing & Control Services Singapore Pte Ltd"
         link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
       - name: "Singapore Environmental Council"
-        link: https://sec.org.sg/
+        link: https://sec.org.sg/contact-us/
       - name: "Singapore Laboratory Services Pte Ltd"
         link: http://sls-singapore.sg/certification/
       - name: "Singapore Test Lab Pte Ltd"
-        link: https://singaporetestlab.sg/certification/
+        link: https://singaporetestlab.sg/contact-us/
       - name: "Singapore Test Services Pte Ltd"
         link: https://sts.calvinseng.com/certified-customers/
       - name: "SOCOTEC Certification Singapore Pte Ltd"
@@ -117,8 +117,13 @@ company-list:
       - name: "UL International-Singapore Pte Ltd"
         link: http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.html      
       - name: "UK Certification Authority for Reinforcing Steels"
-        link: https://www.ukcares.com/    
-  - category: "Personnel Certification"
+        link: https://www.ukcares.com/approved-companies/
+
+
+
+
+
+   - category: "Personnel Certification"
     list:
       - name: "CCTP Certified Counter Terrorism Board"
         link: http://www.cctpworld.com
