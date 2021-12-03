@@ -12,35 +12,35 @@ company-list:
   - category: "Management System Certification"
     list:
       - name: "Advanced Certification (Singapore) Pte Ltd"
-        link: http://www.advancedcertification.sg
+        link: https://advancedcertification.sg/eng/clients/
       - name: "A-Europe Certification Pte Ltd"
-        link: https://www.ajaeurope.eu
+        link: http://www.ajaeurope.eu/
       - name: "BSI Group Pte Ltd"
         link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
       - name: "Building and Construction Authority"
         link: https://www.bca.gov.sg/Professionals/IQUAS/IQUAS/StaticPages/iso_company.aspx?menuID=7
       - name: "Bureau Veritas Quality Assurance Pte Ltd"
-        link: http://www.bureauveritas.com/home/contact   
+        link: https://www.bureauveritas.sg/
       - name: "Certfication Partner Global (Singapore) Pte Ltd"
-        link: https://www.companies.sg/zh/business/201302776D/CERTIFICATION-PARTNER-GLOBAL-SINGAPORE-PTE-LTD-
+        link: https://www.cpg.global/ 
       - name: "DAS Certification Singapore Pte Ltd"
         link: http://dascert.com.sg/client-zone?field_certification_number_value=&field_standard_value=All  
       - name: "DNV Business Assurance Pte Ltd"
         link: https://certificatechecker.dnvgl.com/
       - name: "EHS Universal"
-        link: https://www.ehsuniversal.com/
+        link: https://www.ehsuniversal.com/contactus.html
       - name: "EPI Certification Pte Ltd"
-        link: https://www.epi-certification.com/    
+        link: https://www.epi-certification.com/sites/list
       - name: "EQA IMS Certification Pte Ltd"
         link: http://eqaims.com/client-directory/ 
       - name: "Ernst & YoungCertifyPoint B.V"
-        link: http://www.ey.com   
+        link: hhttps://www.ey.com/en_sg/connect-with-us
       - name: "Guardian Independent Certification Pte Ltd"
-        link: http://www.gicg.com.sg/ 
+        link: http://gicg.com.sg/information/client-directory/
       - name: "ICR Singapore Certification Pte Ltd"
         link: http://www.icrsgcert.com/ 
       - name: "ISOCERT Pte Ltd"
-        link: https://www.isocert.sg/ 
+        link: https://www.isocert.sg/clients/
       - name: "KW Certification Pte Ltd"
         link: http://www.kwcert.com/contact-us/   
       - name: "Lloyd's Register Quality Assurance Limited"
