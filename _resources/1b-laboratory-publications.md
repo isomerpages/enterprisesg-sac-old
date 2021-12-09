@@ -99,8 +99,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [MED 002 - Clinical Chemistry, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Clinical-Chemistry-26Nov21.pdf){:target="_blank"}
 * [MED 002 - Cytogenetics, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED002-Cytogenetics-26Nov21.pdf)
 * [MED 002 - Cytopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-26Nov21.pdf){:target="_blank"}
-* [MED 002 - Haematology, Nov 2021](files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002Haematology-26Nov21.pdf){:target="_blank"}
-* [MED 002 - Histopathology, Nov 2021](files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-26Nov21.pdf){:target="_blank"}
+* [MED 002 - Haematology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002Haematology-26Nov21.pdf){:target="_blank"}
+* [MED 002 - Histopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-26Nov21.pdf){:target="_blank"}
 * [MED 002 - Microbiology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Microbiology-26Nov21.pdf){:target="_blank"}
 * [MED 002 - Molecular Pathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Molecular-Pathology-26Nov21.pdf){:target="_blank"}
 * [Medical Laboratory Assessment Checklist, Mar 2019](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="_blank"}
