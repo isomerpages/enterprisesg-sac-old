@@ -17,8 +17,6 @@ company-list:
         link: http://www.ajaeurope.eu/
       - name: "BSI Group Pte Ltd"
         link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
-      - name: "Building and Construction Authority"
-        link: https://www.bca.gov.sg/Professionals/IQUAS/IQUAS/StaticPages/iso_company.aspx?menuID=7
       - name: "Bureau Veritas Quality Assurance Pte Ltd"
         link: https://www.bureauveritas.sg/
       - name: "Certfication Partner Global (Singapore) Pte Ltd"
