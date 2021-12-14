@@ -24,6 +24,8 @@ A validation/verification body must be fully conversant and comply with the rele
 * [ISO 14065:2020 General principles and requirements for bodies validating and verifying environmental information]
 * [ISO 14064-3:2019 Greenhouse gases – Part 3: Specification with guidance for the validation and verification of greenhouse gas statements]
 * [IAF MD 6:2014 IAF Mandatory Document for the Application of ISO 14065:2013](/files/documents/validation-and-verification-bodies/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
-<!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Fee Schedule, 10 October 2018](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="_blank"}
-* [Assessment Checklist (ISO 14065), 10 Oct 2018](/files/documents/validation-and-verification-bodies/Assessment-Checklist-(ISO-14065)-10-October-2018.docx){:target="_blank"
+* [Assessment Checklist (ISO 14065), 10 Oct 2018](/files/documents/validation-and-verification-bodies/Assessment-Checklist-(ISO-14065)-10-October-2018.docx){:target="_blank"}
+
+<!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
+
