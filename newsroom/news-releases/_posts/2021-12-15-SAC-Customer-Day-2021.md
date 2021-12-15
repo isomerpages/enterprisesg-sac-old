@@ -20,7 +20,7 @@ At the event, Mr Tan Kai Hoe, SAC Chairman, launched the new accreditation progr
 The highlight for this year event was an interactive panel presentation which shared insightful views and exchanges on how standards and accreditation can support the Singapore Green Plan and other environmental sustainability initiatives. The session was well-received by the participants and we would like to extend our heartfelt appreciation to the industry experts from ERI@N (Mr Alex Chong), Building & Construction Authority (Mr Jeffery Neng), National Environment Agency (Mr Dalson Chong), ComCorp (Mr Allan Lim) and National University of Singapore (Prof Seeram Ramakrishna) and our panel moderator, SAC Dy Chairman, Mr Jagadish CV.
  
  
-![PIC3.png](/images/press-release/photos/PIC3.png)
+![PIC3.png](/images/press-release/photos/PIC3.png){:target="_blank"} 
 
 
 Finally, the event recognised 22 newly accredited CABs in the various schemes. Our heartiest congratulations to the CABS for their achievements!
