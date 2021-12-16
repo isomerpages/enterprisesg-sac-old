@@ -99,6 +99,7 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * CEP Services Pte Ltd (10 May 2021)
   * Ming Deng Metrology Services (Thailand) Co Ltd (09 September 2021)
+  * Far East Gemological Laboratory (15 December 2021)
   
 
 #### Inspection Body
