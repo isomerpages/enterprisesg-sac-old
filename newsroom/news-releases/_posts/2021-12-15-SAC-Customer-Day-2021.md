@@ -25,7 +25,7 @@ The highlight for this year event was an interactive panel presentation which sh
 
 Finally, the event recognised 22 newly accredited CABs in the various schemes. Our heartiest congratulations to the CABS for their achievements!
 
-* [SAC Congratulatory Ad for Customer Day 2021](images/press-release/documents/SAC-Congratulatory-Post-2021.pdf){:target="_blank"}
+* [SAC Congratulatory Ad for Customer Day 2021](/images/press-release/documents/SAC-Congratulatory-Post-2021.pdf){:target="_blank"}
 
 
 
