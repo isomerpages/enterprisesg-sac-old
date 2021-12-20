@@ -30,6 +30,7 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Multi-Tiered Cloud Computing Security Management System
 * Occupational Health & Safety Management System
 * Quality Management System
+* Quality Management for Bunker Supply Chain (QMBS) (under QMS)
 * Water Efficiency Management System
  
 The scheme was extended in August 2003 to cover the certification of bunker suppliers, in a show of support for the Maritime and Port Authority of Singapore's initiative to highlight Singapore's status as a bunkering hub. In April 2008, the scheme was further extended to cover the certification of good distribution practice of medical devices (GDPMDS). This was an effort to support the Health Sciences Authority's initiative to ensure the quality and integrity of medical devices throughout the distribution process.
