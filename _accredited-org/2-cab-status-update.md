@@ -104,6 +104,27 @@ Click on the quick links below to jump to the CAB Status:
   * Geo-Chem Far East Pte Ltd (30 August 2021)
 
 
+#### Certification Body
+
+* Quality Management System
+  * TÜV Rheinland Singapore Pte Ltd  (29 December 2021)
+
+
+* Good Distribution Practice for Medical Devices
+  * TÜV Rheinland Singapore Pte Ltd  (29 December 2021)
+
+
+*  Learning Service Providers
+   * TÜV Rheinland Singapore Pte Ltd  (29 December 2021)
+
+
+*	Auditing Organisation
+   * DAS Certification Singapore Pte Ltd (20 December 2021)
+   * Chubb Global Risk Advisors Pte Ltd (24 December 2021)
+   * Aegis Certification Pte Ltd (31 December 2021)
+   * Anzenet Pte Ltd (31 December 2021)
+
+ 
 
 #### **Withdrawal by SAC**
 
