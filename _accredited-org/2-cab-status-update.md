@@ -24,13 +24,9 @@ Click on the quick links below to jump to the CAB Status:
   * Glostrext Technology (S) Pte. Ltd. (02 October 2021)
 
 
-* Civil Engineering 
-  * Geotech Link Pte Ltd (03 June 2021)
-  * Terralab Technologies Pte Ltd (11 August 2021)
-
-
 * Electrical Testing
   * Borgwarner Singapore Holdings Pte. Ltd. (17 October 2021)
+  * GIC Testing & Inspection Services Pte. Ltd. (15 December 2021)
 
 
 * Mechanical Testing
@@ -43,6 +39,7 @@ Click on the quick links below to jump to the CAB Status:
   * BEST NDT Inspection Technologies Pte. Ltd. (18 November 2021)
   * Renu Engineering Pte Ltd (20 September 2021)
   * SG Engineering & Inspection Pte. Ltd. (21 October 2021)
+  * World Trek Testing & Inspections Pte Ltd (02 December 2021)
 
 
 
@@ -66,7 +63,7 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Medical Devices - Quality Management Systems
-  * SGS International Certification Services Singapore Pte Ltd (18 August 2021)
+  * TUV SUD PSB Pte Ltd (13 December 2021)
 
      
 
@@ -97,7 +94,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * CEP Services Pte Ltd (10 May 2021)
   * Ming Deng Metrology Services (Thailand) Co Ltd (09 September 2021)
   * Far East Gemological Laboratory (15 December 2021)
   
@@ -108,12 +104,27 @@ Click on the quick links below to jump to the CAB Status:
   * Geo-Chem Far East Pte Ltd (30 August 2021)
 
 
-#### Good Laoratory Practice (GLP)
+#### Certification Body
 
-* Good Laboratory Practice (GLP)
-  * Innoheart Pte Ltd (26 July 2021)
+* Quality Management System
+  * TÜV Rheinland Singapore Pte Ltd  (29 December 2021)
 
 
+* Good Distribution Practice for Medical Devices
+  * TÜV Rheinland Singapore Pte Ltd  (29 December 2021)
+
+
+* Learning Service Providers
+  * TÜV Rheinland Singapore Pte Ltd  (29 December 2021)
+
+
+* Auditing Organisation
+  * DAS Certification Singapore Pte Ltd (20 December 2021)
+  * Chubb Global Risk Advisors Pte Ltd (24 December 2021)
+  * Aegis Certification Pte Ltd (31 December 2021)
+  * Anzenet Pte Ltd (31 December 2021)
+
+ 
 
 #### **Withdrawal by SAC**
 
