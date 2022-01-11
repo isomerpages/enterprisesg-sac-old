@@ -81,7 +81,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation          | Name                            | Organisation                              |
 |----------------------|---------------------------------|-------------------------------------------|
-| **Chairman**         | Mr Jagadish C V         | Advanced Micro Foundry Pte Ltd |
+| **Chairman**         | Mr Jagadish C V         | Singapore Accreditation Council |
 | **Members**          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
 |                      | Dr Eunice Pang          | Health Promotion Board  |
 |                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
