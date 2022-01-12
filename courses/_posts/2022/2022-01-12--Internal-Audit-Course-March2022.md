@@ -7,13 +7,13 @@ permalink: /services/training/inernal-Audit-Course-March2022
 
 ## Course Details 
 
-**Course dates:** 7-8 March 2022
+**Course Dates:** 7-8 March 2022
 
 **Course Fee:**  SGD 599.20 (inclusive of GST)
 
 **Course Mode:**\\ Online
 
-**Course objectives:**
+**Course Objectives:**
 
 This 2-day course is to help the participants:  
 
