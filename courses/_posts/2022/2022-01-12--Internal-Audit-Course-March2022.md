@@ -24,7 +24,7 @@ This 2-day course is to help the participants:
 For course objectives, please view attached [link](/files/training/Course-Objectives-IA.pdf){:target="_blank"}.
 
 
-Please complete the attached [registration form](/files/registration-forms/xx ){:target="_blank"} and email it to:
+Please complete the attached [registration form](files/registration-forms/Registration-form-IA-March2022.docx){:target="_blank"} and email it to:
 
 Angie_ng@enterprisesg.gov.sg
 
