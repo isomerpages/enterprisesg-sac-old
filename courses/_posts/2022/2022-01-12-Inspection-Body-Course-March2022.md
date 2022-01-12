@@ -25,4 +25,4 @@ Closing date for registraton:  20 February 2022 or when class is full.
   
 Should you require further clarification, please contact Ms Angie Ng at tel: +65 6279 1800
 
-
+<span style="color:orange;">*</span> Priority will be given to SAC accredited CABs.  
