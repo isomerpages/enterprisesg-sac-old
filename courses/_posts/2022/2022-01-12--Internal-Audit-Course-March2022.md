@@ -11,9 +11,7 @@ permalink: /services/training/inernal-Audit-Course-March2022
 
 **Course Fee:**  SGD 599.20 (inclusive of GST)
 
-**Course Mode:**\\
-
-Online
+**Course Mode:**\\ Online
 
 
 ## Course ovjectives:
