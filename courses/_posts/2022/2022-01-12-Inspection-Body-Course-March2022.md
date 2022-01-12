@@ -6,7 +6,8 @@ permalink: /services/training/Inspection-Body-Course-March2022
 ---
 
 ## Course Details
-**2-3 March 2022**
+
+**Course Dates:**  2-3 March 2022
 
 **Course Fee:** SGD $749.00 (inclusive of GST)
 
