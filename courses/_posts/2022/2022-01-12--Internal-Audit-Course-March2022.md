@@ -13,8 +13,7 @@ permalink: /services/training/inernal-Audit-Course-March2022
 
 **Course Mode:**\\ Online
 
-
-## Course objectives:
+**Course objectives:**
 
 This 2-day course is to help the participants:  
 
