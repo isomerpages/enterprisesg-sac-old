@@ -14,7 +14,7 @@ permalink: /services/training/inernal-Audit-Course-March2022
 **Course Mode:**\\ Online
 
 
-## Course ovjectives:
+## Course objectives:
 
 This 2-day course is to help the participants:  
 
@@ -22,11 +22,7 @@ This 2-day course is to help the participants:
 
 * Acquire the skills to plan, implement and report on internal quality system audits.
 
- 
-
 For course objectives, please view attached [link](/files/training/Course-Objectives-IA.pdf){:target="_blank"}.
-
-
 
 Please complete the attached [registration form](/files/registration-forms/xx ){:target="_blank"} and email it to:
 
