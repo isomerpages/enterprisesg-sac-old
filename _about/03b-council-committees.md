@@ -42,7 +42,6 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Members**   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
 |               | Mr Loh Lock Mun              | Association of Process Industry   |
 |               | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
-|               | Pending                      | Association of Singapore Marine Industry |
 |               | Dr Poh Teoh Yaw              | Building & Construction Authority |
 |               | Er. Merlyn Thong             | Land Transport Authority          |
 |               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
