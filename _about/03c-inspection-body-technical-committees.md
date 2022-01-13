@@ -54,7 +54,6 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 |-------------|------|--------------|
 | **Chairman** | Mr Alex Tang | International Bunker Industry Association |
 | **Members** | Mr Kester Kiong | Maritime and Port Authority of Singapore |
-| | Pending | Seafood Industries Association of Sinapore |
 | | Mr Chang Jian Quan | Singapore Food Agency |
 | | Mr Darajit Daud | Singapore Manufacturing Federation |
 | | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
