@@ -23,7 +23,7 @@ Accuron Technologies Limited
 
 | Designation	| Name	| Organisation |
 |-------------|-------|--------------|
-| **Deputy Chairmen** | Mr Jagadish CV | JA Consulting, NXP Semiconductors (Recently retired) |
+| **Deputy Chairmen** | Mr Jagadish CV | Advanced Micro Foundry Pte Ltd |
 | | Mr Amos Leong | Univac Group |
 | **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
