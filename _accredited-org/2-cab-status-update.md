@@ -104,6 +104,10 @@ Click on the quick links below to jump to the CAB Status:
   * Geo-Chem Far East Pte Ltd (30 August 2021)
 
 
+* Pressure Vessel and Lifting Equipment Inspection
+  * Franklin Offshore International Pte Ltd (17 January 2022)
+
+
 #### Certification Body
 
 * Quality Management System
