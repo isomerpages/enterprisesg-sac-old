@@ -69,6 +69,8 @@
   - title: e-Services - eLearning Portal
     url: https://lms.wizlearn.com/sacelearning
     external: true
+  - title: Extended Surveillance Initiative
+    url: /services/extended-surveillance-initiative
 - title: Resources
   url: /resources/
   sub-links:
