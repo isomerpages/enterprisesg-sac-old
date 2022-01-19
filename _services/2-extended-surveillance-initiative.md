@@ -14,7 +14,7 @@ The Extended Surveillance Initiative is open to all Laboratories (except medical
 
  
 
-1. Eligibility Criteria
+1)  Eligibility Criteria
  
 
 There should be no outstanding payments owed to SAC/ESG.
