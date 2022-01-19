@@ -14,27 +14,30 @@ The Extended Surveillance Initiative is open to all Laboratories (except medical
 
  
 
-* Eligibility Criteria
+1.  Eligibility Criteria
  
 
-There should be no outstanding payments owed to SAC/ESG.
+    There should be no outstanding payments owed to SAC/ESG.
 
  
 
-The CAB should not have any valid / legitimate complaints or blacklisted by any government agency in the past 4 years. It should also not be served warning letter by SAC/ESG or have its accreditation suspended or withdrawn in the last 4 years.
+    The CAB should not have any valid / legitimate complaints or blacklisted by any government agency in the past 4 years. It should
+    also not be served warning letter by SAC/ESG or have its accreditation suspended or withdrawn in the last 4 years.
 
  
-* Qualification Criteria
+2.  Qualification Criteria
 
 
-SAC would expect the CAB to have consistently performed well in both QMS and technical aspects and possess a good attitude towards improving its own system and a robust risk analysis. In addition, there should be adherence to the proper use of SAC Mark and timely submission of corrective actions (30 days).
+    SAC would expect the CAB to have consistently performed well in both QMS and technical aspects and possess a good attitude towards
+    improving its own system and a robust risk analysis. In addition, there should be adherence to the proper use of SAC Mark and
+    timely submission of corrective actions (30 days).
 
  
-* Application
+3.  Application
 
 
-For more details, please contact your account manager. You may also refer to the FAQ below.
+    For more details, please contact your account manager. You may also refer to the FAQ below.
 
-[FAQ to CABs on the Extended Surveillance Initiative (Jan 2022)](/files/documents/FAQ-to-CABs.pdf){:target="_blank"}
+    [FAQ to CABs on the Extended Surveillance Initiative (Jan 2022)](/files/documents/FAQ-to-CABs.pdf){:target="_blank"}
 
 
