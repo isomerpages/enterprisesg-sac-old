@@ -37,6 +37,6 @@ Application
 
 For more details, please contact your account manager. You may also refer to the FAQ below.
 
-![FAQ to CABs on the Extended Surveillance Initiative (Jan 2022)](/files/documents/FAQ-to-CABs.pdf){:target="_blank"}
+[FAQ to CABs on the Extended Surveillance Initiative (Jan 2022)](/files/documents/FAQ-to-CABs.pdf){:target="_blank"}
 
 
