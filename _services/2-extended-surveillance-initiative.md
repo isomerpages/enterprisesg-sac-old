@@ -37,4 +37,6 @@ Application
 
 For more details, please contact your account manager. You may also refer to the FAQ below.
 
-              <link to FAQ>
+![FAQ](/files/documents/FAQ-to-CABs.pdf){:target="_blank"}
+
+
