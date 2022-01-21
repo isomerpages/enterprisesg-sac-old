@@ -66,9 +66,11 @@
   - title: e-Services - SACiNet
     url: https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form
     external: true
-  - title: e-Services - eLearning Portal
+  - title: e-Services - SAC Knowledge Centre
     url: https://lms.wizlearn.com/sacelearning
     external: true
+  - title: Extended Surveillance Initiative
+    url: /services/extended-surveillance-initiative
 - title: Resources
   url: /resources/
   sub-links:
