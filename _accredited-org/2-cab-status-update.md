@@ -136,6 +136,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
+  * A Marine Audix Pte Ltd (4 February 2022)
 
   
 
