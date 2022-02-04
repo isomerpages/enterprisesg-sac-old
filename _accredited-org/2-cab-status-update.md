@@ -96,6 +96,10 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * Ming Deng Metrology Services (Thailand) Co Ltd (09 September 2021)
   * Far East Gemological Laboratory (15 December 2021)
+
+
+* Civil Engineering
+  * Soil Investigation Pte Ltd (26 January 2022)
   
 
 #### Inspection Body
@@ -132,6 +136,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
+  * A Marine Audix Pte Ltd (4 February 2022)
 
   
 
