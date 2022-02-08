@@ -106,6 +106,9 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * Geo-Chem Far East Pte Ltd (30 August 2021)
+ 
+* Pressure Vessel / Lifting Equipment Inspection
+ * Franklin Offshore International Pte Ltd (17 January 2022)
 
 
 #### Certification Body
@@ -127,6 +130,7 @@ Click on the quick links below to jump to the CAB Status:
   * Chubb Global Risk Advisors Pte Ltd (24 December 2021)
   * Aegis Certification Pte Ltd (31 December 2021)
   * Anzenet Pte Ltd (31 December 2021)
+  * Success Safety Consultancy Pte Ltd (4 February 2022)
 
  
 
@@ -136,7 +140,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
-  * A Marine Audix Pte Ltd (4 February 2022)
+  * A Marine Audix Pte Ltd (18 January 2022)
 
   
 
