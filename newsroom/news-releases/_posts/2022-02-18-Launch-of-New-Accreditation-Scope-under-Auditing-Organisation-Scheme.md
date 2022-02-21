@@ -15,4 +15,4 @@ SFA will require food establishments that apply for food export certificates, to
 
 Interested AOs will be assessed based on CT 17 – SAC Criteria for Accreditation of Auditing Organisations under Auditing Organisation Accreditation Scheme.   The specific requirements for food establishments AOs are detailed in Appendix 3 of SAC CT 17.
 
-Application for accreditation is now open through the SAC accreditation portal, SACiNet.  Please contact your account manager for more details.
+Application for accreditation is now open through the SAC accreditation portal, SACiNet[SACiNet] (https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form).  Please contact your account manager for more details.
