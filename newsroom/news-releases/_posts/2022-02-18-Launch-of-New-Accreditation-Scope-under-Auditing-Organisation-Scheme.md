@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Launch of New Accreditation Scope under Auditing Organisation Scheme"
+date:   2022-02-18
+permalink: /newsroom/news-releases/Launch of New Accreditation Scope under Auditing Organisation Scheme
+---
+
+**Launch of New Accreditation Scope under Auditing Organisation Scheme**
+
 The Singapore Accreditation Council (SAC) is pleased to announce the expansion of our Accreditation Scheme for Auditing Organisation (AO) to include Food Establishment Audits with effect from 22 February 2022.
 
 Supporting the Singapore Food Agency (SFA), SAC aims to build a network of recognized AOs in Singapore that are competent to perform audits of food establishments. This programme serves to step-up the rigor in ensuring the veracity of the audit outcome delivered by the recognised AOs.  The scope of food establishment audit covers audit of any place or any premises or part thereof used for the sale, or for the preparation or manufacture for distribution and sale, or for the storage or packing for distribution and sale, of food, whether cooked or not, intended for human consumption.
