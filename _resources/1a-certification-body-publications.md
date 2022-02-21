@@ -92,7 +92,7 @@ A certification body must be fully conversant and comply with the relevant stand
 **Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
 
 <!-- NOTE: changes to CT 01A document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
-* [CT 01A, 22 Feb 2022 - Accreditation Process for Auditing Organisations](/files/documents/management-system-and-products-certification/CT-01A-22-Feb-2022-(AO)-v3.pdf){:target="_blank"}
+* [CT 01A - Accreditation Process for Auditing Organisations - 22 Feb 2022](/files/documents/management-system-and-products-certification/CT-01A-22-Feb-2022-(AO)-v3.pdf){:target="_blank"}
 <!-- NOTE: changes to CT 17 document links must also be updated in 'Services -> Auditing Organisations (Accreditation Services)' -->
 * [CT 17 - SAC Criteria for Auditing Organisations - 22 Feb 2022](/files/documents/management-system-and-products-certification/CT-17-22-Feb-2022-Approved.pdf){:target="_blank"} 
 <!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
