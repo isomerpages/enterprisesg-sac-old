@@ -96,7 +96,7 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * Ming Deng Metrology Services (Thailand) Co Ltd (09 September 2021)
   * Far East Gemological Laboratory (15 December 2021)
-
+  * ST Engineering Aerospace Systems Pte. Ltd. (28 February 2022) 
 
 * Civil Engineering
   * Soil Investigation Pte Ltd (26 January 2022)
