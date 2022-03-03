@@ -22,8 +22,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
 | | Mr Kenneth Lim | National Environment Agency |
-| | Mr Yusoof Aynuddin | Singapore Manufacturing Federation - Setsco Services Pte Ltd |
-| | Mr Mark Khoo | Singapore Manufacturing Federation - Singapore Test Services Pte Ltd |
+| | Mr Yusoof Aynuddin | Singapore Manufacturing Federation - TIC Interest Group |
+| | Mr Mark Khoo | Singapore Manufacturing Federation - TIC Interest Group |
 | | Mr Edwin Yong | Singapore Police Force |
 | | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | | Ms Michelle Ng | Waste Management and Recycling Association of Singapore |
@@ -55,7 +55,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | **Chairman** | Mr Alex Tang | International Bunker Industry Association |
 | **Members** | Mr Kester Kiong | Maritime and Port Authority of Singapore |
 | | Mr Chang Jian Quan | Singapore Food Agency |
-| | Mr Darajit Daud | Singapore Manufacturing Federation |
+| | Mr Darajit Daud | Singapore Manufacturing Federation - TIC Interest Group|
 | | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
 | | Capt Francis Lansakara | Singapore Nautical Institute |
 | | Mr Michael Phoon | Singapore Shipping Association |
