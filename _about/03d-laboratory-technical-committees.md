@@ -44,7 +44,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Wu Yuanshang | Singapore Food Agency |
 | | Dr Yoganathan s/o Kanagasundaram | Singapore Institute of Food and Biotechnology Innovation |
 | | Mr Richard Khaw | Singapore Institute of Food Science & Technology |
-| | Pending | Singapore Manufacturing Federation (Representative for Accredited Laboratory) |
+| | Mr Yap Jian Jie | Singapore Manufacturing Federation – TIC Interest Group |
 | | Ms Ng Su Ling | Singapore Polytechnic |
 | | A/Prof Chu Jang Hann, Justin | Singapore Society for Microbiology & Biotechnology |
 | | Dr Leong Meng Fatt | Temasek Polytechnic |
