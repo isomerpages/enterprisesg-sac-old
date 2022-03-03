@@ -63,7 +63,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Mr Raymond Lee               | Infocomm Media Development Authority                          |
 |                | Mr Sebastian Tan             | Ministry of Manpower                                          |
 |                | Mr Chen Fu Yi                | National Environment Agency                                   | 
-|                | AC Derek Tan 	              | Singapore Civil Defence Force                                 |
+|                | AC Derek Tan<br/>(Alternate: LTC Cheng Yaw Joo, CPT Daven Tan Wei Yang) | Singapore Civil Defence Force |
 |                | Ms Cheong Lai Peng           | Singapore Food Agency                                         |
 |                | Dr Jonathan Cheah            | Singapore Food Manufacturing Association                      |
 |                | Ms Tan May Ling              | SkillsFuture Singapore                                        |
