@@ -90,13 +90,13 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Members** | Dr Jacqueline Hwang | Academy of Medicine |
 | | Dr. Shirlena Soh | Association of Biomedical Laboratory Professionals Singapore |
 | | Dr Ang Ai Leen | Health Sciences Authority |
-| | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd |
+| | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd (Representative for Accredited Facility)|
 | | Dr Lucy Leong | Ministry of Manpower |
 | | A/Prof Leong Khai Pang | National Healthcare Group |
 | | A/Prof Partha Pratim | National Healthcare Group |
 | | Dr Nancy Tee | National University Health System |
 | | Dr Benedict Yan | National University Health System |
-| | Ms Serene Kho | National Healthcare Group Diagnostics |
+| | Ms Serene Kho | National Healthcare Group Diagnostics (Representative for Accredited Facility) |
 | | Dr Jacqueline Hwang | Singapore Health Services |
 | | Dr Ho Liam Pock | Singapore Health Services |
 | | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
@@ -111,7 +111,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Members** | Dr Steven Wong | Academy of Medicine |
 | | Dr Hoo Wee Teck | National Environment Agency |
 | | Dr Tan Soo See, Susanna | National Healthcare Group |
-| | Dr Tyrone Goh | National Healthcare Group Diagnostics |
+| | Dr Tyrone Goh | National Healthcare Group Diagnostics (Representative for Accredited Facility)|
 | | Dr Faimee Erwan | National University Health System |
 | | Mr Somanesan Satchithanantham | Singapore Health Services |
 | | Dr Teoh Wey Chyi | Singapore Radiological Society |
