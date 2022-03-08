@@ -96,7 +96,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 **Medical Testing Field**
 * [MED 001- General Criteria, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf){:target="_blank"}
 * [MED 002 - Clinical Chemistry, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf){:target="_blank"}
-* [MED 002 - Cytogenetics, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED002-Cytogenetics26Nov21-v2.pdf){:target="_blank"}
+* [MED 002 - Cytogenetics, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED002-Cytogenetics-26Nov21-v2.pdf){:target="_blank"}
 * [MED 002 - Cytopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-26Nov21-v2.pdf){:target="_blank"}
 * [MED 002 - Haematology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Haematology-26Nov21-v2.pdf){:target="_blank"}
 * [MED 002 - Histopathology, Nov 2021](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-26Nov21-v2.pdf){:target="_blank"}
