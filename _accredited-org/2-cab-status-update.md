@@ -100,6 +100,9 @@ Click on the quick links below to jump to the CAB Status:
 
 * Civil Engineering
   * Soil Investigation Pte Ltd (26 January 2022)
+
+* Chemical & Biological
+  * BASF South East Asia Pte. Ltd. (9 March 2022)
   
 
 #### Inspection Body
