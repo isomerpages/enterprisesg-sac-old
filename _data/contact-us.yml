@@ -32,9 +32,10 @@ column:
   - title: Fax
     content:
     - line: 6659 0640
-  - title: Send us your feedback
+  - title: Feedback about SAC
     content:
     - line: SAC  considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations. 
-    - line: If you have a complaint or wish to give feedback about SAC accreditation or performance of SAC accredited organisations, please write to sac@enterprisesg.gov.sg.  Any written complaints should be accompanied with objective evidence(s) to support the complaints and to facilitate our investigation. 
+    - line: If you have a complaint or wish to give feedback about SAC accreditation or performance of SAC accredited organisations, please write to sac@enterprisesg.gov.sg.  
+    - line: Any written complaints should be accompanied with objective evidence(s) to support the complaints and to facilitate our investigation. 
     - line: For feedback or complaints pertaining to SAC accredited organisations or their clients, the accredited organisations will be requested to address the complaint and to take appropriate corrective actions. 
-    - line:  If you have a query, feedback or wish to report a problem related to this website, please fill in the online form
+
