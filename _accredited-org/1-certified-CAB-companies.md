@@ -26,7 +26,7 @@ company-list:
       - name: "DNV Business Assurance Pte Ltd"
         link: https://certificatechecker.dnvgl.com/
       - name: "EHS Universal"
-        link: https://www.ehsuniversal.com/contactus.html
+        link: https://ehscertification.sg/
       - name: "EPI Certification Pte Ltd"
         link: https://www.epi-certification.com/sites/list
       - name: "EQA IMS Certification Pte Ltd"
@@ -137,6 +137,7 @@ company-list:
         link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/list-of-certified-consultants/
 
 
+         
          
 
 ###############
