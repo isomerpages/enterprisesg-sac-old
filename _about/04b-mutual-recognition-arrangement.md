@@ -45,7 +45,11 @@ Please click below for the respective MRA listings.
 ### OECD Mutual Acceptance of Data (MAD)
 Since January 2010, Singapore became an adherent member of the OECD Mutual Acceptance of Data (MAD) framework. GLP studies conducted in Singapore will now be recognised in more than 30 OECD member and non-member countries. 
 
-For more information on the OECD Framework for MAD and Good Laboratory Practices (GLP), please refer the link http://newsletter.oecd.org/c/143e9gOuMoAi7gU9Bi7XjDhUH
+The video below shows the Key elements of the OECD Framework for Mutual Acceptance of Data and Good Laboratory Practices.
+
+<div class="bp-youtube">
+      <iframe width="560" height="315" src=https://www.youtube.com/embed/g1Ol3WcQ898 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Energy Star Programme
 On 6 October 2010, SAC was formally recognised by the US Environmental Protection Agency (EPA) for the ENERGY STAR Programme. From December 30 2010, all ENERGY STAR product partners are required to have their products certified by an EPA-recognised Certification Body (CB) prior to qualification. Before applying for EPA recognition, the CB will need to gain accreditation to ISO/IEC 17065. Similarly, the testing laboratory must first be accredited to ISO/IEC 17025 for test methods required by the relevant ENERGY STAR product specifications, before applying for recognition by EPA. 
