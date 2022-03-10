@@ -48,7 +48,7 @@ Since January 2010, Singapore became an adherent member of the OECD Mutual Accep
 The video below shows the Key elements of the OECD Framework for Mutual Acceptance of Data and Good Laboratory Practices.
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src=https://www.youtube.com/embed/g1Ol3WcQ898 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/g1Ol3WcQ898" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ### Energy Star Programme
