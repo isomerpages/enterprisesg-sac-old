@@ -177,7 +177,23 @@ milestone:
       - line: "<b>14 - 22 June:</b> SAC hosted the inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting. <span class='milestone-arrow'></span>"
       - line: "<b>17 June:</b> Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification."
       - line: "<b>26 June:</b> SAC was admitted to APAC MRA for Medical Device - Quality Management System, Occupational Health & Safety Management System and Information Security Management System."
-
+      - line: "<b>30 September:</b> SAC was admitted to IAF MLA for Medical Device - Quality Management System and Information Security Management System."
+      - line: "<b>3 October:</b> SAC was admitted to ILAC MRA for Proficiency Testing Providers."
+      - line: "<b>2 & 27 October:</b> SAC was admitted to APAC MRA and IAF MLA for Certification of Persons."
+    - subtitle: 2020
+      description:
+      - line: "<b>30 May:</b> SAC was admitted to IAF MLA for Occupational Health & Safety Management System."
+    - subtitle: 2021
+      description:
+      - line: "<b>10 September:</b> SAC was admitted to APAC MRA for Business Continuity Management and Anti-bribery Management System."
+      - line: "<b>16 November:</b> Launch of Accreditation Programme for Cold Chain Management System (CCMS) Certification."
+      - line: "<b>25 November:</b> Expanded Product Certification Scheme to include Good Agriculture Practice (GAP) and Clean & Green Urban Farms."
+      - line: "<b>30 November:</b> Expanded Product Certification Scheme to include In-situ Post Tensioning Works and Alternative Structural Steel in BC 1."
+    - subtitle: 2022
+      description:
+      - line: "<b>14 February:</b> Expanded Inspection Body Scheme to include Food Cargo Inspection."
+      - line: "<b>22 February:</b> Expanded Auditing Organisation Scheme to include Food Establishments Audits."
+     
 ###############
 # End of Data #
 ###############
