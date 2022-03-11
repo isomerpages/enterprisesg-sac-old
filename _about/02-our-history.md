@@ -177,9 +177,9 @@ milestone:
       - line: "<b>14 - 22 June:</b> SAC hosted the inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting. <span class='milestone-arrow'></span>"
       - line: "<b>17 June:</b> Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification."
       - line: "<b>26 June:</b> SAC was admitted to APAC MRA for Medical Device - Quality Management System, Occupational Health & Safety Management System and Information Security Management System."
-       - line: "<b>30 September:</b> SAC was admitted to IAF MLA for Medical Device - Quality Management System and Information Security Management System."
-       - line: "<b>3 October:</b> SAC was admitted to ILAC MRA for Proficiency Testing Providers."
-       - line: "<b>2 & 27 October:</b> SAC was admitted to APAC MRA and IAF MLA for Certification of Persons."
+      - line: "<b>30 September:</b> SAC was admitted to IAF MLA for Medical Device - Quality Management System and Information Security Management System."
+      - line: "<b>3 October:</b> SAC was admitted to ILAC MRA for Proficiency Testing Providers."
+      - line: "<b>2 & 27 October:</b> SAC was admitted to APAC MRA and IAF MLA for Certification of Persons."
     - subtitle: 2020
       description:
       - line: "<b>30 May:</b> SAC was admitted to IAF MLA for Occupational Health & Safety Management System."
