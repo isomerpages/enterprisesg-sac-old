@@ -83,7 +83,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Certification Body
 
 * Auditing Organisation
- *	August International Pte. Ltd. (01 March 2022 to 31 May 2022)
+ * August International Pte. Ltd. (01 March 2022 to 31 May 2022)
  
  
 
