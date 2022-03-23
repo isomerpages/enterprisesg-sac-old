@@ -46,7 +46,7 @@ Accuron Technologies Limited
 | | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
 | | Mr Allan Lim | Individual Capacity (Food and Agriculture) |
 | | Mr Alex Budiman | Individual Capacity (Medical and Healthcare) |
-| | Mr Joseph Gan  | Individual Capacity |
+| | Mr Joseph Gan  | Digitalisation and Cybersecurity |
 | **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
 
 
