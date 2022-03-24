@@ -74,12 +74,6 @@ Click on the quick links below to jump to the CAB Status:
 ### 2. Suspended Laboratory /  Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 
 
-#### Inspection Body
-
-* Site Investigation
-  * Geoapplication Engineers Pte Ltd (17 February 2021)
-
-
 #### Certification Body
 
 * Auditing Organisation
