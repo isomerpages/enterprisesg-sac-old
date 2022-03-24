@@ -10,7 +10,7 @@ second_nav_title: "Publications"
 A facility must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 ### Standards and Criteria Document for PTP
-**ISO/IEC 17043 (Conformity Assessment – General Requirements for proficiency testing)**
+**ISO/IEC 17043:2010 (Conformity Assessment – General Requirements for proficiency testing)**
 
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf){:target="_blank"}
