@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: ISO/IEC 17021-1-2015 Management System Certification Course
+title: ISO/IEC 17021-1:2015 Management System Certification Course
 course_date: 28 & 29 April 2022
 permalink: /services/training/ISO-IEC-17021-1-2015-Mgmt-Sys-Cert-Course
 ---
