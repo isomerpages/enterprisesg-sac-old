@@ -1,12 +1,12 @@
 ---
 layout: simple-page
 title: ISO/IEC 17065-Product Certification Course
-course_date: 26 & 27 May 2022
+course_date: 26 to 27 May 2022
 permalink: /services/training/ISO-IEC-17065-Product-Certification-Course
 ---
 
 ## Course Details
-**26 & 27 May 2022**
+**26 to 27 May 2022**
 
 **Course Fee:** SGD 385.20 (inclusive of GST)
 
