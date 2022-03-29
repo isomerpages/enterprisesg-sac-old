@@ -109,6 +109,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * Geo-Chem Far East Pte Ltd (30 August 2021)
+  * SBL Inspection Services Pte Ltd  (28 March 2022)
  
 * Pressure Vessel / Lifting Equipment Inspection
   * Franklin Offshore International Pte Ltd (25 February 2022)
