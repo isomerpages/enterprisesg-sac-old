@@ -52,7 +52,7 @@ company-list:
       - name: "SGS International Certification Services Pte Ltd"
         link: https://www.sgs.sg/en/certified-clients-and-products/certified-client-directory
       - name: "Singapore Test Services Pte Ltd"
-        link: https://sts.calvinseng.com/certified-customers/ Limited (Singapore Branch)
+        link: https://sts.calvinseng.com/certified-customers/
       - name: "SOCOTEC Certification Singapore Pte Ltd"
         link: http://www.socotec-certification-international.sg/certification/certified-companies  
       - name: "Transpacific Certification s (Singapore) Pte. Ltd."
