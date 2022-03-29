@@ -41,7 +41,7 @@ company-list:
         link: https://www.isocert.sg/clients/
       - name: "KW Certification Pte Ltd"
         link: http://www.kwcert.com/contact-us/   
-      - name: "Lloyd's Register Quality Assurance Limited"
+      - name: "LQRA Limited (Singapore Branch)"
         link: http://www.lrqa.com.sg/
       - name: "QAI Certification Pte Ltd"
         link: http://www.qaic-singapore.com/?page_id=35
