@@ -10,7 +10,7 @@ permalink: /newsroom/news-releases/SACINET 2.0 Launching Soon!
 A new version of SACINET will be launched in April 2022! This will be the first release of SACINET 2.0, introducing a new interface, more flexible workflows and more. Further improvements to SACINET 2.0 will also be rolled out throughout 2022. 
 
 For CABs, please view the announcement here:
-[CAB Email](/files/documents/CAB-email.pdf}{target="_blank"}
+[CAB Email](/files/documents/CAB-email.pdf){target="_blank"}
 
 For volunteers, please view the announcement here:
 [Volunteers Email](/files/documents/Volunteer-email.pdf){target="_blank"}
