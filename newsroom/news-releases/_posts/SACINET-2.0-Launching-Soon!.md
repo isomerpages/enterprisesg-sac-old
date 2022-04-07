@@ -2,7 +2,7 @@
 layout: Post
 title: "SACINET 2.0 Launching Soon!"
 date: 2022-04-07
-permalink: /newsroom/news-releases/SACINET 2.0 Launching Soon!
+permalink: /newsroom/news-releases/SACINET-2.0-Launching-Soon!
 ---
 
 **SACINET 2.0 Launching Soon!**
