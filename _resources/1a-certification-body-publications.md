@@ -27,7 +27,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/documents/management-system-and-products-certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf){:target="_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - July 2019](/files/documents/management-system-and-products-certification/CT-04-(17-July-2019).pdf){:target="_blank"}
 * [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/documents/management-system-and-products-certification/CT-08-02-March-2020-(BCM).pdf){:target="_blank"}
-* [CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - March 2019](/files/documents/management-system-and-products-certification/CT-09-(29-March-2019).pdf){:target="_blank"}
+* [CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - April 2022](/files/documents/CT-09-07April2022.pdf){:target="_blank"}
 * [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - 02 March 2020](/files/documents/management-system-and-products-certification/CT-11-02-March-2020-(WEMS).pdf){:target="_blank"}
 * [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers)  - 11 September  2020](/files/documents/management-system-and-products-certification/CT-13-11-September-2020.pdf){:target="_blank"}
 * [CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - December 2020](/files/documents/CT 14 (MTCS), 21 Dec 2020(1).pdf){:target="_blank"}
