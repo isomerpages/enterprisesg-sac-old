@@ -131,7 +131,7 @@ company-list:
         link: http://www.ndtss.org.sg/
       - name: "Singapore Business Advisors and Consultants Council Limited"
         link: https://sbacc.org.sg/resources/levels-of-certifications/pmc/
-      - name: "Singapore Rope Access Association Limited"
+      - name: "ISO Certification Ltd"
         link: http://sraa.asia/members/cert/
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/list-of-certified-consultants/
