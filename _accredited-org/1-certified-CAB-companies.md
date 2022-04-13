@@ -132,7 +132,7 @@ company-list:
       - name: "Singapore Business Advisors and Consultants Council Limited"
         link: https://sbacc.org.sg/resources/levels-of-certifications/pmc/
       - name: "ISO Certification Ltd"
-        link: https://www.isocertification.uk.com/
+        link: 
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/services/training/certification-of-persons/list-of-certified-consultants/
 
