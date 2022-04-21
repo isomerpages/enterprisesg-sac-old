@@ -21,48 +21,48 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement 
-  * Glostrext Technology (S) Pte. Ltd. (02 October 2021)
+  * Able Cal Pte Ltd (11 January 2022)
+  * UT Metrology Pte Ltd (18 January 2022)
 
 
-* Electrical Testing
-  * Borgwarner Singapore Holdings Pte. Ltd. (17 October 2021)
-  * GIC Testing & Inspection Services Pte. Ltd. (15 December 2021)
+* Chemical & Biological Testing 
+  * Mead Johnson Nutrition (Asia Pacific) Pte. Ltd. (04 January 2022)
 
 
-* Mechanical Testing
-  * Bossard Pte Ltd (21 September 2021)
-  * NatSteel Holdings Pte Ltd (28 September 2021)
-  * Material Science Laboratory, HAL Completions Mfg Pte. Ltd (15 November 2021)
+* Civil Engineering Testing
+  * Stats Asia Pacific Pte Ltd (27 January 2022)
+  * Singapore Inspection & Engineering Pte. Ltd. (17 March 2022)
+
+
+* Environmental Testing
+  * Sembcorp Industries Ltd (20 January 2022)
   
 
-* Non-Destructive Testing
-  * BEST NDT Inspection Technologies Pte. Ltd. (18 November 2021)
-  * Renu Engineering Pte Ltd (20 September 2021)
-  * SG Engineering & Inspection Pte. Ltd. (21 October 2021)
-  * World Trek Testing & Inspections Pte Ltd (02 December 2021)
-
-
+* Mechanical Testing
+  * Imperial Royal  Pte Ltd (04 March 2022)
+  
 
 
 #### Inspection Body
 
-* Marine & Offshore Inspection
-  * DNV Singapore Pte Ltd (17 November 2021)
 
+* Site Investigation
+  * Gammon Pte Ltd (14 March 2022)
+  * Betime Engineering Pte Ltd (17 March 2022)
 
 
 #### Certification Body
 
-* HACCP-based Food Management System
-  * Transpacific Certifications (Singapore) Pte. Ltd. (19 October 2021)
+* Cold Chain Management System
+  * SOCOTEC Certification Singapore Pte Ltd (12 January 2022)
 
 
-* Food Safety Management System
-  * Transpacific Certifications (Singapore) Pte. Ltd. (19 October 2021)
+* Medical Device – Quality Management System
+  * URS Far East Pte Ltd (04 April 2022)
 
 
-* Medical Devices - Quality Management Systems
-  * TUV SUD PSB Pte Ltd (13 December 2021)
+* Occupational Safety and Health Management System
+  * EPI Certification Pte Ltd (12 January 2022)
 
      
 
@@ -94,7 +94,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Ming Deng Metrology Services (Thailand) Co Ltd (09 September 2021)
   * Far East Gemological Laboratory (15 December 2021)
 
 
@@ -108,7 +107,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Inspection Body
 
 * Cargo Inspection
-  * Geo-Chem Far East Pte Ltd (30 August 2021)
   * SBL Inspection Services Pte Ltd  (28 March 2022)
  
 * Pressure Vessel / Lifting Equipment Inspection
