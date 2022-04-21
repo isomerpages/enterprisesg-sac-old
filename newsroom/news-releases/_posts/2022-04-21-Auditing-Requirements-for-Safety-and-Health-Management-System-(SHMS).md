@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Auditing Requirements for Safety and Health Management System (SHMS)"
-date:   2022-02-22
+date:   2022-04-21
 permalink: /newsroom/news-releases/Auditing Requirements for Safety and Health Management System (SHMS)
 ---
 
