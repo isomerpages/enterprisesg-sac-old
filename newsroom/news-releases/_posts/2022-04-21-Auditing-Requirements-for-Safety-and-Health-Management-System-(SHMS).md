@@ -13,3 +13,7 @@ SAC will take stern actions against AOs who do not maintain a standard of practi
 
 Read the full circular [here] (/https//www.mom.gov.sg/workplace-safety-and-health/wsh-circulars)
 
+
+Read the full circular [here](/https//www.mom.gov.sg/workplace-safety-and-health/wsh-circulars)
+
+
