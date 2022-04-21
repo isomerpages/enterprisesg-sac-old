@@ -11,5 +11,6 @@ The Ministry of Manpower (MOM) has issued a circular (MOM / OSHD / 2022-01) on 0
 
 SAC will take stern actions against AOs who do not maintain a standard of practice that complied with our accreditation requirements. 
 
-Read the full circular here. 
-WSH circulars (mom.gov.sg)
+Read the full circular here  
+
+//https.www.mom.gov.sg/workplace-safety-and-health/wsh-circulars
