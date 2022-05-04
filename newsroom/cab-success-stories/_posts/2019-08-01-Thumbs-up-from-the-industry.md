@@ -2,7 +2,7 @@
 layout: post
 title:  Thumbs up from the industry
 date:   2019-08-01
-permalink: /newsroom/case-studies/Thumbs-up-from-the-industry
+permalink: /newsroom/cab-success-stories/Thumbs-up-from-the-industry
 ---
 
 Thumbs up from the Industry
@@ -51,5 +51,4 @@ Furthermore, SAC facilitates cross frontier accreditation through its mutual rec
 **Mr Richard Hong**  
 *Chief Executive Officer*  
 TÜV SÜD PSB Pte Ltd
-
 
