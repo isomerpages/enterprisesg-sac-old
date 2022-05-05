@@ -20,3 +20,4 @@ Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6
 | 3 | Measurement Uncertainty for Chemical Testing | $310 | 16-17 Aug 2022  (1.5 days) | Please refer to the course brochure |
 
 Registration link: http://go.gov.sg/hsa-sac-courses
+
