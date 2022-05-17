@@ -13,7 +13,7 @@ This new accreditation programme accredits certification bodies (CBs) certifying
 
 CBs interested to be accredited by SAC for this programme will be assessed based on ISO/IEC 17021-1 and SAC document, [CT 25: SAC Criteria for Certification Bodies (Cold Chain Management System)](https://www.sac-accreditation.gov.sg/files/documents/CT-25-16-Nov-2021.pdf) under the accreditation scheme for management systems certification body.
 
-Application for accreditation of CCMS certification is now open through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form)
+Application for accreditation of CCMS certification is now open through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg)
 
 For more details, please contact your Account Manager.
 
