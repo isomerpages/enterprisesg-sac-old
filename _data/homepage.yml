@@ -18,12 +18,6 @@ hero-banner-mobile: /images/homepage/homepage-montage-mobile.jpg
 
 # Google Analytics
 google-analytics: UA-206704416-1
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src=https://www.googletagmanager.com/gtag/js?id=G-6WTJQ0ZMBR></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
   gtag('config', 'G-6WTJQ0ZMBR');
 </script>
