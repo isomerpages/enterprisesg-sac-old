@@ -19,9 +19,6 @@ hero-banner-mobile: /images/homepage/homepage-montage-mobile.jpg
 # Google Analytics
 google-analytics: UA-206704416-1
 
-  gtag('config', 'G-6WTJQ0ZMBR');
-</script>
-
 # Key Highlights
 # Note: original isomerpages template only allows max 4 highlights, so I copied and edited the homepage code (in _includes/homepage/hero.html) to allow for 5 highlights
 key-highlights:
