@@ -74,6 +74,12 @@ Click on the quick links below to jump to the CAB Status:
 ### 2. Suspended Laboratory /  Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
 
 
+#### Laboratory
+
+* Chemical & Biological Testing 
+  * Seahawk Services Pte Ltd (06 May 2022 to 05 May 2023)
+
+
 #### Certification Body
 
 * Auditing Organisation
