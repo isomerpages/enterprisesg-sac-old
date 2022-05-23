@@ -2,7 +2,7 @@
 layout: post
 title:  "Health Conscious? You’re Not Alone"
 date:   2022-05-23
-permalink: /newsroom/news-releases/Health-Conscious?-You’re-Not-Alone
+permalink: /newsroom/case-studies/Health-Conscious?-You’re-Not-Alone
 ---
 
 **Health Conscious? You’re Not Alone**
