@@ -102,12 +102,15 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * Far East Gemological Laboratory (15 December 2021)
 
-
 * Civil Engineering
   * Soil Investigation Pte Ltd (26 January 2022)
 
 * Chemical & Biological
   * BASF South East Asia Pte. Ltd. (9 March 2022)
+
+* Non-Destructive Testing
+  * DM NMT Pte Ltd (12 May 2022)
+
   
 
 #### Inspection Body
