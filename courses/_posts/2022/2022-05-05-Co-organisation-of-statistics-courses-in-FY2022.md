@@ -1,12 +1,12 @@
 ---
 layout: simple-page
 title: Co-organisation of statistics courses in FY2022
-course_date: July and August 2022
+course_date: July, August and November 2022
 permalink: /services/training/Co-organisation-of-statistic-courses-in-FY2022
 ---
 
 ## Course Details
-**July and August 2022**
+**July, August and November 2022**
 
 Click [here](/files/registration-forms/Course-brochure-2022-ver3.pdf){:target="_blank"} to download the course brochure.
  
