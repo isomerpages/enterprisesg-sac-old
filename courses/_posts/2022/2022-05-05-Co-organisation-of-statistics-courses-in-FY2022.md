@@ -18,7 +18,7 @@ Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6
 | 1 | Basic Statistical Tools | $210 | 5 Jul 2022 | Fully subscribed |
 | 2 | Method Validation for Chemical Testing | $210 | 26 Jul 2022 | Fully subscribed |
 | 3 | Measurement Uncertainty for Chemical Testing | $310 | 16-17 Aug 2022  (1.5 days) | Fully subscribed |
-| 4 | Measurement Uncertainty for Chemical Testing | $310 | 8-9 Nov 2022  (1.5 days) | Available Registration page : https://go.gov.sg/hsa-sac-courses1 |
+| 4 | Measurement Uncertainty for Chemical Testing | $310 | 8-9 Nov 2022  (1.5 days) | Available<br>Registration page : https://go.gov.sg/hsa-sac-courses1 |
 
 Registration link: http://go.gov.sg/hsa-sac-courses
 
