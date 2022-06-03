@@ -107,12 +107,17 @@ Click on the quick links below to jump to the CAB Status:
 
 * Chemical & Biological
   * BASF South East Asia Pte. Ltd. (9 March 2022)
+  * Brunei LNG (15 April 2022)
+  * PGI Industries Pte Ltd (31 May 2022)
+
+* Environmental Testing
+  * Brunei LNG (15 April 2022)
 
 * Non-Destructive Testing
   * DM NMT Pte Ltd (12 May 2022)
 
   
-
+ 
 #### Inspection Body
 
 * Cargo Inspection
