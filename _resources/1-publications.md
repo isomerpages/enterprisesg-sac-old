@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: SAC Documents
-permalink: /resources/publications
+title: Overview
+permalink: /resources/SAC Documents
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC Documents"
 ---
 
 In this section, you will find the SAC publications relating to its programmes, which include the application forms, accreditation criteria documents, technical notes, checklists and other related information. The publications are available to download from the pages under this section.
