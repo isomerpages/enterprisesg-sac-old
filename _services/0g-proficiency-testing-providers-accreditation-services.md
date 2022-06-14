@@ -44,3 +44,6 @@ Once a facility has met all criteria of ISO/IEC 17043, SAC will issue a Certific
 
 Surveillance assessment will be conducted annually and reassessment will be conducted every four years for the renewal of accreditation. The schematic diagram of the accreditation process is described below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
+
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}. 
+
