@@ -45,3 +45,6 @@ Upon receiving the application for accreditation, the secretariat will send a qu
 
 The schematic diagram of the accreditation process is described below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
+
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}. 
+
