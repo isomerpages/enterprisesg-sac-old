@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: SAC Publications
+title: SAC Documents
 permalink: /resources/publications
 collection_name: resources
 second_nav_title: "Publications"
@@ -32,3 +32,4 @@ Singapore 237994\\
 In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="_blank"} websites.
 
 <!--COMMENT: the '{:target="_blank"}' at the end of the Markdown webpage URL syntax is used to open the URL in a new window tab -->
+
