@@ -15,3 +15,6 @@ The Singapore Good Laboratory Practice (GLP) Compliance Programme was launched i
 The programme ensures that a facility’s processes and the conditions in which laboratory studies are planned, performed, monitored, recorded, reported and archived meet international requirements. It enables Singapore enterprises' research laboratories to gain acceptance for their environmental health and safety data in OECD countries. This reduces duplicative testing and thus shortens the time-to-market for their new products.
 
 Singapore has been a member of the OECD Mutual Acceptance of Data (MAD) framework since January 2010. Studies conducted in Singapore under GLP compliant conditions are accepted in more than 30 OECD and non-OECD member countries.
+
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}. 
+
