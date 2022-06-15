@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Certification Body Accreditation
-permalink: /resources/publications/certification-body-accreditation
+permalink: /resources/SAC-Documents/certification-body-accreditation
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC-Documents"
 ---
 
 {: #publications-list}
@@ -100,4 +100,5 @@ A certification body must be fully conversant and comply with the relevant stand
 <!-- NOTE: changes to Auditing Organisations Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="_blank"}
 * [Assessment Checklist (CT 17) - Oct 18](/files/documents/management-system-and-products-certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="_blank"}
+
 
