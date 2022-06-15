@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /resources/SAC Documents
+permalink: /resources/SAC-Documents
 collection_name: resources
-second_nav_title: "SAC Documents"
+second_nav_title: "SAC-Documents"
 ---
 
 In this section, you will find the SAC publications relating to its programmes, which include the application forms, accreditation criteria documents, technical notes, checklists and other related information. The publications are available to download from the pages under this section.
@@ -26,6 +26,7 @@ Singapore 237994\\
 **Email** : <singaporestandardseshop@toppanleefung.com>\\
 **Website** : [https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}\\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
+
 
 
 
