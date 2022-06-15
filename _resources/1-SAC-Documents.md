@@ -1,19 +1,19 @@
 ---
 layout: leftnav-page-content
-title: SAC Publications
-permalink: /resources/publications
+title: Overview
+permalink: /resources/SAC-Documents
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC-Documents"
 ---
 
 In this section, you will find the SAC publications relating to its programmes, which include the application forms, accreditation criteria documents, technical notes, checklists and other related information. The publications are available to download from the pages under this section.
 
-* [Certification Body Accreditation](/resources/publications/certification-body-accreditation)
-* [Laboratory Accreditation (SINGLAS)](/resources/publications/laboratory-accreditation)
-* [Inspection Body Accreditation](/resources/publications/inspection-body-accreditation)
-* [Good Laboratory Practice Registration](/resources/publications/good-laboratory-practice-registration) 
-* [Proficiency Testing Provider Accreditation](/resources/publications/proficiency-testing-provider-accreditation)
-* [Validation & Verification Body Accreditation](/resources/publications/validation-and-verification-body-accreditation)
+* [Certification Body Accreditation](/resources/SAC-Documents/certification-body-accreditation)
+* [Laboratory Accreditation (SINGLAS)](/resources/SAC-Documents/laboratory-accreditation)
+* [Inspection Body Accreditation](/resources/SAC-Documents/inspection-body-accreditation)
+* [Good Laboratory Practice Registration](/resources/SAC-Documents/good-laboratory-practice-registration) 
+* [Proficiency Testing Provider Accreditation](/resources/SAC-Documents/proficiency-testing-provider-accreditation)
+* [Validation & Verification Body Accreditation](/resources/SAC-Documents/validation-and-verification-body-accreditation)
 
 Companies are required to comply with current editions of all SAC publications relevant to their accreditation or application. For ISO or Singapore Standards, companies can purchase the standards from: 
 
@@ -29,6 +29,9 @@ Singapore 237994\\
 
 
 
+
 In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="_blank"} websites.
 
 <!--COMMENT: the '{:target="_blank"}' at the end of the Markdown webpage URL syntax is used to open the URL in a new window tab -->
+
+

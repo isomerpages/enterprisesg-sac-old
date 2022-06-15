@@ -17,8 +17,6 @@
     url: /about/our-organisation-and-structure
   - title: Collaborations And Recognitions
     url: /about/collaborations-and-recognitions
-  - title: The SAC Mark
-    url: /about/the-sac-mark
   - title: About Accreditation
     url: /about/about-accreditation
   - title: Benefits Of Accreditation
@@ -76,8 +74,8 @@
   sub-links:
   - title: Brochures
     url: /resources/brochures
-  - title: Publications
-    url: /resources/publications
+  - title: SAC-Documents
+    url: /resources/SAC-Documents
   - title: How to use SAC / ILAC / IAF Marks
     url: /resources/how-to-use-sac-ilac-iaf-marks
   - title: FAQ

@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Good Laboratory Practice Registration Scheme
-permalink: /resources/publications/good-laboratory-practice-registration
+permalink: /resources/SAC-Documents/good-laboratory-practice-registration
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC-Documents"
 ---
 
 {: #publications-list}

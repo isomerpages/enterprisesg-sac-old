@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Validation and Verification Body Accreditation
-permalink: /resources/publications/validation-and-verification-body-accreditation
+permalink: /resources/SAC-Documents/validation-and-verification-body-accreditation
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC-Documents"
 ---
 
 {: #publications-list}

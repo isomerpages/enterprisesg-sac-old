@@ -31,3 +31,5 @@ All applications shall be made through SACiNet (online platform for accreditatio
 
 The CCC grants accreditation to the applicant upon verifying that the auditing organisation meets the criteria for accreditation. The detailed description of the type of assessment is stipulated in CT 01A, Accreditation Process.
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
+
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}. 
