@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Proficiency Testing Providers
-permalink: /resources/publications/proficiency-testing-provider-accreditation
+permalink: /resources/SAC-Documents/proficiency-testing-provider-accreditation
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC-Documents"
 ---
 
 {: #publications-list}
