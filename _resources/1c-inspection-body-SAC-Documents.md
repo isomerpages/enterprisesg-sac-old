@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Inspection Body Accreditation
-permalink: /resources/publications/inspection-body-accreditation
+permalink: /resources/SAC-Documents/inspection-body-accreditation
 collection_name: resources
-second_nav_title: "Publications"
+second_nav_title: "SAC-Documents"
 ---
 
 {: #publications-list}
