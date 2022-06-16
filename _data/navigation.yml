@@ -80,19 +80,19 @@
     url: /resources/how-to-use-sac-ilac-iaf-marks
   - title: FAQ
     url: /resources/faq
-- title: Media
-  url: /media/
+- title: NewsRoom
+  url: /newsroom/
   sub-links:
   - title: All
-    url: /media/
+    url: /newsroom/
   - title: News Releases
-    url: /media/news-releases
+    url: /newsroom/news-releases
   - title: Events
-    url: /media/events
+    url: /newsroom/events
   - title: Videos
-    url: /media/videos
+    url: /newsroom/videos
   - title: Case Studies
-    url: /media/case-studies
+    url: /newsroom/case-studies
 - title: Accredited Org
   url: /accredited-org/
   sub-links:
