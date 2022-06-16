@@ -80,11 +80,11 @@
     url: /resources/how-to-use-sac-ilac-iaf-marks
   - title: FAQ
     url: /resources/faq
-- title: NewsRoom
-  url: /newsroom/
+- title: Media
+  url: /Media/
   sub-links:
   - title: All
-    url: /newsroom/
+    url: /Media/
   - title: News Releases
     url: /newsroom/news-releases
   - title: Events
