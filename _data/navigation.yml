@@ -81,18 +81,18 @@
   - title: FAQ
     url: /resources/faq
 - title: Media
-  url: /Media/
+  url: /media/
   sub-links:
   - title: All
-    url: /Media/
+    url: /media/
   - title: News Releases
-    url: /Media/news-releases
+    url: /media/news-releases
   - title: Events
-    url: /Media/events
+    url: /media/events
   - title: Videos
-    url: /Media/videos
+    url: /media/videos
   - title: Case Studies
-    url: /Media/case-studies
+    url: /media/case-studies
 - title: Accredited Org
   url: /accredited-org/
   sub-links:
