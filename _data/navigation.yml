@@ -86,13 +86,13 @@
   - title: All
     url: /Media/
   - title: News Releases
-    url: /newsroom/news-releases
+    url: /Media/news-releases
   - title: Events
-    url: /newsroom/events
+    url: /Media/events
   - title: Videos
-    url: /newsroom/videos
+    url: /Media/videos
   - title: Case Studies
-    url: /newsroom/case-studies
+    url: /Media/case-studies
 - title: Accredited Org
   url: /accredited-org/
   sub-links:
