@@ -47,7 +47,7 @@ info-sections:
     section-image-path: /images/homepage/info-section.jpg
 
 # Resources Section
-resources-title: Media
+resources-title: NewsRoom
 resources-subtitle: Be in the know
 resources-more-button: More News & Events
-resources-more-button-url: /media/
+resources-more-button-url: /newsrooom/
