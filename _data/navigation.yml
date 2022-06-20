@@ -84,7 +84,7 @@
   url: /newsroom/
   sub-links:
   - title: All
-    url: /newsroom/all
+    url: /all
   - title: News Releases
     url: /newsroom/news-releases
   - title: Events
