@@ -84,7 +84,7 @@
   url: /newsroom/
   sub-links:
   - title: All
-    url: /newsroom/
+    url: /newsroom
   - title: News Releases
     url: /newsroom/news-releases
   - title: Events
@@ -104,3 +104,4 @@
     url: /accredited-org/cab-status-update
 - title: Contact Us
   url: /contact-us
+
