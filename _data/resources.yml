@@ -1,5 +1,5 @@
 categories:
-- category-name: newsroom # This is the Resources name: in the case of SAC, it is NewsRoom
+- category-name: media # This is the Resources name: in the case of SAC, it is Media
 - category-name: news-releases
 - category-name: events
 - category-name: videos
