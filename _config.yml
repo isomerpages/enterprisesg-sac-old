@@ -41,9 +41,9 @@ collections:
     output: true
       
 # Resource Room and Pagination
-resources_name: "newsroom"
+resources_name: "media"
 paginate: 12
-paginate_path: "/newsroom/page:num"
+paginate_path: "/media/page:num"
 
 # Homepage sections
 homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
