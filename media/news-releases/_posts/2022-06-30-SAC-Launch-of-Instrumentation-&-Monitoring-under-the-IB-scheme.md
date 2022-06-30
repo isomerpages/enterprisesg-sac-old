@@ -17,5 +17,5 @@ The accreditation for Instrumentation and Monitoring (I&M) aims to raise the com
 
 Interested applicants will be assessed based on ISO/IEC 17020 and respective SAC Technical Note : IM 01 – Specific Requirements for the Accreditation of Inspection Bodies for Instrumentation & Monitoring under the Inspection scheme. 
 
-Application for accreditation is now open through the SAC Accreditation portal, SACiNet 2.0
+Application for accreditation is now open through the SAC Accreditation portal, [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}.
 
