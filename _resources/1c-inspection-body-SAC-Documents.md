@@ -37,8 +37,7 @@ An inspection body must be fully conversant and comply with the relevant standar
  
 **Site Investigation and Instrumentation & Monitoring**
 * [Technical Note: SI 01: 18 Feb 2020 - Specific Requirements for the Accreditation of Inspection Bodies for Site Investigation](/files/documents/inspection-body-accreditation/SI-01-18-Feb-2020.pdf){:target="_blank"}
-
-* [Technical Note I&M 01-2022_SAC Mark - Specific Requirements for the Accreditation of Inspection Bodies for Instrumentation & Monitoring
+* [Technical Note I&M 01-2022_SAC Mark - Specific Requirements for the Accreditation of Inspection Bodies for Instrumentation & Monitoring](/files/documents/inspection-body-accreditation/TechNote-IM01-2022.pdf){:target="_blank"}
 
 
 **Structural Steelwork Inspection Field**
