@@ -1,13 +1,11 @@
+---
+layout: post
+title: "SAC Launch of Instrumentation & Monitoring under the IB scheme"
+date: 2022-06-30
+permalink: /Media/news-release/SAC-Launch-of-Instrumentation-&-Monitoring-under-the-IB-scheme
+---
 
-
-
-
-
-
-
-
-
-SAC Launch of Instrumentation & Monitoring under the IB scheme
+**SAC Launch of Instrumentation & Monitoring under the IB scheme**
 
 The Singapore Accreditation Council (SAC) is pleased to expand our Accreditation for Inspection Body Scheme to include Instrumentation & Monitoring (I&M) Works with effect from 1 July 2022.
 
