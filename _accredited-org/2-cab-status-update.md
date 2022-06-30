@@ -101,6 +101,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration & Measurement
   * Far East Gemological Laboratory (15 December 2021)
+  * Wykeham Farrance Services Pte Ltd (30 June 2022)
 
 * Civil Engineering
   * Soil Investigation Pte Ltd (26 January 2022)
@@ -158,6 +159,7 @@ Click on the quick links below to jump to the CAB Status:
   * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
   * A Marine Audix Pte Ltd (18 January 2022)
 
+  
   
 
 [Back to top ↑](#top)
