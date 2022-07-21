@@ -33,8 +33,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Calibration and Measurement Field**
 * [MET 001 - May 2021 : Specific Requirements for Calibration and Measurement Laboratories](/files/documents/laboratory-accreditation/MET-001-1May2021.pdf){:target="_blank"}
-* [MET 002 - 9 October 2020 : General Requirements and Criteria for Documenting the Calibration and Measurement Capability]
-(/files/documents/MET002-01Aug2022.pdf){:target="_blank"}
+* [MET 002 - Aug 2022 : General Requirements and Criteria for Documenting the Calibration and Measurement Capability](/files/documents/MET002-01Aug2022.pdf){:target="_blank"}
 * [Technical Guide 1 - Mar 2019 : Guidelines on the Evaluation and Expression of Measurement Uncertainty](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf){:target="_blank"}
 
 **Chemical & Biological Testing Field**
