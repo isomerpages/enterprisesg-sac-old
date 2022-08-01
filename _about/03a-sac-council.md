@@ -41,8 +41,8 @@ Accuron Technologies Limited
 | | Ms Wong Sok Mei | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Certification Bodies' Representative |
 | | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
 | | Mr Elton Tong Joo Beng | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group: Laboratories' Representative |
-| | Mr Steven Koh | Singapore Precision Engineering and Technology Association (SPETA) |
-| | Ms Lijun Tan | Smart Nation and Digital Government Office (SNDGO)|
+| | Pending | Singapore Precision Engineering and Technology Association (SPETA) |
+| | Pending | Smart Nation and Digital Government Office (SNDGO)|
 | | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
 | | Mr Allan Lim | Individual Capacity (Food and Agriculture) |
 | | Mr Alex Budiman | Individual Capacity (Medical and Healthcare) |
