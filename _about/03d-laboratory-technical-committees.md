@@ -59,7 +59,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | **Chairman** | Er Lim Say Leong | The Institution of Engineers, Singapore (IES) |
 | **Members** | Mr Tony Low | Association of Information Security Professionals (AiSP) |
 | | Pending | BMM Compliance Singapore Pte Ltd |
-| | Mr Ng Soo Horng | Casino Regulatory Authority  (CRA)|
+| | Mr Ng Soo Horng | Gambling Regulatory Authority (GRA) |
 | | Mr Robert Lee Zhi Qing | Cyber Security Agency |
 | | Mr Lim Yong Ping | Energy Market Authority (EMA) |
 | | Mr Quek Yang Boon | Government Technology Agency (GovTech) |
