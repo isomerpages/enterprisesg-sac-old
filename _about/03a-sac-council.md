@@ -47,6 +47,6 @@ Accuron Technologies Limited
 | | Mr Allan Lim | Individual Capacity (Food and Agriculture) |
 | | Mr Alex Budiman | Individual Capacity (Medical and Healthcare) |
 | | Mr Joseph Gan  | Individual Capacity (Digitalisation and Cybersecurity) |
-| **Secretary** | Ms Chang Kwei Fern | SAC Secretariat |
+| **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
 
 
