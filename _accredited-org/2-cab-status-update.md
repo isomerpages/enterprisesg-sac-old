@@ -149,6 +149,7 @@ Click on the quick links below to jump to the CAB Status:
   * Aegis Certification Pte Ltd (31 December 2021)
   * Anzenet Pte Ltd (31 December 2021)
   * Success Safety Consultancy Pte Ltd (4 February 2022)
+  * Anzen Consultancy Pte. Ltd. (15 August 2022)
 
  
 
