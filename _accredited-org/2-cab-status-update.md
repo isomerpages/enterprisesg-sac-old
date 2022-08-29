@@ -23,15 +23,21 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement 
   * Able Cal Pte Ltd (11 January 2022)
   * UT Metrology Pte Ltd (18 January 2022)
+  * Goodwill Laboratories Pte Ltd (18 May 2022)
+  * MH Tech Centre Pte Ltd (16 August 2022)
+  * AL-Tech Instrumentation & Engineering Pte Ltd (29 August 2022)
 
 
 * Chemical & Biological Testing 
   * Mead Johnson Nutrition (Asia Pacific) Pte. Ltd. (04 January 2022)
+  * Sinopec Lubricant (Singapore) Pte. Ltd. (28 April 2022)
+  * Sytron Pte Ltd (1 June 2022)
 
 
 * Civil Engineering Testing
   * Stats Asia Pacific Pte Ltd (27 January 2022)
   * Singapore Inspection & Engineering Pte. Ltd. (17 March 2022)
+  * Advanced Rapid Geotech Services Pte. Ltd. (15 July 2022)
 
 
 * Environmental Testing
@@ -40,6 +46,11 @@ Click on the quick links below to jump to the CAB Status:
 
 * Mechanical Testing
   * Imperial Royal  Pte Ltd (04 March 2022)
+
+
+* Medical Testing
+  * Lifestrands Genomics Pte Ltd (8 June 2022)
+  * National University of Singapore - Paediatrics Allergy & Immunology Laboratory (22 August 2022)
   
 
 
@@ -49,12 +60,21 @@ Click on the quick links below to jump to the CAB Status:
 * Site Investigation
   * Gammon Pte Ltd (14 March 2022)
   * Betime Engineering Pte Ltd (17 March 2022)
+  * Pilescan Geotechnical Services Pte Ltd (30 May 2022)
+
+
+* Structural Steelwork
+  * Honest Global Services Pte Ltd (18 May 2022)
 
 
 #### Certification Body
 
 * Cold Chain Management System
   * SOCOTEC Certification Singapore Pte Ltd (12 January 2022)
+
+
+* Enviromental Management System
+  * KW Certification Pte Ltd (23 August 2022)
 
 
 * Medical Device – Quality Management System
