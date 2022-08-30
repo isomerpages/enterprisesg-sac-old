@@ -91,6 +91,23 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Voluntary Withdrawal by CABs**
 
+* Calibration & Measurement 
+  * Wykeham Farrance Services Pte Ltd (30 June 
+
+* Chemical & Biological Testing 
+  * BASF South East Asia Pte. Ltd. (9 March 2022)
+  * Brunei LNG (15 April 2022)
+  * PGI Industries Pte Ltd (31 May 2022)
+  * Marchwood Laboratory Services Pte Ltd (5 July 2022)
+
+
+* Environmental Testing 
+  * Brunei LNG (15 April 2022)
+
+* Non-Destructive Testing 
+  * DM NMT Pte Ltd (12 May 2022)
+  * Shipscan Marine (S) Pte Ltd (15 August 2022)
+
 
 
 #### **Withdrawal by SAC**
@@ -100,6 +117,16 @@ Click on the quick links below to jump to the CAB Status:
 * Cargo Inspection
   * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
   * A Marine Audix Pte Ltd (18 January 2022)
+  * SBL Inspection Services Pte Ltd (28 March 2022)
+
+
+#### Certification Body
+
+* Auditing Organisation
+  * Anzen Consultancy Pte. Ltd. (15 August 2022)
+
+
+
 
   
   
