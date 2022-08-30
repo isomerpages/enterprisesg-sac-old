@@ -109,14 +109,9 @@ Click on the quick links below to jump to the CAB Status:
   * Shipscan Marine (S) Pte Ltd (15 August 2022)
 
 
-
-#### **Withdrawal by SAC**
-
 #### Inspection Body
 
 * Cargo Inspection
-  * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
-  * A Marine Audix Pte Ltd (18 January 2022)
   * SBL Inspection Services Pte Ltd (28 March 2022)
 
 
@@ -127,8 +122,16 @@ Click on the quick links below to jump to the CAB Status:
 
 
 
+#### **Withdrawal by SAC**
 
-  
+#### Inspection Body
+
+* Cargo Inspection
+  * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
+  * A Marine Audix Pte Ltd (18 January 2022)
+
+
+ 
   
 
 [Back to top ↑](#top)
