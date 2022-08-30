@@ -91,8 +91,8 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Voluntary Withdrawal by CABs**
 
-* Calibration & Measurement 
-  * Wykeham Farrance Services Pte Ltd (30 June 
+* Calibration & Measurement
+  * Wykeham Farrance Services Pte Ltd (30 June 2022)
 
 * Chemical & Biological Testing 
   * BASF South East Asia Pte. Ltd. (9 March 2022)
