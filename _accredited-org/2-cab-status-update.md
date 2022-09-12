@@ -131,7 +131,10 @@ Click on the quick links below to jump to the CAB Status:
   * A Marine Audix Pte Ltd (18 January 2022)
 
 
- 
+#### Laboratory
+
+* Civil Engineering Testing
+  * Building Research Laboratories. (6  Sep 2022)
   
 
 [Back to top ↑](#top)
