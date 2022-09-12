@@ -134,7 +134,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Civil Engineering Testing
-  * Building Research Laboratories. (wef  : 6  Sep 2022)
+  * Building Research Laboratories. (6  Sep 2022)
   
 
 [Back to top ↑](#top)
