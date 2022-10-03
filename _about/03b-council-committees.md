@@ -108,7 +108,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Asst Prof James Leong      | Duke-NUS Medical School                       |
 |                | A/Prof Teoh Yee Leong      | Ministry of Health                            |
 |                | Ms Lim Soh Har             | National Healthcare Group                     |
-|                | Dr Chew Kean Lee           | National University of Singapore              |
+|                | Dr Chew Kean Lee           | National University Health System               |
 |                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
 |                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
 |                | Prof Tan Puay Hoon         | Singapore Health Services                     |
