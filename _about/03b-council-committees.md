@@ -66,10 +66,10 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | AC Derek Tan<br/>(Alternate: LTC Cheng Yaw Joo, CPT Daven Tan Wei Yang) | Singapore Civil Defence Force |
 |                | Ms Cheong Lai Peng           | Singapore Food Agency                                         |
 |                | Dr Jonathan Cheah            | Singapore Food Manufacturing Association                      |
-|                | Ms Tan May Ling              | SkillsFuture Singapore                                        |
+|                | Ms Jenny Chua                | SkillsFuture Singapore                                        |
 |                | Ms Heidi Goh	                | Singapore Manufacturing Federation - Medical Technology Industry Interest Group |
 |                | Mr Don Quek                  | Singapore Manufacturing Federation - TIC Interest Group - Product Certification Body |
-|                | Mrs Chay-Lee Swee Gee        | Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification Body  |
+|                | Ms Tan Swee Yin              | Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification Body  |
 |                | Mr Sze Thiam Siong           | Singapore Manufacturing Federation - TIC Interest Group - Management System Certification Body  |
 |                | Ms Kavita Gandhi             | Sustainable Energy Association of Singapore                   |
 |                | Mr Desmond Hill              | The Singapore Contractors Association Limited                 |

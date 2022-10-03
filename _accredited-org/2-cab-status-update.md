@@ -123,6 +123,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Auditing Organisation
   * Anzen Consultancy Pte. Ltd. (15 August 2022)
+  * Lloyd Mcgill Pte Ltd (31 Dec 2022)
 
 
 
