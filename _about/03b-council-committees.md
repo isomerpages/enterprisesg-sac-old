@@ -84,17 +84,17 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Members**          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
 |                      | Dr Eunice Pang          | Health Promotion Board  |
 |                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
-|                      | Mr Tan Lin Teck         | Ministry of Trade and Industry  |
+|                      | Pending                 | Ministry of Trade and Industry  |
 |                      | Prof Gregory Goh K. L.  | National Metrology Centre, A*STAR   |
 |                      | A/Prof Lawrence Loh     | National University of Singapore Business School |
-|                      | Ms Lee May Gee          | Public Service Division        |
+|                      | Mr Ye Yongfeng          | Public Service Division        |
 |                      | Ms Siew Kum Fong        | Singapore Business Federation  |
 |                      | Ms Seah Yin Fen         | Singapore Food Manufacturers’ Association |
 |                      | Ms Miranda Chen         | TIC Interest Group (Certification)        |
-|                      | Mr Ang Tiong Ing        | TIC Interest Group (Laboratory)         
+|                      | Mr Eric Law Wei Kwang   | TIC Interest Group (Laboratory)         
 |                      | Mr Tang Chi Lin         | TIC Interest Group (Laboratory, Inspection, Certification)  |
 | **Secretaries**      | Mr Tan Yee Teck         | SAC Secretariat                  |
-|                      | Mr Terence Hu       |     SAC Secretariat                  |
+|                      | Mr Terence Hu           | SAC Secretariat                  |
 
 
 ## Council Committee for Biomedical & Health (CCBH)
