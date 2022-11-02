@@ -125,7 +125,9 @@ Click on the quick links below to jump to the CAB Status:
   * Anzen Consultancy Pte. Ltd. (15 August 2022)
   * Lloyd Mcgill Pte Ltd (31 Dec 2022)
 
-
+* Business Continuity Management System
+  * TUV Rheinland Singapore Pte Ltd (31 Oct 2022)
+  
 
 #### **Withdrawal by SAC**
 
