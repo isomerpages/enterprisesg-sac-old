@@ -15,7 +15,7 @@ Click on the quick links below to jump to the CAB Status:
 
 
 {: #newly-accredited}
-### 1. Newly Accredited Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider 
+### 1. Newly Accredited Conformity Assessment Bodies (CABs) 
    
 
 #### Laboratory
@@ -65,7 +65,7 @@ Click on the quick links below to jump to the CAB Status:
 ---
 
 {: #suspended}
-### 2. Suspended Laboratory /  Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
+### 2. Suspended Conformity Assessment Bodies (CABs)
 
 
 #### Laboratory
@@ -86,7 +86,7 @@ Click on the quick links below to jump to the CAB Status:
 ---
 
 {: #withdrawn}
-### 3. Withdrawn Laboratory / Certification Body / Inspection Body / Good Laboratory Practice Facility / Proficiency Testing Provider
+### 3. Voluntary Conformity Assessment Bodies (CABs)
 
 
 #### **Voluntary Withdrawal by CABs**
