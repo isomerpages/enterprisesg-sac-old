@@ -86,7 +86,7 @@ Click on the quick links below to jump to the CAB Status:
 ---
 
 {: #withdrawn}
-### 3. Voluntary Conformity Assessment Bodies (CABs)
+### 3. Withdrawn Conformity Assessment Bodies (CABs)
 
 
 #### **Voluntary Withdrawal by CABs**
