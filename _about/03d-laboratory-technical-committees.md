@@ -62,7 +62,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Mr Ng Soo Horng | Gambling Regulatory Authority (GRA) |
 | | Mr Robert Lee Zhi Qing | Cyber Security Agency |
 | | Mr Lim Yong Ping | Energy Market Authority (EMA) |
-| | Pending | Government Technology Agency (GovTech) |
+| | Mr Dominic Chan | Government Technology Agency (GovTech) |
 | | Er Teh Cheong Foo | Housing & Development Board |
 | | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
 | | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
