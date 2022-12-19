@@ -83,8 +83,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 24 - SAC Criteria For Certification Bodies (Alternative Structural Steel In Bc1)- November 2021](/files/documents/management-system-and-products-certification/CT-24-30-Nov-2021.pdf){:target="_blank"}
 * [CT 26 - SAC Criteria For Certification Bodies (GAP and Clean & Green Urban Farms)- November 2021](/files/documents/management-system-and-products-certification/SAC CT 26_25 Nov 2021.pdf){:target="_blank"}
 * [CT 27 - SAC Criteria for Product Certification Bodies (Ground Support and Stabilisation Works for ERSS) - 19 December 2022](/files/documents/CT-27-19Dec2022.pdf){:target="_blank"}
-* [CT 28 - SAC Criteria for Specialist Builders (Ground Support and Stabilisation Works for ERSS) - 19 December 2022]
-(/files/documents/CT-28-19Dec2022.pdf){:target="_blank"}
+* [CT 28 - SAC Criteria for Specialist Builders (Ground Support and Stabilisation Works for ERSS) - 19 December 2022](/files/documents/CT-28-19Dec2022.pdf){:target="_blank"}
 * [CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products)  - 19 December 2022](/files/documents/CT-29-19Dec2022.pdf){:target="_blank"}
 * [CT 30 - SAC Criteria for Specialist Builders (Precast Concrete Products - 19 December 2022](/files/documents/CT-30-19Dec2022.pdf){:target="_blank"}
 
