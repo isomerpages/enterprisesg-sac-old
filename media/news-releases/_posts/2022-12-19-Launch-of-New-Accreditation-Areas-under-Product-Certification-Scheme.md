@@ -10,8 +10,8 @@ permalink: /media/news-releases/Launch-of-New-Accreditation-Areas-under-Product-
 The Singapore Accreditation Council (SAC) is pleased to expand our Accreditation Scheme for Product Certification to include two new accreditation areas for certification in the building and construction sector, with effect from 19 December 2022: 
 
 1. Specialist Builder for Ground Support and Stabilisation Works for Earth Retaining and Stabilising Structures (ERSS); and 
-
 2. Specialist Builder for Precast Concrete Works
+
 
 The new accreditation areas will provide assurance that the certifications are carried out by competent certification bodies (CBs) and will be recognised by the Building Construction Authority (BCA) in their respective regime. These new areas will also aim to raise the competency and professionalism of specialist builders under the BCA Builders Licensing Framework. [Builders Licensing Scheme (BLS) | Building and Construction Authority (BCA)](https://www1.bca.gov.sg/procurement/pre-tender-stage/builders-licensing-scheme-bls).
 
