@@ -13,7 +13,7 @@ The Singapore Accreditation Council (SAC) is pleased to expand our Accreditation
 
 2. Specialist Builder for Precast Concrete Works
 
-The new accreditation areas will provide assurance that the certifications are carried out by competent certification bodies (CBs) and will be recognised by the Building Construction Authority (BCA) in their respective regime. These new areas will also aim to raise the competency and professionalism of specialist builders under the BCA Builders Licensing Framework.  [Builders Licensing Scheme (BLS) | Building and Construction Authority (BCA)](https://www1.bca.gov.sg/procurement/pre-tender-stage/builders-licensing-scheme-bls).
+The new accreditation areas will provide assurance that the certifications are carried out by competent certification bodies (CBs) and will be recognised by the Building Construction Authority (BCA) in their respective regime. These new areas will also aim to raise the competency and professionalism of specialist builders under the BCA Builders Licensing Framework. [Builders Licensing Scheme (BLS) | Building and Construction Authority (BCA)](https://www1.bca.gov.sg/procurement/pre-tender-stage/builders-licensing-scheme-bls).
 
 Interested applicants will be assessed based on ISO/IEC 17065 and respective SAC documents under the accreditation scheme for product certification body:
 1.	SAC CT 27- SAC Criteria for Product Certification Bodies (Ground Support and Stabilisation Works for ERSS)
@@ -21,6 +21,6 @@ Interested applicants will be assessed based on ISO/IEC 17065 and respective SAC
 3.	SAC CT 29- SAC Criteria for Product Certification Bodies (Precast Concrete Products)
 4.	SAC CT 30- SAC Criteria for Specialist Builders (Precast Concrete Products)
 
-Application for accreditation is now open through the SAC accreditation portal, [SACINET website](https://sacinet2.enterprisesg.gov.sg).
+Application for accreditation is now open through through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}
 
 
