@@ -93,6 +93,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration & Measurement
   * Wykeham Farrance Services Pte Ltd (30 June 2022)
+  * Nanyang Polytechnic (2 Jan 2023)
 
 * Chemical & Biological Testing 
   * BASF South East Asia Pte. Ltd. (9 March 2022)
