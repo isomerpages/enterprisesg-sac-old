@@ -120,17 +120,29 @@ Click on the quick links below to jump to the CAB Status:
   * TNL Engineering Works Pte Ltd (10 September 2022)
 
 
-
 #### Certification Body
 
 * Auditing Organisation
   * Anzen Consultancy Pte. Ltd. (15 August 2022)
   * Lloyd Mcgill Pte Ltd (31 Dec 2022)
   * S-SAFE Consultants Pte. Ltd (03 Jan 2023)
+ 
 
 * Business Continuity Management System
   * TUV Rheinland Singapore Pte Ltd (31 Oct 2022)
   
+
+* The Good Distribution Practice for Medical Device
+  * A-Europe Certification Pte Ltd (31 Dec 2022)
+
+
+* Occupational Safety and Health System
+  * A-Europe Certification Pte Ltd (31 Dec 2022)
+
+* Quality Management System
+ * A-Europe Certification Pte Ltd (31 Dec 2022)
+ 
+
 
 #### **Withdrawal by SAC**
 
