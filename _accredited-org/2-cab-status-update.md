@@ -101,6 +101,8 @@ Click on the quick links below to jump to the CAB Status:
   * PGI Industries Pte Ltd (31 May 2022)
   * Marchwood Laboratory Services Pte Ltd (5 July 2022)
 
+* Electrical Testing
+  * VDE Renewables Asia PTE LTD (16 Dec 2022)
 
 * Environmental Testing 
   * Brunei LNG (15 April 2022)
