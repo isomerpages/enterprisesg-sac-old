@@ -101,6 +101,8 @@ Click on the quick links below to jump to the CAB Status:
   * PGI Industries Pte Ltd (31 May 2022)
   * Marchwood Laboratory Services Pte Ltd (5 July 2022)
 
+* Electrical Testing
+  * VDE Renewables Asia PTE LTD (16 Dec 2022)
 
 * Environmental Testing 
   * Brunei LNG (15 April 2022)
@@ -120,17 +122,18 @@ Click on the quick links below to jump to the CAB Status:
   * TNL Engineering Works Pte Ltd (10 September 2022)
 
 
-
 #### Certification Body
 
 * Auditing Organisation
   * Anzen Consultancy Pte. Ltd. (15 August 2022)
   * Lloyd Mcgill Pte Ltd (31 Dec 2022)
   * S-SAFE Consultants Pte. Ltd (03 Jan 2023)
+ 
 
 * Business Continuity Management System
   * TUV Rheinland Singapore Pte Ltd (31 Oct 2022)
   
+
 
 #### **Withdrawal by SAC**
 
@@ -146,6 +149,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Civil Engineering Testing
   * Building Research Laboratories. (6  Sep 2022)
+  
   
 
 [Back to top ↑](#top)
