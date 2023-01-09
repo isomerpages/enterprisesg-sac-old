@@ -17,9 +17,9 @@ It can take between three to six months for organisations to obtain their SAC ac
 
 #### 1. Basic Requirements
 
-To apply for SAC accreditation, a CAB must first provide evidence of fulfilling the base requirements outlined in the relevant standards. ISO/IEC 17020, 17021-1, 17024, 17025, 17043, 17065 and ISO 15189. To apply for SAC GLP registration programme, a facility must first provide evidence of fulfilling the base requirements of OECD principles of Good Laboratory Practices (1997).  It must also be a registered legal entity. SAC documents pertaining to the different schemes can be accesseed [here](https://www.sac-accreditation.gov.sg/resources/sac-documents)      
-
+To apply for SAC accreditation, a CAB must first provide evidence of fulfilling the base requirements outlined in the relevant standards. ISO/IEC 17020, 17021-1, 17024, 17025, 17043, 17065 and ISO 15189. To apply for SAC GLP registration programme, a facility must first provide evidence of fulfilling the base requirements of OECD principles of Good Laboratory Practices (1997).  It must also be a registered legal entity. SAC documents pertaining to the different schemes can be accessed [here](https://www.sac-accreditation.gov.sg/resources/sac-documents)      
  
+  
 #### 2. Access to Application Form
 Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}. 
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown link is used to open the link in a new window tab -->
