@@ -32,38 +32,31 @@ Mr Tan Kai Hoe, SAC Chairman, giving opening address.
 
 As part of the event keynote address, Professor Yeoh Lean Weng, Chief Sustainability Officer at ASTAR, highlighted the importance of enterprises, including CABs, incorporating sustainability as an integral part of their business strategy. With the global transition towards a green economy, Professor Yeoh shared about some of the new sustainability standards that are being drafted, or have been developed, for key sectors such as Electronics, Biomedical, Chemical, Food, Finance and Logistics. These new standards will increase the need for TIC and accreditation services. New accreditation programmes will thus be developed to meet this growing demand, and he encouraged CABs to actively upgrade their capabilities to be future-ready. vely upgrade their capabilities to be future-ready. 
 
+
+The SAC Customer Day 2022 also featured two panel discussions where esteemed industry speakers shared insights on global sustainability trends, how TIC services will continue to be critical in instilling trust and assurance in businesses and products/services, as well as how CABs should seek to increase productivity through digitalisation and automation. 
+
+
  ![Picture4.jpg](/images/press-release/photos/Picture4.jpg)
 
   Professor Yeoh Lean Weng giving his keynote presentation.
-
-
-The SAC Customer Day 2022 also featured two panel discussions where esteemed industry speakers shared insights on global sustainability trends, how TIC services will continue to be critical in instilling trust and assurance in businesses and products/services, as well as how CABs should seek to increase productivity through digitalisation and automation. 
 
 
 
 The first panel discussion covered opportunities and developments in the green economy. Professor Yeoh shared more on how ASTAR supports the development of new technologies and sustainable materials to combat environmental change. Mr Wang Weixiang, Division Director (Environment Policy) at the Ministry of Sustainability and the Environment, highlighted cross-government approaches such as the Extended Producer Responsibility initiative that helps to reduce packaging waste as part of Singapore’s Zero Waste Masterplan. In turn, Ms Phyllis Ong, Group CEO of Armstrong Industrial Corporation, shared more about her company’s sustainability efforts such as using eco-friendly materials to manufacture car parts. All speakers agreed that customer demands will gradually change with greater awareness and emphasis on sustainability. As more businesses choose to work with suppliers and vendors that adopt good sustainability standards, CABs can play a bigger role and should tap on this opportunity to offer accredited and quality TIC services.  
 
 
-
  ![Picture5.jpg](/images/press-release/photos/Picture5.jpg)
  
+From left to right, panel 1 speakers - Mr Jagadish CV (moderator), Professor Yeoh Lean Weng, Mr Wang Weixiang and Ms Phyllis Ong.
 
 
-The second panel discussion covered the importance and benefits of digitalisation and automation. Associate Professor Tan Chuan Hoo, Deputy Head for the Department of Information Systems and Analytics at National University of Singapore, highlighted that digitalisation tools need not be sophisticated software and/or machineries – instead, SMEs (including CABs) can tap on low-cost IT solutions that are readily available in the market to ramp up business productivity. Dr Yong Chern Chet, BDM Healthcare at Amazon Web Services, provided a 4P framework to encourage CABs to rethink their digitalisation efforts: i) Review physical processes to reduce reliance on manpower, ii) identify possibility of doing things in parallel instead of sequentially with the help of IT solutions, iii) leverage an IT platform to boost productivity, and iv) partner with other stakeholders to achieve the same outcomes. Mr Gilbert Chuah, General Manager at Geonamics Pte Ltd, shared about his company’s automation journey, where it participated in the National Robotics Programme to develop a Robotic Integrated Total System for conventional instrumentation and monitoring works. He noted that smaller-sized CABs tend to focus more on daily operations and deprioritise digitalisation projects due to reasons such as cost and manpower constraints. However, it is essential for them to take that first step and dedicate resources to digitalise and initiate change. The benefits will then follow and yield over time. 
-
-
-
- ![Picture5.jpg](/images/press-release/photos/Picture5.jpg)
- 
-
+The second panel discussion covered the importance and benefits of digitalisation and automation. Associate Professor Tan Chuan Hoo, Deputy Head for the Department of Information Systems and Analytics at National University of Singapore, highlighted that digitalisation tools need not be sophisticated software and/or machineries – instead, SMEs (including CABs) can tap on low-cost IT solutions that are readily available in the market to ramp up business productivity. Dr Yong Chern Chet, BDM Healthcare at Amazon Web Services, provided a 4P framework to encourage CABs to rethink their digitalisation efforts: i) Review physical processes to reduce reliance on manpower, ii) identify possibility of doing things in parallel instead of sequentially with the help of IT solutions, iii) leverage an IT platform to boost productivity, and iv) partner with other stakeholders to achieve the same outcomes. Mr Gilbert Chuah, General Manager at Geonamics Pte Ltd, shared about his company’s automation journey, where it participated in the National Robotics Programme to develop a Robotic Integrated Total System for conventional instrumentation and monitoring works. He noted that smaller-sized CABs tend to focus more on daily operations and deprioritise digitalisation projects due to reasons such as cost and manpower constraints. However, it is ssential for them to take that first step and dedicate resources to digitalise and initiate change. The benefits will then follow and yield over time. 
 
 
  ![Picture6.jpg](/images/press-release/photos/Picture6.jpg)
  
 
-
 From left to right, panel 2 speakers - Mr Amos Leong (moderator), Associate Professor Tan Chuan Hoo, Dr Yong Chern Chet and Mr Gilbert Chuah.
-
 
 
 The SAC would like to extend our heartfelt appreciation to all speakers for their insightful sharing and to both SAC Deputy Chairmen, Mr Jagadish CV and Mr Amos Leong, for moderating the panel discussions.
