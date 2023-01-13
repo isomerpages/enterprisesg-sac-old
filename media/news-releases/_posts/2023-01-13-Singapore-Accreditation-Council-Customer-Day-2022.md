@@ -53,9 +53,13 @@ From left to right, panel 2 speakers - Mr Amos Leong (moderator), Associate Prof
 
 
 The SAC would like to extend our heartfelt appreciation to all speakers for their insightful sharing and to both SAC Deputy Chairmen, Mr Jagadish CV and Mr Amos Leong, for moderating the panel discussions.
+
 Once again, we would like to congratulate all newly accredited CABs: 
+
 List of newly accredited bodies 
  
+
+
 
 We look forward to seeing you at the next edition of SAC Customer Day!
 
