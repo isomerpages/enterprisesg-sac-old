@@ -9,9 +9,8 @@ permalink: /media/news-releases/Singapore-Accreditation-Council-Customer-Day-202
 
 The Singapore Accreditation Council (SAC) Customer Day 2022 brought together over 200 conformity assessment bodies (CABs) and SAC stakeholders on 22 November 2022. For the first time since 2019, SAC Customer Day was held physically at Marina Bay Sands Expo, which served as a platform for companies to network and exchange insights on the local and global Testing, Inspection and Certification (TIC) landscape. Themed “Seizing Growth Opportunities for a Better Future”, the SAC also took this opportunity to recognise the launch of seven new accreditation programmes in 2022 and congratulated the 40 newly accredited CABs.  
 
- 
-
- ![Picture1.jpg](/images/press-releas/Picture1.jpg)
+ ![Picture1.jpg](/images/press-release/photos/Picture1.jpg)
+ ![Picture2.jpg](/images/press-release/photos/Picture2.jpg)
  
  
  From left to right, picture 1 (Ms Phyllis Ong, Mr Jagadish CV, Professor Yeoh Lean Weng, Mr Tan Kai Hoe, Ms Choy Sauw Kook and Ms Beatrice Wong) and picture 2 (Mr Victor Li, Mr Gilbert Chuah, Mr Amos Leong, Dr Yong Chern Chet, Mr Sze Thiam Siong, Associate Professor Tan Chuan Hoo and Mr Tan Yee Teck)
@@ -26,12 +25,14 @@ As a second initiative, the SAC will continue to support Singapore’s green mob
 For the third initiative, the council has been working closely with the Singapore Food Agency (SFA) to strengthen food resilience and support export needs across the food production and management value chain. Mr Tan announced the launch of the Food Cargo Inspection Body Recognition programme. This programme recognises inspection bodies that can perform quality checks for the transhipment of food cargos through Singapore. Currently, two inspection bodies have successfully obtained SAC accreditation and are recognised by SFA for their inspection services. 
 
 
+ ![Picture3.jpg](/images/press-release/photos/Picture3.jpg)
+ 
 Mr Tan Kai Hoe, SAC Chairman, giving opening address.
 
 
 As part of the event keynote address, Professor Yeoh Lean Weng, Chief Sustainability Officer at ASTAR, highlighted the importance of enterprises, including CABs, incorporating sustainability as an integral part of their business strategy. With the global transition towards a green economy, Professor Yeoh shared about some of the new sustainability standards that are being drafted, or have been developed, for key sectors such as Electronics, Biomedical, Chemical, Food, Finance and Logistics. These new standards will increase the need for TIC and accreditation services. New accreditation programmes will thus be developed to meet this growing demand, and he encouraged CABs to actively upgrade their capabilities to be future-ready. vely upgrade their capabilities to be future-ready. 
 
- ![Picture1.jpg](/images/press-release/photos/Picture6.jpg)
+ ![Picture4.jpg](/images/press-release/photos/Picture4.jpg)
 
   Professor Yeoh Lean Weng giving his keynote presentation.
 
@@ -44,10 +45,24 @@ The first panel discussion covered opportunities and developments in the green e
 
 
 
+ ![Picture5.jpg](/images/press-release/photos/Picture5.jpg)
+ 
 
 
 The second panel discussion covered the importance and benefits of digitalisation and automation. Associate Professor Tan Chuan Hoo, Deputy Head for the Department of Information Systems and Analytics at National University of Singapore, highlighted that digitalisation tools need not be sophisticated software and/or machineries – instead, SMEs (including CABs) can tap on low-cost IT solutions that are readily available in the market to ramp up business productivity. Dr Yong Chern Chet, BDM Healthcare at Amazon Web Services, provided a 4P framework to encourage CABs to rethink their digitalisation efforts: i) Review physical processes to reduce reliance on manpower, ii) identify possibility of doing things in parallel instead of sequentially with the help of IT solutions, iii) leverage an IT platform to boost productivity, and iv) partner with other stakeholders to achieve the same outcomes. Mr Gilbert Chuah, General Manager at Geonamics Pte Ltd, shared about his company’s automation journey, where it participated in the National Robotics Programme to develop a Robotic Integrated Total System for conventional instrumentation and monitoring works. He noted that smaller-sized CABs tend to focus more on daily operations and deprioritise digitalisation projects due to reasons such as cost and manpower constraints. However, it is essential for them to take that first step and dedicate resources to digitalise and initiate change. The benefits will then follow and yield over time. 
- From left to right, panel 2 speakers - Mr Amos Leong (moderator), Associate Professor Tan Chuan Hoo, Dr Yong Chern Chet and Mr Gilbert Chuah.
+
+
+
+ ![Picture5.jpg](/images/press-release/photos/Picture5.jpg)
+ 
+
+
+
+ ![Picture6.jpg](/images/press-release/photos/Picture6.jpg)
+ 
+
+
+From left to right, panel 2 speakers - Mr Amos Leong (moderator), Associate Professor Tan Chuan Hoo, Dr Yong Chern Chet and Mr Gilbert Chuah.
 
 
 
