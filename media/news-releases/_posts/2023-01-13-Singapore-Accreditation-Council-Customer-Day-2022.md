@@ -31,6 +31,8 @@ Mr Tan Kai Hoe, SAC Chairman, giving opening address.
 
 As part of the event keynote address, Professor Yeoh Lean Weng, Chief Sustainability Officer at ASTAR, highlighted the importance of enterprises, including CABs, incorporating sustainability as an integral part of their business strategy. With the global transition towards a green economy, Professor Yeoh shared about some of the new sustainability standards that are being drafted, or have been developed, for key sectors such as Electronics, Biomedical, Chemical, Food, Finance and Logistics. These new standards will increase the need for TIC and accreditation services. New accreditation programmes will thus be developed to meet this growing demand, and he encouraged CABs to actively upgrade their capabilities to be future-ready. vely upgrade their capabilities to be future-ready. 
 
+ ![Picture1.jpg](/images/press-release/photos/Picture6.jpg)
+
   Professor Yeoh Lean Weng giving his keynote presentation.
 
 
