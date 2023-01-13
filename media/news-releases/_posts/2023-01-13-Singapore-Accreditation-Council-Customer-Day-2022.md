@@ -8,8 +8,11 @@ permalink: /media/news-releases/Singapore-Accreditation-Council-Customer-Day-202
 **Singapore Accreditation Council Customer Day 2022**
 
 The Singapore Accreditation Council (SAC) Customer Day 2022 brought together over 200 conformity assessment bodies (CABs) and SAC stakeholders on 22 November 2022. For the first time since 2019, SAC Customer Day was held physically at Marina Bay Sands Expo, which served as a platform for companies to network and exchange insights on the local and global Testing, Inspection and Certification (TIC) landscape. Themed “Seizing Growth Opportunities for a Better Future”, the SAC also took this opportunity to recognise the launch of seven new accreditation programmes in 2022 and congratulated the 40 newly accredited CABs.  
+
+
+ ![Picture1.jpg](/images/press-release/images/Picture1.jpg)
  
-  
+ 
  From left to right, picture 1 (Ms Phyllis Ong, Mr Jagadish CV, Professor Yeoh Lean Weng, Mr Tan Kai Hoe, Ms Choy Sauw Kook and Ms Beatrice Wong) and picture 2 (Mr Victor Li, Mr Gilbert Chuah, Mr Amos Leong, Dr Yong Chern Chet, Mr Sze Thiam Siong, Associate Professor Tan Chuan Hoo and Mr Tan Yee Teck)
 
 
