@@ -57,7 +57,7 @@ The SAC would like to extend our heartfelt appreciation to all speakers for thei
 Once again, we would like to congratulate all newly accredited CABs: 
 
 List of newly accredited bodies 
- 
+(/files/documents/Newly accredited CABs 2023.pdf) 
 
 
 
