@@ -6,7 +6,7 @@ permalink: /services/training/inernal-Audit-Course-February
 
 ## Course Details 
 
-**Course Dates:**  27-28 February 20
+**Course Dates:**  27-28 February 2023
 
 **Course Fee:**  SGD 599.20 (inclusive of GST)
 
