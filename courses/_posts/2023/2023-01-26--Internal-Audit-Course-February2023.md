@@ -1,8 +1,9 @@
+---
 layout: simple-page
 title: Internal Audit Course
 course_date: 27-28 February 2023
 permalink: /services/training/inernal-Audit-Course-February
-
+---
 
 ## Course Details 
 
@@ -32,3 +33,5 @@ Closing date for registration: when class is full.
 Should you require further clarification, please contact Ms Angie Ng at tel: +65 6279 1800
 
 <span style="color:orange;">*</span> Priority will be given to SAC accredited
+
+
