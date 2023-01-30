@@ -22,7 +22,7 @@ This 2-day course is to help the participants to:
 
 Please complete the attached [registration form](/files/registration-forms/Registration-form-IB-Feb2023,pdf){:target="_blank"} and email it to:  Angie_ng@enterprisesg.gov.sg
 
-Closing date for registraton:  20 February 2022 or when class is full.
+Closing date for registration:  when class is full.
   
 Should you require further clarification, please contact Ms Angie Ng at tel: +65 6279 1800
 
