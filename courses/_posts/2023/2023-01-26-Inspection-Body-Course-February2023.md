@@ -1,9 +1,10 @@
 ---
 layout: simple-page
 title: Inspection Body Course
-course_date  23-24 February 2023
+course_date: 23-24 February 2023
 permalink: /services/training/Inspection-Body-Course-February2023
 ---
+
 
 ## Course Details
 
