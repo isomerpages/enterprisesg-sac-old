@@ -117,6 +117,7 @@ Click on the quick links below to jump to the CAB Status:
 * Cargo Inspection
   * SBL Inspection Services Pte Ltd (28 March 2022)
   * Khalon Worldwide Surveyors Pte Ltd (23 December 2022)
+  * IMS Marine Services Pte Ltd (01 February 2023)
 
 * Hook Lift and Container Inspection
   * TNL Engineering Works Pte Ltd (10 September 2022)
