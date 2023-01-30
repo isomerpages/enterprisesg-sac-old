@@ -26,14 +26,6 @@ Please complete the attached [registration form](/files/registration-forms/Regis
 Angie_ng@enterprisesg.gov.sg
 
 
-Please complete the attached [registration form iles/registratios/files/registration-forms/Registration-orm-IA-
-files/registration-forms/Registration-form-IA-Feb2023.pdf
-  iles/registration-forms/Registration-form-IA-Feb202f3.pd
-f
-s/Registration-form-February2023.pdf){:target="_blank"} and email it to:
-Angie_ng@enterprisesg.gov.sg
-
-
 Closing date for registration: when class is full.
  
 
