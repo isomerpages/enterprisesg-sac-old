@@ -14,7 +14,7 @@ company-list:
       - name: "Advanced Certification (Singapore) Pte Ltd"
         link: https://advancedcertification.sg/eng/clients/
       - name: "A-Europe Certification Pte Ltd"
-        link: http://www.ajaeurope.eu/
+        link: https://www.acubetic.com
       - name: "BSI Group Pte Ltd"
         link: https://www.bsigroup.com/en-SG/Our-services/Certification/Certificate-and-Client-Directory-search/
       - name: "Bureau Veritas Quality Assurance Pte Ltd"
