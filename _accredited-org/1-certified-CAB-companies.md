@@ -57,8 +57,6 @@ company-list:
         link: http://www.socotec-certification-international.sg/certification/certified-companies  
       - name: "Transpacific Certification s (Singapore) Pte. Ltd."
         link: http://www.tcspl.com.sg/resources/client-area/certificate-search
-      - name: "TÜV Rheinland Singapore Pte Ltd"
-        link: https://www.certipedia.com/?locale=en#system-search
       - name: "TÜV SÜD PSB Pte Ltd"
         link: https://www.tuvsud.com/en-sg/resource-centre/certificate-finder/directory-of-management-system-certified-companies
       - name: "URS Far East Pte Ltd"
