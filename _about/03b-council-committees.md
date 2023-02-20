@@ -21,7 +21,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Members**          | Mrs Reshmy Pillay          | National Metrology Centre   |  
 |                      | Mr Tony Low<br/>(Alternate: Dr Steven Wong)  | Association of Information Security Professionals  |
 |                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
-|                      | Mr Lim Soon Chia           | Cyber Security Agency        |                
+|                      | Mr Rodney Tan              | Cyber Security Agency of Singapore (CSA)  |                
 |                      | Dr Teo Tang Lin            | Health Sciences Authority        | 
 |                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
 |                      | Dr Joel Lee                | Nanyang Polytechnic      | 
