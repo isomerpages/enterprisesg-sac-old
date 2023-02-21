@@ -20,43 +20,27 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Calibration & Measurement 
-  * Goodwill Laboratories Pte Ltd (18 May 2022)
-  * MH Tech Centre Pte Ltd (16 August 2022)
-  * AL-Tech Instrumentation & Engineering Pte Ltd (29 August 2022)
-
 
 * Chemical & Biological Testing 
-  * Sinopec Lubricant (Singapore) Pte. Ltd. (28 April 2022)
-  * Sytron Pte Ltd (1 June 2022)
+  * Vectura Fertin Pharma Laboratories Pte. Ltd. (31 January 2023)
+  * Biosensors Interventional Technologies Pte. Ltd. (8 February 2023)
+
+
+* Environmental Testing
+  * Biosensors Interventional Technologies Pte. Ltd. (8 February 2023)
+  * Viswalab Singapore Pte. Ltd. (17 February 2023)
 
 
 * Civil Engineering Testing
-  * Advanced Rapid Geotech Services Pte. Ltd. (15 July 2022)
+  * China Jingye Construction Engineering (S) Pte Ltd (17 February 2023)
 
-
-* Medical Testing
-  * Lifestrands Genomics Pte Ltd (8 June 2022)
-  * National University of Singapore - Paediatrics Allergy & Immunology Laboratory (22 August 2022)
-  
 
 
 #### Inspection Body
 
 
-* Site Investigation
-  * Pilescan Geotechnical Services Pte Ltd (30 May 2022)
-
-
 * Structural Steelwork
-  * Honest Global Services Pte Ltd (18 May 2022)
-
-
-#### Certification Body
-
-
-* Enviromental Management System
-  * KW Certification Pte Ltd (23 August 2022)
+  * Leads Technologies Corporation Pte Ltd (6 January 2023)
 
 
 
@@ -92,30 +76,15 @@ Click on the quick links below to jump to the CAB Status:
 #### **Voluntary Withdrawal by CABs**
 
 * Calibration & Measurement
-  * Wykeham Farrance Services Pte Ltd (30 June 2022)
   * Nanyang Polytechnic (2 January 2023)
-
-* Chemical & Biological Testing 
-  * BASF South East Asia Pte. Ltd. (9 March 2022)
-  * Brunei LNG (15 April 2022)
-  * PGI Industries Pte Ltd (31 May 2022)
-  * Marchwood Laboratory Services Pte Ltd (5 July 2022)
 
 * Electrical Testing
   * VDE Renewables Asia PTE LTD (16 Dec 2022)
-
-* Environmental Testing 
-  * Brunei LNG (15 April 2022)
-
-* Non-Destructive Testing 
-  * DM NMT Pte Ltd (12 May 2022)
-  * Shipscan Marine (S) Pte Ltd (15 August 2022)
 
 
 #### Inspection Body
 
 * Cargo Inspection
-  * SBL Inspection Services Pte Ltd (28 March 2022)
   * Khalon Worldwide Surveyors Pte Ltd (23 December 2022)
   * IMS Marine Services Pte Ltd (01 February 2023)
 
@@ -126,7 +95,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Certification Body
 
 * Auditing Organisation
-  * Anzen Consultancy Pte. Ltd. (15 August 2022)
   * Lloyd Mcgill Pte Ltd (31 Dec 2022)
   * S-SAFE Consultants Pte. Ltd (03 Jan 2023)
  
@@ -141,8 +109,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Inspection Body
 
 * Cargo Inspection
-  * Straits Pioneer Marine Services Pte Ltd (21 July 2021)
-  * A Marine Audix Pte Ltd (18 January 2022)
   * Cordial Marine Inspection Pte Ltd (12 December 2022)
 
 
