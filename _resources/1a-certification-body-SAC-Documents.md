@@ -55,11 +55,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 22:2019 -  Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&SMS)](/files/documents/management-system-and-products-certification/IAF-MD22-Issue-2-07052019.pdf){:target="_blank"}
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="_blank"}
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/documents/IAF-MD-2-Issue-1.pdf){:target="_blank"}
-* [IAF MD 26:2022 - Transition Requirements for ISO/IEC 27001:2022](/files/IAF_MD_26_Transition_requirements_for_ISOIEC_27001-2022_09082022.pdf){:target="_blank"}
-
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/documents/IAF_MD26_Issue_2_15012023.pdf){:target="_blank"}
-
-
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/IAF-PL9-Issue-1-14112019.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) - May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
