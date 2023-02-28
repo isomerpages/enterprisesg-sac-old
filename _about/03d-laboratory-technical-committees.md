@@ -34,7 +34,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | A/Prof Tham Kwok Wai | National University of Singapore |
-| **Members** | Mr Christopher Peter Green | BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory) |
+| **Members** | Ms Janice Mo  | BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory) |
 | | Mr Jonathan Goh Peng Teck | Environmental Engineering Society of Singapore |
 | | Dr Liu Qinde | Health Sciences Authority |
 | | Ms Evelyn Koh Poh Cheng | Ministry of Manpower |
