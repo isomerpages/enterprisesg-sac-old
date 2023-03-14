@@ -29,9 +29,9 @@ column:
     - line: 6279 1800 / 6279 1855 / 6279 1856
     - line: sac@enterprisesg.gov.sg (email)
     # If you have an email, put (email) after the actual email
-  - title: Fax
+  - title: SACiNet-related Enquiries 
     content:
-    - line: 6659 0640
+    - line: sacinet_admin@enterprisesg.gov.sg
   - title: Feedback about SAC
     content:
     - line: SAC  considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations. 
