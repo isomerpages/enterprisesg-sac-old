@@ -38,11 +38,16 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Chemical & Biological Testing Field**
 * [C&B 001 - May 2021: Specific Requirements of Chemical & Biological Testing Laboratories](/files/documents/laboratory-accreditation/CB-TechNotes001-1May2021.pdf){:target="_blank"}
+
+* [C&B and ENV 001 - 08 March 2023: Specific Requirements for Chemical &Biological Testing and EnvironmentalTesting Laboratories](/files/documents/laboratory-accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="_blank}
+
+
 * [C&B and ENV 002 - May 2021: Quality Assurance of Equipment Commonly Used in Chemical & Biological and Environmental Testing Laboratories](/files/documents/laboratory-accreditation/CB-ENV-Technotes0021May2021.pdf){:target="_blank"}
 * [Technical Guide 2 - Mar 2019: A Guide on Measurement Uncertainty in Chemical & Microbiological Analysis](/files/documents/laboratory-accreditation/Technical-Guide-2.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 001, 8 February 2019 : Elements of Method Validation for Chemical Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 003, 01 July 2019 : Guidance for Identification and Confirmation of Microorganisms](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003_(1-Jul-2019).pdf){:target=_blank"}
+
 
 **Civil Engineering Testing Field**
 * [CE 001 - May 2021: Specific Requirements for Civil Engineering Testing Laboratories](/files/documents/laboratory-accreditation/CE-001-1May2021.pdf){:target="_blank"}
@@ -55,6 +60,10 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Guidance Note EL 001- Mar 2019 : Guidelines On the Evaluation and Expression of Measurement Uncertainty for Electrical Testing Field](/files/documents/laboratory-accreditation/testing-and-calibration-documents/electrical-testing-field/Gudiance-Note-EL-001-29-Mar-2019.pdf){:target="_blank"}
 
 **Environmental Testing Field**
+
+* [C&B and ENV 001 - 08 March 2023: Specific Requirements for Chemical &Biological Testing and EnvironmentalTesting Laboratories](/files/documents/laboratory-accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="_blank}
+
+
 * [ENV 001 - May 2021: Specific Requirements for Environmental Testing Laboratories](/files/documents/laboratory-accreditation/ENV-TechNotes001-1May2021.pdf){:target="_blank"}
 * [C&B and ENV 002 - May 2021: Quality Assurance of Equipment commonly used in Chemical & Biological and Environmental Testing Laboratories](/files/documents/laboratory-accreditation/CB-ENV-Technotes0021May2021.pdf){:target="_blank"}
 * [Guidance Note - C&B and ENV 001, Feb 2019 : Method Validation for Chemical Testing](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-ENV-001-8-Feb-2019.pdf){:target="_blank"}
