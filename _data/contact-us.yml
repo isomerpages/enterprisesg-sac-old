@@ -31,7 +31,7 @@ column:
     # If you have an email, put (email) after the actual email
   - title: SACiNet-related Enquiries 
     content:
-    - line: sacinet_admin@enterprisesg.gov.sg
+    - line: sacinet_admin@enterprisesg.gov.sg (email)
   - title: Feedback about SAC
     content:
     - line: SAC  considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations. 
