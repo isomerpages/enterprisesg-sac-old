@@ -24,7 +24,7 @@ Accuron Technologies Limited
 | Designation	| Name	| Organisation |
 |-------------|-------|--------------|
 | **Deputy Chairmen** | Mr Jagadish CV | Advanced Micro Foundry Pte Ltd |
-| | Mr Amos Leong | Univac Group |
+| | Mr Amos Leong | MiRXES Pte Ltd |
 | **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br/>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
 | | Dr Teo Tang Lin | Health Sciences Agency (HSA) |
