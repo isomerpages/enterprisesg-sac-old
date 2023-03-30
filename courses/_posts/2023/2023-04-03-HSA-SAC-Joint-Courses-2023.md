@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 title: HSA-SAC Joint Courses 2023
-course_date: July, August and November 2022
-permlink: /services/training/Co-organisation-of-statistic-courses-in-FY2022
+course_date: July and August 2023
+permlink: /services/training/HSA-SAC-Joiunt-Courses-2023
 ---
 
 ## Course Details
