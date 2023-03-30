@@ -16,7 +16,7 @@ Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6
 | No. | Course Title | Fee (inclusive of GST) |  Dates | Status |
 |-----|--------------|------------------------|--------|--------|
 | 1 | Basic Statistical Tools | $250 | 4 July 2023 | Open |
-| 2 | Method Validation for Chemical Testing | $210 | 25 July 2023 | Open |
+| 2 | Method Validation for Chemical Testing | $250 | 25 July 2023 | Open |
 | 3 | Measurement Uncertainty for Chemical Testing | $380 | 22-23 August 2023  (1.5 days) | Open |
 
 
