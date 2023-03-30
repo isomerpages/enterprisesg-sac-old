@@ -8,7 +8,7 @@ permlink: /services/training/HSA-SAC-Joiunt-Courses-2023
 ## Course Details
 **July and August 2023**
 
-Click [here](/files/registration-forms/Course-brochure-2022-ver3.pdf){:target="_blank"} to download the course brochure.
+Click [here](/files/registration-forms/Course-brochure-2023.pdf){:target="_blank"} to download the course brochure.
  
 Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6775 1605** ext 125
 
