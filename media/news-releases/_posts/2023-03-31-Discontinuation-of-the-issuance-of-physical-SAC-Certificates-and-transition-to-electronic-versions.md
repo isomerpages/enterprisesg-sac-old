@@ -14,7 +14,7 @@ With effect from 01 July 2023, SAC will implement the 2 changes to the current S
  
 1) Transition of physical SAC Accreditation Certificates to electronic versions
 
-Currently, SAC issues physical SAC accreditation certificates to the accredited testing, inspection and certification bodies. In aignment with the overall government efforts on digitalisation and digitisation to improve efficiency and better manage data/processes, SAC will transit to issue only electronic certificates. This change also aligns with the public service and Enterprise Singapore’s efforts to “go green” and reduce carbon footprint in our processes with the reduction of paper usage.
+Currently, SAC issues physical SAC accreditation certificates to the accredited testing, inspection and certification bodies. In alignment with the overall government efforts on digitalisation and digitisation to improve efficiency and better manage data/processes, SAC will transit to issue only electronic certificates. This change also aligns with the public service and Enterprise Singapore’s efforts to “go green” and reduce carbon footprint in our processes with the reduction of paper usage.
 
  
 2) Amendments to the SAC Certificate format
