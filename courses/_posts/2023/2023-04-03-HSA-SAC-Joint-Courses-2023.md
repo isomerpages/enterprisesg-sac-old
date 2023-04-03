@@ -5,9 +5,9 @@ course_date: July and August 2023
 permalink: /services/training/HSA-SAC-Joint-Courses-2023
 ---
 
-
 ## Course Details
 **July and August 2023**
+
 
 Click [here](/files/registration-forms/2023_hsa-sac_joint_courses.pdf){:target="_blank"} to download the course brochure.
 
@@ -23,5 +23,4 @@ Please email Ms Thang Jia Sui at <HSA_CML@hsa.gov.sg> or contact her at **(65) 6
 
 
 Registration link: http://go.gov.sg/hsa-sac-courses
-
 
