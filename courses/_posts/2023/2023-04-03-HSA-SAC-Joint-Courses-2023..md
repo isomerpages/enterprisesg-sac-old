@@ -6,7 +6,6 @@ permalink /services/training/HSA-SAC-Joint-Courses-2023
 ---
 
 
-
 ## Course Details
 **July and August 2023**
 
