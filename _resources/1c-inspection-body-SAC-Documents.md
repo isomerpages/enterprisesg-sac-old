@@ -24,7 +24,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="_blank"}
  
 **Cargo Inspection Field**
-* [Technical Note CI 01: 14 Feb 2022 - Specific Requirements for the Accreditation of Inspection Bodies for Cargo](/files/documents/inspection-body-accreditation/CI 01 (14 Feb 2022) - approved.pdf){:target="_blank"} 
+* [Technical Note CI 01: 30 Mar 2023 - Specific Requirements for the Accreditation of Inspection Bodies for Cargo](/files/documents/inspection-body-accreditation/ci_01-30mar2023.pdf){:target="_blank"} 
 
 **Central Alarm Monitoring Stations Inspection Field**
 * [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of Inspection Bodies for Central Alarm Monitoring Stations](/files/documents/inspection-body-accreditation/CAMS-01-(09-July-2018).pdf){:target="_blank"}
@@ -48,5 +48,4 @@ An inspection body must be fully conversant and comply with the relevant standar
   
 **Hook-Lift & Container Inspection Field**
 * [Technical Note: HL 01: Specific Requirements for the Accreditation of Inspection Bodies for Hook-Lift & Container Inspection](/files/documents/inspection-body-accreditation/HL-01-27112019-Revised.pdf){:target="_blank"}
-
 
