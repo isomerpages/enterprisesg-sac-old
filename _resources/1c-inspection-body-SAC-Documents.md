@@ -27,7 +27,6 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note CI 01: 30 Mar 2023 - Specific Requirements for the Accreditation of Inspection Bodies for Cargo]
 (/files/documents/inspection-body-accreditation/ci_01-30mar2023.pdf){:target="_blank"} 
 
-
 **Central Alarm Monitoring Stations Inspection Field**
 * [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of Inspection Bodies for Central Alarm Monitoring Stations](/files/documents/inspection-body-accreditation/CAMS-01-(09-July-2018).pdf){:target="_blank"}
  
