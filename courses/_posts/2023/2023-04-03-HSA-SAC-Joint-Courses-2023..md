@@ -2,8 +2,10 @@
 layout: simple-page
 title: HSA-SAC Joint Courses 2023
 course_date: July and August 2023
-permlink: /services/training/HSA-SAC-Joint-Courses-2023
+permalink /services/training/HSA-SAC-Joint-Courses-2023
 ---
+
+
 
 ## Course Details
 **July and August 2023**
