@@ -66,7 +66,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Er Teh Cheong Foo | Housing & Development Board |
 | | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
 | | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
-| **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
+| **Secretary** | Mr Gerald See Toh | SAC Secretariat |
 
 ## Good Laboratory Practice
 ### Term : 1 July 2021 - 30 June 2024
