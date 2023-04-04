@@ -26,7 +26,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
 | | Mr Elton Tong | Singapore Manufacturing Federation (SMF) |
 | | Mr Tan Heng Khoon | Singapore Manufacturing Federation (SMF) |
-| **Secretary** | Mr Poh Wei Jin | SAC Secretariat |
+| **Secretary** | Mr Tan Kee Sing | SAC Secretariat |
 
 ## Chemical & Biological Sciences
 ### Term : 1 July 2021 - 30 June 2024
