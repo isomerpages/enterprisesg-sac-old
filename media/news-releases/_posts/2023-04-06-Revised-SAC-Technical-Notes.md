@@ -8,6 +8,7 @@ permalink: /media/news-releases/Revised-SAC-Technical-Notes
 **Revised SAC Technical Notes**
 
 The following SAC Technical Notes have been revised and published on 8 March 2023:
+
   •	C&B and ENV 001 – Specific Requirements for Chemical & Biological Testing and Environmental Testing Laboratories
   
   •	FFT 01 – General Criteria for Testing of Health Related Properties of Foods
