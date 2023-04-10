@@ -65,7 +65,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Technical Guide 2 - Mar 2019: A Guide on Measurement Uncertainty in Chemical & Microbiological Analysis](/files/documents/laboratory-accreditation/Technical-Guide-2.pdf){:target="_blank"}
 
 **Functional Food Testing**
-* [FFT 01 - Mar 2019: General Criteria for Testing of Health-Related Properties of Foods](/files/documents/laboratory-accreditation/testing-and-calibration-documents/functional-food-testing/FFT-01-29-Mar-2019.pdf){:target="_blank"}
+* [FFT 01 - Mar 2023: General Criteria for Testing of Health-Related Properties of Foods](/files/documents/fft-01_8mar2023.pdf)2019.pdf){:target="_blank"}
 
 **Information Technology Testing**
 * [IT 001 - 2 April 2018: General Requirements for the Accreditation of Information Technology Security Testing Laboratories](/files/documents/laboratory-accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf){:target="_blank"}
