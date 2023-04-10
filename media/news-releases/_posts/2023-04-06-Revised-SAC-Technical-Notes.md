@@ -20,7 +20,6 @@ The revised SAC Technical Notes are available on the SAC website.  [Click here]
 Please refer to <http://tinyurl.com/ISO9001-14001>{:target="_blank"} for registration.
 
 
-
 The summary of changes are as follows: 
 
 * [Revised SAC Technical Notes](/files/documents/revised-sac-technical-notes.pdf){:target="_blank"}
