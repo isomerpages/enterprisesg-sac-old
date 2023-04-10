@@ -15,8 +15,7 @@ The following SAC Technical Notes have been revised and published on 8 March 202
 
 The revised SAC Technical Notes are available on the SAC website.  [Click here]
 
-https://www.sac-accreditation.gov.sg/resources/sac-documents
-
+(/https://www.sac-accreditation.gov.sg/resources/sac-documents){:target="_blank'}
 
 
 The summary of changes are as follows: 
