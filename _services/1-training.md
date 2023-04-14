@@ -111,7 +111,9 @@ collection_name: services
 
 ### Training Programmes
 
-SAC facilitates the following training sesssions when available.  For more information on the course details, please click on the options below: 
+SAC facilitates the following training sesssions when available.
+For more information on the course details, please click on the options below:
+
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
 
 *Upcoming*
