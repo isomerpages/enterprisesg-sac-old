@@ -24,8 +24,8 @@ google-analytics: UA-206704416-1
 key-highlights:
   - title: Search
     description: SAC Accredited Organisations
-    url: https://sac-accreditations.gov.sg
-  - title: Accreditation Services
+    url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
+   - title: Accreditation Services
     desciption: Programmes/Schemes
     url: /services/accreditation-services/
   - title: Get Accredited
