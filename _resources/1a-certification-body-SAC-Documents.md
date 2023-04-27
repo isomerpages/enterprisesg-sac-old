@@ -87,6 +87,13 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products)  - 19 December 2022](/files/documents/CT-29-19Dec2022.pdf){:target="_blank"}
 * [CT 30 - SAC Criteria for Specialist Builders (Precast Concrete Products - 19 December 2022](/files/documents/CT-30-19Dec2022.pdf){:target="_blank"}
 
+
+* [CT 31 – SAC Criteria for Product Certification Bodies (Piling Works) – 27 April 2023](/files/ct_31- 27Apr 2023.pdf){:target="_blank"}
+
+* [CT 32 – SAC Criteria for Specialist Builders (Piling Works) – 27 April 2023](/files/  ct_32-27Apr2023.pdf){:target="_blank"}
+
+
+
 * [PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 1 Sep 2021](/files/documents/WELS-Guidebook-1-Sep-2021.pdf){:target="_blank"}
 <!-- NOTE: changes to Product Certification Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [Product Certification Fees Schedule - 01 Jan 2020](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="_blank"}
