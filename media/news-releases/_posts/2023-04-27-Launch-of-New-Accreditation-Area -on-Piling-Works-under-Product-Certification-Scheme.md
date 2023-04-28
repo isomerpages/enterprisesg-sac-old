@@ -17,6 +17,4 @@ Interested applicants will be assessed based on ISO/IEC 17065 and the following 
 
 •	SAC CT 32- SAC Criteria for Specialist Builders (Piling Works)
 
-Application for accreditation is now open through through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}
-
 Application for accreditation is now open through through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
