@@ -97,7 +97,7 @@ Click on the quick links below to jump to the CAB Status:
 * Auditing Organisation
   * Lloyd Mcgill Pte Ltd (31 Dec 2022)
   * S-SAFE Consultants Pte. Ltd (03 Jan 2023)
-  * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 
+  * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023) 
  
 
 * Business Continuity Management System
