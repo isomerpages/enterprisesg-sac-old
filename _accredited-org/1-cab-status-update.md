@@ -75,11 +75,16 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Voluntary Withdrawal by CABs**
 
+#### Laboratory
+
 * Calibration & Measurement
   * Nanyang Polytechnic (2 January 2023)
 
 * Electrical Testing
   * VDE Renewables Asia PTE LTD (16 Dec 2022)
+
+* Environmental Testing
+  * Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
 
 
 #### Inspection Body
