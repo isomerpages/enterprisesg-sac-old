@@ -75,6 +75,8 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Voluntary Withdrawal by CABs**
 
+#### Laboratory
+
 * Calibration & Measurement
   * Nanyang Polytechnic (2 January 2023)
 
