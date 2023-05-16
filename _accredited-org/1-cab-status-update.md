@@ -80,6 +80,9 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration & Measurement
   * Nanyang Polytechnic (2 January 2023)
 
+* Chemical & Biological Testing
+  * Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
+
 * Electrical Testing
   * VDE Renewables Asia PTE LTD (16 Dec 2022)
 
