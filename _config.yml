@@ -52,7 +52,7 @@ homepage_resources: true
 homepage_careers: false
 
 # Feedback Form URL
-feedback_form_url: "https://form.gov.sg/5d6e320f008c2400123ebb42"
+#feedback_form_url: "https://form.gov.sg/5d6e320f008c2400123ebb42"
 
 # FAQ URL
 faq_url: "/resources/faq"
