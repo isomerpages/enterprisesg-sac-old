@@ -29,11 +29,17 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Testing
   * Biosensors Interventional Technologies Pte. Ltd. (8 February 2023)
   * Viswalab Singapore Pte. Ltd. (17 February 2023)
+  * Affinnez Pte. Ltd. (10 May 2023)
 
 
 * Civil Engineering Testing
   * China Jingye Construction Engineering (S) Pte Ltd (17 February 2023)
+  * Element Construction Testing (S) Pte Ltd (13 April 2023)
+  * Geolutions Pte. Ltd. (10 May 2023)
 
+* Mechanical Testing
+  * R.A.K Materials Consultants Pte Ltd (10 May 2023)
+  * GIC Testing & Inspection Services Pte. Ltd. (10 May 2023)
 
 
 #### Inspection Body
@@ -41,7 +47,6 @@ Click on the quick links below to jump to the CAB Status:
 
 * Structural Steelwork
   * Leads Technologies Corporation Pte Ltd (6 January 2023)
-
 
 
 [Back to top ↑](#top)
@@ -96,9 +101,6 @@ Click on the quick links below to jump to the CAB Status:
   * Khalon Worldwide Surveyors Pte Ltd (23 December 2022)
   * IMS Marine Services Pte Ltd (01 February 2023)
 
-* Hook Lift and Container Inspection
-  * TNL Engineering Works Pte Ltd (10 September 2022)
-
 
 #### Certification Body
 
@@ -108,10 +110,6 @@ Click on the quick links below to jump to the CAB Status:
   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
   * QA Technic Pte Ltd (04 May 2023) 
  
-
-* Business Continuity Management System
-  * TUV Rheinland Singapore Pte Ltd (31 Oct 2022)
-  
 
 
 #### **Withdrawal by SAC**
