@@ -94,12 +94,18 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Testing
   * Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
 
+* Mechanical Testing
+  * Bureau Veritas Consumer Products Services Sdn Bhd (30 May 2023)
+
 
 #### Inspection Body
 
 * Cargo Inspection
   * Khalon Worldwide Surveyors Pte Ltd (23 December 2022)
   * IMS Marine Services Pte Ltd (01 February 2023)
+
+* Site Investigation
+  * Sino Geo Pte Ltd (15 May 2023)
 
 
 #### Certification Body
