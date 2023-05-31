@@ -104,6 +104,9 @@ Click on the quick links below to jump to the CAB Status:
   * Khalon Worldwide Surveyors Pte Ltd (23 December 2022)
   * IMS Marine Services Pte Ltd (01 February 2023)
 
+* Site Investigation
+  * Sino Geo Pte Ltd (15 May 2023)
+
 
 #### Certification Body
 
