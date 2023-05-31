@@ -84,6 +84,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration & Measurement
   * Nanyang Polytechnic (2 January 2023)
+  * Flotech Controls Pte Ltd (31 May 2023)
 
 * Chemical & Biological Testing
   * Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
