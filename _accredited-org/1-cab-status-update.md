@@ -94,6 +94,9 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Testing
   * Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
 
+* Mechanical Testing
+  * Bureau Veritas Consumer Products Services Sdn Bhd (30 May 2023)
+
 
 #### Inspection Body
 
