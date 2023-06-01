@@ -116,7 +116,14 @@ Click on the quick links below to jump to the CAB Status:
   * S-SAFE Consultants Pte. Ltd (03 Jan 2023)
   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
   * QA Technic Pte Ltd (04 May 2023) 
- 
+
+
+* Quality Management System
+  * ICR Singapore Certification Pte Ltd (02 Jun 2023)
+
+
+* Occupational Safety and Health Management System 
+  * ICR Singapore Certification Pte Ltd (02 Jun 2023)
 
 
 #### **Withdrawal by SAC**
