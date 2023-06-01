@@ -118,11 +118,7 @@ Click on the quick links below to jump to the CAB Status:
   * QA Technic Pte Ltd (04 May 2023) 
 
 
-* Quality Management System
-  * ICR Singapore Certification Pte Ltd (02 Jun 2023)
-
-
-* Occupational Safety and Health Management System 
+* Management Systems
   * ICR Singapore Certification Pte Ltd (02 Jun 2023)
 
 
