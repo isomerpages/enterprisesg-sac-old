@@ -56,13 +56,6 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Conformity Assessment Bodies (CABs)
 
-
-#### Laboratory
-
-* Chemical & Biological Testing 
-  * Seahawk Services Pte Ltd (06 May 2022 to 05 May 2023)
-
-
 #### Certification Body
 
 * Auditing Organisation
