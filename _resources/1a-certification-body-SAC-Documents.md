@@ -22,6 +22,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/iaf_ml2_2023_mla_mark_use_issue_4_31052023.pdf){:target="_blank"}
 
 
+
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
