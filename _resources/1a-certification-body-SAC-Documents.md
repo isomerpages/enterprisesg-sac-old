@@ -19,10 +19,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="_blank"}
 * [CT 01 - 01 Nov 2021 Accreditation Process for Certification Bodies and Validation & Verification Bodies](/files/documents/CT-01-01-Nov-2021.pdf){:target="_blank"}
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
-* [Information on the IAF MLA mark and sub-licence agreeme(/files/documents/(iaf_ml2_2023_mla_mark_use_issue_4_31052023.nt]{:target="_blank"}
+* [Information on the IAF MLA mark and sub-licence agreement](/files/documents/iaf_ml2_2023_mla_mark_use_issue_4_31052023.pdf){:target="_blank"}
 
 
-(/files/documents/(iaf_ml2_2023_mla_mark_use_issue_4_31052023.pdf)
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
