@@ -82,6 +82,9 @@ Click on the quick links below to jump to the CAB Status:
 * Chemical & Biological Testing
   * Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
 
+* Civil Engineering Testing
+  * NC Consult Services Pte Ltd (18 June 2023)
+
 * Electrical Testing
   * VDE Renewables Asia PTE LTD (16 Dec 2022)
 
