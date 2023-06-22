@@ -48,7 +48,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF_MD9_Issue_4_01022022.pdf){:target="_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF-MD9-(2017).pdf){:target="_blank"}
-* [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
+* [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
 * [IAF MD 12:2016 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/management-system-and-products-certification/IAF-MD-12.pdf){:target="_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/management-system-and-products-certification/IAF-MD-15.pdf){:target="_blank"}
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD-16.pdf){:target="_blank"}
