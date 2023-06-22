@@ -40,15 +40,15 @@ A certification body must be fully conversant and comply with the relevant stand
 <!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation'-->
 * [Management Systems Fees Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="_blank"}
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="_blank"}
-* [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/management-system-and-products-certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="_blank"}
+* [IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/iaf-md-1-issue2-version2-2023.ub-29-01-2018.pdf){:target="_blank"}
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="_blank"}
 * [IAF MD 4:2022 - IAF Mandatory Document for the Use of Information and Communication Technology (ICT) for Auditing Assessment Purposes](/files/documents/management-system-and-products-certification/IAF_MD4_Issue_2_Version_3_010220221.pdf){:target="_blank"}
 * [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/IAF-MD5-Issue-4-Version-2-11112019.pdf){:target="_blank"}
-* [IAF MD 6:2014 - Application of ISO 14065:2013](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="_blank"}
+* [IAF MD 6:2023 - Application of ISO 14065:2013](/files/documents/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF_MD9_Issue_4_01022022.pdf){:target="_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/management-system-and-products-certification/IAF-MD9-(2017).pdf){:target="_blank"}
-* [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems](/files/documents/management-system-and-products-certification/IAF-MD-11-v3.pdf){:target="_blank"}
+* [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems]((/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
 * [IAF MD 12:2016 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/management-system-and-products-certification/IAF-MD-12.pdf){:target="_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/management-system-and-products-certification/IAF-MD-15.pdf){:target="_blank"}
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/management-system-and-products-certification/IAF-MD-16.pdf){:target="_blank"}
