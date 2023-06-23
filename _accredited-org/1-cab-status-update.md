@@ -91,7 +91,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Environmental Testing
   * Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
-  * Singapore Food Agency (19 June 2023 (Cert NO: LA-2019-0719-F)
+  * Singapore Food Agency (19 June 2023) (Cert NO: LA-2019-0719-F)
 
 * Mechanical Testing
   * Bureau Veritas Consumer Products Services Sdn Bhd (30 May 2023)
