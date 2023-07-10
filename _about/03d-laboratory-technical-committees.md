@@ -75,7 +75,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 |-------------|------|--------------|
 | **Chairman** | A/Prof Low Chian Ming | National University of Singapore |
 | **Members** | Professor Andre Choo  | A*Star, Biomedical Research Council (BRC) |
-| | Dr Koou Sin Ying <br/>Dr Fang Zhanxiong | National Environment Agency<br/>(Taxanomy & Pesticide Efficacy)<br/>(Chemcal Assessment & Toxicology) |
+| | Dr Koou Sin Ying <br/>Dr Fang Zhanxiong | National Environment Agency<br/>(Chemcal Assessment & Toxicology) |
 | | Ms Peggy Chew | Singapore Food Agency |
 | | Assoc Prof Wong Boon Seng  | Singapore Institute of Technology |
 | **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
