@@ -49,3 +49,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 **Hook-Lift & Container Inspection Field**
 * [Technical Note: HL 01: Specific Requirements for the Accreditation of Inspection Bodies for Hook-Lift & Container Inspection](/files/documents/inspection-body-accreditation/HL-01-27112019-Revised.pdf){:target="_blank"}
 
+
+**Building Façade Inspection using Drones**
+
+* [SAC Technical Note : FI 01 – Specific Requirements for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/files/documents/fi-01-final-edition-with-sac-mark.pdf){:target="_blank"}
