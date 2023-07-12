@@ -20,8 +20,5 @@ Interested applicants will be assessed based on ISO/IEC 17020 :2012 , the follow
 
 •  SAC Technical Note : FI 01 – Specific Requirements for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)
 
-Application for accreditation is now open through SAC’s Accreditation Management portal, SACINET.
-
-
-
+Application for accreditation is now open through SAC’s Accreditation Management portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
 
