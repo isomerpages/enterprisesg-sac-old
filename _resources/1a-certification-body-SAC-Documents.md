@@ -61,9 +61,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}}
 
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020) – Mar 2022}(/
-* [Assessment Checklist (ISO/TS 22003) – May 2017](/ 
-
-
+* [Assessment Checklist (ISO/TS 22003) – May 2017](/files/documents/management-system-and-products-certification
+/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
+ 
 
 
 ### Joint IAF-ISO Communiques 
