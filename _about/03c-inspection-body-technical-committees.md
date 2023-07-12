@@ -53,7 +53,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Mr Muchamed Elfian | Individual Capacity |
-| **Members** | Mr Kester Kiong | Maritime and Port Authority of Singapore |
+| **Members** | Ms G Deepa  | Maritime and Port Authority of Singapore |
 | | Mr Chang Jian Quan | Singapore Food Agency |
 | | Mr Darajit Daud | Singapore Manufacturing Federation - TIC Interest Group|
 | | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
