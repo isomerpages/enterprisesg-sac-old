@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launch of New Accreditation Area on Building Façade Inspection using Drones under Inspection Body Schemen Scheme"   
+title:  "Launch of New Accreditation Area on Building Façade Inspection using Drones under Inspection Body Scheme"   
 date:   2023-07-12
 permalink: /media/news-releases/Launch-of-New-Accreditation-Area-on-Building-Façade-using-Drones-under-Inspection-Body-Scheme  
 ---
