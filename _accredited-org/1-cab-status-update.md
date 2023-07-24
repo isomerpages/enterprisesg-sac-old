@@ -20,22 +20,22 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-
-* Chemical & Biological Testing 
-  * Vectura Fertin Pharma Laboratories Pte. Ltd. (31 January 2023)
-  * Biosensors Interventional Technologies Pte. Ltd. (8 February 2023)
-
-
 * Environmental Testing
-  * Biosensors Interventional Technologies Pte. Ltd. (8 February 2023)
-  * Viswalab Singapore Pte. Ltd. (17 February 2023)
   * Affinnez Pte. Ltd. (10 May 2023)
 
-
 * Civil Engineering Testing
-  * China Jingye Construction Engineering (S) Pte Ltd (17 February 2023)
   * Element Construction Testing (S) Pte Ltd (13 April 2023)
   * Geolutions Pte. Ltd. (10 May 2023)
+  * R.A.K Materials Consultants Pte Ltd (21 May 2023)
+  * Total Solution Map Pte Ltd (09 June 2023)
+
+* Electrical Testing
+  * CSA Group Test and Certification Singapore Pte Ltd  
+
+* Calibration & Measurement
+  * Covidien Private Limited (12 June 2023)
+  * Thermo Fisher Scientific Pte Ltd (03 July 2023)
+  * Methrohm Singapore Pte Ltd (28 July 2023)
 
 * Mechanical Testing
   * R.A.K Materials Consultants Pte Ltd (10 May 2023)
@@ -44,9 +44,29 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Inspection Body
 
+* Inspection Body
+  * Virgo Ship Service Pte Ltd (07 June 2023) 
 
-* Structural Steelwork
-  * Leads Technologies Corporation Pte Ltd (6 January 2023)
+
+#### Certification Body
+
+* Product Certification
+  * R.A.K Materials Consultants Pte Ltd (19 May 2023)
+  * Raffles International Certification Pte Ltd (22 May 2023)
+  * Geonamics (S) Pte Ltd (05 June 2023)
+
+
+* Quality Management Systems
+  * CARES Certification Pte Ltd (20 July 2023)
+
+
+* Medical Devices – Quality Management Systems
+  * BSI Group Singapore Pte Ltd (05 June 2023)
+
+* Validation & Verification Bodies
+  * Tembusu Asia Consulting Pte Ltd (20 June 2023)
+
+
 
 
 [Back to top ↑](#top)
@@ -58,8 +78,6 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Certification Body
 
-* Auditing Organisation
-  * August International Pte. Ltd. (01 March 2022 to 31 May 2022)
  
  
 
@@ -76,7 +94,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Nanyang Polytechnic (2 January 2023)
   * Flotech Controls Pte Ltd (31 May 2023)
 
 * Chemical & Biological Testing
@@ -85,9 +102,6 @@ Click on the quick links below to jump to the CAB Status:
 
 * Civil Engineering Testing
   * NC Consult Services Pte Ltd (18 June 2023)
-
-* Electrical Testing
-  * VDE Renewables Asia PTE LTD (16 Dec 2022)
 
 * Environmental Testing
   * Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
@@ -99,10 +113,6 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Inspection Body
 
-* Cargo Inspection
-  * Khalon Worldwide Surveyors Pte Ltd (23 December 2022)
-  * IMS Marine Services Pte Ltd (01 February 2023)
-
 * Site Investigation
   * Sino Geo Pte Ltd (15 May 2023)
 
@@ -110,8 +120,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Certification Body
 
 * Auditing Organisation
-  * Lloyd Mcgill Pte Ltd (31 Dec 2022)
-  * S-SAFE Consultants Pte. Ltd (03 Jan 2023)
   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
   * QA Technic Pte Ltd (04 May 2023) 
 
