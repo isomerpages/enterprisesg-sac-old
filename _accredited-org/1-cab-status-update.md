@@ -44,7 +44,7 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Inspection Body
 
-* Inspection Body
+* Cargo Inspection
   * Virgo Ship Service Pte Ltd (07 June 2023) 
 
 
@@ -76,7 +76,7 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Conformity Assessment Bodies (CABs)
 
-#### Certification Body
+NIL
 
  
  
