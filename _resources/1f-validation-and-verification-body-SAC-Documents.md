@@ -21,6 +21,7 @@ A validation/verification body must be fully conversant and comply with the rele
 
 
 
+
 ### Standards and Criteria Document for Validation & Verification
 
 * [ISO/IEC 17029:2019 Conformity assessment – General principles and requirements for validation and verification bodies]
