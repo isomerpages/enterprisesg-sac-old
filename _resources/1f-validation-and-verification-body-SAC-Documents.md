@@ -17,8 +17,7 @@ A validation/verification body must be fully conversant and comply with the rele
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="_blank"}
 * [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](/files/documents/CT-01-01August2023.pdf){:target="_blank"}
 
-* [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies]
-(/files/documents/CT 01 (01 August 2023) - Accreditation Process for CBs and VB.pdf){:target="_blank"}
+* [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](/files/documents/CT 01 (01 August 2023) - Accreditation Process for CBs and VB.pdf){:target="_blank"}
 
 
 
