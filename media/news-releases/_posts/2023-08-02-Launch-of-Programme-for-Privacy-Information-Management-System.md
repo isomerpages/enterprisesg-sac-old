@@ -15,6 +15,5 @@ Beside ISO/IEC 17021-1:2015, SAC will also adopt ISO/IEC TS 27006-2:2021 Require
 
 There will be no supplementary accreditation criteria (i.e. no SAC CT Document) since the criteria on auditor competency, audit duration and requirements for certificate are clearly stipulated in the standards. 
 
-Application for accreditation is now open through the SAC accreditation portal, SACiNet.
+Application for accreditation is now open through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
 
-n
