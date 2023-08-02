@@ -17,3 +17,4 @@ There will be no supplementary accreditation criteria (i.e. no SAC CT Document) 
 
 Application for accreditation is now open through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
 
+
