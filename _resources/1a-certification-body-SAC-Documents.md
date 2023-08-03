@@ -60,7 +60,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
 
 
-*[Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](/https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
+* [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](/https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
 
 
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023 ](/files/documents/CTFM02-ISMS-Assessment-Checklist(1-August-2023).doc){:target="_blank"}
