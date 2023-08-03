@@ -17,7 +17,12 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="_blank"}
-* [CT 01 - 01 Nov 2021 Accreditation Process for Certification Bodies and Validation & Verification Bodies](/files/documents/CT-01-01-Nov-2021.pdf){:target="_blank"}
+
+
+* [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](https://file.go.gov.sg/ct-01.pdf){:target="_blank"}
+
+
+
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/iaf_ml2_2023_mla_mark.pdf){:target="_blank"}
 
@@ -58,7 +63,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/documents/IAF_MD26_Issue_2_15012023.pdf){:target="_blank"}
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/iaf-pl-9-issue1-version2-2023.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
-* [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020) – Mar 2022](/files/documents/management-system-and-products-certification/CTFM02-ISMS-Assessment-Checklist-ISOIEC27006-Amd1-24Mar22.doc){:target="_blank"}
+* [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
 
 
