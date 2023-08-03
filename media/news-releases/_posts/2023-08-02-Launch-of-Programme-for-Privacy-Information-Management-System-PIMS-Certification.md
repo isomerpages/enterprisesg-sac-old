@@ -2,7 +2,7 @@
 layout: post
 title:  "Launch of Programme for Privacy Information Management System (PIMS) Certification"   
 date:   2023-08-02
-permalink: /media/news-releases/Launch-of-Programme-for-Privacy-Information-Management-System-PIMS-Certification.md  
+permalink: /media/news-releases/Launch-of-Programme-for-Privacy-Information-Management-System-PIMS-Certification
 ---
 
 **Launch of New Accreditation Programme for Privacy Information Management System (PIMS) Certification under Management Systems Certification Body Scheme**
