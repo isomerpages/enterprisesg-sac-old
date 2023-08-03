@@ -37,7 +37,5 @@ A validation/verification body must be fully conversant and comply with the rele
 
 
 
-https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx
-
 <!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 
