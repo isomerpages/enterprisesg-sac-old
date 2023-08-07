@@ -19,28 +19,6 @@ The scheme was extended in April 2009 to cover the certification of ready-mixed 
 
 SAC accredits certification bodies that can demonstrate compliance with the following requirements and scope stated in SAC CT 01:
 
-| Products (Scope) | Accreditation Requirements | Certification Standards |
-|------------------|----------------------------|-------------------------|
-| Building & Construction | ISO/IEC 17065<br/>Applicable IAF MDs | SS 560<br/>Various applicable standards |
-| Electrical & Electronics | ISO/IEC 17065<br/>Applicable IAF MDs | Refer to Consumer Protection (Safety Requirements) Regulations<br/>Various applicable standards |
-| Regulated Fire Safety Products (FSP) and Shelter Product | ISO/IEC 17065<br/>SAC CT 12<br/>SAC CT 23<br/>Applicable IAF MDs | Refer to SCDF Fire Code Chapter 11 |
-| Food Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| Gas Appliances and Accessories | ISO/IEC 17065<br/>Applicable IAF MDs | Gas Products listed in Consumer Protection (Safety Requirements) Regulations<br/>Various applicable standards |
-| Green Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| ISASecure | ISO/IEC 17065<br/>Applicable IAF MDs | ISASecure<sup>R</sup> Certification Requirements |
-| Organic Primary Produce | ISO/IEC 17065<br/>Applicable IAF MDs | SS 632 |
-| Personal Protective Equipment | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| Programme for Endorsement of Forest Certification (PEFC) Chain of Custody | ISO/IEC 17065<br/>Applicable IAF MDs | PEFC ST 2002 |
-| Ready-mixed Concrete (RMC) | ISO/IEC 17065<br/>SAC CT 05<br/>Applicable IAF MDs | SS EN 206<br/>SS 544-1<br/>SS 544-2<br/>SAC CT 06 | 
-| Structural Steelwork Fabricarions | ISO/IEC 17065 and SAC CT 20<br/>Applicable IAF MDs | SS EN 1090-1, SS EN 1090-2 |
-| Telecommunication | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-| Water Efficiency Labelling Products (WELS) | ISO/IEC 17065<br/>SAC CT 19<br/>Applicable IAF MDs | Refer to PUB's Water Efficiency Labelling Scheme (WELS) Guide |
-| Alternative Steel Materials (BC1) | ISO/IEC 17065<br/>SAC CT 24 | BC1 Design Guide on Use of Alternative Structural Steel, published by Building and Construction Authority (BCA) |
-| In-Situ Post Tensioning Works | ISO/IEC 17065<br/>SAC CT 22 | Various standards |
-| Clean & Green (C&G) | ISO/IEC 17065<br/>SAC CT 26 | SS 661 (Agriculture) | 
-| Good Agricultural Practice (GAP) | ISO/IEC 17065<br/>SAC CT 26 | SS 670 (Good aquaculture practice)<br/>SS 675 (Good agriculture practice)<br/>SS 676 (Good animal husbandry practice for layer farms) | 
-| All Other Products | ISO/IEC 17065<br/>Applicable IAF MDs | Various applicable standards |
-
 
 ### Benefits
 Accreditation will:
