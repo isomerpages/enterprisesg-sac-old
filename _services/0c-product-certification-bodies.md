@@ -17,7 +17,7 @@ The scheme was extended in April 2009 to cover the certification of ready-mixed 
 
 ### Accreditation Criteria
 
-SAC accredits certification bodies that can demonstrate compliance with the requirements and scope stated in SAC CT 01
+SAC accredits certification bodies that can demonstrate compliance with the requirements and scope stated in SAC CT 01.
 
 
 ### Benefits
