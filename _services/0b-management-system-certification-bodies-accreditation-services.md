@@ -48,7 +48,7 @@ In 2014, SAC launched the accreditation programmes for Learning Services Provide
 
 ### Accreditation Criteria
 
-SAC accredits certification bodies that can demonstrate compliance with the requirements and scope stated in SAC CT 01
+SAC accredits certification bodies that can demonstrate compliance with the requirements and scope stated in SAC CT 01.
 
 
 ### Benefits
