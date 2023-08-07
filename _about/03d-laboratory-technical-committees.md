@@ -16,7 +16,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic (NYP)|
+| **Chairman** | Mr Tan Kheam Hock | Individual Capacity |
 | **Members** | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore (CAAS) |
 | | Dr. Lim See Yew | Institute of Technical Education (ITE) |
