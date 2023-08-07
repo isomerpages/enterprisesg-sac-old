@@ -20,9 +20,6 @@ A validation/verification body must be fully conversant and comply with the rele
 
 
 
-
-* [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](https://file.go.gov.sg/ct-01-1Aug2023.pdf){:target="_blank"}
-
 ### Standards and Criteria Document for Validation & Verification
 
 * [ISO/IEC 17029:2019 Conformity assessment – General principles and requirements for validation and verification bodies]
