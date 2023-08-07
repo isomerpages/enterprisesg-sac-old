@@ -48,30 +48,8 @@ In 2014, SAC launched the accreditation programmes for Learning Services Provide
 
 ### Accreditation Criteria
 
-SAC accredits certification bodies that can demonstrate compliance with the following requirements and scope stated in SAC CT 01:
+SAC accredits certification bodies that can demonstrate compliance with the following requirements and scope stated in SAC CT 01
 
-| Programme | Accreditation Requirements | Certification Standards |
-|-----------|----------------------------|-------------------------|
-| Quality Management Systems (QMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-3<br/>Applicable IAF MDs | ISO 9001 |
-| Quality Management for Bunker Supply Chain (QMBS)<br/>(under QMS) | ISO/IEC 17021-1<br/>SAC CT 09 | ISO 9001<br/>SS 524 |
-| Environment Management System (EMS) | ISO/IEC 17021-1<br/>ISO/IEC 17021-2<br/>Applicable IAF MDs | ISO 14001 |
-| Occupational Safety & Health Management System (OSHMS) | ISO/IEC 17021-1<br/>SAC CT 02<br/>ISO/IEC TS 17021-10<br/>Applicable IAF MDs| ISO 45001 or <br/>SS 651 |
-| Hazard Aanlysis and Critical Control Point (HACCP) | ISO/IEC 17021-1<br/>SAC HACCP Document No 1<br/>Applicable IAF MDs | SS 590<br/>SS 444 |
-| Food Safety Management Safety (FSMS) | ISO/IEC 17021-1<br/>ISO/TS 22003<br/>Applicable IAF MDs | ISO 22000 |
-| Business Continuity Management (BCM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-6<br/>Applicable IAF MDs<br/>SAC CT 08 | ISO 22301 |
-| Good Distribution Practice for Medical Devices (GDPMDS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 04 | SS 620 |
-| Energy Management System (EnMS) | ISO/IEC 17021-1<br/>ISO 50003<br/>Applicable IAF MDs | ISO 50001 |
-| Water Efficiency Management System (WEMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 11 | SS 577<br/>ISO 46001 |
-| Learning Service Providers (LSP) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT13| ISO 29993<br/>Applicable Technical Notes |
-| Multi-Tiered Cloud Computing Security (MTCS) | ISO/IEC 17021-1<br/>Applicable IAF MDs <br/>SAC CT 14 | SS 584 |
-| End-of-Life ICT Equipment (EIMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 15 | SS 587 |
-Asset Management (AM) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-5<br/>Applicable IAF MDs <br/>SAC CT 16 | ISO 55001 |
-| Medical Devices - Quality Management Systems (MSQMS) | ISO/IEC 17021-1<br/>Applicable IAF MDs<br/>SAC CT 18 | ISO 13485 |
-| Anti-Bribery Management System (AMBS) | ISO/IEC 17021-1<br/>ISO/IEC TS 17021-9<br/>Applicable IAF MDs<br/>SAC CT 21 | ISO 37001 |
-| Information Security Management System (ISMS)| ISO/IEC 17021-1<br/>ISO/IEC 27006<br/>Applicable IAF MDs | ISO 27001 |
-| Cold Chain Management of Chilled and Frozen Foods (CCMS)|ISO/IEC 17021-1<br/>SAC CT 25  |  SS 668 Part 1 |
-|===|
-| Note:<br/>(1) IAF MD: IAF Mandatory Documents<br/> |
 
 ### Benefits
 Accreditation will:
