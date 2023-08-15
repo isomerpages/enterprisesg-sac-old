@@ -122,7 +122,7 @@ NIL
 * Auditing Organisation
   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
   * QA Technic Pte Ltd (04 May 2023) 
-
+  * QuESH Consultants (Pte) Ltd (08  Aug 2023)
 
 * Management Systems
   * ICR Singapore Certification Pte Ltd (02 Jun 2023)
