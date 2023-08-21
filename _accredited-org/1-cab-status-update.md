@@ -20,8 +20,15 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Environmental Testing
-  * Affinnez Pte. Ltd. (10 May 2023)
+* Calibration & Measurement
+  * Covidien Private Limited (12 June 2023)
+  * Thermo Fisher Scientific Pte Ltd (03 July 2023)
+  * Methrohm Singapore Pte Ltd (28 July 2023)
+
+
+* Chemical & Biological Testing
+  * Home Team Science and Technology Agency (14 July 2023)
+
 
 * Civil Engineering Testing
   * Element Construction Testing (S) Pte Ltd (13 April 2023)
@@ -29,13 +36,15 @@ Click on the quick links below to jump to the CAB Status:
   * R.A.K Materials Consultants Pte Ltd (21 May 2023)
   * Total Solution Map Pte Ltd (09 June 2023)
 
+
 * Electrical Testing
   * CSA Group Test and Certification Singapore Pte Ltd  
 
-* Calibration & Measurement
-  * Covidien Private Limited (12 June 2023)
-  * Thermo Fisher Scientific Pte Ltd (03 July 2023)
-  * Methrohm Singapore Pte Ltd (28 July 2023)
+
+* Environmental Testing
+  * Affinnez Pte. Ltd. (10 May 2023)
+
+
 
 * Mechanical Testing
   * R.A.K Materials Consultants Pte Ltd (10 May 2023)
