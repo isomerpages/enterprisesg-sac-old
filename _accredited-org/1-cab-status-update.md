@@ -24,6 +24,7 @@ Click on the quick links below to jump to the CAB Status:
   * Covidien Private Limited (12 June 2023)
   * Thermo Fisher Scientific Pte Ltd (03 July 2023)
   * Methrohm Singapore Pte Ltd (28 July 2023)
+  * Unitest Instruments Pte. Ltd (03 August 2023)
 
 
 * Chemical & Biological Testing
@@ -38,12 +39,11 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Electrical Testing
-  * CSA Group Test and Certification Singapore Pte Ltd  
+  * CSA Group Test and Certification Singapore Pte Ltd (19 June 2023)
 
 
 * Environmental Testing
   * Affinnez Pte. Ltd. (10 May 2023)
-
 
 
 * Mechanical Testing
