@@ -51,6 +51,12 @@ Click on the quick links below to jump to the CAB Status:
   * GIC Testing & Inspection Services Pte. Ltd. (10 May 2023)
 
 
+* Non-Destructive Testing
+  * PT. A Star Testing & Inspection (14 August 2023)
+
+
+
+
 #### Inspection Body
 
 * Cargo Inspection
