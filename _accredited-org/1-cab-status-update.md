@@ -135,10 +135,10 @@ NIL
 * Auditing Organisation
   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
   * QA Technic Pte Ltd (04 May 2023) 
-  * QuESH Consultants (Pte) Ltd (08  Aug 2023)
+  * QuESH Consultants (Pte) Ltd (08  August 2023)
 
 * Management Systems
-  * ICR Singapore Certification Pte Ltd (02 Jun 2023)
+  * ICR Singapore Certification Pte Ltd (02 June 2023)
 
 
 #### **Withdrawal by SAC**
@@ -152,7 +152,7 @@ NIL
 #### Laboratory
 
 * Civil Engineering Testing
-  * Building Research Laboratories. (6  Sep 2022)
+  * Building Research Laboratories. (6  September 2022)
   
   
 
