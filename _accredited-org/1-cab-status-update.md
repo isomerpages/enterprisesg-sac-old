@@ -55,8 +55,6 @@ Click on the quick links below to jump to the CAB Status:
   * PT. A Star Testing & Inspection (14 August 2023)
 
 
-
-
 #### Inspection Body
 
 * Cargo Inspection
