@@ -20,8 +20,16 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Environmental Testing
-  * Affinnez Pte. Ltd. (10 May 2023)
+* Calibration & Measurement
+  * Covidien Private Limited (12 June 2023)
+  * Thermo Fisher Scientific Pte Ltd (03 July 2023)
+  * Methrohm Singapore Pte Ltd (28 July 2023)
+  * Unitest Instruments Pte. Ltd (03 August 2023)
+
+
+* Chemical & Biological Testing
+  * Home Team Science and Technology Agency (14 July 2023)
+
 
 * Civil Engineering Testing
   * Element Construction Testing (S) Pte Ltd (13 April 2023)
@@ -29,17 +37,22 @@ Click on the quick links below to jump to the CAB Status:
   * R.A.K Materials Consultants Pte Ltd (21 May 2023)
   * Total Solution Map Pte Ltd (09 June 2023)
 
-* Electrical Testing
-  * CSA Group Test and Certification Singapore Pte Ltd  
 
-* Calibration & Measurement
-  * Covidien Private Limited (12 June 2023)
-  * Thermo Fisher Scientific Pte Ltd (03 July 2023)
-  * Methrohm Singapore Pte Ltd (28 July 2023)
+* Electrical Testing
+  * CSA Group Test and Certification Singapore Pte Ltd (19 June 2023)
+
+
+* Environmental Testing
+  * Affinnez Pte. Ltd. (10 May 2023)
+
 
 * Mechanical Testing
   * R.A.K Materials Consultants Pte Ltd (10 May 2023)
   * GIC Testing & Inspection Services Pte. Ltd. (10 May 2023)
+
+
+* Non-Destructive Testing
+  * PT. A Star Testing & Inspection (14 August 2023)
 
 
 #### Inspection Body
@@ -122,10 +135,10 @@ NIL
 * Auditing Organisation
   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
   * QA Technic Pte Ltd (04 May 2023) 
-  * QuESH Consultants (Pte) Ltd (08  Aug 2023)
+  * QuESH Consultants (Pte) Ltd (08  August 2023)
 
 * Management Systems
-  * ICR Singapore Certification Pte Ltd (02 Jun 2023)
+  * ICR Singapore Certification Pte Ltd (02 June 2023)
 
 
 #### **Withdrawal by SAC**
@@ -139,7 +152,7 @@ NIL
 #### Laboratory
 
 * Civil Engineering Testing
-  * Building Research Laboratories. (6  Sep 2022)
+  * Building Research Laboratories. (6  September 2022)
   
   
 
