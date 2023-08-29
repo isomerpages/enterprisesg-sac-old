@@ -130,6 +130,5 @@ The accreditation schemes that SAC operates are Management Systems Certification
 
 [Click here to search for CABs.](https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx)
 
-[Click here to search for CABs]
-(https://sacinet2.enterprisesg.gov.sg/sacsearch/search) 
+[Click here to search for CABs](https://sacinet2.enterprisesg.gov.sg/sacsearch/search) 
 
