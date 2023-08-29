@@ -60,9 +60,13 @@ For more information about MRA, please click [here](/about/collaborations-and-re
 
 ## Why Use Accredited CABs?
 
-<!-- HTML code for an embedded video on the same page; edit the link inside 'src' attribute to use a different video -->
-<div class="bp-youtube"
+
+
+<div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/4bbuKr3lweQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 
 
 ![Working with Businesses](/images/about/business-setting-1.jpg)
@@ -114,6 +118,5 @@ Accreditation is granted for a specific scope of activities and not for all acti
 
 The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification & Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
 
-[Click here to search for CABs.](https://www.sac-accreditations.gov.sg/Pages/Homepage.aspx)
-
+[Click here to search for CABs](https://sacinet2.enterprisesg.gov.sg/sacsearch/search) 
 
