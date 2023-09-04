@@ -84,7 +84,6 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | **Members**          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
 |                      | Dr Eunice Pang          | Health Promotion Board  |
 |                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
-|                      | Pending                 | Ministry of Trade and Industry  |
 |                      | Prof Gregory Goh K. L.  | National Metrology Centre, A*STAR   |
 |                      | A/Prof Lawrence Loh     | National University of Singapore Business School |
 |                      | Mr Ye Yongfeng          | Public Service Division        |
