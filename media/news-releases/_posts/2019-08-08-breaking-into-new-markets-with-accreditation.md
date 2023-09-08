@@ -46,6 +46,6 @@ Furthermore, SAC is part of APAC – whose primary role is to manage and expand 
 **Tips for businesses**
  
 Using a SAC-accredited CAB helps improve your business credibility by showing that your conformity assessment activities meet internationally recognised standards.
- 
-Click [here](/about/working-with-businesses) to learn more about accreditation and TIC services and how they can help your business.
- 
+
+Click [here](https://www.sac-accreditation.gov.sg/services/accreditation-services/)
+to learn more about accreditation and TIC services and how they can help your business. 

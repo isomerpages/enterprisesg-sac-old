@@ -111,7 +111,6 @@ NIL
 
 * Chemical & Biological Testing
   * Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
-  * Singapore Food Agency (19 June 2023) (Cert No: LA-2019-0718-A)
 
 * Civil Engineering Testing
   * NC Consult Services Pte Ltd (18 June 2023)
