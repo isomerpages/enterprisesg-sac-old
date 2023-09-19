@@ -12,7 +12,7 @@ Over the past few months of crafting an engaging and informative LinkedIn presen
 •	Organisation updates: Get an exclusive look behind the scenes at SAC, as we share exciting announcements and initiatives.
 •	Engagement and interaction: We love hearing from everyone! Feel free to tag us in relevant LinkedIn posts.
 
-Follow us on LinkedIn here.
+Follow us on LinkedIn ![here](https://www.linkedin.com/company/singapore-accreditation-council/)
 
 
  
