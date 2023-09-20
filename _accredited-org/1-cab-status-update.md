@@ -21,7 +21,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Covidien Private Limited (12 June 2023)
   * Thermo Fisher Scientific Pte Ltd (03 July 2023)
   * Methrohm Singapore Pte Ltd (28 July 2023)
   * Unitest Instruments Pte. Ltd (03 August 2023)
@@ -32,52 +31,28 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Civil Engineering Testing
-  * Element Construction Testing (S) Pte Ltd (13 April 2023)
-  * Geolutions Pte. Ltd. (10 May 2023)
-  * R.A.K Materials Consultants Pte Ltd (21 May 2023)
-  * Total Solution Map Pte Ltd (09 June 2023)
-
-
-* Electrical Testing
-  * CSA Group Test and Certification Singapore Pte Ltd (19 June 2023)
+  * R.A.K Materials Consultants Sdn. Bhd. (27 August 2023)
 
 
 * Environmental Testing
   * Affinnez Pte. Ltd. (10 May 2023)
 
 
-* Mechanical Testing
-  * R.A.K Materials Consultants Pte Ltd (10 May 2023)
-  * GIC Testing & Inspection Services Pte. Ltd. (10 May 2023)
-
-
 * Non-Destructive Testing
   * PT. A Star Testing & Inspection (14 August 2023)
 
 
-#### Inspection Body
-
-* Cargo Inspection
-  * Virgo Ship Service Pte Ltd (07 June 2023) 
-
-
 #### Certification Body
 
-* Product Certification
-  * R.A.K Materials Consultants Pte Ltd (19 May 2023)
-  * Raffles International Certification Pte Ltd (22 May 2023)
-  * Geonamics (S) Pte Ltd (05 June 2023)
-
+* Auditing Organisation
+  * AAS Singapore Services Pte Ltd (22 August 2023)
 
 * Quality Management Systems
   * CARES Certification Pte Ltd (20 July 2023)
 
 
-* Medical Devices – Quality Management Systems
-  * BSI Group Singapore Pte Ltd (05 June 2023)
 
-* Validation & Verification Bodies
-  * Tembusu Asia Consulting Pte Ltd (20 June 2023)
+
 
 
 
