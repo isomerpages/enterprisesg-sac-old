@@ -17,9 +17,7 @@ Over the past few months of crafting an engaging and informative LinkedIn presen
 
 <b> Follow us on LinkedIn [here](https://www.linkedin.com/company/singapore-accreditation-council/)
 
-[LinkedIn](https://go.gov.sg/linkin)
 
-[LinkedIn-SAC](https://go.gov.sg/linkedin-sac)
 
 
  
