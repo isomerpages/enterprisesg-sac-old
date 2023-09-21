@@ -124,7 +124,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Lung Hian Hao | Building & Construction Authority |
-| **Members** | Mr Lu Jin Ping | Housing & Development Board|
+| **Members** | Er Loo Say Kian | Housing & Development Board|
 | | Mr Goh Chin Keong | Ministry of Manpower |
 | | Dr Wu Wei | Nanyang Technological University |
 | | Dr Babu Sajeesh Kumar | Nom-Destructive Testing Society (Singapore) |
