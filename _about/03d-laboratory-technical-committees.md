@@ -124,12 +124,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 | **Chairman** | Er Lung Hian Hao | Building & Construction Authority |
-| **Members** | Ms Sherly Wijaya | Housing & Development Board|
+| **Members** | Mr Lu Jin Ping | Housing & Development Board|
 | | Mr Goh Chin Keong | Ministry of Manpower |
 | | Dr Wu Wei | Nanyang Technological University |
 | | Dr Babu Sajeesh Kumar | Nom-Destructive Testing Society (Singapore) |
 | | Cpt Teo Mei Tin | Singapore Civil Defence Force |
-| | Mr Lu Jin Ping | Singapore Manufacturing Federation - TIC Interest Group |
+| | Ms Sherly Wijaya  | Singapore Manufacturing Federation - TIC Interest Group |
 | | Mr Zheng Ming Quan  | Singapore Manufacturing Federation - TIC Interest Group |
 | | Dr Lee Kim Kheng | Singapore Polytechnic |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
