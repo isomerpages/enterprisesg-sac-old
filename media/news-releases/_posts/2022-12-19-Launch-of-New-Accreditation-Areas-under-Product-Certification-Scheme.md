@@ -2,7 +2,7 @@
 layout: post
 title: "Launch of New Accreditation Areas under Product Certification Scheme"
 date: 2022-12-19
-permalink: /media/news-releases/Launch-of-New-Accreditation-Areas-under-Product-Certification-Scheme
+permalink: /media/news-releases/Launch-of-New-Accreditation-Areas-under-Product-Certification-Scheme-2022
 ---
 
 **Launch of New Accreditation Areas under Product Certification Scheme**
