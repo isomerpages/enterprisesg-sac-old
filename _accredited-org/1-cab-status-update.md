@@ -97,6 +97,9 @@ NIL
 * Mechanical Testing
   * Bureau Veritas Consumer Products Services Sdn Bhd (30 May 2023)
 
+* Infomation Technology
+  * DNV Singapore Pte. Ltd (28 September 2023)
+
 
 #### Inspection Body
 
