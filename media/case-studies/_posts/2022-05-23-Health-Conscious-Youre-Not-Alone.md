@@ -36,5 +36,4 @@ Companies interested in accredited food testing services may also click [here](h
 
 TIC companies looking to expand into the area of food testing, or adopt specific food accreditation programmes can find out more at this [link](https://sac-accreditations.gov.sg/cab/acab/Pages/ACTL-Overview.aspx?f=LAA&a=LAA001&ss=ALL). 
 
-
-
+[link](https://www.sac-accreditation.gov.sg/services/accreditation-services/)
