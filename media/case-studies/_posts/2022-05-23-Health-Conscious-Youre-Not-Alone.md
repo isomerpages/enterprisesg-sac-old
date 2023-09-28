@@ -35,4 +35,4 @@ As consumers are increasingly better educated and generally possess higher dispo
 Companies interested in accredited food testing services may also click [here](https://www.sac-accreditation.gov.sg/accredited-org/certified-cab-companies) to view the full list of SAC Accredited TIC companies.
 
 TIC companies looking to expand into the area of food testing, or adopt specific food accreditation programmes can find out more at 
-this [link](https://www.sac-accreditation.gov.sg/services/accreditation-services/)
+this[link](https://www.sac-accreditation.gov.sg/services/accreditation-services/)
