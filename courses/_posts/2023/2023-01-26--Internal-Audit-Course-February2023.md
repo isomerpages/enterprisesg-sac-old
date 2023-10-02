@@ -17,7 +17,7 @@ permalink: /services/training/inernal-Audit-Course-February
 
 This 2-day course is to help the participants:  
 
-* Learn the essentials of auditing, which include the techniques in assessing the effectiveness of quality systems and indentifying areas for improvement.\\
+* Learn the essentials of auditing, which include the techniques in assessing the effectiveness of quality systems and indentifying areas for improvement.
 
 * Acquire the skills to plan, implement and report on internal quality system audits.
 
