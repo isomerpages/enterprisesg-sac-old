@@ -51,7 +51,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/iaf-md-9-issue4-version2-2023.pdf){:target="_blank"}
 * [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
-* [IAF MD 12:2023 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
+* [IAF MD 12:2023 - Accreditation Assehttps://go.gov.sg/iaf-md-11-issue3-2023ssment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
 * [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="_blank"}
