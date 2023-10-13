@@ -50,8 +50,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 6:2023 - Application of ISO 14065:2013](/files/documents/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/iaf-md-9-issue4-version2-2023.pdf){:target="_blank"}
-* [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
-* [IAF MD 12:2023 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
+* [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](https://go.gov.sg/iaf-md-11-issue3-2023){:target="_blank"}
+* [IAF MD 12:2023 - Accreditation Assehttps://go.gov.sg/iaf-md-11-issue3-2023ssment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
 * [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="_blank"}
@@ -59,6 +59,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies](/files/documents/iaf-md-23-2023.pdf){:target="_blank"}
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/documents/IAF-MD-2-Issue-1.pdf){:target="_blank"}
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/documents/IAF_MD26_Issue_2_15012023.pdf){:target="_blank"}
+* [IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022](https://go.gov.sg/iaf-md-27-22003-1-transition-2023){:target="_blank"}
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/iaf-pl-9-issue1-version2-2023.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
