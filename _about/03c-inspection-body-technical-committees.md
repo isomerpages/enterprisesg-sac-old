@@ -18,16 +18,15 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 |-------------|------|--------------|
 | **Chairman** | Mr Chan Yew Kwong | Workplace Health & Safety Council |
 | **Members** | Mr Thomas Chong | Association of Process Industires |
-| | Mr Ernest Phoon Chee Keong | Land Transport Authority |
+| | Mr Ernest Poon Chee Keong | Land Transport Authority |
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
 | | Mr Kenneth Lim | National Environment Agency |
 | | Mr Yusoof Aynuddin | Singapore Manufacturing Federation - TIC Interest Group |
 | | Mr Mark Khoo | Singapore Manufacturing Federation - TIC Interest Group |
-| | Mr Edwin Yong | Singapore Police Force |
 | | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | | Ms Michelle Ng | Waste Management and Recycling Association of Singapore |
-| **Secretary** | Mr James Lee | SAC Secretariat |
+| **Secretary** | Mr Clarence Wong | SAC Secretariat |
 
 ## Structural Steelwork Inspection
 ### Term : 1 July 2021 - 30 June 2024
