@@ -83,7 +83,8 @@ NIL
 
 * Calibration & Measurement
   * Flotech Controls Pte Ltd (31 May 2023)
-
+  * UL International-Singapore Private Limited (01 November 2023)
+    
 * Chemical & Biological Testing
   * Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
 
