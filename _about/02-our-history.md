@@ -16,7 +16,7 @@ milestone:
       img: /images/about/milestone/sac-milestone-1986-11.jpg
       description:
       - line: "<b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR)."
-tion."
+
   - title: 1991-2000
     years:
     
