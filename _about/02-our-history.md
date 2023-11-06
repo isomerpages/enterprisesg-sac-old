@@ -16,14 +16,7 @@ milestone:
       img: /images/about/milestone/sac-milestone-1986-11.jpg
       description:
       - line: "<b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR)."
-    - subtitle: 1996
-      img: /images/about/milestone/sac-milestone-1996-10-11.jpg
-      description:
-      - line: "<b>29 January:</b> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) & Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation."
-      - line: "<b>2 February:</b> Singlas hosted APLAC 1st General Assembly."
-      - line: "<b>11 October:</b> 1st SAC Council was appointed. <span class='milestone-arrow'></span>"
-      - line: "<b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI)."
-      - line: "Launch of Accreditation Programme for Quality Management System (QMS) Certification."
+tion."
   - title: 1991-2000
     years:
     
