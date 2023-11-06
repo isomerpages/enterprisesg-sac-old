@@ -15,7 +15,7 @@ brochures:
     - title: "Commemorative Booklet: 50 Years of Quality and Standards"
       list:    
       - img: Comm-Book-2016.png
-        url: https://share-intranet.enterprisesg.gov.sg/ac/DocLib/Restricted/Events/QS%20Conference/50th%20QS%20Anniversary%20Celebration%20July%202016/Commemorative%20Booklet/QE%20Ann%20Book-Landscape-V19-Final2-13Jul-midres.pdf
+        url: https://go.gov.sg/50th-commemorative-booklet
  
     - title: "SAC Brochures"
       list:    
