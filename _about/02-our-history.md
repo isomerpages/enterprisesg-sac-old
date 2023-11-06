@@ -34,7 +34,7 @@ milestone:
       - line: "<b>2 February:</b> Singlas hosted APLAC 1st General Assembly."
       - line: "<b>11 October:</b> 1st SAC Council was appointed. <span class='milestone-arrow'></span>"
       - line: "<b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI)."
-      - line: "Launch of Accreditation Programme for Quality Management System (QMS) Certification.
+      - line: "Launch of Accreditation Programme for Quality Management System (QMS) Certification."
 
     - subtitle: 1997
       img: /images/about/milestone/sac-milestone-1997-11-19.jpg
