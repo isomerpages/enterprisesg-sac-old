@@ -7,4 +7,6 @@ permalink: /media/news-releases/Launch-of-Programme-for-Privacy-Information-Mana
  
 **Participation of TIC Companies at Food & Hotels Asia (FHA) 2023**
 
-Do see attached.
+Pls see [attached link](/files/SPRING-Singapore-thanks-all-our-Standards-and-Accreditation-Partners.pdf){:target="_blank"}.
+
+Participation of TIC Companies at Food & Hotels Asia (FHA) 2023 (1) (3).pdf
