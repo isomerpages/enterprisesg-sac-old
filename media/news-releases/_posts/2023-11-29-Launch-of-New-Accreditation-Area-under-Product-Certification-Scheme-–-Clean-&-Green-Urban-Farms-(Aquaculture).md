@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  “Launch of New Accreditation Area under Product Certification Scheme – Clean & Green Urban Farms (Aquaculture)” 
-date:   2023-11-23
+date:   2023-11-29
 permalink: /media/news-releases/Launch-of-New-Accreditation-Area-under-Product-Certification-Scheme-–-Clean-&-Green-Urban-Farms-(Aquaculture) 
 ---
 
