@@ -20,7 +20,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](https://go.gov.sg/ct-01-01aug2023){:target="_blank}
 
-* [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification](/files/Documents/validation-and-verification-bodies/ct_01_23Nov2023.pdf){:target="\_blank"}
+* [CT 01 - 23 Nov 2023 Accreditation Process for Certification Bodies and Validation & Verification](/files/Documents/validation-and-verification-bodies/ct_01_23Nov2023.pdf){:target="\_blank"}
 
 
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
