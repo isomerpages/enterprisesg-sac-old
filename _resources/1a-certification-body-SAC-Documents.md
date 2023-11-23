@@ -18,7 +18,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="_blank"}
 * [Accreditation Feedback Form](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="_blank"}
 
-* [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](https://go.gov.sg/ct-01-01aug2023){:target="_blank}
+* [CT 01 - 23 Nov 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](https://go.gov.sg/ct-01-23nov2023){:target="_blank}
+
 
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/iaf_ml2_2023_mla_mark.pdf){:target="_blank"}
@@ -39,7 +40,14 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - June 2021](/files/documents/CT-18-01-June-2021.pdf){:target="_blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021](/files/documents/CT-21-01-June-2021.pdf){:target="_blank"}
 * [CT 25 - SAC Criteria for Certification Bodies (Cold Chain Management System) - November 2021](/files/documents/CT-25-16-Nov-2021.pdf){:target="_blank"} 
-<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation'-->
+
+*  [CT 33 - SAC Criteria for Certification Bodies (Facility Management System) - November 2023
+](https://go.gov.sg/sac-ct-33-23nov2023){:target="_blank"}
+ 
+<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for 
+Accreditation'-->
+
+
 * [Management Systems Fees Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="_blank"}
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="_blank"}
 * [IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/iaf-md-1-issue2-version2-2023.pdf){:target="_blank"}
@@ -60,7 +68,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/documents/IAF_MD26_Issue_2_15012023.pdf){:target="_blank"}
 * [IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022](https://go.gov.sg/iaf-md-27-22003-1-transition-2023){:target="_blank"}
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/iaf-pl-9-issue1-version2-2023.pdf){:target="_blank"}
-* [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
+
+* [Assessment Checklist (ISO/IEC 17021-1) - Nov 2023](https://go.gov.sg/ctfm02-ms-iso17021-1-checklist-23nov2023){:target="_blank"}
+
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
 
