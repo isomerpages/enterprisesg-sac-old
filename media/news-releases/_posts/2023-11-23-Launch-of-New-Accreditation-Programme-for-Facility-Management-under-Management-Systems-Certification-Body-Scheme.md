@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Launch of New Accreditation Programme for Facility Management under Management Systems Certification Body Scheme”   
+title:  Launch of New Accreditation Programme for Facility Management under Management Systems Certification Body Scheme 
 date:   2023-11-23
 permalink: /media/news-releases/Launch-of-New-Accreditation-Programme-for-Facility-Management-under-Management-Systems-Certification-Body-Scheme  
 ---

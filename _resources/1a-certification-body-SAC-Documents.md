@@ -58,7 +58,7 @@ Accreditation'-->
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/iaf-md-9-issue4-version2-2023.pdf){:target="_blank"}
 * [IAF MD 11:2023 - For the Application of ISO/IEC 17021-1 for Audits of Integrated Management Systems](https://go.gov.sg/iaf-md-11-issue3-2023){:target="_blank"}
-* [IAF MD 12:2023 - Accreditation Assehttps://go.gov.sg/iaf-md-11-issue3-2023ssment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
+* [IAF MD 12:2023 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
 * [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="_blank"}
@@ -69,7 +69,7 @@ Accreditation'-->
 * [IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022](https://go.gov.sg/iaf-md-27-22003-1-transition-2023){:target="_blank"}
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/iaf-pl-9-issue1-version2-2023.pdf){:target="_blank"}
 
-* [Assessment Checklist (ISO/IEC 17021-1) - Nov 2023](https://go.gov.sg/ctfm02-ms-iso17021-1-checklist-23nov2023){:target="_blank"}
+* [Assessment Checklist (ISO/IEC 17021-1) - Nov 2023](https://go.gov.sg/ctfm02-ms-iso17021-1-checklist-23nov2023v2){:target="_blank"}
 
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
