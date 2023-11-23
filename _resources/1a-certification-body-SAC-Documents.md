@@ -71,10 +71,6 @@ Accreditation'-->
 
 * [Assessment Checklist (ISO/IEC 17021-1) - Nov 2023](https://go.gov.sg/ctfm02-ms-iso17021-1-checklist-23nov2023){:target="_blank"}
 
-
-* [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
-
-
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
 
