@@ -20,13 +20,12 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [CT 01 - 01 Aug 2023 Accreditation Process for Certification Bodies and Validation & Verification Bodies](https://go.gov.sg/ct-01-01aug2023){:target="_blank}
 
-
 <!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
 * [Information on the IAF MLA mark and sub-licence agreement](/files/documents/iaf_ml2_2023_mla_mark.pdf){:target="_blank"}
 
 
 ### Standards and Criteria Document for Management Systems Certification
-**ISO/IEC 17021-1:2015 - Conformity assessment - Req}irements for bodies providing audit and certification of management systems - Part 1: Requirements**
+**ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
 
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/documents/management-system-and-products-certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf){:target="_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - July 2019](/files/documents/management-system-and-products-certification/CT-04-(17-July-2019).pdf){:target="_blank"}
