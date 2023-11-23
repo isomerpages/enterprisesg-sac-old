@@ -68,7 +68,13 @@ Accreditation'-->
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/documents/IAF_MD26_Issue_2_15012023.pdf){:target="_blank"}
 * [IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022](https://go.gov.sg/iaf-md-27-22003-1-transition-2023){:target="_blank"}
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/iaf-pl-9-issue1-version2-2023.pdf){:target="_blank"}
+
+* [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](https://go.gov.sg/ctfm02-ms-iso17021-1-checklist-23nov2023){:target="_blank"}
+
+
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
+
+
 * [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://file.go.gov.sg/ctfm02-isms-01aug2023.dotx){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="_blank"}
 
