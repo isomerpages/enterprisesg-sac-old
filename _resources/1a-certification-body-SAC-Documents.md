@@ -41,7 +41,14 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - June 2021](/files/documents/CT-18-01-June-2021.pdf){:target="_blank"} 
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021](/files/documents/CT-21-01-June-2021.pdf){:target="_blank"}
 * [CT 25 - SAC Criteria for Certification Bodies (Cold Chain Management System) - November 2021](/files/documents/CT-25-16-Nov-2021.pdf){:target="_blank"} 
-<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation'-->
+<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for 
+Accreditation'-->
+
+[CT 33 - SAC Criteria for Certification Bodies (Facility Management System) - November 2023
+](https://go.gov.sg/sac-ct-33-23nov2023){:target="_blank"}
+ 
+
+
 * [Management Systems Fees Schedule - 5 July 2018](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="_blank"}
 * [SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="_blank"}
 * [IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/iaf-md-1-issue2-version2-2023.pdf){:target="_blank"}
