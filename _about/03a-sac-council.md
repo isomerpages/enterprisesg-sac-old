@@ -37,6 +37,7 @@ Accuron Technologies Limited
 | | Dr Tan Lee Kim | Singapore Food Agency (SFA) |
 | | Ms Yvonne Soh | Singapore Green Building Council (SGBC) |
 | | Ms Joyce Seow | Singapore Manufacturing Federation (SMF) |
+| | Mr Anthony Tan | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group :  Certification Bodies’ Representative | 
 | | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group : Inspection Bodies' Representative |
 | | Mr Elton Tong Joo Beng | Singapore Manufacturing Federation (SMF) - TIC<br/>Interest Group: Laboratories' Representative |
 | | Mr Ng Teck Soon | Singapore Precision Engineering and Technology Association (SPETA) |
