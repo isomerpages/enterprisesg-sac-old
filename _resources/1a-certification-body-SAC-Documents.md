@@ -41,7 +41,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021](/files/documents/CT-21-01-June-2021.pdf){:target="_blank"}
 * [CT 25 - SAC Criteria for Certification Bodies (Cold Chain Management System) - November 2021](/files/documents/CT-25-16-Nov-2021.pdf){:target="_blank"} 
 
-*  [CT 33 - SAC Criteria for Certification Bodies (Facility Management System) - November 2023
+* [CT 33 - SAC Criteria for Certification Bodies (Facility Management System) - November 2023
 ](https://go.gov.sg/sac-ct-33-23nov2023){:target="_blank"}
  
 <!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for 
@@ -96,7 +96,7 @@ Accreditation'-->
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="_blank"}
 * [CT 22 - SAC Criteria for Certification Bodies (In-Situ Post Tensioning Works) - 30 Nov 2021](/files/documents/management-system-and-products-certification/CT-22-30Nov2021-In-Situ-Post-Tensioning-Works.pdf){:target="_blank"} 
 * [CT 24 - SAC Criteria For Certification Bodies (Alternative Structural Steel In Bc1)- November 2021](/files/documents/management-system-and-products-certification/CT-24-30-Nov-2021.pdf){:target="_blank"}
-* [CT 26 - SAC Criteria For Certification Bodies (GAP and Clean & Green Urban Farms)- November 2021](/files/documents/management-system-and-products-certification/SAC CT 26_25 Nov 2021.pdf){:target="_blank"}
+* [CT 26 - SAC Criteria For Certification Bodies (GAP and Clean and Green Urban Farms) - November 2023](https://go.gov.sg/ct-26-29nov2023){:target="_blank"}
 * [CT 27 - SAC Criteria for Product Certification Bodies (Ground Support and Stabilisation Works for ERSS) - 19 December 2022](/files/documents/CT-27-19Dec2022.pdf){:target="_blank"}
 * [CT 28 - SAC Criteria for Specialist Builders (Ground Support and Stabilisation Works for ERSS) - 19 December 2022](/files/documents/CT-28-19Dec2022.pdf){:target="_blank"}
 * [CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products)  - 19 December 2022](/files/documents/CT-29-19Dec2022.pdf){:target="_blank"}
