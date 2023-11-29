@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Launch of New Accreditation Area under Product Certification Scheme – Clean and Green Urban Farms (Aquaculture) 
+title:  Launch of Clean and Green Urban Farms-Aquaculture 
 date:   2023-11-29
-permalink: /media/news-releases/Launch-of-New-Accreditation-Area-under-Product-Certification-Scheme-–-Clean-and-Green-Urban-Farms-(Aquaculture) 
+permalink: /media/news-releases/Launch-of-Clean-and-Green-Urban-Farms-Aquaculture 
 ---
 
-**Launch of New Accreditation Area under Product Certification Scheme – Clean and Green Urban Farms (Aquaculture)**
+**Launch of Clean and Green Urban Farms (Aquaculture)**
 
 
 In support of the SG Green Plan, the Singapore Accreditation Council (SAC) is pleased to announce the expansion of our Accreditation Scheme for Product Certification Scheme to include the area of Clean & Green Urban Farms (Aquaculture) with effect from 29 November 2023.
