@@ -51,7 +51,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| **Chairman** | Mr Muchamed Elfian | Individual Capacity |
+| **Chairman** | Mr Md Elfian Harun | Individual Capacity |
 | **Members** | Ms G Deepa  | Maritime and Port Authority of Singapore |
 | | Mr Chang Jian Quan | Singapore Food Agency |
 | | Mr Darajit Daud | Singapore Manufacturing Federation - TIC Interest Group|
