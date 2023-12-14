@@ -56,7 +56,7 @@ The SAC would like to extend our heartfelt appreciation to all speakers for thei
 
 Once again, we would like to congratulate all newly accredited CABs: 
 
-List of newly accredited bodies[SAC Congratulatory Ad for Customer Day 2022](/files/documents/Newly accredited CABs2023.pdf){:target="_blank"} 
+List of newly accredited bodies [SAC Congratulatory Ad for Customer Day 2022](/files/documents/Newly accredited CABs2023.pdf){:target="_blank"} 
 
 
 
