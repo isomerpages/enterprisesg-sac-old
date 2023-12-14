@@ -17,9 +17,10 @@ Pls see [attached link](https://go.gov.sg/participation-of-tic-companies-at-fha2
 
 
 
+
+(/https://raw.githubusercontent.com/isomerpages/enterprisesg-sac/staging/media/news-releases/_posts/2023-11-21-Participation-of-TIC-Companies-at-Food-and-Hotels-Asia-(FHA)-2023.md). 
 ![FHA2023-f1](/https://go.gov.sg/participation-of-tic-co-fha2023-file1)
 ![FHA2023-f2](/https://go.gov.sg/participation-of-tic-co-fha2023-file2)
 ![FHA2023-f3](/https://go.gov.sg/participation-of-tic-co-fha2023-file3)
-
 
 
